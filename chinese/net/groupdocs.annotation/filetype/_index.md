@@ -1,0 +1,82 @@
+---
+title: FileType
+second_title: .NET API 参考的 GroupDocs.Annotation
+description: 有关文件的信息例如类型扩展名等
+type: docs
+weight: 120
+url: /zh/net/groupdocs.annotation/filetype/
+---
+## FileType class
+
+有关文件的信息，例如类型、扩展名等
+
+```csharp
+public sealed class FileType : IEquatable<FileType>
+```
+
+## 特性
+
+| 姓名 | 描述 |
+| --- | --- |
+| static [Bmp](../../groupdocs.annotation/filetype/bmp) { get; } | 位图图像文件. |
+| static [Doc](../../groupdocs.annotation/filetype/doc) { get; } | Microsoft Word 格式。 |
+| static [Docm](../../groupdocs.annotation/filetype/docm) { get; } | Microsoft Word 2007 宏文件。 |
+| static [Docx](../../groupdocs.annotation/filetype/docx) { get; } | Microsoft Word Open XML 格式。 |
+| static [Dot](../../groupdocs.annotation/filetype/dot) { get; } | Microsoft Word 文档模板。 |
+| static [Dotm](../../groupdocs.annotation/filetype/dotm) { get; } | Microsoft Word 启用宏的文档模板。 |
+| static [Dotx](../../groupdocs.annotation/filetype/dotx) { get; } | Microsoft Word 模板。 |
+| static [Dwg](../../groupdocs.annotation/filetype/dwg) { get; } | AutoCAD 图形数据库文件. |
+| static [Dxf](../../groupdocs.annotation/filetype/dxf) { get; } | 绘图交换格式文件. |
+| static [Eml](../../groupdocs.annotation/filetype/eml) { get; } | MIME 标准中的文件。 |
+| static [Emlx](../../groupdocs.annotation/filetype/emlx) { get; } | Apple 的 Mail.app 程序文件格式。 |
+| static [Htm](../../groupdocs.annotation/filetype/htm) { get; } | 超文本标记语言文件。 |
+| static [Html](../../groupdocs.annotation/filetype/html) { get; } | 超文本标记语言文件。 |
+| static [Jpeg](../../groupdocs.annotation/filetype/jpeg) { get; } | 联合摄影专家组。 |
+| static [Jpg](../../groupdocs.annotation/filetype/jpg) { get; } | 联合摄影专家组。 |
+| static [Odp](../../groupdocs.annotation/filetype/odp) { get; } | 打开文档演示文稿. |
+| static [Ods](../../groupdocs.annotation/filetype/ods) { get; } | OpenDocument 电子表格文档格式 |
+| static [Odt](../../groupdocs.annotation/filetype/odt) { get; } | 打开文档文本. |
+| static [Pdf](../../groupdocs.annotation/filetype/pdf) { get; } | Adobe 便携式文档格式。 |
+| static [Png](../../groupdocs.annotation/filetype/png) { get; } | 便携式网络图形文件. |
+| static [Pps](../../groupdocs.annotation/filetype/pps) { get; } | Microsoft PowerPoint 幻灯片放映（旧版）。 |
+| static [Ppsx](../../groupdocs.annotation/filetype/ppsx) { get; } | Microsoft PowerPoint 幻灯片放映。 |
+| static [Ppt](../../groupdocs.annotation/filetype/ppt) { get; } | Microsoft PowerPoint 演示文稿。 |
+| static [Pptx](../../groupdocs.annotation/filetype/pptx) { get; } | Microsoft PowerPoint Open XML Presentation. |
+| static [Rtf](../../groupdocs.annotation/filetype/rtf) { get; } | 富文本格式文件。 |
+| static [Tif](../../groupdocs.annotation/filetype/tif) { get; } | 标记的图像文件。 |
+| static [Tiff](../../groupdocs.annotation/filetype/tiff) { get; } | 标记图像文件格式 |
+| static [Unknown](../../groupdocs.annotation/filetype/unknown) { get; } | 未知。 |
+| static [Vsd](../../groupdocs.annotation/filetype/vsd) { get; } | Microsoft Visio VSD 二进制格式。 |
+| static [Vsdm](../../groupdocs.annotation/filetype/vsdm) { get; } | Microsoft Visio 启用宏的绘图。 |
+| static [Vsdx](../../groupdocs.annotation/filetype/vsdx) { get; } | Microsoft Visio 2013 VSDX 文件格式。 |
+| static [Vss](../../groupdocs.annotation/filetype/vss) { get; } | Microsoft Visio 模具文件。 |
+| static [Vssx](../../groupdocs.annotation/filetype/vssx) { get; } | Microsoft Visio 模具文件。 |
+| static [Vst](../../groupdocs.annotation/filetype/vst) { get; } | Microsoft Visio VST 二进制模板格式。 |
+| static [Vstm](../../groupdocs.annotation/filetype/vstm) { get; } | Microsoft Visio 启用宏的绘图模板。 |
+| static [Vsx](../../groupdocs.annotation/filetype/vsx) { get; } | Microsoft Visio 模具 XML 文件。 |
+| static [Xls](../../groupdocs.annotation/filetype/xls) { get; } | Microsoft Excel 电子表格格式。 |
+| static [Xlsb](../../groupdocs.annotation/filetype/xlsb) { get; } | Excel 二进制文件格式 |
+| static [Xlsm](../../groupdocs.annotation/filetype/xlsm) { get; } | Microsoft Excel 电子表格宏格式 |
+| static [Xlsx](../../groupdocs.annotation/filetype/xlsx) { get; } | Microsoft Excel 打开 XML 电子表格。 |
+| [Extension](../../groupdocs.annotation/filetype/extension) { get; } | 文件扩展名 |
+| [FileFormat](../../groupdocs.annotation/filetype/fileformat) { get; } | 文件格式 |
+
+## 方法
+
+| 姓名 | 描述 |
+| --- | --- |
+| static [FromFileNameOrExtension](../../groupdocs.annotation/filetype/fromfilenameorextension)(string) | 根据文件名或扩展名返回 FileType。 |
+| [Equals](../../groupdocs.annotation/filetype/equals#equals)(FileType) | 文件类型等价检查。 |
+| override [Equals](../../groupdocs.annotation/filetype/equals#equals_1)(object) | 与对象的等价性检查。 |
+| override [GetHashCode](../../groupdocs.annotation/filetype/gethashcode)() | 获取哈希码。 |
+| override [ToString](../../groupdocs.annotation/filetype/tostring)() | 返回一个表示文件类型的字符串。 |
+| static [GetSupportedFileTypes](../../groupdocs.annotation/filetype/getsupportedfiletypes)() | 获取支持的文件类型枚举。 |
+| [operator ==](../../groupdocs.annotation/filetype/op_equality) | 运算符重载。 |
+| [operator !=](../../groupdocs.annotation/filetype/op_inequality) | 运算符重载。 |
+
+### 也可以看看
+
+* 命名空间 [GroupDocs.Annotation](../../groupdocs.annotation)
+* 部件 [GroupDocs.Annotation](../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for GroupDocs.Annotation.dll -->
