@@ -1,0 +1,69 @@
+---
+title: Annotator
+second_title: GroupDocs.Annotation para la referencia de la API de .NET
+description: Representa la clase principal que controla el proceso de anotación de documentos.
+type: docs
+weight: 10
+url: /es/net/groupdocs.annotation/annotator/
+---
+## Annotator class
+
+Representa la clase principal que controla el proceso de anotación de documentos.
+
+```csharp
+public class Annotator : IDisposable
+```
+
+## Constructores
+
+| Nombre | Descripción |
+| --- | --- |
+| [Annotator](annotator#constructor)(Stream) | Inicializa la clase de anotador que acepta el documento stream |
+| [Annotator](annotator#constructor_4)(string) | Inicializar la clase de anotador que acepta la ruta del documento |
+| [Annotator](annotator#constructor_1)(Stream, AnnotatorSettings) | Inicializa la clase de anotador que acepta el documento stream |
+| [Annotator](annotator#constructor_2)(Stream, LoadOptions) | Inicializa la clase de anotador que acepta el documento stream |
+| [Annotator](annotator#constructor_5)(string, AnnotatorSettings) | Inicializar la clase de anotador que acepta la ruta del documento |
+| [Annotator](annotator#constructor_6)(string, LoadOptions) | Inicializar la clase de anotador que acepta la ruta del documento |
+| [Annotator](annotator#constructor_3)(Stream, LoadOptions, AnnotatorSettings) | Inicializa la clase de anotador que acepta el documento stream |
+| [Annotator](annotator#constructor_7)(string, LoadOptions, AnnotatorSettings) | Inicializar la clase de anotador que acepta la ruta del documento |
+
+## Propiedades
+
+| Nombre | Descripción |
+| --- | --- |
+| [Document](../../groupdocs.annotation/annotator/document) { get; } | Documento |
+| [ProcessPages](../../groupdocs.annotation/annotator/processpages) { get; set; } | Páginas del documento |
+| [Rotation](../../groupdocs.annotation/annotator/rotation) { get; set; } | Rotación de documentos |
+
+## Métodos
+
+| Nombre | Descripción |
+| --- | --- |
+| [Add](../../groupdocs.annotation/annotator/add#add)(AnnotationBase) | Agrega anotación al documento |
+| [Add](../../groupdocs.annotation/annotator/add#add_1)(List&lt;AnnotationBase&gt;) | Agrega una colección de anotaciones a un documento. |
+| [Dispose](../../groupdocs.annotation/annotator/dispose)() | Eliminar |
+| [ExportAnnotationsFromXMLFile](../../groupdocs.annotation/annotator/exportannotationsfromxmlfile)(string) | Exportar anotaciones desde archivo XML. |
+| [Get](../../groupdocs.annotation/annotator/get#get)() | Obtiene colecciones de anotaciones de documentos. |
+| [Get](../../groupdocs.annotation/annotator/get#get_1)(AnnotationType) | Obtiene una colección de anotaciones de documentos por tipo de anotación. |
+| [GetVersion](../../groupdocs.annotation/annotator/getversion)(object) | Obtener anotaciones de versiones. |
+| [GetVersionsList](../../groupdocs.annotation/annotator/getversionslist)() | Obtener versiones. |
+| [ImportAnnotationsFromDocument](../../groupdocs.annotation/annotator/importannotationsfromdocument)(string) | Importar anotaciones de documento a archivo XML. |
+| [Remove](../../groupdocs.annotation/annotator/remove#remove)(AnnotationBase) | Elimina la anotación del documento. |
+| [Remove](../../groupdocs.annotation/annotator/remove#remove_1)(int) | Elimina la anotación del documento por Id. |
+| [Remove](../../groupdocs.annotation/annotator/remove#remove_2)(List&lt;AnnotationBase&gt;) | Elimina la colección de anotaciones del documento. |
+| [Remove](../../groupdocs.annotation/annotator/remove#remove_3)(List&lt;int&gt;) | Elimina la colección de anotaciones del documento mediante los identificadores de anotación proporcionados. |
+| [Save](../../groupdocs.annotation/annotator/save#save)() | Guarda el documento después de agregar, actualizar o eliminar anotaciones. |
+| [Save](../../groupdocs.annotation/annotator/save#save_1)(SaveOptions) | Guarda el documento después de agregar, actualizar o eliminar anotaciones. |
+| [Save](../../groupdocs.annotation/annotator/save#save_2)(Stream) | Guarda el documento después de agregar, actualizar o eliminar anotaciones. |
+| [Save](../../groupdocs.annotation/annotator/save#save_4)(string) | Guarda el documento después de agregar, actualizar o eliminar anotaciones. |
+| [Save](../../groupdocs.annotation/annotator/save#save_3)(Stream, SaveOptions) | Guarda el documento después de agregar, actualizar o eliminar anotaciones. |
+| [Save](../../groupdocs.annotation/annotator/save#save_5)(string, SaveOptions) | Guarda el documento después de agregar, actualizar o eliminar anotaciones. |
+| [Update](../../groupdocs.annotation/annotator/update#update)(AnnotationBase) | Actualiza la anotación del documento. |
+| [Update](../../groupdocs.annotation/annotator/update#update_1)(List&lt;AnnotationBase&gt;) | Actualiza la colección de anotaciones de documentos. |
+
+### Ver también
+
+* espacio de nombres [GroupDocs.Annotation](../../groupdocs.annotation)
+* asamblea [GroupDocs.Annotation](../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for GroupDocs.Annotation.dll -->
