@@ -1,0 +1,69 @@
+---
+title: Annotator
+second_title: GroupDocs.Annotation für .NET-API-Referenz
+description: Stellt die Hauptklasse dar die den Dokumentanmerkungsprozess steuert.
+type: docs
+weight: 10
+url: /de/net/groupdocs.annotation/annotator/
+---
+## Annotator class
+
+Stellt die Hauptklasse dar, die den Dokumentanmerkungsprozess steuert.
+
+```csharp
+public class Annotator : IDisposable
+```
+
+## Konstrukteure
+
+| Name | Beschreibung |
+| --- | --- |
+| [Annotator](annotator#constructor)(Stream) | Annotator-Klasse initialisieren, die Dokumentstream akzeptiert |
+| [Annotator](annotator#constructor_4)(string) | Annotator-Klasse initialisieren, die den Dokumentpfad akzeptiert |
+| [Annotator](annotator#constructor_1)(Stream, AnnotatorSettings) | Annotator-Klasse initialisieren, die Dokumentstream akzeptiert |
+| [Annotator](annotator#constructor_2)(Stream, LoadOptions) | Annotator-Klasse initialisieren, die Dokumentstream akzeptiert |
+| [Annotator](annotator#constructor_5)(string, AnnotatorSettings) | Annotator-Klasse initialisieren, die den Dokumentpfad akzeptiert |
+| [Annotator](annotator#constructor_6)(string, LoadOptions) | Annotator-Klasse initialisieren, die den Dokumentpfad akzeptiert |
+| [Annotator](annotator#constructor_3)(Stream, LoadOptions, AnnotatorSettings) | Annotator-Klasse initialisieren, die Dokumentstream akzeptiert |
+| [Annotator](annotator#constructor_7)(string, LoadOptions, AnnotatorSettings) | Annotator-Klasse initialisieren, die den Dokumentpfad akzeptiert |
+
+## Eigenschaften
+
+| Name | Beschreibung |
+| --- | --- |
+| [Document](../../groupdocs.annotation/annotator/document) { get; } | Dokument |
+| [ProcessPages](../../groupdocs.annotation/annotator/processpages) { get; set; } | Dokumentseiten |
+| [Rotation](../../groupdocs.annotation/annotator/rotation) { get; set; } | Dokumentendrehung |
+
+## Methoden
+
+| Name | Beschreibung |
+| --- | --- |
+| [Add](../../groupdocs.annotation/annotator/add#add)(AnnotationBase) | Fügt eine Anmerkung zu document hinzu |
+| [Add](../../groupdocs.annotation/annotator/add#add_1)(List&lt;AnnotationBase&gt;) | Fügt eine Sammlung von Anmerkungen zu einem Dokument hinzu. |
+| [Dispose](../../groupdocs.annotation/annotator/dispose)() | Entsorgen |
+| [ExportAnnotationsFromXMLFile](../../groupdocs.annotation/annotator/exportannotationsfromxmlfile)(string) | Exportieren Sie Anmerkungen aus der XML-Datei. |
+| [Get](../../groupdocs.annotation/annotator/get#get)() | Ruft Sammlungen von Dokumentanmerkungen ab. |
+| [Get](../../groupdocs.annotation/annotator/get#get_1)(AnnotationType) | Ruft eine Sammlung von Dokumentanmerkungen nach Anmerkungstyp ab. |
+| [GetVersion](../../groupdocs.annotation/annotator/getversion)(object) | Anmerkungen von Versionen abrufen. |
+| [GetVersionsList](../../groupdocs.annotation/annotator/getversionslist)() | Versionen abrufen. |
+| [ImportAnnotationsFromDocument](../../groupdocs.annotation/annotator/importannotationsfromdocument)(string) | Importieren Sie Anmerkungen aus dem Dokument in die XML-Datei. |
+| [Remove](../../groupdocs.annotation/annotator/remove#remove)(AnnotationBase) | Entfernt Anmerkungen aus dem Dokument. |
+| [Remove](../../groupdocs.annotation/annotator/remove#remove_1)(int) | Entfernt die Anmerkung aus dem Dokument nach ID. |
+| [Remove](../../groupdocs.annotation/annotator/remove#remove_2)(List&lt;AnnotationBase&gt;) | Entfernt eine Sammlung von Anmerkungen aus dem Dokument. |
+| [Remove](../../groupdocs.annotation/annotator/remove#remove_3)(List&lt;int&gt;) | Entfernt die Sammlung von Anmerkungen aus dem Dokument nach bereitgestellten Anmerkungs-IDs. |
+| [Save](../../groupdocs.annotation/annotator/save#save)() | Speichert das Dokument nach dem Hinzufügen, Aktualisieren oder Entfernen von Anmerkungen. |
+| [Save](../../groupdocs.annotation/annotator/save#save_1)(SaveOptions) | Speichert das Dokument nach dem Hinzufügen, Aktualisieren oder Entfernen von Anmerkungen. |
+| [Save](../../groupdocs.annotation/annotator/save#save_2)(Stream) | Speichert das Dokument nach dem Hinzufügen, Aktualisieren oder Entfernen von Anmerkungen. |
+| [Save](../../groupdocs.annotation/annotator/save#save_4)(string) | Speichert das Dokument nach dem Hinzufügen, Aktualisieren oder Entfernen von Anmerkungen. |
+| [Save](../../groupdocs.annotation/annotator/save#save_3)(Stream, SaveOptions) | Speichert das Dokument nach dem Hinzufügen, Aktualisieren oder Entfernen von Anmerkungen. |
+| [Save](../../groupdocs.annotation/annotator/save#save_5)(string, SaveOptions) | Speichert das Dokument nach dem Hinzufügen, Aktualisieren oder Entfernen von Anmerkungen. |
+| [Update](../../groupdocs.annotation/annotator/update#update)(AnnotationBase) | Aktualisiert die Dokumentanmerkung. |
+| [Update](../../groupdocs.annotation/annotator/update#update_1)(List&lt;AnnotationBase&gt;) | Aktualisiert die Sammlung von Dokumentanmerkungen. |
+
+### Siehe auch
+
+* namensraum [GroupDocs.Annotation](../../groupdocs.annotation)
+* Montage [GroupDocs.Annotation](../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for GroupDocs.Annotation.dll -->
