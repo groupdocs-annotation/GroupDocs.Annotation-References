@@ -3,7 +3,7 @@ title: LoadOptions
 second_title: GroupDocs.Annotation for .NET API Reference
 description: Allows to specify additional options such as password when opening a document to annotate.
 type: docs
-weight: 970
+weight: 980
 url: /net/groupdocs.annotation.options/loadoptions/
 ---
 ## LoadOptions class

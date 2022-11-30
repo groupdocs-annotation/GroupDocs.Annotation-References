@@ -3,7 +3,7 @@ title: VerticalAlignment
 second_title: GroupDocs.Annotation for .NET API Reference
 description: Represents annotations vertical alignment state
 type: docs
-weight: 940
+weight: 950
 url: /net/groupdocs.annotation.models/verticalalignment/
 ---
 ## VerticalAlignment enumeration

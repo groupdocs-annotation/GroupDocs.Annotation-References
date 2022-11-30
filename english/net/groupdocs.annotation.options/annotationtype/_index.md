@@ -3,7 +3,7 @@ title: AnnotationType
 second_title: GroupDocs.Annotation for .NET API Reference
 description: Enumeration that decribes annotation types supported by GroupDocs.Annotation for .NET
 type: docs
-weight: 950
+weight: 960
 url: /net/groupdocs.annotation.options/annotationtype/
 ---
 ## AnnotationType enumeration
