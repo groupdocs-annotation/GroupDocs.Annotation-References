@@ -11,7 +11,7 @@ url: /net/groupdocs.annotation.models.annotationmodels/replacementannotation/fon
 Gets or sets annotation text font size
 
 ```csharp
-public int? FontSize { get; set; }
+public double? FontSize { get; set; }
 ```
 
 ### See Also
