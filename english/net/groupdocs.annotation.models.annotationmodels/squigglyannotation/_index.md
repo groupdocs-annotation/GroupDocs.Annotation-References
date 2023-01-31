@@ -53,7 +53,7 @@ public class SquigglyAnnotation : AnnotationBase, IEquatable<SquigglyAnnotation>
 **Learn more**
 
 * More about annotation types and annotating PDF and Microsoft Word documents, Excel spreadsheets and PowerPoint Presentations: [How to annotate documents using GroupDocs.Annotation for .NET](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
-* More about adding squiggly annotations to documents of various types: [How to add squiggly annotations in C#](https://docs.groupdocs.com/display/annotationnet/Add+squiggly+annotation)
+* More about adding squiggly annotations to documents of various types: [How to add squiggly annotations in C#](https://docs.groupdocs.com/annotation/net/add-squiggly-annotation/)
 
 ### See Also
 
