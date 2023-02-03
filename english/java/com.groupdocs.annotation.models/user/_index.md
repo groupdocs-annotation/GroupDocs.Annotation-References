@@ -3,7 +3,7 @@ title: User
 second_title: GroupDocs.Annotation for Java API Reference
 description: Represents user properties.
 type: docs
-weight: 16
+weight: 15
 url: /java/com.groupdocs.annotation.models/user/
 ---
 **Inheritance:**

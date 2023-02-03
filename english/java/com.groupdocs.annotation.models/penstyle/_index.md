@@ -3,7 +3,7 @@ title: PenStyle
 second_title: GroupDocs.Annotation for Java API Reference
 description: Pen style
 type: docs
-weight: 12
+weight: 11
 url: /java/com.groupdocs.annotation.models/penstyle/
 ---
 **Inheritance:**
@@ -17,61 +17,61 @@ Pen style
 
 | Field | Description |
 | --- | --- |
-| [Solid](#Solid) | Specifies a solid line |
-| [Dash](#Dash) | Specifies a line consisting of dashes |
-| [DashDot](#DashDot) | Specifies a line consisting of dashes and dots |
-| [Dot](#Dot) | Specifies a line consisting of dots |
-| [LongDash](#LongDash) | Specifies a line consisting of long dashes |
-| [DashDotDot](#DashDotDot) | Specifies a line consisting of dashes and two dots |
+| [SOLID](#SOLID) | Specifies a solid line |
+| [DASH](#DASH) | Specifies a line consisting of dashes |
+| [DASH_DOT](#DASH-DOT) | Specifies a line consisting of dashes and dots |
+| [DOT](#DOT) | Specifies a line consisting of dots |
+| [LONG_DASH](#LONG-DASH) | Specifies a line consisting of long dashes |
+| [DASH_DOT_DOT](#DASH-DOT-DOT) | Specifies a line consisting of dashes and two dots |
 ## Methods
 
 | Method | Description |
 | --- | --- |
 | [numbers()](#numbers--) |  |
 | [getName(Byte type)](#getName-java.lang.Byte-) |  |
-### Solid {#Solid}
+### SOLID {#SOLID}
 ```
-public static final Byte Solid
+public static final Byte SOLID
 ```
 
 
 Specifies a solid line
 
-### Dash {#Dash}
+### DASH {#DASH}
 ```
-public static final Byte Dash
+public static final Byte DASH
 ```
 
 
 Specifies a line consisting of dashes
 
-### DashDot {#DashDot}
+### DASH_DOT {#DASH-DOT}
 ```
-public static final Byte DashDot
+public static final Byte DASH_DOT
 ```
 
 
 Specifies a line consisting of dashes and dots
 
-### Dot {#Dot}
+### DOT {#DOT}
 ```
-public static final Byte Dot
+public static final Byte DOT
 ```
 
 
 Specifies a line consisting of dots
 
-### LongDash {#LongDash}
+### LONG_DASH {#LONG-DASH}
 ```
-public static final Byte LongDash
+public static final Byte LONG_DASH
 ```
 
 
 Specifies a line consisting of long dashes
 
-### DashDotDot {#DashDotDot}
+### DASH_DOT_DOT {#DASH-DOT-DOT}
 ```
-public static final Byte DashDotDot
+public static final Byte DASH_DOT_DOT
 ```
 
 

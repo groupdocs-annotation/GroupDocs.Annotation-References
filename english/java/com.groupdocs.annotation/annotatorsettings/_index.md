@@ -23,7 +23,7 @@ Defines settings for customizing [Annotator](../../com.groupdocs.annotation/anno
 | Method | Description |
 | --- | --- |
 | [getLogger()](#getLogger--) | Logger |
-| [setLogger(ILogger value)](#setLogger-com.groupdocs.annotation.logging.ILogger-) | Logger |
+| [setLogger(ILogger value)](#setLogger-com.groupdocs.foundation.logging.ILogger-) | Logger |
 | [getCache()](#getCache--) | Cache |
 | [setCache(ICache value)](#setCache-com.groupdocs.annotation.cache.ICache-) | Cache |
 ### AnnotatorSettings() {#AnnotatorSettings--}
@@ -41,8 +41,8 @@ public final ILogger getLogger()
 Logger
 
 **Returns:**
-[ILogger](../../com.groupdocs.annotation.logging/ilogger) - 
-### setLogger(ILogger value) {#setLogger-com.groupdocs.annotation.logging.ILogger-}
+com.groupdocs.foundation.logging.ILogger - 
+### setLogger(ILogger value) {#setLogger-com.groupdocs.foundation.logging.ILogger-}
 ```
 public final void setLogger(ILogger value)
 ```
@@ -53,7 +53,7 @@ Logger
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | [ILogger](../../com.groupdocs.annotation.logging/ilogger) |  |
+| value | com.groupdocs.foundation.logging.ILogger |  |
 
 ### getCache() {#getCache--}
 ```

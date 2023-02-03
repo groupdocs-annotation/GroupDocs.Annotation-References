@@ -3,13 +3,13 @@ title: DocumentType
 second_title: GroupDocs.Annotation for Java API Reference
 description: The annotation document type
 type: docs
-weight: 10
+weight: 16
 url: /java/com.groupdocs.annotation.models/documenttype/
 ---
 **Inheritance:**
-java.lang.Object, com.aspose.ms.System.ValueType, com.aspose.ms.System.Enum
+java.lang.Object, java.lang.Enum
 ```
-public final class DocumentType extends System.Enum
+public enum DocumentType extends Enum<DocumentType>
 ```
 
 The annotation document type
@@ -17,99 +17,115 @@ The annotation document type
 
 | Field | Description |
 | --- | --- |
-| [Undefined](#Undefined) | The undefined |
-| [Pdf](#Pdf) | Represents Pdf format |
-| [Cells](#Cells) | Represents Excel format |
-| [Slides](#Slides) | Represents Powerpoint format |
-| [Words](#Words) | Represents Word format |
-| [Images](#Images) | Represents Image format |
-| [Email](#Email) | Represents Email format |
-| [Html](#Html) | Represents HTML format |
-| [Diagram](#Diagram) | Represents Diagram format |
+| [UNDEFINED](#UNDEFINED) | The undefined |
+| [PDF](#PDF) | Represents Pdf format |
+| [CELLS](#CELLS) | Represents Excel format |
+| [SLIDES](#SLIDES) | Represents Powerpoint format |
+| [WORDS](#WORDS) | Represents Word format |
+| [IMAGES](#IMAGES) | Represents Image format |
+| [EMAIL](#EMAIL) | Represents Email format |
+| [HTML](#HTML) | Represents HTML format |
+| [DIAGRAM](#DIAGRAM) | Represents Diagram format |
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [numbers()](#numbers--) |  |
-### Undefined {#Undefined}
+| [values()](#values--) |  |
+| [valueOf(String name)](#valueOf-java.lang.String-) |  |
+### UNDEFINED {#UNDEFINED}
 ```
-public static final int Undefined
+public static final DocumentType UNDEFINED
 ```
 
 
 The undefined
 
-### Pdf {#Pdf}
+### PDF {#PDF}
 ```
-public static final int Pdf
+public static final DocumentType PDF
 ```
 
 
 Represents Pdf format
 
-### Cells {#Cells}
+### CELLS {#CELLS}
 ```
-public static final int Cells
+public static final DocumentType CELLS
 ```
 
 
 Represents Excel format
 
-### Slides {#Slides}
+### SLIDES {#SLIDES}
 ```
-public static final int Slides
+public static final DocumentType SLIDES
 ```
 
 
 Represents Powerpoint format
 
-### Words {#Words}
+### WORDS {#WORDS}
 ```
-public static final int Words
+public static final DocumentType WORDS
 ```
 
 
 Represents Word format
 
-### Images {#Images}
+### IMAGES {#IMAGES}
 ```
-public static final int Images
+public static final DocumentType IMAGES
 ```
 
 
 Represents Image format
 
-### Email {#Email}
+### EMAIL {#EMAIL}
 ```
-public static final int Email
+public static final DocumentType EMAIL
 ```
 
 
 Represents Email format
 
-### Html {#Html}
+### HTML {#HTML}
 ```
-public static final int Html
+public static final DocumentType HTML
 ```
 
 
 Represents HTML format
 
-### Diagram {#Diagram}
+### DIAGRAM {#DIAGRAM}
 ```
-public static final int Diagram
+public static final DocumentType DIAGRAM
 ```
 
 
 Represents Diagram format
 
-### numbers() {#numbers--}
+### values() {#values--}
 ```
-public static int[] numbers()
+public static DocumentType[] values()
 ```
 
 
 
 
 **Returns:**
-int[]
+com.groupdocs.annotation.models.DocumentType[]
+### valueOf(String name) {#valueOf-java.lang.String-}
+```
+public static DocumentType valueOf(String name)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| name | java.lang.String |  |
+
+**Returns:**
+[DocumentType](../../com.groupdocs.annotation.models/documenttype)

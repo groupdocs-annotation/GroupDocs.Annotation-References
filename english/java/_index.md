@@ -14,7 +14,6 @@ is_root: true
 | [com.groupdocs.annotation.cache](./com.groupdocs.annotation.cache) | The namespace provides classes for customizing caching behaviour. |
 | [com.groupdocs.annotation.exceptions](./com.groupdocs.annotation.exceptions) | The namespace provides different exceptions classes. |
 | [com.groupdocs.annotation.localization](./com.groupdocs.annotation.localization) | The namespace provides classes checking supported locales. |
-| [com.groupdocs.annotation.logging](./com.groupdocs.annotation.logging) | The namespace provides classes for working with integrated or your own logger. |
 | [com.groupdocs.annotation.models](./com.groupdocs.annotation.models) | The namespace provides annotation data classes. |
 | [com.groupdocs.annotation.models.annotationmodels](./com.groupdocs.annotation.models.annotationmodels) | The namespace provides annotation models data classes. |
 | [com.groupdocs.annotation.models.annotationmodels.interfaces.annotations](./com.groupdocs.annotation.models.annotationmodels.interfaces.annotations) | The namespace provides annotation models interfaces. |

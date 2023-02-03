@@ -24,14 +24,10 @@ Represents main class that controls document annotating process.
 | [Annotator(String filePath, LoadOptions loadOptions)](#Annotator-java.lang.String-com.groupdocs.annotation.options.LoadOptions-) | Initialise annotator class which accept document path |
 | [Annotator(String filePath, AnnotatorSettings settings)](#Annotator-java.lang.String-com.groupdocs.annotation.AnnotatorSettings-) | Initialise annotator class which accept document path |
 | [Annotator(String filePath, LoadOptions loadOptions, AnnotatorSettings settings)](#Annotator-java.lang.String-com.groupdocs.annotation.options.LoadOptions-com.groupdocs.annotation.AnnotatorSettings-) | Initialise annotator class which accept document path |
-| [Annotator(InputStream document)](#Annotator-java.io.InputStream-) | Initialise annotator class which accept document stream |
-| [Annotator(System.IO.Stream document)](#Annotator-com.aspose.ms.System.IO.Stream-) |  |
-| [Annotator(InputStream document, LoadOptions loadOptions)](#Annotator-java.io.InputStream-com.groupdocs.annotation.options.LoadOptions-) | Initialise annotator class which accept document stream |
-| [Annotator(System.IO.Stream document, LoadOptions loadOptions)](#Annotator-com.aspose.ms.System.IO.Stream-com.groupdocs.annotation.options.LoadOptions-) |  |
-| [Annotator(InputStream document, AnnotatorSettings settings)](#Annotator-java.io.InputStream-com.groupdocs.annotation.AnnotatorSettings-) | Initialise annotator class which accept document stream |
-| [Annotator(System.IO.Stream document, AnnotatorSettings settings)](#Annotator-com.aspose.ms.System.IO.Stream-com.groupdocs.annotation.AnnotatorSettings-) |  |
-| [Annotator(InputStream document, LoadOptions loadOptions, AnnotatorSettings settings)](#Annotator-java.io.InputStream-com.groupdocs.annotation.options.LoadOptions-com.groupdocs.annotation.AnnotatorSettings-) | Initialise annotator class which accept document stream |
-| [Annotator(System.IO.Stream document, LoadOptions loadOptions, AnnotatorSettings settings)](#Annotator-com.aspose.ms.System.IO.Stream-com.groupdocs.annotation.options.LoadOptions-com.groupdocs.annotation.AnnotatorSettings-) |  |
+| [Annotator(InputStream inputStream)](#Annotator-java.io.InputStream-) | Initialise annotator class which accept document stream |
+| [Annotator(InputStream inputStream, LoadOptions loadOptions)](#Annotator-java.io.InputStream-com.groupdocs.annotation.options.LoadOptions-) | Initialise annotator class which accept document stream |
+| [Annotator(InputStream inputStream, AnnotatorSettings settings)](#Annotator-java.io.InputStream-com.groupdocs.annotation.AnnotatorSettings-) | Initialise annotator class which accept document stream |
+| [Annotator(InputStream inputStream, LoadOptions loadOptions, AnnotatorSettings settings)](#Annotator-java.io.InputStream-com.groupdocs.annotation.options.LoadOptions-com.groupdocs.annotation.AnnotatorSettings-) | Initialise annotator class which accept inputStream stream |
 ## Methods
 
 | Method | Description |
@@ -43,10 +39,9 @@ Represents main class that controls document annotating process.
 | [setProcessPages(int value)](#setProcessPages-int-) | Document pages |
 | [save()](#save--) | Saves document after adding, updating or removing annotations. |
 | [save(SaveOptions saveOptions)](#save-com.groupdocs.annotation.options.export.SaveOptions-) | Saves document after adding, updating or removing annotations. |
-| [save(InputStream document)](#save-java.io.InputStream-) | Saves document after adding, updating or removing annotations. |
+| [save(OutputStream document)](#save-java.io.OutputStream-) | Saves document after adding, updating or removing annotations. |
 | [save(String filePath)](#save-java.lang.String-) | Saves document after adding, updating or removing annotations. |
-| [save(InputStream document, SaveOptions saveOptions)](#save-java.io.InputStream-com.groupdocs.annotation.options.export.SaveOptions-) | Saves document after adding, updating or removing annotations. |
-| [saveInternal(System.IO.Stream document, SaveOptions saveOptions)](#saveInternal-com.aspose.ms.System.IO.Stream-com.groupdocs.annotation.options.export.SaveOptions-) |  |
+| [save(OutputStream outputStream, SaveOptions saveOptions)](#save-java.io.OutputStream-com.groupdocs.annotation.options.export.SaveOptions-) | Saves outputStream after adding, updating or removing annotations. |
 | [save(String filePath, SaveOptions saveOptions)](#save-java.lang.String-com.groupdocs.annotation.options.export.SaveOptions-) | Saves document after adding, updating or removing annotations. |
 | [dispose()](#dispose--) | Dispose |
 | [add(AnnotationBase annotation)](#add-com.groupdocs.annotation.models.annotationmodels.AnnotationBase-) | Adds annotation to document |
@@ -55,13 +50,13 @@ Represents main class that controls document annotating process.
 | [update(List<AnnotationBase> annotations)](#update-java.util.List-com.groupdocs.annotation.models.annotationmodels.AnnotationBase--) | Updates collection of document annotations. |
 | [remove(int annotationId)](#remove-int-) | Removes annotation from document by Id. |
 | [remove(AnnotationBase annotation)](#remove-com.groupdocs.annotation.models.annotationmodels.AnnotationBase-) | Removes annotation from document. |
-| [remove(List<Integer> annotationIds)](#remove-java.util.List-java.lang.Integer--) | Removes collection of annotations from document by provided annotation ids. |
+| [remove(AnnotationBase[] annotationsToDelete)](#remove-com.groupdocs.annotation.models.annotationmodels.AnnotationBase...-) | Removes collection of annotations from document by provided annotation ids. |
+| [remove(List<Integer> annotationsIdsToDelete)](#remove-java.util.List-java.lang.Integer--) | Removes collection of annotations from document by provided annotation ids. |
 | [removeInternal(List<AnnotationBase> annotationsToDelete)](#removeInternal-java.util.List-com.groupdocs.annotation.models.annotationmodels.AnnotationBase--) | Removes collection of annotations from document. |
 | [get()](#get--) | Gets collections of document annotations. |
 | [getVersionsList()](#getVersionsList--) | Get versions. |
 | [getVersion(Object version)](#getVersion-java.lang.Object-) | Get annotations from versions. |
 | [get(int type)](#get-int-) | Gets collection of document annotations by annotation type. |
-| [exportAnnotationsFromXMLFile(String filePath)](#exportAnnotationsFromXMLFile-java.lang.String-) | Export annotations from XML file. |
 | [importAnnotationsFromDocument(String outputPath)](#importAnnotationsFromDocument-java.lang.String-) | Import annotations from document to XML file. |
 | [close()](#close--) |  |
 ### Annotator(String filePath) {#Annotator-java.lang.String-}
@@ -152,9 +147,9 @@ Initialise annotator class which accept document path
  *  
  *   |
 
-### Annotator(InputStream document) {#Annotator-java.io.InputStream-}
+### Annotator(InputStream inputStream) {#Annotator-java.io.InputStream-}
 ```
-public Annotator(InputStream document)
+public Annotator(InputStream inputStream)
 ```
 
 
@@ -163,7 +158,7 @@ Initialise annotator class which accept document stream
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| document | java.io.InputStream | Document stream
+| inputStream | java.io.InputStream | Document stream
 
 --------------------
 
@@ -172,20 +167,9 @@ Initialise annotator class which accept document stream
  *  
  *   |
 
-### Annotator(System.IO.Stream document) {#Annotator-com.aspose.ms.System.IO.Stream-}
+### Annotator(InputStream inputStream, LoadOptions loadOptions) {#Annotator-java.io.InputStream-com.groupdocs.annotation.options.LoadOptions-}
 ```
-public Annotator(System.IO.Stream document)
-```
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| document | com.aspose.ms.System.IO.Stream |  |
-
-### Annotator(InputStream document, LoadOptions loadOptions) {#Annotator-java.io.InputStream-com.groupdocs.annotation.options.LoadOptions-}
-```
-public Annotator(InputStream document, LoadOptions loadOptions)
+public Annotator(InputStream inputStream, LoadOptions loadOptions)
 ```
 
 
@@ -194,7 +178,7 @@ Initialise annotator class which accept document stream
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| document | java.io.InputStream | Document stream |
+| inputStream | java.io.InputStream | Document stream |
 | loadOptions | [LoadOptions](../../com.groupdocs.annotation.options/loadoptions) | Load options
 
 --------------------
@@ -206,21 +190,9 @@ Initialise annotator class which accept document stream
  *  
  *   |
 
-### Annotator(System.IO.Stream document, LoadOptions loadOptions) {#Annotator-com.aspose.ms.System.IO.Stream-com.groupdocs.annotation.options.LoadOptions-}
+### Annotator(InputStream inputStream, AnnotatorSettings settings) {#Annotator-java.io.InputStream-com.groupdocs.annotation.AnnotatorSettings-}
 ```
-public Annotator(System.IO.Stream document, LoadOptions loadOptions)
-```
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| document | com.aspose.ms.System.IO.Stream |  |
-| loadOptions | [LoadOptions](../../com.groupdocs.annotation.options/loadoptions) |  |
-
-### Annotator(InputStream document, AnnotatorSettings settings) {#Annotator-java.io.InputStream-com.groupdocs.annotation.AnnotatorSettings-}
-```
-public Annotator(InputStream document, AnnotatorSettings settings)
+public Annotator(InputStream inputStream, AnnotatorSettings settings)
 ```
 
 
@@ -229,7 +201,7 @@ Initialise annotator class which accept document stream
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| document | java.io.InputStream | Document stream |
+| inputStream | java.io.InputStream | Document stream |
 | settings | [AnnotatorSettings](../../com.groupdocs.annotation/annotatorsettings) | Annotator settings
 
 --------------------
@@ -239,30 +211,18 @@ Initialise annotator class which accept document stream
  *  
  *   |
 
-### Annotator(System.IO.Stream document, AnnotatorSettings settings) {#Annotator-com.aspose.ms.System.IO.Stream-com.groupdocs.annotation.AnnotatorSettings-}
+### Annotator(InputStream inputStream, LoadOptions loadOptions, AnnotatorSettings settings) {#Annotator-java.io.InputStream-com.groupdocs.annotation.options.LoadOptions-com.groupdocs.annotation.AnnotatorSettings-}
 ```
-public Annotator(System.IO.Stream document, AnnotatorSettings settings)
+public Annotator(InputStream inputStream, LoadOptions loadOptions, AnnotatorSettings settings)
 ```
 
+
+Initialise annotator class which accept inputStream stream
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| document | com.aspose.ms.System.IO.Stream |  |
-| settings | [AnnotatorSettings](../../com.groupdocs.annotation/annotatorsettings) |  |
-
-### Annotator(InputStream document, LoadOptions loadOptions, AnnotatorSettings settings) {#Annotator-java.io.InputStream-com.groupdocs.annotation.options.LoadOptions-com.groupdocs.annotation.AnnotatorSettings-}
-```
-public Annotator(InputStream document, LoadOptions loadOptions, AnnotatorSettings settings)
-```
-
-
-Initialise annotator class which accept document stream
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| document | java.io.InputStream | Document stream |
+| inputStream | java.io.InputStream | Document stream |
 | loadOptions | [LoadOptions](../../com.groupdocs.annotation.options/loadoptions) | Load options |
 | settings | [AnnotatorSettings](../../com.groupdocs.annotation/annotatorsettings) | Annotator settings
 
@@ -274,19 +234,6 @@ Initialise annotator class which accept document stream
  *  
  *  
  *   |
-
-### Annotator(System.IO.Stream document, LoadOptions loadOptions, AnnotatorSettings settings) {#Annotator-com.aspose.ms.System.IO.Stream-com.groupdocs.annotation.options.LoadOptions-com.groupdocs.annotation.AnnotatorSettings-}
-```
-public Annotator(System.IO.Stream document, LoadOptions loadOptions, AnnotatorSettings settings)
-```
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| document | com.aspose.ms.System.IO.Stream |  |
-| loadOptions | [LoadOptions](../../com.groupdocs.annotation.options/loadoptions) |  |
-| settings | [AnnotatorSettings](../../com.groupdocs.annotation/annotatorsettings) |  |
 
 ### getDocument() {#getDocument--}
 ```
@@ -381,9 +328,9 @@ Saves document after adding, updating or removing annotations.
  *  
  *   |
 
-### save(InputStream document) {#save-java.io.InputStream-}
+### save(OutputStream document) {#save-java.io.OutputStream-}
 ```
-public final void save(InputStream document)
+public final void save(OutputStream document)
 ```
 
 
@@ -392,7 +339,7 @@ Saves document after adding, updating or removing annotations.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| document | java.io.InputStream | The output stream.
+| document | java.io.OutputStream | The output stream.
 
 --------------------
 
@@ -423,18 +370,18 @@ Saves document after adding, updating or removing annotations.
  *  
  *   |
 
-### save(InputStream document, SaveOptions saveOptions) {#save-java.io.InputStream-com.groupdocs.annotation.options.export.SaveOptions-}
+### save(OutputStream outputStream, SaveOptions saveOptions) {#save-java.io.OutputStream-com.groupdocs.annotation.options.export.SaveOptions-}
 ```
-public final void save(InputStream document, SaveOptions saveOptions)
+public final void save(OutputStream outputStream, SaveOptions saveOptions)
 ```
 
 
-Saves document after adding, updating or removing annotations.
+Saves outputStream after adding, updating or removing annotations.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| document | java.io.InputStream | The output stream. |
+| outputStream | java.io.OutputStream | The output stream. |
 | saveOptions | [SaveOptions](../../com.groupdocs.annotation.options.export/saveoptions) | The save options.
 
 --------------------
@@ -444,20 +391,6 @@ Saves document after adding, updating or removing annotations.
  *  
  *  
  *   |
-
-### saveInternal(System.IO.Stream document, SaveOptions saveOptions) {#saveInternal-com.aspose.ms.System.IO.Stream-com.groupdocs.annotation.options.export.SaveOptions-}
-```
-public final void saveInternal(System.IO.Stream document, SaveOptions saveOptions)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| document | com.aspose.ms.System.IO.Stream |  |
-| saveOptions | [SaveOptions](../../com.groupdocs.annotation.options.export/saveoptions) |  |
 
 ### save(String filePath, SaveOptions saveOptions) {#save-java.lang.String-com.groupdocs.annotation.options.export.SaveOptions-}
 ```
@@ -603,9 +536,9 @@ Removes annotation from document.
 
  *   |
 
-### remove(List<Integer> annotationIds) {#remove-java.util.List-java.lang.Integer--}
+### remove(AnnotationBase[] annotationsToDelete) {#remove-com.groupdocs.annotation.models.annotationmodels.AnnotationBase...-}
 ```
-public final void remove(List<Integer> annotationIds)
+public final void remove(AnnotationBase[] annotationsToDelete)
 ```
 
 
@@ -614,7 +547,26 @@ Removes collection of annotations from document by provided annotation ids.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| annotationIds | java.util.List<java.lang.Integer> | The annotation's id that must be removed.
+| annotationsToDelete | [AnnotationBase\[\]](../../com.groupdocs.annotation.models.annotationmodels/annotationbase) | The annotation's id that must be removed.
+
+--------------------
+
+ **Learn more** 
+
+ *   |
+
+### remove(List<Integer> annotationsIdsToDelete) {#remove-java.util.List-java.lang.Integer--}
+```
+public final void remove(List<Integer> annotationsIdsToDelete)
+```
+
+
+Removes collection of annotations from document by provided annotation ids.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| annotationsIdsToDelete | java.util.List<java.lang.Integer> | The annotation's id that must be removed.
 
 --------------------
 
@@ -703,25 +655,6 @@ Gets collection of document annotations by annotation type.
 
 **Returns:**
 java.util.List<com.groupdocs.annotation.models.annotationmodels.AnnotationBase> - The list of annotations by type.
-### exportAnnotationsFromXMLFile(String filePath) {#exportAnnotationsFromXMLFile-java.lang.String-}
-```
-public final void exportAnnotationsFromXMLFile(String filePath)
-```
-
-
-Export annotations from XML file.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| filePath | java.lang.String | The path to XML file.
-
---------------------
-
- **Learn more** 
-
- *   |
-
 ### importAnnotationsFromDocument(String outputPath) {#importAnnotationsFromDocument-java.lang.String-}
 ```
 public final void importAnnotationsFromDocument(String outputPath)
