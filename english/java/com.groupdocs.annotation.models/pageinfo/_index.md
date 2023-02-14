@@ -3,7 +3,7 @@ title: PageInfo
 second_title: GroupDocs.Annotation for Java API Reference
 description: Represents Document Page Information.
 type: docs
-weight: 11
+weight: 10
 url: /java/com.groupdocs.annotation.models/pageinfo/
 ---
 **Inheritance:**

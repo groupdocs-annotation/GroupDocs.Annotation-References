@@ -8,8 +8,11 @@ url: /java/com.groupdocs.annotation/document/
 ---
 **Inheritance:**
 java.lang.Object
+
+**All Implemented Interfaces:**
+java.io.Closeable
 ```
-public class Document
+public class Document implements Closeable
 ```
 
 Represents document properties
@@ -17,8 +20,8 @@ Represents document properties
 
 | Constructor | Description |
 | --- | --- |
-| [Document(System.IO.Stream stream)](#Document-com.aspose.ms.System.IO.Stream-) | Initializes new instance of [Document](../../com.groupdocs.annotation/document) class. |
-| [Document(System.IO.Stream stream, String password)](#Document-com.aspose.ms.System.IO.Stream-java.lang.String-) | Initializes new instance of [Document](../../com.groupdocs.annotation/document) class. |
+| [Document(InputStream stream)](#Document-java.io.InputStream-) | Initializes new instance of [Document](../../com.groupdocs.annotation/document) class. |
+| [Document(InputStream stream, String password)](#Document-java.io.InputStream-java.lang.String-) | Initializes new instance of [Document](../../com.groupdocs.annotation/document) class. |
 ## Methods
 
 | Method | Description |
@@ -26,7 +29,8 @@ Represents document properties
 | [setCache(ICache value)](#setCache-com.groupdocs.annotation.cache.ICache-) |  |
 | [getName()](#getName--) | Document name |
 | [setName(String value)](#setName-java.lang.String-) | Document name |
-| [getStream()](#getStream--) | Document stream |
+| [getStreamSize()](#getStreamSize--) | Document size |
+| [createStream()](#createStream--) | Creates Document input stream |
 | [getPassword()](#getPassword--) | Document password |
 | [setPassword(String value)](#setPassword-java.lang.String-) |  |
 | [getRotation()](#getRotation--) | Document Rotation |
@@ -35,22 +39,10 @@ Represents document properties
 | [setProcessPages(int value)](#setProcessPages-int-) | Document pages |
 | [generatePreview(PreviewOptions previewOptions)](#generatePreview-com.groupdocs.annotation.options.pagepreview.PreviewOptions-) | Generates document pages preview. |
 | [getDocumentInfo()](#getDocumentInfo--) | Gets information about document - document type and size, pages count etc. |
-### Document(System.IO.Stream stream) {#Document-com.aspose.ms.System.IO.Stream-}
+| [close()](#close--) |  |
+### Document(InputStream stream) {#Document-java.io.InputStream-}
 ```
-public Document(System.IO.Stream stream)
-```
-
-
-Initializes new instance of [Document](../../com.groupdocs.annotation/document) class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| stream | com.aspose.ms.System.IO.Stream | The document stream. |
-
-### Document(System.IO.Stream stream, String password) {#Document-com.aspose.ms.System.IO.Stream-java.lang.String-}
-```
-public Document(System.IO.Stream stream, String password)
+public Document(InputStream stream)
 ```
 
 
@@ -59,7 +51,20 @@ Initializes new instance of [Document](../../com.groupdocs.annotation/document) 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | com.aspose.ms.System.IO.Stream | The document stream. |
+| stream | java.io.InputStream | The document stream. |
+
+### Document(InputStream stream, String password) {#Document-java.io.InputStream-java.lang.String-}
+```
+public Document(InputStream stream, String password)
+```
+
+
+Initializes new instance of [Document](../../com.groupdocs.annotation/document) class.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | java.io.InputStream | The document stream. |
 | password | java.lang.String | The document password. |
 
 ### setCache(ICache value) {#setCache-com.groupdocs.annotation.cache.ICache-}
@@ -98,16 +103,26 @@ Document name
 | --- | --- | --- |
 | value | java.lang.String |  |
 
-### getStream() {#getStream--}
+### getStreamSize() {#getStreamSize--}
 ```
-public final System.IO.Stream getStream()
+public final long getStreamSize()
 ```
 
 
-Document stream
+Document size
 
 **Returns:**
-com.aspose.ms.System.IO.Stream - 
+long - 
+### createStream() {#createStream--}
+```
+public final InputStream createStream()
+```
+
+
+Creates Document input stream
+
+**Returns:**
+java.io.InputStream
 ### getPassword() {#getPassword--}
 ```
 public final String getPassword()
@@ -117,7 +132,7 @@ public final String getPassword()
 Document password
 
 **Returns:**
-java.lang.String - 
+java.lang.String
 ### setPassword(String value) {#setPassword-java.lang.String-}
 ```
 public final void setPassword(String value)
@@ -200,3 +215,11 @@ Gets information about document - document type and size, pages count etc.
 
 **Returns:**
 [IDocumentInfo](../../com.groupdocs.annotation/idocumentinfo) - 
+### close() {#close--}
+```
+public void close()
+```
+
+
+
+

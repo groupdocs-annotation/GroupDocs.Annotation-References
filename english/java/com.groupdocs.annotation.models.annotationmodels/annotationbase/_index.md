@@ -10,9 +10,9 @@ url: /java/com.groupdocs.annotation.models.annotationmodels/annotationbase/
 java.lang.Object
 
 **All Implemented Interfaces:**
-com.aspose.ms.System.ICloneable, com.aspose.ms.System.IEquatable
+com.aspose.ms.System.ICloneable, java.lang.Cloneable, com.aspose.ms.System.IEquatable
 ```
-public abstract class AnnotationBase implements System.ICloneable, System.IEquatable<AnnotationBase>
+public abstract class AnnotationBase implements System.ICloneable, Cloneable, System.IEquatable<AnnotationBase>
 ```
 
 Base class for all annotation types
@@ -51,6 +51,7 @@ Base class for all annotation types
 | [hashCode()](#hashCode--) | Returns HashCode of AnnotationBase Message, PageNumber and Type Properties |
 | [deepClone()](#deepClone--) | Returns new Instance with same values |
 | [toString()](#toString--) |  |
+| [toString(ToStringStyle toStringStyle)](#toString-org.apache.commons.lang3.builder.ToStringStyle-) |  |
 ### AnnotationBase() {#AnnotationBase--}
 ```
 public AnnotationBase()
@@ -304,6 +305,21 @@ public String toString()
 
 
 
+
+**Returns:**
+java.lang.String
+### toString(ToStringStyle toStringStyle) {#toString-org.apache.commons.lang3.builder.ToStringStyle-}
+```
+public String toString(ToStringStyle toStringStyle)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| toStringStyle | org.apache.commons.lang3.builder.ToStringStyle |  |
 
 **Returns:**
 java.lang.String

@@ -3,7 +3,7 @@ title: LoadOptions
 second_title: GroupDocs.Annotation for Java API Reference
 description: Allows to specify additional options such as password when opening a document to annotate.
 type: docs
-weight: 11
+weight: 10
 url: /java/com.groupdocs.annotation.options/loadoptions/
 ---
 **Inheritance:**

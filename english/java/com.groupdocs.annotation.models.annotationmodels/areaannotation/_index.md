@@ -38,10 +38,11 @@ Represents area annotation properties
 | [getPenWidth()](#getPenWidth--) | Gets or sets annotation pen width |
 | [setPenWidth(Byte value)](#setPenWidth-java.lang.Byte-) | Gets or sets annotation pen width |
 | [equals(AreaAnnotation other)](#equals-com.groupdocs.annotation.models.annotationmodels.AreaAnnotation-) | Compares Area Annotations using IEquatable Equals method |
-| [equals(Object o)](#equals-java.lang.Object-) | Compares Area Annotations using standard object Equals method |
-| [hashCode()](#hashCode--) | Returns HashCode of Area Annotation |
 | [deepClone()](#deepClone--) | Returns new Instance with same values |
+| [equals(Object o)](#equals-java.lang.Object-) |  |
+| [hashCode()](#hashCode--) |  |
 | [toString()](#toString--) |  |
+| [toString(ToStringStyle toStringStyle)](#toString-org.apache.commons.lang3.builder.ToStringStyle-) |  |
 ### AreaAnnotation() {#AreaAnnotation--}
 ```
 public AreaAnnotation()
@@ -203,31 +204,6 @@ Compares Area Annotations using IEquatable Equals method
 
 **Returns:**
 boolean - 
-### equals(Object o) {#equals-java.lang.Object-}
-```
-public boolean equals(Object o)
-```
-
-
-Compares Area Annotations using standard object Equals method
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| o | java.lang.Object | The object to compare with the current object |
-
-**Returns:**
-boolean
-### hashCode() {#hashCode--}
-```
-public int hashCode()
-```
-
-
-Returns HashCode of Area Annotation
-
-**Returns:**
-int
 ### deepClone() {#deepClone--}
 ```
 public Object deepClone()
@@ -238,6 +214,31 @@ Returns new Instance with same values
 
 **Returns:**
 java.lang.Object - 
+### equals(Object o) {#equals-java.lang.Object-}
+```
+public boolean equals(Object o)
+```
+
+
+Compares Base Annotations using standard object Equals method
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| o | java.lang.Object |  |
+
+**Returns:**
+boolean
+### hashCode() {#hashCode--}
+```
+public int hashCode()
+```
+
+
+Returns HashCode of AnnotationBase Message, PageNumber and Type Properties
+
+**Returns:**
+int
 ### toString() {#toString--}
 ```
 public String toString()
@@ -245,6 +246,21 @@ public String toString()
 
 
 
+
+**Returns:**
+java.lang.String
+### toString(ToStringStyle toStringStyle) {#toString-org.apache.commons.lang3.builder.ToStringStyle-}
+```
+public String toString(ToStringStyle toStringStyle)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| toStringStyle | org.apache.commons.lang3.builder.ToStringStyle |  |
 
 **Returns:**
 java.lang.String

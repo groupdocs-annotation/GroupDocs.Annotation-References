@@ -3,7 +3,7 @@ title: Reply
 second_title: GroupDocs.Annotation for Java API Reference
 description: Represents annotation reply.
 type: docs
-weight: 15
+weight: 14
 url: /java/com.groupdocs.annotation.models/reply/
 ---
 **Inheritance:**

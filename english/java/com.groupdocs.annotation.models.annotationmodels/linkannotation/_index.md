@@ -40,6 +40,7 @@ Represents Link annotation properties
 | [hashCode()](#hashCode--) | Returns HashCode of Link Annotation |
 | [deepClone()](#deepClone--) | Returns new Instance with same values |
 | [toString()](#toString--) |  |
+| [toString(ToStringStyle toStringStyle)](#toString-org.apache.commons.lang3.builder.ToStringStyle-) |  |
 ### LinkAnnotation() {#LinkAnnotation--}
 ```
 public LinkAnnotation()
@@ -220,6 +221,21 @@ public String toString()
 
 
 
+
+**Returns:**
+java.lang.String
+### toString(ToStringStyle toStringStyle) {#toString-org.apache.commons.lang3.builder.ToStringStyle-}
+```
+public String toString(ToStringStyle toStringStyle)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| toStringStyle | org.apache.commons.lang3.builder.ToStringStyle |  |
 
 **Returns:**
 java.lang.String

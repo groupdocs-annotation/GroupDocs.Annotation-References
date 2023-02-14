@@ -3,7 +3,7 @@ title: Point
 second_title: GroupDocs.Annotation for Java API Reference
 description: Represents point.
 type: docs
-weight: 13
+weight: 12
 url: /java/com.groupdocs.annotation.models/point/
 ---
 **Inheritance:**

@@ -3,16 +3,16 @@ title: FileType
 second_title: GroupDocs.Annotation for Java API Reference
 description: Information about file such as type extension etc.
 type: docs
-weight: 10
+weight: 11
 url: /java/com.groupdocs.annotation.options/filetype/
 ---
 **Inheritance:**
-java.lang.Object
+java.lang.Object, java.lang.Enum
 
 **All Implemented Interfaces:**
 com.aspose.ms.System.IEquatable
 ```
-public final class FileType implements System.IEquatable<FileType>
+public enum FileType extends Enum<FileType> implements System.IEquatable<FileType>
 ```
 
 Information about file, such as type, extension, etc.
@@ -64,19 +64,20 @@ Information about file, such as type, extension, etc.
 
 | Method | Description |
 | --- | --- |
-| [getFileFormat()](#getFileFormat--) | File format |
-| [getExtension()](#getExtension--) | File extention |
+| [values()](#values--) |  |
+| [valueOf(String name)](#valueOf-java.lang.String-) |  |
 | [fromFileNameOrExtension(String fileNameOrExtension)](#fromFileNameOrExtension-java.lang.String-) | Return FileType based on file name or extension. |
 | [getSupportedFileTypes()](#getSupportedFileTypes--) | Get supported file types enumeration. |
+| [fromFoundationFileType(int foundationFileType)](#fromFoundationFileType-int-) |  |
+| [getFileFormat()](#getFileFormat--) | File format |
+| [getExtension()](#getExtension--) | File extention |
 | [equals(FileType other)](#equals-com.groupdocs.annotation.options.FileType-) | File type equivalence check. |
-| [equals(Object obj)](#equals-java.lang.Object-) | Equivalence check with object. |
-| [hashCode()](#hashCode--) | Get hash code. |
 | [op_Equality(FileType left, FileType right)](#op-Equality-com.groupdocs.annotation.options.FileType-com.groupdocs.annotation.options.FileType-) | Operator overload. |
 | [op_Inequality(FileType left, FileType right)](#op-Inequality-com.groupdocs.annotation.options.FileType-com.groupdocs.annotation.options.FileType-) | Operator overload. |
 | [toString()](#toString--) | Returns a string that represents the file type. |
 ### UNKNOWN {#UNKNOWN}
 ```
-public static FileType UNKNOWN
+public static final FileType UNKNOWN
 ```
 
 
@@ -84,7 +85,7 @@ Unknown.
 
 ### DOC {#DOC}
 ```
-public static FileType DOC
+public static final FileType DOC
 ```
 
 
@@ -92,7 +93,7 @@ Microsoft Word format.
 
 ### DOCX {#DOCX}
 ```
-public static FileType DOCX
+public static final FileType DOCX
 ```
 
 
@@ -100,7 +101,7 @@ Microsoft Word Open XML format.
 
 ### DOCM {#DOCM}
 ```
-public static FileType DOCM
+public static final FileType DOCM
 ```
 
 
@@ -108,7 +109,7 @@ Microsoft Word 2007 Macro file.
 
 ### DOT {#DOT}
 ```
-public static FileType DOT
+public static final FileType DOT
 ```
 
 
@@ -116,7 +117,7 @@ Microsoft Word Document Template.
 
 ### DOTX {#DOTX}
 ```
-public static FileType DOTX
+public static final FileType DOTX
 ```
 
 
@@ -124,7 +125,7 @@ Microsoft Word Template.
 
 ### DOTM {#DOTM}
 ```
-public static FileType DOTM
+public static final FileType DOTM
 ```
 
 
@@ -132,7 +133,7 @@ Microsoft Word Macro-Enabled Document Template.
 
 ### RTF {#RTF}
 ```
-public static FileType RTF
+public static final FileType RTF
 ```
 
 
@@ -140,7 +141,7 @@ Rich Text Format File.
 
 ### ODT {#ODT}
 ```
-public static FileType ODT
+public static final FileType ODT
 ```
 
 
@@ -148,7 +149,7 @@ Open Document Text.
 
 ### XLS {#XLS}
 ```
-public static FileType XLS
+public static final FileType XLS
 ```
 
 
@@ -156,7 +157,7 @@ Microsoft Excel Spreadsheet format.
 
 ### XLSX {#XLSX}
 ```
-public static FileType XLSX
+public static final FileType XLSX
 ```
 
 
@@ -164,7 +165,7 @@ Microsoft Excel Open XML Spreadsheet.
 
 ### XLSM {#XLSM}
 ```
-public static FileType XLSM
+public static final FileType XLSM
 ```
 
 
@@ -172,7 +173,7 @@ Microsoft Excel Spreadsheet Macros format
 
 ### XLSB {#XLSB}
 ```
-public static FileType XLSB
+public static final FileType XLSB
 ```
 
 
@@ -180,7 +181,7 @@ Excel Binary File Format
 
 ### ODS {#ODS}
 ```
-public static FileType ODS
+public static final FileType ODS
 ```
 
 
@@ -188,7 +189,7 @@ OpenDocument Spreadsheet Document format
 
 ### PPT {#PPT}
 ```
-public static FileType PPT
+public static final FileType PPT
 ```
 
 
@@ -196,7 +197,7 @@ Microsoft PowerPoint Presentation.
 
 ### PPTX {#PPTX}
 ```
-public static FileType PPTX
+public static final FileType PPTX
 ```
 
 
@@ -204,7 +205,7 @@ Microsoft PowerPoint Open XML Presentation.
 
 ### PPS {#PPS}
 ```
-public static FileType PPS
+public static final FileType PPS
 ```
 
 
@@ -212,7 +213,7 @@ Microsoft PowerPoint Slide Show (Legacy).
 
 ### PPSX {#PPSX}
 ```
-public static FileType PPSX
+public static final FileType PPSX
 ```
 
 
@@ -220,7 +221,7 @@ Microsoft PowerPoint Slide Show.
 
 ### ODP {#ODP}
 ```
-public static FileType ODP
+public static final FileType ODP
 ```
 
 
@@ -228,7 +229,7 @@ Open Document Presentation.
 
 ### TIF {#TIF}
 ```
-public static FileType TIF
+public static final FileType TIF
 ```
 
 
@@ -236,7 +237,7 @@ Tagged Image File.
 
 ### TIFF {#TIFF}
 ```
-public static FileType TIFF
+public static final FileType TIFF
 ```
 
 
@@ -244,7 +245,7 @@ Tagged Image File Format
 
 ### JPEG {#JPEG}
 ```
-public static FileType JPEG
+public static final FileType JPEG
 ```
 
 
@@ -252,7 +253,7 @@ Joint Photographic Experts Group.
 
 ### JPG {#JPG}
 ```
-public static FileType JPG
+public static final FileType JPG
 ```
 
 
@@ -260,7 +261,7 @@ Joint Photographic Experts Group.
 
 ### PNG {#PNG}
 ```
-public static FileType PNG
+public static final FileType PNG
 ```
 
 
@@ -268,7 +269,7 @@ Portable Network Graphic File.
 
 ### BMP {#BMP}
 ```
-public static FileType BMP
+public static final FileType BMP
 ```
 
 
@@ -276,7 +277,7 @@ Bitmap Image File.
 
 ### DWG {#DWG}
 ```
-public static FileType DWG
+public static final FileType DWG
 ```
 
 
@@ -284,7 +285,7 @@ AutoCAD Drawing Database File.
 
 ### DXF {#DXF}
 ```
-public static FileType DXF
+public static final FileType DXF
 ```
 
 
@@ -292,7 +293,7 @@ Drawing Exchange Format File.
 
 ### PDF {#PDF}
 ```
-public static FileType PDF
+public static final FileType PDF
 ```
 
 
@@ -300,7 +301,7 @@ Adobe Portable Document format.
 
 ### HTM {#HTM}
 ```
-public static FileType HTM
+public static final FileType HTM
 ```
 
 
@@ -308,7 +309,7 @@ Hypertext Markup Language File.
 
 ### HTML {#HTML}
 ```
-public static FileType HTML
+public static final FileType HTML
 ```
 
 
@@ -316,7 +317,7 @@ Hypertext Markup Language File.
 
 ### EML {#EML}
 ```
-public static FileType EML
+public static final FileType EML
 ```
 
 
@@ -324,7 +325,7 @@ File in the MIME standard.
 
 ### EMLX {#EMLX}
 ```
-public static FileType EMLX
+public static final FileType EMLX
 ```
 
 
@@ -332,7 +333,7 @@ Apple's Mail.app program file format.
 
 ### VSD {#VSD}
 ```
-public static FileType VSD
+public static final FileType VSD
 ```
 
 
@@ -340,7 +341,7 @@ Microsoft Visio VSD binary format.
 
 ### VSDX {#VSDX}
 ```
-public static FileType VSDX
+public static final FileType VSDX
 ```
 
 
@@ -348,7 +349,7 @@ Microsoft Visio 2013 VSDX file format.
 
 ### VSDM {#VSDM}
 ```
-public static FileType VSDM
+public static final FileType VSDM
 ```
 
 
@@ -356,7 +357,7 @@ Microsoft Visio Macro-Enabled Drawing.
 
 ### VSS {#VSS}
 ```
-public static FileType VSS
+public static final FileType VSS
 ```
 
 
@@ -364,7 +365,7 @@ Microsoft Visio Stencil File.
 
 ### VSX {#VSX}
 ```
-public static FileType VSX
+public static final FileType VSX
 ```
 
 
@@ -372,7 +373,7 @@ Microsoft Visio Stencil XML File.
 
 ### VSSX {#VSSX}
 ```
-public static FileType VSSX
+public static final FileType VSSX
 ```
 
 
@@ -380,7 +381,7 @@ Microsoft Visio Stencil File.
 
 ### VST {#VST}
 ```
-public static FileType VST
+public static final FileType VST
 ```
 
 
@@ -388,32 +389,37 @@ Microsoft Visio VST binary template format.
 
 ### VSTM {#VSTM}
 ```
-public static FileType VSTM
+public static final FileType VSTM
 ```
 
 
 Microsoft Visio Macro-Enabled Drawing Template.
 
-### getFileFormat() {#getFileFormat--}
+### values() {#values--}
 ```
-public final String getFileFormat()
+public static FileType[] values()
 ```
 
 
-File format
+
 
 **Returns:**
-java.lang.String - 
-### getExtension() {#getExtension--}
+com.groupdocs.annotation.options.FileType[]
+### valueOf(String name) {#valueOf-java.lang.String-}
 ```
-public final String getExtension()
+public static FileType valueOf(String name)
 ```
 
 
-File extention
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| name | java.lang.String |  |
 
 **Returns:**
-java.lang.String - 
+[FileType](../../com.groupdocs.annotation.options/filetype)
 ### fromFileNameOrExtension(String fileNameOrExtension) {#fromFileNameOrExtension-java.lang.String-}
 ```
 public static FileType fromFileNameOrExtension(String fileNameOrExtension)
@@ -439,6 +445,41 @@ Get supported file types enumeration.
 
 **Returns:**
 java.util.List<com.groupdocs.annotation.options.FileType> - Enumeration of FileType.
+### fromFoundationFileType(int foundationFileType) {#fromFoundationFileType-int-}
+```
+public static FileType fromFoundationFileType(int foundationFileType)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| foundationFileType | int |  |
+
+**Returns:**
+[FileType](../../com.groupdocs.annotation.options/filetype)
+### getFileFormat() {#getFileFormat--}
+```
+public final String getFileFormat()
+```
+
+
+File format
+
+**Returns:**
+java.lang.String - 
+### getExtension() {#getExtension--}
+```
+public final String getExtension()
+```
+
+
+File extention
+
+**Returns:**
+java.lang.String - 
 ### equals(FileType other) {#equals-com.groupdocs.annotation.options.FileType-}
 ```
 public final boolean equals(FileType other)
@@ -454,31 +495,6 @@ File type equivalence check.
 
 **Returns:**
 boolean - True if file types are equivalent, false if not.
-### equals(Object obj) {#equals-java.lang.Object-}
-```
-public boolean equals(Object obj)
-```
-
-
-Equivalence check with object.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| obj | java.lang.Object | Any object. |
-
-**Returns:**
-boolean - True if file types are equivalent, false if not.
-### hashCode() {#hashCode--}
-```
-public int hashCode()
-```
-
-
-Get hash code.
-
-**Returns:**
-int - Hash code.
 ### op_Equality(FileType left, FileType right) {#op-Equality-com.groupdocs.annotation.options.FileType-com.groupdocs.annotation.options.FileType-}
 ```
 public static boolean op_Equality(FileType left, FileType right)

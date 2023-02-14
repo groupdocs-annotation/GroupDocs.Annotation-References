@@ -7,7 +7,7 @@ weight: 13
 url: /java/com.groupdocs.annotation.exceptions/filetypenotsupportedexception/
 ---
 **Inheritance:**
-java.lang.Object, java.lang.Throwable, java.lang.Exception, java.lang.RuntimeException, com.aspose.ms.System.Exception, [com.groupdocs.annotation.exceptions.AnnotatorException](../../com.groupdocs.annotation.exceptions/annotatorexception)
+java.lang.Object, java.lang.Throwable, java.lang.Exception, java.lang.RuntimeException, com.aspose.ms.System.Exception, com.groupdocs.foundation.exception.GroupDocsException, [com.groupdocs.annotation.exceptions.AnnotatorException](../../com.groupdocs.annotation.exceptions/annotatorexception)
 ```
 public class FileTypeNotSupportedException extends AnnotatorException
 ```

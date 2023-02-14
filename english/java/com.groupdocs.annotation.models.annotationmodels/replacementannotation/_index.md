@@ -38,6 +38,7 @@ Represents Replacement annotation properties
 | [hashCode()](#hashCode--) | Returns HashCode of Replacement Annotation |
 | [deepClone()](#deepClone--) | Returns new Instance with same values |
 | [toString()](#toString--) |  |
+| [toString(ToStringStyle toStringStyle)](#toString-org.apache.commons.lang3.builder.ToStringStyle-) |  |
 ### ReplacementAnnotation() {#ReplacementAnnotation--}
 ```
 public ReplacementAnnotation()
@@ -195,6 +196,21 @@ public String toString()
 
 
 
+
+**Returns:**
+java.lang.String
+### toString(ToStringStyle toStringStyle) {#toString-org.apache.commons.lang3.builder.ToStringStyle-}
+```
+public String toString(ToStringStyle toStringStyle)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| toStringStyle | org.apache.commons.lang3.builder.ToStringStyle |  |
 
 **Returns:**
 java.lang.String

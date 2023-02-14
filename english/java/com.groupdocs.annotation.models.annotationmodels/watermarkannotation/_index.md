@@ -50,6 +50,7 @@ Represents Watermark annotation properties
 | [getVerticalAlignment()](#getVerticalAlignment--) | Gets or sets watermark vertical alignment on document |
 | [setVerticalAlignment(Integer value)](#setVerticalAlignment-java.lang.Integer-) | Gets or sets watermark vertical alignment on document |
 | [toString()](#toString--) |  |
+| [toString(ToStringStyle toStringStyle)](#toString-org.apache.commons.lang3.builder.ToStringStyle-) |  |
 ### WatermarkAnnotation() {#WatermarkAnnotation--}
 ```
 public WatermarkAnnotation()
@@ -345,6 +346,21 @@ public String toString()
 
 
 
+
+**Returns:**
+java.lang.String
+### toString(ToStringStyle toStringStyle) {#toString-org.apache.commons.lang3.builder.ToStringStyle-}
+```
+public String toString(ToStringStyle toStringStyle)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| toStringStyle | org.apache.commons.lang3.builder.ToStringStyle |  |
 
 **Returns:**
 java.lang.String

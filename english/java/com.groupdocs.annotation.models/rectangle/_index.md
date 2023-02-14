@@ -3,7 +3,7 @@ title: Rectangle
 second_title: GroupDocs.Annotation for Java API Reference
 description: Represents rectangle.
 type: docs
-weight: 14
+weight: 13
 url: /java/com.groupdocs.annotation.models/rectangle/
 ---
 **Inheritance:**
@@ -23,8 +23,8 @@ Represents rectangle.
 
 | Method | Description |
 | --- | --- |
-| [op_Equality(Rectangle left, Rectangle right)](#op-Equality-com.groupdocs.annotation.models.Rectangle-com.groupdocs.annotation.models.Rectangle-) | Compares two Rectangle objects. |
-| [op_Inequality(Rectangle left, Rectangle right)](#op-Inequality-com.groupdocs.annotation.models.Rectangle-com.groupdocs.annotation.models.Rectangle-) | Compares two Rectangle objects. |
+| [opEquality(Rectangle left, Rectangle right)](#opEquality-com.groupdocs.annotation.models.Rectangle-com.groupdocs.annotation.models.Rectangle-) | Compares two Rectangle objects. |
+| [opInequality(Rectangle left, Rectangle right)](#opInequality-com.groupdocs.annotation.models.Rectangle-com.groupdocs.annotation.models.Rectangle-) | Compares two Rectangle objects. |
 | [equals(Rectangle obj1, Rectangle obj2)](#equals-com.groupdocs.annotation.models.Rectangle-com.groupdocs.annotation.models.Rectangle-) |  |
 | [getX()](#getX--) | Gets or sets the x. |
 | [setX(float value)](#setX-float-) | Gets or sets the x. |
@@ -62,9 +62,9 @@ Initializes a new instance of the [Rectangle](../../com.groupdocs.annotation.mod
 | width | float | The width. |
 | height | float | The height. |
 
-### op_Equality(Rectangle left, Rectangle right) {#op-Equality-com.groupdocs.annotation.models.Rectangle-com.groupdocs.annotation.models.Rectangle-}
+### opEquality(Rectangle left, Rectangle right) {#opEquality-com.groupdocs.annotation.models.Rectangle-com.groupdocs.annotation.models.Rectangle-}
 ```
-public static boolean op_Equality(Rectangle left, Rectangle right)
+public static boolean opEquality(Rectangle left, Rectangle right)
 ```
 
 
@@ -78,9 +78,9 @@ Compares two Rectangle objects. The result specifies whether the values of the R
 
 **Returns:**
 boolean - true if the Rectangle.X, Rectangle.Y, Rectangle.Width and Rectangle.Height values of left and right are equal; otherwise, false.
-### op_Inequality(Rectangle left, Rectangle right) {#op-Inequality-com.groupdocs.annotation.models.Rectangle-com.groupdocs.annotation.models.Rectangle-}
+### opInequality(Rectangle left, Rectangle right) {#opInequality-com.groupdocs.annotation.models.Rectangle-com.groupdocs.annotation.models.Rectangle-}
 ```
-public static boolean op_Inequality(Rectangle left, Rectangle right)
+public static boolean opInequality(Rectangle left, Rectangle right)
 ```
 
 

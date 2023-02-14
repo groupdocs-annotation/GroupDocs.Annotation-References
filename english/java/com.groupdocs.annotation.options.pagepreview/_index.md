@@ -3,7 +3,7 @@ title: com.groupdocs.annotation.options.pagepreview
 second_title: GroupDocs.Annotation for Java API Reference
 description: The namespace provides classes to preview document pages.
 type: docs
-weight: 21
+weight: 20
 url: /java/com.groupdocs.annotation.options.pagepreview/
 ---
 
