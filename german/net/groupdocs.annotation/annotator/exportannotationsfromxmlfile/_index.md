@@ -20,7 +20,7 @@ public void ExportAnnotationsFromXMLFile(string filePath)
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Weitere Informationen zum Exportieren von Anmerkungen: [So exportieren Sie Anmerkungen aus einer XML-Datei in C#](https://docs.groupdocs.com/display/annotationnet/Export+annotations+from+document)
 

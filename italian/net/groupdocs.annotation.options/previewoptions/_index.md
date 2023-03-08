@@ -3,7 +3,7 @@ title: PreviewOptions
 second_title: GroupDocs.Annotation per riferimento all'API .NET
 description: Rappresenta le opzioni di anteprima del documento.
 type: docs
-weight: 990
+weight: 1000
 url: /it/net/groupdocs.annotation.options/previewoptions/
 ---
 ## PreviewOptions class
@@ -30,7 +30,7 @@ public class PreviewOptions
 | [PageNumbers](../../groupdocs.annotation.options/previewoptions/pagenumbers) { get; set; } | Numeri di pagina che verranno visualizzati in anteprima. |
 | [PreviewFormat](../../groupdocs.annotation.options/previewoptions/previewformat) { get; set; } | Formato immagine di anteprima. |
 | [ReleasePageStream](../../groupdocs.annotation.options/previewoptions/releasepagestream) { get; set; } | Delegato che definisce il metodo per rimuovere il flusso di anteprima della pagina di output |
-| [RenderAnnotations](../../groupdocs.annotation.options/previewoptions/renderannotations) { get; set; } | La proprietà che controlla se le annotazioni verranno generate nell'anteprima. Stato predefinito - true. |
+| [RenderAnnotations](../../groupdocs.annotation.options/previewoptions/renderannotations) { get; set; } | La proprietà che controlla se le annotazioni verranno generate nell'anteprima. Stato predefinito: true. |
 | [RenderComments](../../groupdocs.annotation.options/previewoptions/rendercomments) { get; set; } | La proprietà che controlla se i commenti verranno generati nell'anteprima. Stato predefinito: vero. Ora supportato solo in MS Word document |
 | [Resolution](../../groupdocs.annotation.options/previewoptions/resolution) { get; set; } | Ottiene o imposta la risoluzione per le immagini generate, in punti per pollice. |
 | [Width](../../groupdocs.annotation.options/previewoptions/width) { get; set; } | Larghezza anteprima pagina. |

@@ -18,8 +18,8 @@ public class IOException : AnnotatorException
 
 | Nom | La description |
 | --- | --- |
-| [IOException](ioexception#constructor)(string) | Initialise une nouvelle instance du[`IOException`](../ioexception) classer. |
-| [IOException](ioexception#constructor_1)(string, Exception) | Initialise une nouvelle instance du[`IOException`](../ioexception) classer. |
+| [IOException](ioexception#constructor)(string) | Initialise une nouvelle instance du[`IOException`](../ioexception) classe. |
+| [IOException](ioexception#constructor_1)(string, Exception) | Initialise une nouvelle instance du[`IOException`](../ioexception) classe. |
 
 ### Voir également
 

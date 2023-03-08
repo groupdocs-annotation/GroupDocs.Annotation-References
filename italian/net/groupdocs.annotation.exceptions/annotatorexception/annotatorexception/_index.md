@@ -37,7 +37,7 @@ public AnnotatorException(string message, Exception innerException)
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | message | String | Il messaggio di errore che spiega il motivo dell'eccezione. |
-| innerException | Exception | L'eccezione che è la causa dell'eccezione corrente o un riferimento null (Nothing in Visual Basic) se non viene specificata alcuna eccezione interna. |
+| innerException | Exception | L'eccezione che è la causa dell'eccezione corrente o un riferimento null (Nothing in Visual Basic) se non è specificata alcuna eccezione interna. |
 
 ### Guarda anche
 

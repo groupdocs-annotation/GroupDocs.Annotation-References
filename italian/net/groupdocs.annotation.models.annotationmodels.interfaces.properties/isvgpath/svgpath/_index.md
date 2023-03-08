@@ -1,14 +1,14 @@
 ---
 title: SvgPath
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Ottiene o imposta le coordinate del percorso svg dellannotazione array
+description: Ottiene o imposta le coordinate del percorso di annotazione svg array
 type: docs
 weight: 10
 url: /it/net/groupdocs.annotation.models.annotationmodels.interfaces.properties/isvgpath/svgpath/
 ---
 ## ISvgPath.SvgPath property
 
-Ottiene o imposta le coordinate del percorso svg dell'annotazione array
+Ottiene o imposta le coordinate del percorso di annotazione svg array
 
 ```csharp
 public string SvgPath { get; set; }

@@ -11,7 +11,7 @@ url: /de/net/groupdocs.annotation.models.annotationmodels/replacementannotation/
 Ruft die Schriftgröße des Anmerkungstexts ab oder legt sie fest
 
 ```csharp
-public int? FontSize { get; set; }
+public double? FontSize { get; set; }
 ```
 
 ### Siehe auch

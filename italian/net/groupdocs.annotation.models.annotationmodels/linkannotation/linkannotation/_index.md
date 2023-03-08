@@ -1,14 +1,14 @@
 ---
 title: LinkAnnotation
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Inizializza la nuova istanza diLinkAnnotationgroupdocs.annotation.models.annotationmodels/linkannotation classe.
+description: Inizializza una nuova istanza diLinkAnnotationgroupdocs.annotation.models.annotationmodels/linkannotation classe.
 type: docs
 weight: 10
 url: /it/net/groupdocs.annotation.models.annotationmodels/linkannotation/linkannotation/
 ---
 ## LinkAnnotation constructor
 
-Inizializza la nuova istanza di[`LinkAnnotation`](../../linkannotation) classe.
+Inizializza una nuova istanza di[`LinkAnnotation`](../../linkannotation) classe.
 
 ```csharp
 public LinkAnnotation()

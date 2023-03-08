@@ -12,7 +12,7 @@ Lo spazio dei nomi fornisce interfacce componente specifiche del formato
 
 | Interfaccia | Descrizione |
 | --- | --- |
-| [IButtonComponent](./ibuttoncomponent) | Definisce le proprietà del componente Pulsante |
+| [IButtonComponent](./ibuttoncomponent) | Definisce le proprietà del componente Button |
 | [ICheckBoxComponent](./icheckboxcomponent) | Definisce le proprietà del componente CheckBox |
 | [IDropdownComponent](./idropdowncomponent) | Definisce le proprietà del componente Dropdown |
 

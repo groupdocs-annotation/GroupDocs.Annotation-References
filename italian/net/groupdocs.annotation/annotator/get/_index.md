@@ -20,7 +20,7 @@ L'elenco delle annotazioni.
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni su come ottenere la raccolta delle annotazioni del documento: [Come ottenere annotazioni di documenti in C#](https://docs.groupdocs.com/display/annotationnet/Extract+annotations+from+document)
 
@@ -51,7 +51,7 @@ L'elenco delle annotazioni per tipo.
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni su come ottenere la raccolta delle annotazioni del documento: [Come ottenere annotazioni di documenti in C#](https://docs.groupdocs.com/display/annotationnet/Extract+annotations+from+document)
 

@@ -18,7 +18,7 @@ public class CheckBoxComponent : AnnotationBase, ICheckBoxComponent, IEquatable<
 
 | Nome | Descrizione |
 | --- | --- |
-| [CheckBoxComponent](checkboxcomponent)() | Inizializza la nuova istanza di[`CheckBoxComponent`](../checkboxcomponent) classe. |
+| [CheckBoxComponent](checkboxcomponent)() | Inizializza una nuova istanza di[`CheckBoxComponent`](../checkboxcomponent) classe. |
 
 ## Proprietà
 
@@ -34,7 +34,7 @@ public class CheckBoxComponent : AnnotationBase, ICheckBoxComponent, IEquatable<
 | [Replies](../../groupdocs.annotation.models.annotationmodels/annotationbase/replies) { get; set; } | Rappresenta la raccolta di risposte alle annotazioni |
 | [Style](../../groupdocs.annotation.models.formatspecificcomponents.pdf/checkboxcomponent/style) { get; set; } | Ottiene o imposta lo stile box |
 | [Type](../../groupdocs.annotation.models.annotationmodels/annotationbase/type) { get; set; } | Ottiene o imposta il tipo di annotazione |
-| [User](../../groupdocs.annotation.models.annotationmodels/annotationbase/user) { get; set; } | Ottiene o imposta il creatore di annotazioni |
+| [User](../../groupdocs.annotation.models.annotationmodels/annotationbase/user) { get; set; } | Ottiene o imposta il creatore dell'annotazione |
 
 ## Metodi
 
@@ -48,7 +48,7 @@ public class CheckBoxComponent : AnnotationBase, ICheckBoxComponent, IEquatable<
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni sui tipi di annotazione e sull'annotazione del PDF: [Come annotare i documenti utilizzando GroupDocs.Annotation per .NET](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
 * Ulteriori informazioni sull'aggiunta del componente checkBox al PDF: [Come aggiungere il componente checkBox in C#](https://docs.groupdocs.com/display/annotationnet/Add+dropdown+component)

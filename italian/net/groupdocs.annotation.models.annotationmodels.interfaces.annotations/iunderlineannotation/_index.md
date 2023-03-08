@@ -1,14 +1,14 @@
 ---
 title: IUnderlineAnnotation
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Definisce le proprietà dellannotazione di sottolineatura
+description: Definisce le proprietà dellannotazione sottolineata
 type: docs
 weight: 410
 url: /it/net/groupdocs.annotation.models.annotationmodels.interfaces.annotations/iunderlineannotation/
 ---
 ## IUnderlineAnnotation interface
 
-Definisce le proprietà dell'annotazione di sottolineatura
+Definisce le proprietà dell'annotazione sottolineata
 
 ```csharp
 public interface IUnderlineAnnotation : IBackgroundColor, IFontColor, IOpacity, IPoints

@@ -22,21 +22,23 @@ public User()
 
 ---
 
-## User(int, string) {#constructor_1}
+## User(int, string, Role) {#constructor_1}
 
 Initialisiert eine neue Instanz von[`User`](../../user) Klasse.
 
 ```csharp
-public User(int id, string name)
+public User(int id, string name, Role role)
 ```
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
 | id | Int32 | Die Benutzer-ID. |
 | name | String | Der Nutzername. |
+| role | Role | Die Benutzerrolle. |
 
 ### Siehe auch
 
+* enum [Role](../../role)
 * class [User](../../user)
 * namensraum [GroupDocs.Annotation.Models](../../user)
 * Montage [GroupDocs.Annotation](../../../)

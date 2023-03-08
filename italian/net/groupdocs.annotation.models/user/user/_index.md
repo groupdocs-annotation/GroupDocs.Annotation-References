@@ -1,14 +1,14 @@
 ---
 title: User
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Inizializza la nuova istanza diUsergroupdocs.annotation.models/user classe.
+description: Inizializza una nuova istanza diUsergroupdocs.annotation.models/user classe.
 type: docs
 weight: 10
 url: /it/net/groupdocs.annotation.models/user/user/
 ---
 ## User() {#constructor}
 
-Inizializza la nuova istanza di[`User`](../../user) classe.
+Inizializza una nuova istanza di[`User`](../../user) classe.
 
 ```csharp
 public User()
@@ -22,21 +22,23 @@ public User()
 
 ---
 
-## User(int, string) {#constructor_1}
+## User(int, string, Role) {#constructor_1}
 
-Inizializza la nuova istanza di[`User`](../../user) classe.
+Inizializza una nuova istanza di[`User`](../../user) classe.
 
 ```csharp
-public User(int id, string name)
+public User(int id, string name, Role role)
 ```
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | id | Int32 | L'ID utente. |
 | name | String | Il nome utente. |
+| role | Role | Il ruolo dell'utente. |
 
 ### Guarda anche
 
+* enum [Role](../../role)
 * class [User](../../user)
 * spazio dei nomi [GroupDocs.Annotation.Models](../../user)
 * assemblea [GroupDocs.Annotation](../../../)

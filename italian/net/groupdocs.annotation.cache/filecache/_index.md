@@ -18,8 +18,8 @@ public class FileCache : ICache
 
 | Nome | Descrizione |
 | --- | --- |
-| [FileCache](filecache#constructor)() | Inizializza la nuova istanza di[`FileCache`](../filecache) classe. |
-| [FileCache](filecache#constructor_1)(string) | Inizializza la nuova istanza di[`FileCache`](../filecache) classe. |
+| [FileCache](filecache#constructor)() | Inizializza una nuova istanza di[`FileCache`](../filecache) classe. |
+| [FileCache](filecache#constructor_1)(string) | Inizializza una nuova istanza di[`FileCache`](../filecache) classe. |
 
 ## Metodi
 

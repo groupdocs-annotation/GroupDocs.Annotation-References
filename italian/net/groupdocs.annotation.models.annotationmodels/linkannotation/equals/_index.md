@@ -16,7 +16,7 @@ public bool Equals(LinkAnnotation other)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| other | LinkAnnotation | L'oggetto LinkAnnotation da confrontare con l'oggetto corrente |
+| other | LinkAnnotation | Oggetto LinkAnnotation da confrontare con l'oggetto corrente |
 
 ### Guarda anche
 
@@ -28,7 +28,7 @@ public bool Equals(LinkAnnotation other)
 
 ## Equals(object) {#equals_2}
 
-Confronta le annotazioni di collegamento utilizzando il metodo Equals dell'oggetto standard
+Confronta le annotazioni di collegamento utilizzando un oggetto standard È uguale a method
 
 ```csharp
 public override bool Equals(object obj)

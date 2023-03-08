@@ -32,7 +32,7 @@ True se i tipi di file sono equivalenti, false in caso contrario.
 
 ## Equals(object) {#equals_1}
 
-Verifica di equivalenza con oggetto.
+Verifica equivalenza con oggetto.
 
 ```csharp
 public override bool Equals(object obj)

@@ -1,14 +1,14 @@
 ---
 title: Dot
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Modello di documento di Microsoft Word.
+description: Modello documento Microsoft Word.
 type: docs
 weight: 50
 url: /it/net/groupdocs.annotation/filetype/dot/
 ---
 ## FileType.Dot property
 
-Modello di documento di Microsoft Word.
+Modello documento Microsoft Word.
 
 ```csharp
 public static FileType Dot { get; }

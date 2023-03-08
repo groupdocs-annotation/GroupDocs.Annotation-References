@@ -17,7 +17,7 @@ public static bool operator !=(FileType left, FileType right)
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | left | FileType | Il tipo di file sinistro. |
-| right | FileType | Il tipo di file giusto. |
+| right | FileType | Il tipo di file corretto. |
 
 ### Valore di ritorno
 

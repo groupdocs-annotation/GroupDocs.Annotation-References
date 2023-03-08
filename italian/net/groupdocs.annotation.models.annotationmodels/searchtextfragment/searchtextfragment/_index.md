@@ -1,14 +1,14 @@
 ---
 title: SearchTextFragment
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Inizializza la nuova istanza diSearchTextFragmentgroupdocs.annotation.models.annotationmodels/searchtextfragment classe.
+description: Inizializza una nuova istanza diSearchTextFragmentgroupdocs.annotation.models.annotationmodels/searchtextfragment classe.
 type: docs
 weight: 10
 url: /it/net/groupdocs.annotation.models.annotationmodels/searchtextfragment/searchtextfragment/
 ---
 ## SearchTextFragment constructor
 
-Inizializza la nuova istanza di[`SearchTextFragment`](../../searchtextfragment) classe.
+Inizializza una nuova istanza di[`SearchTextFragment`](../../searchtextfragment) classe.
 
 ```csharp
 public SearchTextFragment()

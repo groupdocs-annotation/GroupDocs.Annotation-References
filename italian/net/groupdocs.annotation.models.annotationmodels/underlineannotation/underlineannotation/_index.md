@@ -1,14 +1,14 @@
 ---
 title: UnderlineAnnotation
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Inizializza la nuova istanza diUnderlineAnnotationgroupdocs.annotation.models.annotationmodels/underlineannotation classe.
+description: Inizializza una nuova istanza diUnderlineAnnotationgroupdocs.annotation.models.annotationmodels/underlineannotation classe.
 type: docs
 weight: 10
 url: /it/net/groupdocs.annotation.models.annotationmodels/underlineannotation/underlineannotation/
 ---
 ## UnderlineAnnotation constructor
 
-Inizializza la nuova istanza di[`UnderlineAnnotation`](../../underlineannotation) classe.
+Inizializza una nuova istanza di[`UnderlineAnnotation`](../../underlineannotation) classe.
 
 ```csharp
 public UnderlineAnnotation()

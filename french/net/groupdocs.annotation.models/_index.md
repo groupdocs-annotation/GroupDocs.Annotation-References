@@ -32,6 +32,7 @@ L'espace de noms fournit des classes de données d'annotation.
 | [HorizontalAlignment](./horizontalalignment) | Représente l'état d'alignement horizontal des annotations |
 | [PenStyle](./penstyle) | Style de stylo |
 | [ResolutionQuality](./resolutionquality) | Qualité de résolution |
+| [Role](./role) | Rôle |
 | [RotationDocument](./rotationdocument) | Rotation |
 | [VerticalAlignment](./verticalalignment) | Représente l'état d'alignement vertical des annotations |
 

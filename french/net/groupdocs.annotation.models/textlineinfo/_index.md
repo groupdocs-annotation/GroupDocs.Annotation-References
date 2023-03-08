@@ -3,7 +3,7 @@ title: TextLineInfo
 second_title: Référence de l'API GroupDocs.Annotation pour .NET
 description: Représente les informations de ligne de texte.
 type: docs
-weight: 920
+weight: 930
 url: /fr/net/groupdocs.annotation.models/textlineinfo/
 ---
 ## TextLineInfo structure

@@ -50,7 +50,7 @@ public class UnderlineAnnotation : AnnotationBase, IEquatable<UnderlineAnnotatio
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Mehr über Anmerkungstypen und das Kommentieren von PDF- und Microsoft Word-Dokumenten, Excel-Tabellen und PowerPoint-Präsentationen: [So kommentieren Sie Dokumente mit GroupDocs.Annotation für .NET](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
 * Weitere Informationen zum Hinzufügen von Unterstreichungen zu Dokumenten verschiedener Typen: [So fügen Sie Unterstreichungsanmerkungen in C# hinzu](https://docs.groupdocs.com/display/annotationnet/Add+underline+annotation)

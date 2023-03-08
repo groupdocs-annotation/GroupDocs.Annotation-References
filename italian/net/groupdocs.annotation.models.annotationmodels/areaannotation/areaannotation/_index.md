@@ -1,14 +1,14 @@
 ---
 title: AreaAnnotation
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Inizializza la nuova istanza diAreaAnnotationgroupdocs.annotation.models.annotationmodels/areaannotation classe.
+description: Inizializza una nuova istanza diAreaAnnotationgroupdocs.annotation.models.annotationmodels/areaannotation classe.
 type: docs
 weight: 10
 url: /it/net/groupdocs.annotation.models.annotationmodels/areaannotation/areaannotation/
 ---
 ## AreaAnnotation constructor
 
-Inizializza la nuova istanza di[`AreaAnnotation`](../../areaannotation) classe.
+Inizializza una nuova istanza di[`AreaAnnotation`](../../areaannotation) classe.
 
 ```csharp
 public AreaAnnotation()

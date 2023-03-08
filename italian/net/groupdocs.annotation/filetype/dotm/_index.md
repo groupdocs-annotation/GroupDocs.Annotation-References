@@ -1,14 +1,14 @@
 ---
 title: Dotm
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Modello di documento abilitato per le macro di Microsoft Word.
+description: Modello di documento con attivazione macro di Microsoft Word.
 type: docs
 weight: 60
 url: /it/net/groupdocs.annotation/filetype/dotm/
 ---
 ## FileType.Dotm property
 
-Modello di documento abilitato per le macro di Microsoft Word.
+Modello di documento con attivazione macro di Microsoft Word.
 
 ```csharp
 public static FileType Dotm { get; }

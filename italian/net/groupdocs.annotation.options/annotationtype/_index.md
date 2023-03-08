@@ -3,7 +3,7 @@ title: AnnotationType
 second_title: GroupDocs.Annotation per riferimento all'API .NET
 description: Enumerazione che descrive i tipi di annotazione supportati da GroupDocs.Annotation per .NET
 type: docs
-weight: 950
+weight: 960
 url: /it/net/groupdocs.annotation.options/annotationtype/
 ---
 ## AnnotationType enumeration
@@ -25,9 +25,9 @@ public enum AnnotationType
 | Distance | `8` | Il tipo di annotazione che misura la distanza tra gli elementi di una pagina del documento |
 | Ellipse | `10` | L'annotazione della forma ellittica che contrassegna parti del contenuto del documento |
 | Link | `20` | Il tipo di annotazione che rappresenta un collegamento ipertestuale a una risorsa remota |
-| Point | `40` | Il tipo di annotazione punto che attacca un commento a un punto qualsiasi all'interno della pagina del documento |
+| Point | `40` | Il tipo di annotazione punto che incolla un commento in qualsiasi punto all'interno della pagina del documento |
 | Polyline | `80` | Il tipo di annotazione polilinea che consente di aggiungere forme di disegno e linee a mano libera a una pagina del documento |
-| ResourcesRedaction | `100` | Il tipo di annotazione che nasconde il contenuto testuale dietro il rettangolo nero |
+| ResourcesRedaction | `100` | Il tipo di annotazione che nasconde il contenuto testuale dietro un rettangolo nero |
 | TextField | `200` | Il tipo di annotazione del campo di testo rappresenta un commento testuale all'interno di una cornice colorata |
 | TextHighlight | `400` | Il tipo di annotazione che evidenzia e commenta il testo selezionato |
 | TextRedaction | `800` | Il tipo di annotazione che riempie parte del testo selezionato con un rettangolo nero. |
@@ -36,16 +36,16 @@ public enum AnnotationType
 | TextUnderline | `4000` | Il tipo di annotazione che contrassegna il testo con una sottolineatura styling |
 | Watermark | `8000` | Il tipo di annotazione che aggiunge filigrana testuale sulla pagina del documento |
 | Image | `10000` | Il tipo di annotazione che aggiunge la sovrapposizione di immagini sul contenuto della pagina del documento |
-| Dropdown | `20000` | Il tipo di componente che aggiunge il componente a discesa per il documento pdf**solo** |
-| Checkbox | `21000` |  |
-| Button | `22000` |  |
+| Dropdown | `20000` | Il tipo di componente che aggiunge il componente a discesa per il documento pdf**soltanto** |
+| Checkbox | `21000` | Il tipo di annotazione che aggiunge la casella di controllo per il documento pdf |
+| Button | `22000` | Il tipo di annotazione che aggiunge il pulsante per il documento pdf |
 | TextSquiggly | `2500` | Il tipo di annotazione che ondeggia e commenta testo selezionato |
 | SearchText | `2700` | Il tipo di annotazione che cerca il testo del frammento nel documento |
 | All | `7FFFFFFF` | Tutti |
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * [Come annotare i documenti in C#](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
 * [Come aggiungere annotazioni di area in C#](https://docs.groupdocs.com/display/annotationnet/Add+area+annotation)
@@ -53,7 +53,7 @@ public enum AnnotationType
 * [Come aggiungere annotazioni di distanza in C#](https://docs.groupdocs.com/display/annotationnet/Add+distance+annotation)
 * [Come aggiungere annotazioni ellittiche in C#](https://docs.groupdocs.com/display/annotationnet/Add+ellipse+annotation)
 * [Come aggiungere annotazioni di collegamento in C#](https://docs.groupdocs.com/display/annotationnet/Add+link+annotation)
-* [Come aggiungere annotazioni di punti in C#](https://docs.groupdocs.com/display/annotationnet/Add+point+annotation)
+* [Come aggiungere annotazioni punto in C#](https://docs.groupdocs.com/display/annotationnet/Add+point+annotation)
 * [Come aggiungere annotazioni polilinea in C#](https://docs.groupdocs.com/display/annotationnet/Add+polyline+annotation)
 * [Come aggiungere annotazioni di redazione delle risorse in C#](https://docs.groupdocs.com/display/annotationnet/Add+resource+redaction+annotation)
 * [Come aggiungere annotazioni ai campi di testo in C#](https://docs.groupdocs.com/display/annotationnet/Add+text+field+annotation)
@@ -62,8 +62,8 @@ public enum AnnotationType
 * [Come aggiungere annotazioni sostitutive in C#](https://docs.groupdocs.com/display/annotationnet/Add+replacement+annotation)
 * [Come aggiungere annotazioni barrate in C#](https://docs.groupdocs.com/display/annotationnet/Add+strikeout+annotation)
 * [Come aggiungere annotazioni sottolineate in C#](https://docs.groupdocs.com/display/annotationnet/Add+underline+annotation)
-* [Come aggiungere annotazioni filigrana in C#](https://docs.groupdocs.com/display/annotationnet/Add+watermark+annotation)
-* [Come aggiungere annotazioni di immagini in C#](https://docs.groupdocs.com/display/annotationnet/Add+image+annotation)
+* [Come aggiungere annotazioni di filigrana in C#](https://docs.groupdocs.com/display/annotationnet/Add+watermark+annotation)
+* [Come aggiungere annotazioni immagine in C#](https://docs.groupdocs.com/display/annotationnet/Add+image+annotation)
 
 ### Guarda anche
 

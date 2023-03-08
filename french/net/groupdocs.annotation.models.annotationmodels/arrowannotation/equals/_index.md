@@ -16,7 +16,7 @@ public bool Equals(ArrowAnnotation other)
 
 | Paramètre | Taper | La description |
 | --- | --- | --- |
-| other | ArrowAnnotation | L'objet ArrowAnnotation à comparer avec l'objet actuel |
+| other | ArrowAnnotation | L'objet ArrowAnnotation à comparer avec l'objet courant |
 
 ### Voir également
 

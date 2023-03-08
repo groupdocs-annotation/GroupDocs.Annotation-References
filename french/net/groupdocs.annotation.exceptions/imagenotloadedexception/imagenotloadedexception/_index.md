@@ -1,14 +1,14 @@
 ---
 title: ImageNotLoadedException
 second_title: Référence de l'API GroupDocs.Annotation pour .NET
-description: Initialise une nouvelle instance duImageNotLoadedExceptiongroupdocs.annotation.exceptions/imagenotloadedexception classer.
+description: Initialise une nouvelle instance duImageNotLoadedExceptiongroupdocs.annotation.exceptions/imagenotloadedexception classe.
 type: docs
 weight: 10
 url: /fr/net/groupdocs.annotation.exceptions/imagenotloadedexception/imagenotloadedexception/
 ---
 ## ImageNotLoadedException(string) {#constructor}
 
-Initialise une nouvelle instance du[`ImageNotLoadedException`](../../imagenotloadedexception) classer.
+Initialise une nouvelle instance du[`ImageNotLoadedException`](../../imagenotloadedexception) classe.
 
 ```csharp
 public ImageNotLoadedException(string message)
@@ -28,7 +28,7 @@ public ImageNotLoadedException(string message)
 
 ## ImageNotLoadedException(string, Exception) {#constructor_1}
 
-Initialise une nouvelle instance du[`ImageNotLoadedException`](../../imagenotloadedexception) classer.
+Initialise une nouvelle instance du[`ImageNotLoadedException`](../../imagenotloadedexception) classe.
 
 ```csharp
 public ImageNotLoadedException(string message, Exception innerException)

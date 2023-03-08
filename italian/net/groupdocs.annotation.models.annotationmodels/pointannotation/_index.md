@@ -1,14 +1,14 @@
 ---
 title: PointAnnotation
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Rappresenta le proprietà dellannotazione del punto
+description: Rappresenta le proprietà di annotazione punto
 type: docs
 weight: 640
 url: /it/net/groupdocs.annotation.models.annotationmodels/pointannotation/
 ---
 ## PointAnnotation class
 
-Rappresenta le proprietà dell'annotazione del punto
+Rappresenta le proprietà di annotazione punto
 
 ```csharp
 public class PointAnnotation : AnnotationBase, IEquatable<PointAnnotation>, IPointAnnotation
@@ -18,7 +18,7 @@ public class PointAnnotation : AnnotationBase, IEquatable<PointAnnotation>, IPoi
 
 | Nome | Descrizione |
 | --- | --- |
-| [PointAnnotation](pointannotation)() | Inizializza la nuova istanza di[`PointAnnotation`](../pointannotation) classe. |
+| [PointAnnotation](pointannotation)() | Inizializza una nuova istanza di[`PointAnnotation`](../pointannotation) classe. |
 
 ## Proprietà
 
@@ -31,7 +31,7 @@ public class PointAnnotation : AnnotationBase, IEquatable<PointAnnotation>, IPoi
 | [PageNumber](../../groupdocs.annotation.models.annotationmodels/annotationbase/pagenumber) { get; set; } | Ottiene o imposta il numero di pagina da annotare |
 | [Replies](../../groupdocs.annotation.models.annotationmodels/annotationbase/replies) { get; set; } | Rappresenta la raccolta di risposte alle annotazioni |
 | [Type](../../groupdocs.annotation.models.annotationmodels/annotationbase/type) { get; set; } | Ottiene o imposta il tipo di annotazione |
-| [User](../../groupdocs.annotation.models.annotationmodels/annotationbase/user) { get; set; } | Ottiene o imposta il creatore di annotazioni |
+| [User](../../groupdocs.annotation.models.annotationmodels/annotationbase/user) { get; set; } | Ottiene o imposta il creatore dell'annotazione |
 
 ## Metodi
 
@@ -39,16 +39,16 @@ public class PointAnnotation : AnnotationBase, IEquatable<PointAnnotation>, IPoi
 | --- | --- |
 | override [Clone](../../groupdocs.annotation.models.annotationmodels/pointannotation/clone)() | Restituisce una nuova istanza con gli stessi valori |
 | [Equals](../../groupdocs.annotation.models.annotationmodels/annotationbase/equals)(AnnotationBase) | Confronta le annotazioni di base utilizzando il metodo IEquatable Equals |
-| override [Equals](../../groupdocs.annotation.models.annotationmodels/pointannotation/equals#equals_2)(object) | Confronta le annotazioni punto utilizzando l'oggetto standard Equals metodo |
+| override [Equals](../../groupdocs.annotation.models.annotationmodels/pointannotation/equals#equals_2)(object) | Confronta le annotazioni dei punti utilizzando l'oggetto standard Equals method |
 | [Equals](../../groupdocs.annotation.models.annotationmodels/pointannotation/equals#equals_1)(PointAnnotation) | Confronta le annotazioni punto utilizzando il metodo IEquatable Equals |
-| override [GetHashCode](../../groupdocs.annotation.models.annotationmodels/pointannotation/gethashcode)() | Restituisce il codice hash dell'annotazione punto |
+| override [GetHashCode](../../groupdocs.annotation.models.annotationmodels/pointannotation/gethashcode)() | Restituisce HashCode dell'annotazione punto |
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni sui tipi di annotazione e sull'annotazione di documenti PDF e Microsoft Word, fogli di calcolo Excel e presentazioni PowerPoint: [Come annotare i documenti utilizzando GroupDocs.Annotation per .NET](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
-* Ulteriori informazioni sull'aggiunta di annotazioni punto a documenti di vario tipo: [Come aggiungere annotazioni di punti in C#](https://docs.groupdocs.com/display/annotationnet/Add+point+annotation)
+* Ulteriori informazioni sull'aggiunta di annotazioni punto a documenti di vario tipo: [Come aggiungere annotazioni punto in C#](https://docs.groupdocs.com/display/annotationnet/Add+point+annotation)
 
 ### Guarda anche
 

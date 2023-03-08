@@ -49,7 +49,7 @@ public class ResourcesRedactionAnnotation : AnnotationBase,
 **Apprendre encore plus**
 
 * En savoir plus sur les types d'annotations et l'annotation de documents PDF et Microsoft Word, de feuilles de calcul Excel et de présentations PowerPoint : [Comment annoter des documents à l'aide de GroupDocs.Annotation pour .NET](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
-* En savoir plus sur l'ajout d'annotations de rédaction de ressources à des documents de différents types : [Comment ajouter des annotations de rédaction de ressources en C#](https://docs.groupdocs.com/display/annotationnet/Add+resource+redaction+annotation)
+* En savoir plus sur l'ajout d'annotations de rédaction de ressources à des documents de différents types : [Comment ajouter des annotations de rédaction de ressources en C #](https://docs.groupdocs.com/display/annotationnet/Add+resource+redaction+annotation)
 
 ### Voir également
 

@@ -1,14 +1,14 @@
 ---
 title: Options
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Elenco di opzioni elementi a discesa da mostrare quando si fa clic sul componente
+description: Elenco di opzioni voci a discesa da visualizzare quando si fa clic sul componente
 type: docs
 weight: 30
 url: /it/net/groupdocs.annotation.models.formatspecificcomponents.pdf/dropdowncomponent/options/
 ---
 ## DropdownComponent.Options property
 
-Elenco di opzioni (elementi a discesa) da mostrare quando si fa clic sul componente
+Elenco di opzioni (voci a discesa) da visualizzare quando si fa clic sul componente
 
 ```csharp
 public List<string> Options { get; set; }

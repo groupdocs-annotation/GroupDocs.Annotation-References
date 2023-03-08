@@ -20,7 +20,7 @@ Lo spazio dei nomi fornisce classi di dati di annotazione.
 | --- | --- |
 | [PageInfo](./pageinfo) | Rappresenta le informazioni sulla pagina del documento. |
 | [Point](./point) | Rappresenta il punto. |
-| [Rectangle](./rectangle) | Rappresenta un rettangolo. |
+| [Rectangle](./rectangle) | Rappresenta il rettangolo. |
 | [TextLineInfo](./textlineinfo) | Rappresenta le informazioni sulla riga di testo. |
 ## Enumerazione
 
@@ -32,6 +32,7 @@ Lo spazio dei nomi fornisce classi di dati di annotazione.
 | [HorizontalAlignment](./horizontalalignment) | Rappresenta lo stato di allineamento orizzontale delle annotazioni |
 | [PenStyle](./penstyle) | Stile penna |
 | [ResolutionQuality](./resolutionquality) | Risoluzione Qualità |
+| [Role](./role) | Ruolo |
 | [RotationDocument](./rotationdocument) | Rotazione |
 | [VerticalAlignment](./verticalalignment) | Rappresenta lo stato di allineamento verticale delle annotazioni |
 

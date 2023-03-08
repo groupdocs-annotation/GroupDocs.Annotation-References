@@ -28,7 +28,7 @@ public bool Equals(UnderlineAnnotation other)
 
 ## Equals(object) {#equals_2}
 
-Confronta le annotazioni sottolineate utilizzando l'oggetto standard Equals metodo
+Confronta le annotazioni sottolineate utilizzando l'oggetto standard Equals method
 
 ```csharp
 public override bool Equals(object obj)

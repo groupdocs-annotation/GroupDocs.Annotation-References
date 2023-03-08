@@ -18,8 +18,8 @@ public class ConvertFileException : AnnotatorException
 
 | Nom | La description |
 | --- | --- |
-| [ConvertFileException](convertfileexception#constructor)(string) | Initialise une nouvelle instance du[`ConvertFileException`](../convertfileexception) classer. |
-| [ConvertFileException](convertfileexception#constructor_1)(string, Exception) | Initialise une nouvelle instance du[`ConvertFileException`](../convertfileexception) classer. |
+| [ConvertFileException](convertfileexception#constructor)(string) | Initialise une nouvelle instance du[`ConvertFileException`](../convertfileexception) classe. |
+| [ConvertFileException](convertfileexception#constructor_1)(string, Exception) | Initialise une nouvelle instance du[`ConvertFileException`](../convertfileexception) classe. |
 
 ### Voir également
 

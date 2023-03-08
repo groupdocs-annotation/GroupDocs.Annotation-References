@@ -20,7 +20,7 @@ public void Update(AnnotationBase newAnnotation)
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni su come aggiornare le annotazioni del documento: [Come aggiornare le annotazioni del documento in C#](https://docs.groupdocs.com/display/annotationnet/Update+annotations)
 
@@ -43,11 +43,11 @@ public void Update(List<AnnotationBase> annotations)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| annotations | List`1 | L'elenco delle annotazioni che verrà impostato. |
+| annotations | List`1 | L'elenco di annotazioni che verrà impostato. |
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni su come aggiornare le annotazioni del documento: [Come aggiornare le annotazioni del documento in C#](https://docs.groupdocs.com/display/annotationnet/Update+annotations)
 

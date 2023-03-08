@@ -3,7 +3,7 @@ title: User
 second_title: GroupDocs.Annotation per riferimento all'API .NET
 description: Rappresenta le proprietà dellutente.
 type: docs
-weight: 930
+weight: 940
 url: /it/net/groupdocs.annotation.models/user/
 ---
 ## User class
@@ -18,8 +18,8 @@ public class User
 
 | Nome | Descrizione |
 | --- | --- |
-| [User](user#constructor)() | Inizializza la nuova istanza di[`User`](../user) classe. |
-| [User](user#constructor_1)(int, string) | Inizializza la nuova istanza di[`User`](../user) classe. |
+| [User](user#constructor)() | Inizializza una nuova istanza di[`User`](../user) classe. |
+| [User](user#constructor_1)(int, string, Role) | Inizializza una nuova istanza di[`User`](../user) classe. |
 
 ## Proprietà
 
@@ -28,6 +28,7 @@ public class User
 | [Email](../../groupdocs.annotation.models/user/email) { get; set; } | E-mail |
 | [Id](../../groupdocs.annotation.models/user/id) { get; set; } | ID utente |
 | [Name](../../groupdocs.annotation.models/user/name) { get; set; } | Nome utente |
+| [Role](../../groupdocs.annotation.models/user/role) { get; set; } | Ruolo |
 
 ### Guarda anche
 

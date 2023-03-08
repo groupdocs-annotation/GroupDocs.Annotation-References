@@ -1,14 +1,14 @@
 ---
 title: CorruptedOrDamagedFileException
 second_title: Référence de l'API GroupDocs.Annotation pour .NET
-description: Initialise une nouvelle instance duCorruptedOrDamagedFileExceptiongroupdocs.annotation.exceptions/corruptedordamagedfileexception classer.
+description: Initialise une nouvelle instance duCorruptedOrDamagedFileExceptiongroupdocs.annotation.exceptions/corruptedordamagedfileexception classe.
 type: docs
 weight: 10
 url: /fr/net/groupdocs.annotation.exceptions/corruptedordamagedfileexception/corruptedordamagedfileexception/
 ---
 ## CorruptedOrDamagedFileException(string) {#constructor}
 
-Initialise une nouvelle instance du[`CorruptedOrDamagedFileException`](../../corruptedordamagedfileexception) classer.
+Initialise une nouvelle instance du[`CorruptedOrDamagedFileException`](../../corruptedordamagedfileexception) classe.
 
 ```csharp
 public CorruptedOrDamagedFileException(string message)
@@ -28,7 +28,7 @@ public CorruptedOrDamagedFileException(string message)
 
 ## CorruptedOrDamagedFileException(string, Exception) {#constructor_1}
 
-Initialise une nouvelle instance du[`CorruptedOrDamagedFileException`](../../corruptedordamagedfileexception) classer.
+Initialise une nouvelle instance du[`CorruptedOrDamagedFileException`](../../corruptedordamagedfileexception) classe.
 
 ```csharp
 public CorruptedOrDamagedFileException(string message, Exception innerException)

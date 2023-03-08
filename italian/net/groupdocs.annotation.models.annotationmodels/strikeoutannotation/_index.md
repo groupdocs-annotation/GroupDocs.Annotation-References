@@ -19,7 +19,7 @@ public class StrikeoutAnnotation : AnnotationBase, IEquatable<StrikeoutAnnotatio
 
 | Nome | Descrizione |
 | --- | --- |
-| [StrikeoutAnnotation](strikeoutannotation)() | Inizializza la nuova istanza di[`StrikeoutAnnotation`](../strikeoutannotation) classe. |
+| [StrikeoutAnnotation](strikeoutannotation)() | Inizializza una nuova istanza di[`StrikeoutAnnotation`](../strikeoutannotation) classe. |
 
 ## Proprietà
 
@@ -35,7 +35,7 @@ public class StrikeoutAnnotation : AnnotationBase, IEquatable<StrikeoutAnnotatio
 | [Points](../../groupdocs.annotation.models.annotationmodels/strikeoutannotation/points) { get; set; } | Ottiene o imposta una raccolta di punti che descrivono rettangoli con text |
 | [Replies](../../groupdocs.annotation.models.annotationmodels/annotationbase/replies) { get; set; } | Rappresenta la raccolta di risposte alle annotazioni |
 | [Type](../../groupdocs.annotation.models.annotationmodels/annotationbase/type) { get; set; } | Ottiene o imposta il tipo di annotazione |
-| [User](../../groupdocs.annotation.models.annotationmodels/annotationbase/user) { get; set; } | Ottiene o imposta il creatore di annotazioni |
+| [User](../../groupdocs.annotation.models.annotationmodels/annotationbase/user) { get; set; } | Ottiene o imposta il creatore dell'annotazione |
 
 ## Metodi
 
@@ -49,7 +49,7 @@ public class StrikeoutAnnotation : AnnotationBase, IEquatable<StrikeoutAnnotatio
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni sui tipi di annotazione e sull'annotazione di documenti PDF e Microsoft Word, fogli di calcolo Excel e presentazioni PowerPoint: [Come annotare i documenti utilizzando GroupDocs.Annotation per .NET](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
 * Ulteriori informazioni sull'aggiunta di annotazioni barrate a documenti di vario tipo: [Come aggiungere annotazioni barrate in C#](https://docs.groupdocs.com/display/annotationnet/Add+strikeout+annotation)

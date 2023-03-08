@@ -13,14 +13,14 @@ Lo spazio dei nomi fornisce le classi di dati dei modelli di annotazione.
 | Classe | Descrizione |
 | --- | --- |
 | [AnnotationBase](./annotationbase) | Classe base per tutti i tipi di annotazione |
-| [AreaAnnotation](./areaannotation) | Rappresenta le proprietà di annotazione dell'area |
+| [AreaAnnotation](./areaannotation) | Rappresenta le proprietà dell'annotazione dell'area |
 | [ArrowAnnotation](./arrowannotation) | Rappresenta le proprietà dell'annotazione della freccia |
-| [DistanceAnnotation](./distanceannotation) | Rappresenta le proprietà di annotazione della distanza |
+| [DistanceAnnotation](./distanceannotation) | Rappresenta le proprietà dell'annotazione della distanza |
 | [EllipseAnnotation](./ellipseannotation) | Rappresenta le proprietà dell'annotazione dell'ellisse |
 | [HighlightAnnotation](./highlightannotation) | Rappresenta le proprietà dell'annotazione evidenziata |
-| [ImageAnnotation](./imageannotation) | Rappresenta le proprietà di annotazione dell'immagine |
+| [ImageAnnotation](./imageannotation) | Rappresenta le proprietà dell'annotazione dell'immagine |
 | [LinkAnnotation](./linkannotation) | Rappresenta le proprietà dell'annotazione del collegamento |
-| [PointAnnotation](./pointannotation) | Rappresenta le proprietà dell'annotazione del punto |
+| [PointAnnotation](./pointannotation) | Rappresenta le proprietà di annotazione punto |
 | [PolylineAnnotation](./polylineannotation) | Rappresenta le proprietà di annotazione della polilinea |
 | [ReplacementAnnotation](./replacementannotation) | Rappresenta le proprietà dell'annotazione sostitutiva |
 | [ResourcesRedactionAnnotation](./resourcesredactionannotation) | Rappresenta le proprietà dell'annotazione di redazione delle risorse |

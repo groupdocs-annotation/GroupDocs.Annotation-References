@@ -1,14 +1,14 @@
 ---
 title: PagesInfo
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Informazioni sulle pagine
+description: Pagine Informazioni
 type: docs
 weight: 30
 url: /it/net/groupdocs.annotation/idocumentinfo/pagesinfo/
 ---
 ## IDocumentInfo.PagesInfo property
 
-Informazioni sulle pagine
+Pagine Informazioni
 
 ```csharp
 public List<PageInfo> PagesInfo { get; set; }

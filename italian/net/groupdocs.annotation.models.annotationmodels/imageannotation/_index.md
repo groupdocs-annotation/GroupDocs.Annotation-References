@@ -1,14 +1,14 @@
 ---
 title: ImageAnnotation
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Rappresenta le proprietà di annotazione dellimmagine
+description: Rappresenta le proprietà dellannotazione dellimmagine
 type: docs
 weight: 250
 url: /it/net/groupdocs.annotation.models.annotationmodels/imageannotation/
 ---
 ## ImageAnnotation class
 
-Rappresenta le proprietà di annotazione dell'immagine
+Rappresenta le proprietà dell'annotazione dell'immagine
 
 ```csharp
 public class ImageAnnotation : AnnotationBase, IAngle, IBox, IEquatable<ImageAnnotation>, IOpacity
@@ -18,7 +18,7 @@ public class ImageAnnotation : AnnotationBase, IAngle, IBox, IEquatable<ImageAnn
 
 | Nome | Descrizione |
 | --- | --- |
-| [ImageAnnotation](imageannotation)() | Inizializza la nuova istanza di[`ImageAnnotation`](../imageannotation) classe. |
+| [ImageAnnotation](imageannotation)() | Inizializza una nuova istanza di[`ImageAnnotation`](../imageannotation) classe. |
 
 ## Proprietà
 
@@ -35,7 +35,7 @@ public class ImageAnnotation : AnnotationBase, IAngle, IBox, IEquatable<ImageAnn
 | [PageNumber](../../groupdocs.annotation.models.annotationmodels/annotationbase/pagenumber) { get; set; } | Ottiene o imposta il numero di pagina da annotare |
 | [Replies](../../groupdocs.annotation.models.annotationmodels/annotationbase/replies) { get; set; } | Rappresenta la raccolta di risposte alle annotazioni |
 | [Type](../../groupdocs.annotation.models.annotationmodels/annotationbase/type) { get; set; } | Ottiene o imposta il tipo di annotazione |
-| [User](../../groupdocs.annotation.models.annotationmodels/annotationbase/user) { get; set; } | Ottiene o imposta il creatore di annotazioni |
+| [User](../../groupdocs.annotation.models.annotationmodels/annotationbase/user) { get; set; } | Ottiene o imposta il creatore dell'annotazione |
 | [ZIndex](../../groupdocs.annotation.models.annotationmodels/imageannotation/zindex) { get; set; } | Ottiene o imposta z-index. Il valore predefinito è 0 |
 
 ## Metodi
@@ -45,16 +45,16 @@ public class ImageAnnotation : AnnotationBase, IAngle, IBox, IEquatable<ImageAnn
 | override [Clone](../../groupdocs.annotation.models.annotationmodels/imageannotation/clone)() | Restituisce una nuova istanza con gli stessi valori |
 | [Equals](../../groupdocs.annotation.models.annotationmodels/annotationbase/equals)(AnnotationBase) | Confronta le annotazioni di base utilizzando il metodo IEquatable Equals |
 | [Equals](../../groupdocs.annotation.models.annotationmodels/imageannotation/equals#equals_1)(ImageAnnotation) | Confronta le annotazioni delle immagini utilizzando il metodo IEquatable Equals |
-| override [Equals](../../groupdocs.annotation.models.annotationmodels/imageannotation/equals#equals_2)(object) | Confronta le annotazioni delle immagini utilizzando l'oggetto standard Equals method |
-| override [GetHashCode](../../groupdocs.annotation.models.annotationmodels/imageannotation/gethashcode)() | Restituisce il codice hash dell'annotazione dell'immagine |
+| override [Equals](../../groupdocs.annotation.models.annotationmodels/imageannotation/equals#equals_2)(object) | Confronta le annotazioni dell'immagine utilizzando l'oggetto standard Equals method |
+| override [GetHashCode](../../groupdocs.annotation.models.annotationmodels/imageannotation/gethashcode)() | Restituisce l'hashcode dell'annotazione dell'immagine |
 | [GetImage](../../groupdocs.annotation.models.annotationmodels/imageannotation/getimage)() | Ottiene l'oggetto immagine |
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni sui tipi di annotazione e sull'annotazione di documenti PDF e Microsoft Word, fogli di calcolo Excel e presentazioni PowerPoint: [Come annotare i documenti utilizzando GroupDocs.Annotation per .NET](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
-* Ulteriori informazioni sull'aggiunta di annotazioni di immagini a documenti di vario tipo: [Come aggiungere annotazioni di immagini in C#](https://docs.groupdocs.com/display/annotationnet/Add+image+annotation)
+* Ulteriori informazioni sull'aggiunta di annotazioni immagine a documenti di vario tipo: [Come aggiungere annotazioni immagine in C#](https://docs.groupdocs.com/display/annotationnet/Add+image+annotation)
 
 ### Guarda anche
 

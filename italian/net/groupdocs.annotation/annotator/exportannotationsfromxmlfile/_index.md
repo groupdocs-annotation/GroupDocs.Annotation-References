@@ -20,7 +20,7 @@ public void ExportAnnotationsFromXMLFile(string filePath)
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni su come esportare le annotazioni: [Come esportare annotazioni da file XML in C#](https://docs.groupdocs.com/display/annotationnet/Export+annotations+from+document)
 

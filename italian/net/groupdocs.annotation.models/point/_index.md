@@ -32,9 +32,9 @@ public struct Point
 | Nome | Descrizione |
 | --- | --- |
 | override [Equals](../../groupdocs.annotation.models/point/equals)(object) | Determina se il punto specificato è uguale al punto corrente. |
-| override [GetHashCode](../../groupdocs.annotation.models/point/gethashcode)() | Serve come funzione hash predefinita. |
-| [operator ==](../../groupdocs.annotation.models/point/op_equality) | Confronta due oggetti Punto. Il risultato specifica se i valori delle proprietà Point.X e Point.Y dei due oggetti Point sono uguali. |
-| [operator !=](../../groupdocs.annotation.models/point/op_inequality) | Confronta due oggetti Punto. Il risultato specifica se i valori delle proprietà Point.X e Point.Y dei due oggetti Point non sono uguali. |
+| override [GetHashCode](../../groupdocs.annotation.models/point/gethashcode)() | Funge da funzione hash predefinita. |
+| [operator ==](../../groupdocs.annotation.models/point/op_equality) | Confronta due oggetti Point. Il risultato specifica se i valori delle proprietà Point.X e Point.Y dei due oggetti Point sono uguali. |
+| [operator !=](../../groupdocs.annotation.models/point/op_inequality) | Confronta due oggetti Point. Il risultato specifica se i valori delle proprietà Point.X e Point.Y dei due oggetti Point non sono uguali. |
 
 ### Guarda anche
 

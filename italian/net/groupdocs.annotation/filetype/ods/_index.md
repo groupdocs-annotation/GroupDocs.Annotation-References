@@ -1,14 +1,14 @@
 ---
 title: Ods
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Formato documento foglio di lavoro OpenDocument
+description: Foglio di calcolo OpenDocument Formato documento
 type: docs
 weight: 170
 url: /it/net/groupdocs.annotation/filetype/ods/
 ---
 ## FileType.Ods property
 
-Formato documento foglio di lavoro OpenDocument
+Foglio di calcolo OpenDocument Formato documento
 
 ```csharp
 public static FileType Ods { get; }

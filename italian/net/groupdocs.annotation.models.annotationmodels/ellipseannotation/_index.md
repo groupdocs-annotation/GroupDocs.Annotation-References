@@ -18,7 +18,7 @@ public class EllipseAnnotation : AnnotationBase, IEllipseAnnotation, IEquatable<
 
 | Nome | Descrizione |
 | --- | --- |
-| [EllipseAnnotation](ellipseannotation)() | Inizializza la nuova istanza di[`EllipseAnnotation`](../ellipseannotation) classe. |
+| [EllipseAnnotation](ellipseannotation)() | Inizializza una nuova istanza di[`EllipseAnnotation`](../ellipseannotation) classe. |
 
 ## Proprietà
 
@@ -36,7 +36,7 @@ public class EllipseAnnotation : AnnotationBase, IEllipseAnnotation, IEquatable<
 | [PenWidth](../../groupdocs.annotation.models.annotationmodels/ellipseannotation/penwidth) { get; set; } | Ottiene o imposta la larghezza della penna dell'annotazione |
 | [Replies](../../groupdocs.annotation.models.annotationmodels/annotationbase/replies) { get; set; } | Rappresenta la raccolta di risposte alle annotazioni |
 | [Type](../../groupdocs.annotation.models.annotationmodels/annotationbase/type) { get; set; } | Ottiene o imposta il tipo di annotazione |
-| [User](../../groupdocs.annotation.models.annotationmodels/annotationbase/user) { get; set; } | Ottiene o imposta il creatore di annotazioni |
+| [User](../../groupdocs.annotation.models.annotationmodels/annotationbase/user) { get; set; } | Ottiene o imposta il creatore dell'annotazione |
 
 ## Metodi
 
@@ -50,7 +50,7 @@ public class EllipseAnnotation : AnnotationBase, IEllipseAnnotation, IEquatable<
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni sui tipi di annotazione e sull'annotazione di documenti PDF e Microsoft Word, fogli di calcolo Excel e presentazioni PowerPoint: [Come annotare i documenti utilizzando GroupDocs.Annotation per .NET](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
 * Ulteriori informazioni sull'aggiunta di annotazioni ellittiche a documenti di vario tipo: [Come aggiungere annotazioni ellittiche in C#](https://docs.groupdocs.com/display/annotationnet/Add+ellipse+annotation)

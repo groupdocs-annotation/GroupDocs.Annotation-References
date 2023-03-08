@@ -1,14 +1,14 @@
 ---
 title: IWatermarkAnnotation
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Definisce le proprietà di annotazione della filigrana
+description: Definisce le proprietà dellannotazione della filigrana
 type: docs
 weight: 420
 url: /it/net/groupdocs.annotation.models.annotationmodels.interfaces.annotations/iwatermarkannotation/
 ---
 ## IWatermarkAnnotation interface
 
-Definisce le proprietà di annotazione della filigrana
+Definisce le proprietà dell'annotazione della filigrana
 
 ```csharp
 public interface IWatermarkAnnotation : IAngle, IBox, IFontColor, IFontFamily, IFontSize, 

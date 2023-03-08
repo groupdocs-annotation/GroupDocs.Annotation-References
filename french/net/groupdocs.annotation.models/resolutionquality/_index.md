@@ -18,10 +18,10 @@ public enum ResolutionQuality : byte
 
 | Nom | Évaluer | La description |
 | --- | --- | --- |
-| None | `0` |  |
-| Low | `1` |  |
-| Medium | `2` |  |
-| High | `3` |  |
+| None | `0` | Qualité par défaut |
+| Low | `1` | Permet de créer de petits documents avec une mauvaise qualité d'image |
+| Medium | `2` | Permet de créer des documents de taille moyenne avec une bonne qualité d'image |
+| High | `3` | Permet de créer des documents plus volumineux avec une qualité d'image élevée |
 
 ### Voir également
 

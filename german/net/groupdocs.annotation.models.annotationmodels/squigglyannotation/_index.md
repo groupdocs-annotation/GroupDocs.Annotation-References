@@ -50,10 +50,10 @@ public class SquigglyAnnotation : AnnotationBase, IEquatable<SquigglyAnnotation>
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Mehr über Anmerkungstypen und das Kommentieren von PDF- und Microsoft Word-Dokumenten, Excel-Tabellen und PowerPoint-Präsentationen: [So kommentieren Sie Dokumente mit GroupDocs.Annotation für .NET](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
-* Weitere Informationen zum Hinzufügen verschnörkelter Anmerkungen zu Dokumenten verschiedener Typen: [So fügen Sie verschnörkelte Anmerkungen in C# hinzu](https://docs.groupdocs.com/display/annotationnet/Add+squiggly+annotation)
+* Weitere Informationen zum Hinzufügen verschnörkelter Anmerkungen zu Dokumenten verschiedener Typen: [So fügen Sie verschnörkelte Anmerkungen in C# hinzu](https://docs.groupdocs.com/annotation/net/add-squiggly-annotation/)
 
 ### Siehe auch
 

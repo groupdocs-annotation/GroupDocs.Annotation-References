@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Confronta i componenti dei pulsanti utilizzando il metodo IEquatable Equals
+description: Confronta i componenti del pulsante utilizzando il metodo IEquatable Equals
 type: docs
 weight: 130
 url: /it/net/groupdocs.annotation.models.formatspecificcomponents.pdf/buttoncomponent/equals/
 ---
 ## Equals(ButtonComponent) {#equals_1}
 
-Confronta i componenti dei pulsanti utilizzando il metodo IEquatable Equals
+Confronta i componenti del pulsante utilizzando il metodo IEquatable Equals
 
 ```csharp
 public bool Equals(ButtonComponent other)
@@ -16,7 +16,7 @@ public bool Equals(ButtonComponent other)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| other | ButtonComponent | L'oggetto ButtonComponent da confrontare con l'oggetto corrente |
+| other | ButtonComponent | Oggetto ButtonComponent da confrontare con l'oggetto corrente |
 
 ### Guarda anche
 

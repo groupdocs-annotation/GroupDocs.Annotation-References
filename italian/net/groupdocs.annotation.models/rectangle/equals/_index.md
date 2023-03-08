@@ -20,7 +20,7 @@ public override bool Equals(object obj)
 
 ### Valore di ritorno
 
-`true` se il rettangolo specificato è uguale al rettangolo corrente; altrimenti,`false`.
+`true` se il rettangolo specificato è uguale al rettangolo corrente; Altrimenti,`false`.
 
 ### Guarda anche
 

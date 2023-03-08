@@ -1,14 +1,14 @@
 ---
 title: IsLocaleSupported
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Determina se è supportata la locale le impostazioni cultura specificate.
+description: Determina se è supportata la locale la cultura specificata.
 type: docs
 weight: 10
 url: /it/net/groupdocs.annotation.localization/supportedlocales/islocalesupported/
 ---
 ## IsLocaleSupported(string) {#islocalesupported_1}
 
-Determina se [è supportata la locale] [le impostazioni cultura specificate].
+Determina se [è supportata la locale] [la cultura specificata].
 
 ```csharp
 public static bool IsLocaleSupported(string culture)
@@ -28,7 +28,7 @@ public static bool IsLocaleSupported(string culture)
 
 ## IsLocaleSupported(CultureInfo) {#islocalesupported}
 
-Determina se [è supportata la locale] [le impostazioni cultura specificate].
+Determina se [è supportata la locale] [la cultura specificata].
 
 ```csharp
 public static bool IsLocaleSupported(CultureInfo culture)

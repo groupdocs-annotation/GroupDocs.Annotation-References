@@ -1,14 +1,14 @@
 ---
 title: FileCache
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Inizializza la nuova istanza diFileCachegroupdocs.annotation.cache/filecache classe.
+description: Inizializza una nuova istanza diFileCachegroupdocs.annotation.cache/filecache classe.
 type: docs
 weight: 10
 url: /it/net/groupdocs.annotation.cache/filecache/filecache/
 ---
 ## FileCache() {#constructor}
 
-Inizializza la nuova istanza di[`FileCache`](../../filecache) classe.
+Inizializza una nuova istanza di[`FileCache`](../../filecache) classe.
 
 ```csharp
 public FileCache()
@@ -24,7 +24,7 @@ public FileCache()
 
 ## FileCache(string) {#constructor_1}
 
-Inizializza la nuova istanza di[`FileCache`](../../filecache) classe.
+Inizializza una nuova istanza di[`FileCache`](../../filecache) classe.
 
 ```csharp
 public FileCache(string path)

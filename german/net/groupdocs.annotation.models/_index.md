@@ -32,6 +32,7 @@ Der Namensraum stellt Anmerkungsdatenklassen bereit.
 | [HorizontalAlignment](./horizontalalignment) | Repräsentiert den Status der horizontalen Ausrichtung von Anmerkungen |
 | [PenStyle](./penstyle) | Stiftstil |
 | [ResolutionQuality](./resolutionquality) | Auflösungsqualität |
+| [Role](./role) | Rolle |
 | [RotationDocument](./rotationdocument) | Rotation |
 | [VerticalAlignment](./verticalalignment) | Stellt den Status der vertikalen Ausrichtung von Anmerkungen dar |
 

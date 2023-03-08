@@ -1,14 +1,14 @@
 ---
 title: ITextFieldAnnotation
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Definisce le proprietà dellannotazione del campo di testo
+description: Definisce le proprietà di annotazione del campo di testo
 type: docs
 weight: 390
 url: /it/net/groupdocs.annotation.models.annotationmodels.interfaces.annotations/itextfieldannotation/
 ---
 ## ITextFieldAnnotation interface
 
-Definisce le proprietà dell'annotazione del campo di testo
+Definisce le proprietà di annotazione del campo di testo
 
 ```csharp
 public interface ITextFieldAnnotation : IBackgroundColor, IBox, IFontColor, IFontFamily, IFontSize, 

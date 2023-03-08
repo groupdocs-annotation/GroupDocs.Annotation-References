@@ -1,14 +1,14 @@
 ---
 title: Dotx
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Modello di Microsoft Word.
+description: Modello Microsoft Word.
 type: docs
 weight: 70
 url: /it/net/groupdocs.annotation/filetype/dotx/
 ---
 ## FileType.Dotx property
 
-Modello di Microsoft Word.
+Modello Microsoft Word.
 
 ```csharp
 public static FileType Dotx { get; }

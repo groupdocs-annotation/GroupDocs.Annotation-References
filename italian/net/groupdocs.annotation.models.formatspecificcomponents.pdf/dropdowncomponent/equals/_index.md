@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Confronta il componente a discesa utilizzando il metodo IEquatable Equals
+description: Confronta il componente Dropdown utilizzando il metodo IEquatable Equals
 type: docs
 weight: 100
 url: /it/net/groupdocs.annotation.models.formatspecificcomponents.pdf/dropdowncomponent/equals/
 ---
 ## Equals(DropdownComponent) {#equals_1}
 
-Confronta il componente a discesa utilizzando il metodo IEquatable Equals
+Confronta il componente Dropdown utilizzando il metodo IEquatable Equals
 
 ```csharp
 public bool Equals(DropdownComponent other)
@@ -16,7 +16,7 @@ public bool Equals(DropdownComponent other)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| other | DropdownComponent | L'oggetto DropdownComponent da confrontare con l'oggetto corrente |
+| other | DropdownComponent | Oggetto DropdownComponent da confrontare con l'oggetto corrente |
 
 ### Guarda anche
 

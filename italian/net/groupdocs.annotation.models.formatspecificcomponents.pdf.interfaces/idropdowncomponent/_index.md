@@ -18,8 +18,8 @@ public interface IDropdownComponent : IBox, IPenColor, IPenStyle, IPenWidth
 
 | Nome | Descrizione |
 | --- | --- |
-| [Options](../../groupdocs.annotation.models.formatspecificcomponents.pdf.interfaces/idropdowncomponent/options) { get; set; } | Elenco di opzioni (elementi a discesa) da mostrare quando si fa clic sul componente |
-| [Placeholder](../../groupdocs.annotation.models.formatspecificcomponents.pdf.interfaces/idropdowncomponent/placeholder) { get; set; } | Testo da visualizzare quando non è stata ancora selezionata alcuna opzione |
+| [Options](../../groupdocs.annotation.models.formatspecificcomponents.pdf.interfaces/idropdowncomponent/options) { get; set; } | Elenco di opzioni (voci a discesa) da visualizzare quando si fa clic sul componente |
+| [Placeholder](../../groupdocs.annotation.models.formatspecificcomponents.pdf.interfaces/idropdowncomponent/placeholder) { get; set; } | Testo da mostrare quando non è stata ancora selezionata alcuna opzione |
 | [SelectedOption](../../groupdocs.annotation.models.formatspecificcomponents.pdf.interfaces/idropdowncomponent/selectedoption) { get; set; } | Numero di opzioni da selezionare per impostazione predefinita |
 
 ### Guarda anche

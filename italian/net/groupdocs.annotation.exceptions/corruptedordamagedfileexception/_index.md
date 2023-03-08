@@ -1,14 +1,14 @@
 ---
 title: CorruptedOrDamagedFileException
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Leccezione generata quando il file è danneggiato o danneggiato.
+description: Leccezione generata quando il file è corrotto o danneggiato.
 type: docs
 weight: 80
 url: /it/net/groupdocs.annotation.exceptions/corruptedordamagedfileexception/
 ---
 ## CorruptedOrDamagedFileException class
 
-L'eccezione generata quando il file è danneggiato o danneggiato.
+L'eccezione generata quando il file è corrotto o danneggiato.
 
 ```csharp
 public class CorruptedOrDamagedFileException : AnnotatorException

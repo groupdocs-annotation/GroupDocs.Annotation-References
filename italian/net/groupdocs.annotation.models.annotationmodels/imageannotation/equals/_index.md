@@ -16,7 +16,7 @@ public bool Equals(ImageAnnotation other)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| other | ImageAnnotation | L'oggetto ImageAnnotation da confrontare con l'oggetto corrente |
+| other | ImageAnnotation | Oggetto ImageAnnotation da confrontare con l'oggetto corrente |
 
 ### Guarda anche
 
@@ -28,7 +28,7 @@ public bool Equals(ImageAnnotation other)
 
 ## Equals(object) {#equals_2}
 
-Confronta le annotazioni delle immagini utilizzando l'oggetto standard Equals method
+Confronta le annotazioni dell'immagine utilizzando l'oggetto standard Equals method
 
 ```csharp
 public override bool Equals(object obj)

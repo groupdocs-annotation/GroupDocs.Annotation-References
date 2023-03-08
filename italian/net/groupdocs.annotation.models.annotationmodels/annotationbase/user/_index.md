@@ -1,14 +1,14 @@
 ---
 title: User
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Ottiene o imposta il creatore di annotazioni
+description: Ottiene o imposta il creatore dellannotazione
 type: docs
 weight: 70
 url: /it/net/groupdocs.annotation.models.annotationmodels/annotationbase/user/
 ---
 ## AnnotationBase.User property
 
-Ottiene o imposta il creatore di annotazioni
+Ottiene o imposta il creatore dell'annotazione
 
 ```csharp
 public User User { get; set; }

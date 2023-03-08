@@ -3,7 +3,7 @@ title: WorksheetColumnsRange
 second_title: Référence de l'API GroupDocs.Annotation pour .NET
 description: Représente une plage de colonnes pour une feuille de calcul spécifiée
 type: docs
-weight: 1020
+weight: 1030
 url: /fr/net/groupdocs.annotation.options/worksheetcolumnsrange/
 ---
 ## WorksheetColumnsRange class

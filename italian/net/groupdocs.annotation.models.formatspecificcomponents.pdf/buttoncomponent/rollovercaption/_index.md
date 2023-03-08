@@ -1,14 +1,14 @@
 ---
 title: RolloverCaption
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Ottiene o imposta la didascalia di rollover del pulsante che deve essere visualizzata quando lutente sposta il cursore nellarea attiva senza premere il pulsante del mouse.
+description: Ottiene o imposta la didascalia di rollover del pulsante che verrà visualizzata quando lutente sposta il cursore nella sua area attiva senza premere il pulsante del mouse.
 type: docs
 weight: 100
 url: /it/net/groupdocs.annotation.models.formatspecificcomponents.pdf/buttoncomponent/rollovercaption/
 ---
 ## ButtonComponent.RolloverCaption property
 
-Ottiene o imposta la didascalia di rollover del pulsante che deve essere visualizzata quando l'utente sposta il cursore nell'area attiva senza premere il pulsante del mouse.
+Ottiene o imposta la didascalia di rollover del pulsante che verrà visualizzata quando l'utente sposta il cursore nella sua area attiva senza premere il pulsante del mouse.
 
 ```csharp
 public string RolloverCaption { get; set; }

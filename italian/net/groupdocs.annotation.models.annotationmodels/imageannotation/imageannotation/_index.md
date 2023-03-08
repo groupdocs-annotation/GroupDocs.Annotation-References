@@ -1,14 +1,14 @@
 ---
 title: ImageAnnotation
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Inizializza la nuova istanza diImageAnnotationgroupdocs.annotation.models.annotationmodels/imageannotation classe.
+description: Inizializza una nuova istanza diImageAnnotationgroupdocs.annotation.models.annotationmodels/imageannotation classe.
 type: docs
 weight: 10
 url: /it/net/groupdocs.annotation.models.annotationmodels/imageannotation/imageannotation/
 ---
 ## ImageAnnotation constructor
 
-Inizializza la nuova istanza di[`ImageAnnotation`](../../imageannotation) classe.
+Inizializza una nuova istanza di[`ImageAnnotation`](../../imageannotation) classe.
 
 ```csharp
 public ImageAnnotation()

@@ -10,7 +10,7 @@ url: /de/net/groupdocs.annotation.models.annotationmodels/imageannotation/zindex
 
 Ruft den Z-Index ab oder legt ihn fest. Der Standardwert ist 0
 
-Das**z-index**-Eigenschaft gibt die Stapelreihenfolge eines Elements an.
+Der**z-index**-Eigenschaft gibt die Stapelreihenfolge eines Elements an.
 
 ```csharp
 public int ZIndex { get; set; }

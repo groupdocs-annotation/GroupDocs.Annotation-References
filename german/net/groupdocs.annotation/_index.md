@@ -16,7 +16,7 @@ Der Namensraum bietet Klassen zum Annotieren von Dokumenten für alle gängigen 
 | [AnnotatorSettings](./annotatorsettings) | Definiert Einstellungen für das Customizing[`Annotator`](../groupdocs.annotation/annotator) Verhalten. |
 | [Document](./document) | Stellt Dokumenteigenschaften dar |
 | [FileType](./filetype) | Informationen zur Datei, wie Typ, Erweiterung etc. |
-| [License](./license) | Stellt Methoden zur Lizenzierung der Komponente bereit. Erfahren Sie mehr über die Lizenzierung[hier](https://purchase.groupdocs.com/faqs/licensing) . |
+| [License](./license) | Stellt Methoden zur Lizenzierung der Komponente bereit. Erfahren Sie mehr über die Lizenzierung[Hier](https://purchase.groupdocs.com/faqs/licensing) . |
 | [Metered](./metered) | Bietet Methoden zum Anwenden[Gemessen](https://purchase.groupdocs.com/faqs/licensing/metered) Lizenz. |
 ## Schnittstellen
 

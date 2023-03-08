@@ -1,14 +1,14 @@
 ---
 title: Text
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Testo riga
+description: Riga testo
 type: docs
 weight: 30
 url: /it/net/groupdocs.annotation.models/textlineinfo/text/
 ---
 ## TextLineInfo.Text property
 
-Testo riga
+Riga testo
 
 ```csharp
 public string Text { get; set; }

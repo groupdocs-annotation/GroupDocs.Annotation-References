@@ -18,7 +18,7 @@ public class LinkAnnotation : AnnotationBase, IEquatable<LinkAnnotation>, ILinkA
 
 | Nome | Descrizione |
 | --- | --- |
-| [LinkAnnotation](linkannotation)() | Inizializza la nuova istanza di[`LinkAnnotation`](../linkannotation) classe. |
+| [LinkAnnotation](linkannotation)() | Inizializza una nuova istanza di[`LinkAnnotation`](../linkannotation) classe. |
 
 ## Proprietà
 
@@ -35,7 +35,7 @@ public class LinkAnnotation : AnnotationBase, IEquatable<LinkAnnotation>, ILinkA
 | [Replies](../../groupdocs.annotation.models.annotationmodels/annotationbase/replies) { get; set; } | Rappresenta la raccolta di risposte alle annotazioni |
 | [Type](../../groupdocs.annotation.models.annotationmodels/annotationbase/type) { get; set; } | Ottiene o imposta il tipo di annotazione |
 | [Url](../../groupdocs.annotation.models.annotationmodels/linkannotation/url) { get; set; } | Ottiene o imposta l'URL del collegamento all'annotazione |
-| [User](../../groupdocs.annotation.models.annotationmodels/annotationbase/user) { get; set; } | Ottiene o imposta il creatore di annotazioni |
+| [User](../../groupdocs.annotation.models.annotationmodels/annotationbase/user) { get; set; } | Ottiene o imposta il creatore dell'annotazione |
 
 ## Metodi
 
@@ -44,12 +44,12 @@ public class LinkAnnotation : AnnotationBase, IEquatable<LinkAnnotation>, ILinkA
 | override [Clone](../../groupdocs.annotation.models.annotationmodels/linkannotation/clone)() | Restituisce una nuova istanza con gli stessi valori |
 | [Equals](../../groupdocs.annotation.models.annotationmodels/annotationbase/equals)(AnnotationBase) | Confronta le annotazioni di base utilizzando il metodo IEquatable Equals |
 | [Equals](../../groupdocs.annotation.models.annotationmodels/linkannotation/equals#equals_1)(LinkAnnotation) | Confronta le annotazioni dei collegamenti utilizzando il metodo IEquatable Equals |
-| override [Equals](../../groupdocs.annotation.models.annotationmodels/linkannotation/equals#equals_2)(object) | Confronta le annotazioni di collegamento utilizzando il metodo Equals dell'oggetto standard |
-| override [GetHashCode](../../groupdocs.annotation.models.annotationmodels/linkannotation/gethashcode)() | Restituisce il codice hash dell'annotazione del collegamento |
+| override [Equals](../../groupdocs.annotation.models.annotationmodels/linkannotation/equals#equals_2)(object) | Confronta le annotazioni di collegamento utilizzando un oggetto standard È uguale a method |
+| override [GetHashCode](../../groupdocs.annotation.models.annotationmodels/linkannotation/gethashcode)() | Restituisce HashCode dell'annotazione del collegamento |
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni sui tipi di annotazione e sull'annotazione di documenti PDF e Microsoft Word, fogli di calcolo Excel e presentazioni PowerPoint: [Come annotare i documenti utilizzando GroupDocs.Annotation per .NET](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
 * Ulteriori informazioni sull'aggiunta di annotazioni di collegamento a documenti di vario tipo: [Come aggiungere annotazioni di collegamento in C#](https://docs.groupdocs.com/display/annotationnet/Add+link+annotation)

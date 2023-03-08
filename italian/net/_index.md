@@ -10,10 +10,10 @@ is_root: true
 
 | Spazio dei nomi | Descrizione |
 | --- | --- |
-| [GroupDocs.Annotation](./groupdocs.annotation) | Lo spazio dei nomi fornisce classi per annotare i documenti per tutti i formati di documenti più diffusi. |
-| [GroupDocs.Annotation.Cache](./groupdocs.annotation.cache) | Lo spazio dei nomi fornisce classi per la personalizzazione del comportamento di memorizzazione nella cache. |
+| [GroupDocs.Annotation](./groupdocs.annotation) | Lo spazio dei nomi fornisce classi per annotare documenti per tutti i formati di documenti più diffusi. |
+| [GroupDocs.Annotation.Cache](./groupdocs.annotation.cache) | Lo spazio dei nomi fornisce classi per personalizzare il comportamento della memorizzazione nella cache. |
 | [GroupDocs.Annotation.Exceptions](./groupdocs.annotation.exceptions) | Lo spazio dei nomi fornisce diverse classi di eccezioni. |
-| [GroupDocs.Annotation.Localization](./groupdocs.annotation.localization) | Lo spazio dei nomi fornisce classi che controllano le localizzazioni supportate. |
+| [GroupDocs.Annotation.Localization](./groupdocs.annotation.localization) | Lo spazio dei nomi fornisce classi che controllano le impostazioni locali supportate. |
 | [GroupDocs.Annotation.Logging](./groupdocs.annotation.logging) | Lo spazio dei nomi fornisce le classi per lavorare con il tuo logger integrato o personalizzato. |
 | [GroupDocs.Annotation.Models](./groupdocs.annotation.models) | Lo spazio dei nomi fornisce classi di dati di annotazione. |
 | [GroupDocs.Annotation.Models.AnnotationModels](./groupdocs.annotation.models.annotationmodels) | Lo spazio dei nomi fornisce le classi di dati dei modelli di annotazione. |

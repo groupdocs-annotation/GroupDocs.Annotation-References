@@ -19,7 +19,7 @@ public class TextRedactionAnnotation : AnnotationBase, IEquatable<TextRedactionA
 
 | Nome | Descrizione |
 | --- | --- |
-| [TextRedactionAnnotation](textredactionannotation)() | Inizializza la nuova istanza di[`TextRedactionAnnotation`](../textredactionannotation) classe. |
+| [TextRedactionAnnotation](textredactionannotation)() | Inizializza una nuova istanza di[`TextRedactionAnnotation`](../textredactionannotation) classe. |
 
 ## Proprietà
 
@@ -33,7 +33,7 @@ public class TextRedactionAnnotation : AnnotationBase, IEquatable<TextRedactionA
 | [Points](../../groupdocs.annotation.models.annotationmodels/textredactionannotation/points) { get; set; } | Ottiene o imposta una raccolta di punti che descrivono rettangoli con text |
 | [Replies](../../groupdocs.annotation.models.annotationmodels/annotationbase/replies) { get; set; } | Rappresenta la raccolta di risposte alle annotazioni |
 | [Type](../../groupdocs.annotation.models.annotationmodels/annotationbase/type) { get; set; } | Ottiene o imposta il tipo di annotazione |
-| [User](../../groupdocs.annotation.models.annotationmodels/annotationbase/user) { get; set; } | Ottiene o imposta il creatore di annotazioni |
+| [User](../../groupdocs.annotation.models.annotationmodels/annotationbase/user) { get; set; } | Ottiene o imposta il creatore dell'annotazione |
 
 ## Metodi
 
@@ -47,7 +47,7 @@ public class TextRedactionAnnotation : AnnotationBase, IEquatable<TextRedactionA
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni sui tipi di annotazione e sull'annotazione di documenti PDF e Microsoft Word, fogli di calcolo Excel e presentazioni PowerPoint: [Come annotare i documenti utilizzando GroupDocs.Annotation per .NET](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
 * Ulteriori informazioni sull'aggiunta di annotazioni di redazione del testo a documenti di vario tipo: [Come aggiungere annotazioni di redazione del testo in C#](https://docs.groupdocs.com/display/annotationnet/Add+text+redaction+annotation)

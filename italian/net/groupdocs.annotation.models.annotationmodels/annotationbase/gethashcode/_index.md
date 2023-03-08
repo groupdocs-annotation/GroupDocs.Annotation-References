@@ -1,14 +1,14 @@
 ---
 title: GetHashCode
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Restituisce HashCode di AnnotationBase Proprietà messaggio numero pagina e tipo
+description: Restituisce HashCode di AnnotationBase Message PageNumber e Type Properties
 type: docs
 weight: 100
 url: /it/net/groupdocs.annotation.models.annotationmodels/annotationbase/gethashcode/
 ---
 ## AnnotationBase.GetHashCode method
 
-Restituisce HashCode di AnnotationBase Proprietà messaggio, numero pagina e tipo
+Restituisce HashCode di AnnotationBase Message, PageNumber e Type Properties
 
 ```csharp
 public override int GetHashCode()

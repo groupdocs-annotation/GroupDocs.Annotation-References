@@ -1,14 +1,14 @@
 ---
 title: GetHashCode
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Restituisce il codice hash dellannotazione sottolineata
+description: Restituisce HashCode dellannotazione sottolineata
 type: docs
 weight: 90
 url: /it/net/groupdocs.annotation.models.annotationmodels/underlineannotation/gethashcode/
 ---
 ## UnderlineAnnotation.GetHashCode method
 
-Restituisce il codice hash dell'annotazione sottolineata
+Restituisce HashCode dell'annotazione sottolineata
 
 ```csharp
 public override int GetHashCode()

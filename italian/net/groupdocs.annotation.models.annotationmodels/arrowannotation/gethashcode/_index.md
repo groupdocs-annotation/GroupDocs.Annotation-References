@@ -1,14 +1,14 @@
 ---
 title: GetHashCode
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Restituisce il codice hash dellannotazione della freccia
+description: Restituisce HashCode dellannotazione freccia
 type: docs
 weight: 90
 url: /it/net/groupdocs.annotation.models.annotationmodels/arrowannotation/gethashcode/
 ---
 ## ArrowAnnotation.GetHashCode method
 
-Restituisce il codice hash dell'annotazione della freccia
+Restituisce HashCode dell'annotazione freccia
 
 ```csharp
 public override int GetHashCode()

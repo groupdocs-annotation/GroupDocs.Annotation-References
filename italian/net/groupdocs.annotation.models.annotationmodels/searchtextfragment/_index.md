@@ -19,7 +19,7 @@ public class SearchTextFragment : AnnotationBase, IEquatable<SearchTextFragment>
 
 | Nome | Descrizione |
 | --- | --- |
-| [SearchTextFragment](searchtextfragment)() | Inizializza la nuova istanza di[`SearchTextFragment`](../searchtextfragment) classe. |
+| [SearchTextFragment](searchtextfragment)() | Inizializza una nuova istanza di[`SearchTextFragment`](../searchtextfragment) classe. |
 
 ## Proprietà
 
@@ -36,7 +36,7 @@ public class SearchTextFragment : AnnotationBase, IEquatable<SearchTextFragment>
 | [Replies](../../groupdocs.annotation.models.annotationmodels/annotationbase/replies) { get; set; } | Rappresenta la raccolta di risposte alle annotazioni |
 | [Text](../../groupdocs.annotation.models.annotationmodels/searchtextfragment/text) { get; set; } | Ottiene o imposta il testo da trovare |
 | [Type](../../groupdocs.annotation.models.annotationmodels/annotationbase/type) { get; set; } | Ottiene o imposta il tipo di annotazione |
-| [User](../../groupdocs.annotation.models.annotationmodels/annotationbase/user) { get; set; } | Ottiene o imposta il creatore di annotazioni |
+| [User](../../groupdocs.annotation.models.annotationmodels/annotationbase/user) { get; set; } | Ottiene o imposta il creatore dell'annotazione |
 
 ## Metodi
 
@@ -50,7 +50,7 @@ public class SearchTextFragment : AnnotationBase, IEquatable<SearchTextFragment>
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni sui tipi di annotazione e sull'annotazione del PDF: [Come annotare i documenti utilizzando GroupDocs.Annotation per .NET](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
 * Ulteriori informazioni sull'aggiunta di annotazioni searchText a documenti di vario tipo: [Come aggiungere annotazioni searchText in C#](https://docs.groupdocs.com/display/annotationnet/Add+searchText+annotation)

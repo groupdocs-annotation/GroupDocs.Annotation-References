@@ -20,7 +20,7 @@ public override bool Equals(object obj)
 
 ### Return_Value
 
-`true` si le point spécifié est égal au point courant ; Par ailleurs,`false`.
+`true` si le point spécifié est égal au point courant ; sinon,`false`.
 
 ### Voir également
 

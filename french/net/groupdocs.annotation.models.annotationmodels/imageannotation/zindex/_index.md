@@ -10,7 +10,7 @@ url: /fr/net/groupdocs.annotation.models.annotationmodels/imageannotation/zindex
 
 Obtient ou définit le z-index. La valeur par défaut est 0
 
-La**indice z**La propriété spécifie l'ordre de pile d'un élément.
+Le**indice z**La propriété spécifie l'ordre de pile d'un élément.
 
 ```csharp
 public int ZIndex { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: FileTypeNotSupportedException
 second_title: Référence de l'API GroupDocs.Annotation pour .NET
-description: Initialise une nouvelle instance duFileTypeNotSupportedExceptiongroupdocs.annotation.exceptions/filetypenotsupportedexception classer.
+description: Initialise une nouvelle instance duFileTypeNotSupportedExceptiongroupdocs.annotation.exceptions/filetypenotsupportedexception classe.
 type: docs
 weight: 10
 url: /fr/net/groupdocs.annotation.exceptions/filetypenotsupportedexception/filetypenotsupportedexception/
 ---
 ## FileTypeNotSupportedException(string) {#constructor}
 
-Initialise une nouvelle instance du[`FileTypeNotSupportedException`](../../filetypenotsupportedexception) classer.
+Initialise une nouvelle instance du[`FileTypeNotSupportedException`](../../filetypenotsupportedexception) classe.
 
 ```csharp
 public FileTypeNotSupportedException(string message)
@@ -28,7 +28,7 @@ public FileTypeNotSupportedException(string message)
 
 ## FileTypeNotSupportedException(string, Exception) {#constructor_1}
 
-Initialise une nouvelle instance du[`FileTypeNotSupportedException`](../../filetypenotsupportedexception) classer.
+Initialise une nouvelle instance du[`FileTypeNotSupportedException`](../../filetypenotsupportedexception) classe.
 
 ```csharp
 public FileTypeNotSupportedException(string message, Exception innerException)

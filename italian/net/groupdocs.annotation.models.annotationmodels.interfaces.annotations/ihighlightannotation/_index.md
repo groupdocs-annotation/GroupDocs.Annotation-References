@@ -1,14 +1,14 @@
 ---
 title: IHighlightAnnotation
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Definisce le proprietà dellannotazione di evidenziazione
+description: Definisce le proprietà dellannotazione evidenziata
 type: docs
 weight: 300
 url: /it/net/groupdocs.annotation.models.annotationmodels.interfaces.annotations/ihighlightannotation/
 ---
 ## IHighlightAnnotation interface
 
-Definisce le proprietà dell'annotazione di evidenziazione
+Definisce le proprietà dell'annotazione evidenziata
 
 ```csharp
 public interface IHighlightAnnotation : IBackgroundColor, IFontColor, IOpacity, IPoints

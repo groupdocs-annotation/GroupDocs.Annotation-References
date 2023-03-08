@@ -1,14 +1,14 @@
 ---
 title: EllipseAnnotation
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Inizializza la nuova istanza diEllipseAnnotationgroupdocs.annotation.models.annotationmodels/ellipseannotation classe.
+description: Inizializza una nuova istanza diEllipseAnnotationgroupdocs.annotation.models.annotationmodels/ellipseannotation classe.
 type: docs
 weight: 10
 url: /it/net/groupdocs.annotation.models.annotationmodels/ellipseannotation/ellipseannotation/
 ---
 ## EllipseAnnotation constructor
 
-Inizializza la nuova istanza di[`EllipseAnnotation`](../../ellipseannotation) classe.
+Inizializza una nuova istanza di[`EllipseAnnotation`](../../ellipseannotation) classe.
 
 ```csharp
 public EllipseAnnotation()

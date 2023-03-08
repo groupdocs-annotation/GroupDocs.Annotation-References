@@ -1,14 +1,14 @@
 ---
 title: ImageNotLoadedException
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Leccezione generata quando limmagine non può essere caricata da un percorso remoto o locale.
+description: Leccezione generata quando limmagine non può essere caricata dal percorso remoto o locale.
 type: docs
 weight: 110
 url: /it/net/groupdocs.annotation.exceptions/imagenotloadedexception/
 ---
 ## ImageNotLoadedException class
 
-L'eccezione generata quando l'immagine non può essere caricata da un percorso remoto o locale.
+L'eccezione generata quando l'immagine non può essere caricata dal percorso remoto o locale.
 
 ```csharp
 public class ImageNotLoadedException : AnnotatorException

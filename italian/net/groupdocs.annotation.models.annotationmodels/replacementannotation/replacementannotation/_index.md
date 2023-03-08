@@ -1,14 +1,14 @@
 ---
 title: ReplacementAnnotation
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Inizializza la nuova istanza diReplacementAnnotationgroupdocs.annotation.models.annotationmodels/replacementannotation classe.
+description: Inizializza una nuova istanza diReplacementAnnotationgroupdocs.annotation.models.annotationmodels/replacementannotation classe.
 type: docs
 weight: 10
 url: /it/net/groupdocs.annotation.models.annotationmodels/replacementannotation/replacementannotation/
 ---
 ## ReplacementAnnotation constructor
 
-Inizializza la nuova istanza di[`ReplacementAnnotation`](../../replacementannotation) classe.
+Inizializza una nuova istanza di[`ReplacementAnnotation`](../../replacementannotation) classe.
 
 ```csharp
 public ReplacementAnnotation()

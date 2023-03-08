@@ -3,7 +3,7 @@ title: ReleasePageStream
 second_title: GroupDocs.Annotation per riferimento all'API .NET
 description: Delegato che definisce il metodo per rilasciare il flusso di anteprima della pagina di output.
 type: docs
-weight: 1000
+weight: 1010
 url: /it/net/groupdocs.annotation.options/releasepagestream/
 ---
 ## ReleasePageStream delegate

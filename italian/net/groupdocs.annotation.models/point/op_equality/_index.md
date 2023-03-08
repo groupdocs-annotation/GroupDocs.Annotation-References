@@ -1,14 +1,14 @@
 ---
 title: op_Equality
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Confronta due oggetti Punto. Il risultato specifica se i valori delle proprietà Point.X e Point.Y dei due oggetti Point sono uguali.
+description: Confronta due oggetti Point. Il risultato specifica se i valori delle proprietà Point.X e Point.Y dei due oggetti Point sono uguali.
 type: docs
 weight: 60
 url: /it/net/groupdocs.annotation.models/point/op_equality/
 ---
 ## Point Equality operator
 
-Confronta due oggetti Punto. Il risultato specifica se i valori delle proprietà Point.X e Point.Y dei due oggetti Point sono uguali.
+Confronta due oggetti Point. Il risultato specifica se i valori delle proprietà Point.X e Point.Y dei due oggetti Point sono uguali.
 
 ```csharp
 public static bool operator ==(Point left, Point right)
@@ -21,7 +21,7 @@ public static bool operator ==(Point left, Point right)
 
 ### Valore di ritorno
 
-true se i valori Point.X e Point.Y di sinistra e destra sono uguali; altrimenti falso.
+true se i valori Point.X e Point.Y di sinistra e destra sono uguali; altrimenti, falso.
 
 ### Guarda anche
 

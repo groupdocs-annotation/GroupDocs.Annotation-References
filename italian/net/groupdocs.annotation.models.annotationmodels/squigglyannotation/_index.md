@@ -19,7 +19,7 @@ public class SquigglyAnnotation : AnnotationBase, IEquatable<SquigglyAnnotation>
 
 | Nome | Descrizione |
 | --- | --- |
-| [SquigglyAnnotation](squigglyannotation)() | Inizializza la nuova istanza di[`SquigglyAnnotation`](../squigglyannotation) classe. |
+| [SquigglyAnnotation](squigglyannotation)() | Inizializza una nuova istanza di[`SquigglyAnnotation`](../squigglyannotation) classe. |
 
 ## Proprietà
 
@@ -36,7 +36,7 @@ public class SquigglyAnnotation : AnnotationBase, IEquatable<SquigglyAnnotation>
 | [Replies](../../groupdocs.annotation.models.annotationmodels/annotationbase/replies) { get; set; } | Rappresenta la raccolta di risposte alle annotazioni |
 | [SquigglyColor](../../groupdocs.annotation.models.annotationmodels/squigglyannotation/squigglycolor) { get; set; } | Ottiene o imposta l'annotazione color |
 | [Type](../../groupdocs.annotation.models.annotationmodels/annotationbase/type) { get; set; } | Ottiene o imposta il tipo di annotazione |
-| [User](../../groupdocs.annotation.models.annotationmodels/annotationbase/user) { get; set; } | Ottiene o imposta il creatore di annotazioni |
+| [User](../../groupdocs.annotation.models.annotationmodels/annotationbase/user) { get; set; } | Ottiene o imposta il creatore dell'annotazione |
 
 ## Metodi
 
@@ -50,10 +50,10 @@ public class SquigglyAnnotation : AnnotationBase, IEquatable<SquigglyAnnotation>
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni sui tipi di annotazione e sull'annotazione di documenti PDF e Microsoft Word, fogli di calcolo Excel e presentazioni PowerPoint: [Come annotare i documenti utilizzando GroupDocs.Annotation per .NET](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
-* Ulteriori informazioni sull'aggiunta di annotazioni ondulate a documenti di vario tipo: [Come aggiungere annotazioni ondulate in C#](https://docs.groupdocs.com/display/annotationnet/Add+squiggly+annotation)
+* Ulteriori informazioni sull'aggiunta di annotazioni ondulate a documenti di vario tipo: [Come aggiungere annotazioni ondulate in C#](https://docs.groupdocs.com/annotation/net/add-squiggly-annotation/)
 
 ### Guarda anche
 

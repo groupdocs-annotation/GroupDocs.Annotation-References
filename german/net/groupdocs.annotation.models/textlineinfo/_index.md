@@ -3,7 +3,7 @@ title: TextLineInfo
 second_title: GroupDocs.Annotation für .NET-API-Referenz
 description: Stellt Textzeileninformationen dar.
 type: docs
-weight: 920
+weight: 930
 url: /de/net/groupdocs.annotation.models/textlineinfo/
 ---
 ## TextLineInfo structure

@@ -19,7 +19,7 @@ public class PolylineAnnotation : AnnotationBase, IEquatable<PolylineAnnotation>
 
 | Nome | Descrizione |
 | --- | --- |
-| [PolylineAnnotation](polylineannotation)() | Inizializza la nuova istanza di[`AreaAnnotation`](../areaannotation) classe. |
+| [PolylineAnnotation](polylineannotation)() | Inizializza una nuova istanza di[`AreaAnnotation`](../areaannotation) classe. |
 
 ## Proprietà
 
@@ -37,7 +37,7 @@ public class PolylineAnnotation : AnnotationBase, IEquatable<PolylineAnnotation>
 | [Replies](../../groupdocs.annotation.models.annotationmodels/annotationbase/replies) { get; set; } | Rappresenta la raccolta di risposte alle annotazioni |
 | [SvgPath](../../groupdocs.annotation.models.annotationmodels/polylineannotation/svgpath) { get; set; } | Ottiene o imposta il percorso SVG dell'annotazione |
 | [Type](../../groupdocs.annotation.models.annotationmodels/annotationbase/type) { get; set; } | Ottiene o imposta il tipo di annotazione |
-| [User](../../groupdocs.annotation.models.annotationmodels/annotationbase/user) { get; set; } | Ottiene o imposta il creatore di annotazioni |
+| [User](../../groupdocs.annotation.models.annotationmodels/annotationbase/user) { get; set; } | Ottiene o imposta il creatore dell'annotazione |
 
 ## Metodi
 
@@ -51,7 +51,7 @@ public class PolylineAnnotation : AnnotationBase, IEquatable<PolylineAnnotation>
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni sui tipi di annotazione e sull'annotazione di documenti PDF e Microsoft Word, fogli di calcolo Excel e presentazioni PowerPoint: [Come annotare i documenti utilizzando GroupDocs.Annotation per .NET](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
 * Ulteriori informazioni sull'aggiunta di annotazioni polilinea a documenti di vario tipo: [Come aggiungere annotazioni polilinea in C#](https://docs.groupdocs.com/display/annotationnet/Add+polyline+annotation)

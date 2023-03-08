@@ -1,14 +1,14 @@
 ---
 title: Rectangle
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Rappresenta un rettangolo.
+description: Rappresenta il rettangolo.
 type: docs
 weight: 880
 url: /it/net/groupdocs.annotation.models/rectangle/
 ---
 ## Rectangle structure
 
-Rappresenta un rettangolo.
+Rappresenta il rettangolo.
 
 ```csharp
 public struct Rectangle
@@ -34,7 +34,7 @@ public struct Rectangle
 | Nome | Descrizione |
 | --- | --- |
 | override [Equals](../../groupdocs.annotation.models/rectangle/equals)(object) | Determina se il rettangolo specificato è uguale al rettangolo corrente. |
-| override [GetHashCode](../../groupdocs.annotation.models/rectangle/gethashcode)() | Serve come funzione hash predefinita. |
+| override [GetHashCode](../../groupdocs.annotation.models/rectangle/gethashcode)() | Funge da funzione hash predefinita. |
 | [operator ==](../../groupdocs.annotation.models/rectangle/op_equality) | Confronta due oggetti Rectangle. Il risultato specifica se i valori delle proprietà Rectangle.X, Rectangle.Y, Rectangle.Width e Rectangle.Height dei due oggetti Rectangle sono uguali. |
 | [operator !=](../../groupdocs.annotation.models/rectangle/op_inequality) | Confronta due oggetti Rectangle. Il risultato specifica se i valori delle proprietà Rectangle.X, Rectangle.Y, Rectangle.Width e Rectangle.Height dei due oggetti Rectangle non sono uguali. |
 

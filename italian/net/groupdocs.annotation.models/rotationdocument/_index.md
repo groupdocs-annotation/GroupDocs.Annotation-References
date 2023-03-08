@@ -3,7 +3,7 @@ title: RotationDocument
 second_title: GroupDocs.Annotation per riferimento all'API .NET
 description: Rotazione
 type: docs
-weight: 910
+weight: 920
 url: /it/net/groupdocs.annotation.models/rotationdocument/
 ---
 ## RotationDocument enumeration

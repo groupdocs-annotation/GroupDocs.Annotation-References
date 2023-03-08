@@ -16,11 +16,11 @@ public void Remove(int annotationId)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| annotationId | Int32 | ID dell'annotazione che deve essere rimossa. |
+| annotationId | Int32 | L'ID dell'annotazione che deve essere rimossa. |
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni su come rimuovere le annotazioni del documento: [Come rimuovere le annotazioni del documento in C#](https://docs.groupdocs.com/display/annotationnet/Remove+annotation+from+document)
 
@@ -46,7 +46,7 @@ public void Remove(AnnotationBase annotation)
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni su come rimuovere le annotazioni del documento: [Come rimuovere le annotazioni del documento in C#](https://docs.groupdocs.com/display/annotationnet/Remove+annotation+from+document)
 
@@ -61,7 +61,7 @@ public void Remove(AnnotationBase annotation)
 
 ## Remove(List&lt;int&gt;) {#remove_3}
 
-Rimuove la raccolta di annotazioni dal documento in base agli ID annotazione forniti.
+Rimuove la raccolta di annotazioni dal documento in base agli ID di annotazione forniti.
 
 ```csharp
 public void Remove(List<int> annotationIds)
@@ -69,11 +69,11 @@ public void Remove(List<int> annotationIds)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| annotationIds | List`1 | ID dell'annotazione che deve essere rimossa. |
+| annotationIds | List`1 | L'ID dell'annotazione che deve essere rimossa. |
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni su come rimuovere le annotazioni del documento: [Come rimuovere le annotazioni del documento in C#](https://docs.groupdocs.com/display/annotationnet/Remove+annotation+from+document)
 
@@ -99,7 +99,7 @@ public void Remove(List<AnnotationBase> annotationsToDelete)
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni su come rimuovere le annotazioni del documento: [Come rimuovere le annotazioni del documento in C#](https://docs.groupdocs.com/display/annotationnet/Remove+annotation+from+document)
 

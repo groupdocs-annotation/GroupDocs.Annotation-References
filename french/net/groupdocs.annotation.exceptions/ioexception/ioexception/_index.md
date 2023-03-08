@@ -1,14 +1,14 @@
 ---
 title: IOException
 second_title: Référence de l'API GroupDocs.Annotation pour .NET
-description: Initialise une nouvelle instance duIOExceptiongroupdocs.annotation.exceptions/ioexception classer.
+description: Initialise une nouvelle instance duIOExceptiongroupdocs.annotation.exceptions/ioexception classe.
 type: docs
 weight: 10
 url: /fr/net/groupdocs.annotation.exceptions/ioexception/ioexception/
 ---
 ## IOException(string) {#constructor}
 
-Initialise une nouvelle instance du[`IOException`](../../ioexception) classer.
+Initialise une nouvelle instance du[`IOException`](../../ioexception) classe.
 
 ```csharp
 public IOException(string message)
@@ -28,7 +28,7 @@ public IOException(string message)
 
 ## IOException(string, Exception) {#constructor_1}
 
-Initialise une nouvelle instance du[`IOException`](../../ioexception) classer.
+Initialise une nouvelle instance du[`IOException`](../../ioexception) classe.
 
 ```csharp
 public IOException(string message, Exception innerException)

@@ -1,14 +1,14 @@
 ---
 title: TextRedactionAnnotation
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Inizializza la nuova istanza diTextRedactionAnnotationgroupdocs.annotation.models.annotationmodels/textredactionannotation classe.
+description: Inizializza una nuova istanza diTextRedactionAnnotationgroupdocs.annotation.models.annotationmodels/textredactionannotation classe.
 type: docs
 weight: 10
 url: /it/net/groupdocs.annotation.models.annotationmodels/textredactionannotation/textredactionannotation/
 ---
 ## TextRedactionAnnotation constructor
 
-Inizializza la nuova istanza di[`TextRedactionAnnotation`](../../textredactionannotation) classe.
+Inizializza una nuova istanza di[`TextRedactionAnnotation`](../../textredactionannotation) classe.
 
 ```csharp
 public TextRedactionAnnotation()

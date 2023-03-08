@@ -1,14 +1,14 @@
 ---
 title: IButtonComponent
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Definisce le proprietà del componente Pulsante
+description: Definisce le proprietà del componente Button
 type: docs
 weight: 810
 url: /it/net/groupdocs.annotation.models.formatspecificcomponents.pdf.interfaces/ibuttoncomponent/
 ---
 ## IButtonComponent interface
 
-Definisce le proprietà del componente Pulsante
+Definisce le proprietà del componente Button
 
 ```csharp
 public interface IButtonComponent : IBorderStyle, IBox

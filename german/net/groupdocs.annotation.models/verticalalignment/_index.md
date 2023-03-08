@@ -3,7 +3,7 @@ title: VerticalAlignment
 second_title: GroupDocs.Annotation für .NET-API-Referenz
 description: Stellt den Status der vertikalen Ausrichtung von Anmerkungen dar
 type: docs
-weight: 940
+weight: 950
 url: /de/net/groupdocs.annotation.models/verticalalignment/
 ---
 ## VerticalAlignment enumeration

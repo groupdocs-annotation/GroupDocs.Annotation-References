@@ -1,14 +1,14 @@
 ---
 title: IStrikeoutAnnotation
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Definisce le proprietà dellannotazione barrata
+description: Definisce le proprietà dellannotazione Barrato
 type: docs
 weight: 380
 url: /it/net/groupdocs.annotation.models.annotationmodels.interfaces.annotations/istrikeoutannotation/
 ---
 ## IStrikeoutAnnotation interface
 
-Definisce le proprietà dell'annotazione barrata
+Definisce le proprietà dell'annotazione Barrato
 
 ```csharp
 public interface IStrikeoutAnnotation : IBackgroundColor, IFontColor, IOpacity, IPoints

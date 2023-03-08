@@ -1,14 +1,14 @@
 ---
 title: ConvertFileException
 second_title: Référence de l'API GroupDocs.Annotation pour .NET
-description: Initialise une nouvelle instance duConvertFileExceptiongroupdocs.annotation.exceptions/convertfileexception classer.
+description: Initialise une nouvelle instance duConvertFileExceptiongroupdocs.annotation.exceptions/convertfileexception classe.
 type: docs
 weight: 10
 url: /fr/net/groupdocs.annotation.exceptions/convertfileexception/convertfileexception/
 ---
 ## ConvertFileException(string) {#constructor}
 
-Initialise une nouvelle instance du[`ConvertFileException`](../../convertfileexception) classer.
+Initialise une nouvelle instance du[`ConvertFileException`](../../convertfileexception) classe.
 
 ```csharp
 public ConvertFileException(string message)
@@ -28,7 +28,7 @@ public ConvertFileException(string message)
 
 ## ConvertFileException(string, Exception) {#constructor_1}
 
-Initialise une nouvelle instance du[`ConvertFileException`](../../convertfileexception) classer.
+Initialise une nouvelle instance du[`ConvertFileException`](../../convertfileexception) classe.
 
 ```csharp
 public ConvertFileException(string message, Exception innerException)
