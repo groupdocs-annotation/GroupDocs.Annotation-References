@@ -1,14 +1,14 @@
 ---
 title: AnnotationType
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 描述 GroupDocs 支持的注释类型的枚举NET 的注释
+description: 描述 GroupDocs.Annotation for .NET 支持的注释类型的枚举
 type: docs
-weight: 950
+weight: 960
 url: /zh/net/groupdocs.annotation.options/annotationtype/
 ---
 ## AnnotationType enumeration
 
-描述 GroupDocs 支持的注释类型的枚举。NET 的注释
+描述 GroupDocs.Annotation for .NET 支持的注释类型的枚举
 
 ```csharp
 [Flags]
@@ -20,50 +20,50 @@ public enum AnnotationType
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | None | `0` | 默认值 |
-| Area | `2` | 在文档页面中突出显示矩形区域的区域注释类型 |
-| Arrow | `4` | 在文档页面上绘制箭头的注释类型 |
-| Distance | `8` | 测量文档页面元素之间距离的注释类型 |
-| Ellipse | `10` | 标记部分文档内容的椭圆形式的注释 |
-| Link | `20` | 表示到远程资源的超链接的注释类型 |
-| Point | `40` | 将注释粘贴到文档页面中任何位置的点注释类型 |
-| Polyline | `80` | 允许将绘图形状和手绘线添加到文档页面的折线注释类型 |
+| Area | `2` | 区域注释类型，突出显示文档页面内的矩形区域 |
+| Arrow | `4` | 在文档页上画箭头的注解类型 |
+| Distance | `8` | 测量文档 page 元素之间距离的注释类型 |
+| Ellipse | `10` | 椭圆形注解，标记部分文档内容 |
+| Link | `20` | 表示指向远程资源的超链接的注解类型 |
+| Point | `40` | 点注释类型，将注释粘贴到文档页面中的任意位置 |
+| Polyline | `80` | 多段线注释类型，允许将绘图形状和徒手画线添加到文档 page |
 | ResourcesRedaction | `100` | 将文本内容隐藏在黑色矩形后面的注释类型 |
 | TextField | `200` | 文本字段注释类型表示彩色框架内的文本注释 |
-| TextHighlight | `400` | 突出显示和注释选定文本的注释类型 |
+| TextHighlight | `400` | 突出显示和注释所选文本的注释类型 text |
 | TextRedaction | `800` | 用黑色矩形填充部分选定文本的注释类型。 |
-| TextReplacement | `1000` | 用其他提供的文本片段替换原始文本的注释类型 |
-| TextStrikeout | `2000` | 用删除线样式标记文本片段的注释类型 |
+| TextReplacement | `1000` | 将原始文本替换为其他提供的文本片段的注释类型 |
+| TextStrikeout | `2000` | 使用删除线样式标记文本片段的注释类型 |
 | TextUnderline | `4000` | 使用下划线样式标记文本的注释类型 |
 | Watermark | `8000` | 在文档页面上添加文本水印的注释类型 |
 | Image | `10000` | 在文档页面内容上添加图像覆盖的注释类型 |
-| Dropdown | `20000` | 为pdf文档添加下拉组件的组件类型**只要** |
-| Checkbox | `21000` |  |
-| Button | `22000` |  |
-| TextSquiggly | `2500` | 波浪线和评论选择的注释类型 text |
-| SearchText | `2700` | 在文档中搜索片段文本的注释类型 |
+| Dropdown | `20000` | 为pdf文档添加下拉组件的组件类型**仅有的** |
+| Checkbox | `21000` | 为pdf文档添加复选框的注释类型 |
+| Button | `22000` | 为pdf文档添加按钮的注释类型 |
+| TextSquiggly | `2500` | 波浪形和注释选择的注释类型 text |
+| SearchText | `2700` | document 中搜索片段文本的注解类型 |
 | All | `7FFFFFFF` | 全部 |
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
 * [如何在 C# 中注释文档](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
-* [如何在 C# 中添加区域注释](https://docs.groupdocs.com/display/annotationnet/Add+area+annotation)
-* [如何在 C# 中添加箭头注释](https://docs.groupdocs.com/display/annotationnet/Add+arrow+annotation)
-* [如何在 C# 中添加距离注释](https://docs.groupdocs.com/display/annotationnet/Add+distance+annotation)
-* [如何在 C# 中添加椭圆注释](https://docs.groupdocs.com/display/annotationnet/Add+ellipse+annotation)
-* [如何在 C# 中添加链接注释](https://docs.groupdocs.com/display/annotationnet/Add+link+annotation)
-* [如何在 C# 中添加点注释](https://docs.groupdocs.com/display/annotationnet/Add+point+annotation)
-* [如何在 C# 中添加折线注释](https://docs.groupdocs.com/display/annotationnet/Add+polyline+annotation)
+* [如何在C#中添加区域注释](https://docs.groupdocs.com/display/annotationnet/Add+area+annotation)
+* [如何在C#中添加箭头注释](https://docs.groupdocs.com/display/annotationnet/Add+arrow+annotation)
+* [如何在C#中添加距离注释](https://docs.groupdocs.com/display/annotationnet/Add+distance+annotation)
+* [如何在C#中添加椭圆注解](https://docs.groupdocs.com/display/annotationnet/Add+ellipse+annotation)
+* [如何在C#中添加链接注解](https://docs.groupdocs.com/display/annotationnet/Add+link+annotation)
+* [如何在C#中添加点注解](https://docs.groupdocs.com/display/annotationnet/Add+point+annotation)
+* [如何在C#中添加折线注释](https://docs.groupdocs.com/display/annotationnet/Add+polyline+annotation)
 * [如何在 C# 中添加资源编辑注释](https://docs.groupdocs.com/display/annotationnet/Add+resource+redaction+annotation)
-* [如何在 C# 中添加文本字段注释](https://docs.groupdocs.com/display/annotationnet/Add+text+field+annotation)
-* [如何在 C# 中添加高亮注释](https://docs.groupdocs.com/display/annotationnet/Add+highlight+annotation)
-* [如何在 C# 中添加文本编辑注释](https://docs.groupdocs.com/display/annotationnet/Add+text+redaction+annotation)
-* [如何在 C# 中添加替换注释](https://docs.groupdocs.com/display/annotationnet/Add+replacement+annotation)
+* [如何在C#中添加文本字段注释](https://docs.groupdocs.com/display/annotationnet/Add+text+field+annotation)
+* [如何在C#中添加高亮注释](https://docs.groupdocs.com/display/annotationnet/Add+highlight+annotation)
+* [如何在 C# 中添加文本密文注释](https://docs.groupdocs.com/display/annotationnet/Add+text+redaction+annotation)
+* [如何在 C# 中添加替换注解](https://docs.groupdocs.com/display/annotationnet/Add+replacement+annotation)
 * [如何在 C# 中添加删除线注释](https://docs.groupdocs.com/display/annotationnet/Add+strikeout+annotation)
-* [如何在 C# 中添加下划线注释](https://docs.groupdocs.com/display/annotationnet/Add+underline+annotation)
-* [如何在 C# 中添加水印注释](https://docs.groupdocs.com/display/annotationnet/Add+watermark+annotation)
-* [如何在 C# 中添加图像注释](https://docs.groupdocs.com/display/annotationnet/Add+image+annotation)
+* [C#中如何添加下划线注解](https://docs.groupdocs.com/display/annotationnet/Add+underline+annotation)
+* [C#中如何添加水印注释](https://docs.groupdocs.com/display/annotationnet/Add+watermark+annotation)
+* [如何在C#中添加图片注释](https://docs.groupdocs.com/display/annotationnet/Add+image+annotation)
 
 ### 也可以看看
 

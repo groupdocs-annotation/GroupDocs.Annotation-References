@@ -1,14 +1,14 @@
 ---
 title: FileCache
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 初始化的新实例FileCachegroupdocs.annotation.cache/filecache类.
+description: 初始化新实例FileCachegroupdocs.annotation.cache/filecache类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.annotation.cache/filecache/filecache/
 ---
 ## FileCache() {#constructor}
 
-初始化的新实例[`FileCache`](../../filecache)类.
+初始化新实例[`FileCache`](../../filecache)类.
 
 ```csharp
 public FileCache()
@@ -24,7 +24,7 @@ public FileCache()
 
 ## FileCache(string) {#constructor_1}
 
-初始化的新实例[`FileCache`](../../filecache)类.
+初始化新实例[`FileCache`](../../filecache)类.
 
 ```csharp
 public FileCache(string path)
@@ -32,7 +32,7 @@ public FileCache(string path)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| path | String | 缓存数据的保存路径 |
+| path | String | 保存缓存数据的路径 |
 
 ### 也可以看看
 

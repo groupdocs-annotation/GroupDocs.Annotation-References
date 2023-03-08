@@ -16,7 +16,7 @@ public bool Equals(EllipseAnnotation other)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| other | EllipseAnnotation | 与当前对象进行比较的 EllipseAnnotation 对象 |
+| other | EllipseAnnotation | 要与当前对象进行比较的 EllipseAnnotation 对象 |
 
 ### 也可以看看
 

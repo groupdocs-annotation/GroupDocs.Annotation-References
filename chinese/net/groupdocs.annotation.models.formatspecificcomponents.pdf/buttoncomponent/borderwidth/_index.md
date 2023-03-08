@@ -1,14 +1,14 @@
 ---
 title: BorderWidth
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 获取或设置注解边框宽度
+description: 获取或设置注释边框宽度
 type: docs
 weight: 40
 url: /zh/net/groupdocs.annotation.models.formatspecificcomponents.pdf/buttoncomponent/borderwidth/
 ---
 ## ButtonComponent.BorderWidth property
 
-获取或设置注解边框宽度
+获取或设置注释边框宽度
 
 ```csharp
 public int? BorderWidth { get; set; }

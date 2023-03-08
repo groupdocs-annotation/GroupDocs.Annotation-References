@@ -1,14 +1,14 @@
 ---
 title: HorizontalAlignment
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 表示注解水平对齐状态
+description: 表示标注水平对齐状态
 type: docs
 weight: 840
 url: /zh/net/groupdocs.annotation.models/horizontalalignment/
 ---
 ## HorizontalAlignment enumeration
 
-表示注解水平对齐状态
+表示标注水平对齐状态
 
 ```csharp
 public enum HorizontalAlignment
@@ -18,8 +18,8 @@ public enum HorizontalAlignment
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| None | `0` | 默认值，不使用对齐 |
-| Left | `1` | 目标将与左侧对齐 |
+| None | `0` | 默认值，对齐不会被使用 |
+| Left | `1` | 目标将对齐到左侧 |
 | Center | `2` | 目标将与 center 对齐 |
 | Right | `3` | 目标将与右侧对齐 |
 

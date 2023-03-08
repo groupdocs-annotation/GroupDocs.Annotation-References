@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 使用 IEquatable Equals 方法比较波浪注释
+description: 使用 IEquatable Equals 方法比较波浪形注解
 type: docs
 weight: 80
 url: /zh/net/groupdocs.annotation.models.annotationmodels/squigglyannotation/equals/
 ---
 ## Equals(SquigglyAnnotation) {#equals_1}
 
-使用 IEquatable Equals 方法比较波浪注释
+使用 IEquatable Equals 方法比较波浪形注解
 
 ```csharp
 public bool Equals(SquigglyAnnotation other)
@@ -16,7 +16,7 @@ public bool Equals(SquigglyAnnotation other)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| other | SquigglyAnnotation | 与当前对象比较的 SquigglyAnnotation 对象 |
+| other | SquigglyAnnotation | 要与当前对象进行比较的 SquigglyAnnotation 对象 |
 
 ### 也可以看看
 

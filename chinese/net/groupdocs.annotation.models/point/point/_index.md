@@ -1,14 +1,14 @@
 ---
 title: Point
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 初始化Pointgroupdocs.annotation.models/point struct.
+description: 初始化一个新的实例Pointgroupdocs.annotation.models/point结构.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.annotation.models/point/point/
 ---
 ## Point constructor
 
-初始化[`Point`](../../point) struct.
+初始化一个新的实例[`Point`](../../point)结构.
 
 ```csharp
 public Point(float x, float y)
@@ -16,7 +16,7 @@ public Point(float x, float y)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| x | Single | X。 |
+| x | Single | x。 |
 | y | Single | 他们。 |
 
 ### 也可以看看

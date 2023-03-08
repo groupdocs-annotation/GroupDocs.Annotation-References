@@ -1,14 +1,14 @@
 ---
 title: PolylineAnnotation
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 表示折线注释属性
+description: 表示折线标注属性
 type: docs
 weight: 650
 url: /zh/net/groupdocs.annotation.models.annotationmodels/polylineannotation/
 ---
 ## PolylineAnnotation class
 
-表示折线注释属性
+表示折线标注属性
 
 ```csharp
 public class PolylineAnnotation : AnnotationBase, IEquatable<PolylineAnnotation>, 
@@ -19,23 +19,23 @@ public class PolylineAnnotation : AnnotationBase, IEquatable<PolylineAnnotation>
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PolylineAnnotation](polylineannotation)() | 初始化的新实例[`AreaAnnotation`](../areaannotation)类. |
+| [PolylineAnnotation](polylineannotation)() | 初始化新实例[`AreaAnnotation`](../areaannotation)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [Box](../../groupdocs.annotation.models.annotationmodels/polylineannotation/box) { get; set; } | 获取或设置注解位置 |
-| [CreatedOn](../../groupdocs.annotation.models.annotationmodels/annotationbase/createdon) { get; set; } | 获取或设置注解创建日期 |
+| [CreatedOn](../../groupdocs.annotation.models.annotationmodels/annotationbase/createdon) { get; set; } | 获取或设置注释创建日期 |
 | [Id](../../groupdocs.annotation.models.annotationmodels/annotationbase/id) { get; set; } | 获取或设置注解唯一标识符 |
-| [Message](../../groupdocs.annotation.models.annotationmodels/annotationbase/message) { get; set; } | 获取或设置注解消息 |
-| [Opacity](../../groupdocs.annotation.models.annotationmodels/polylineannotation/opacity) { get; set; } | 获取或设置注解不透明度 |
+| [Message](../../groupdocs.annotation.models.annotationmodels/annotationbase/message) { get; set; } | 获取或设置注释消息 |
+| [Opacity](../../groupdocs.annotation.models.annotationmodels/polylineannotation/opacity) { get; set; } | 获取或设置注释不透明度 |
 | [PageNumber](../../groupdocs.annotation.models.annotationmodels/annotationbase/pagenumber) { get; set; } | 获取或设置要标注的页码 |
 | [PenColor](../../groupdocs.annotation.models.annotationmodels/polylineannotation/pencolor) { get; set; } | 获取或设置批注笔颜色 |
 | [PenStyle](../../groupdocs.annotation.models.annotationmodels/polylineannotation/penstyle) { get; set; } | 获取或设置批注笔样式 |
-| [PenWidth](../../groupdocs.annotation.models.annotationmodels/polylineannotation/penwidth) { get; set; } | 获取或设置注释笔宽度 |
-| [Replies](../../groupdocs.annotation.models.annotationmodels/annotationbase/replies) { get; set; } | 表示注释回复集合 |
-| [SvgPath](../../groupdocs.annotation.models.annotationmodels/polylineannotation/svgpath) { get; set; } | 获取或设置注解 SVG 路径 |
+| [PenWidth](../../groupdocs.annotation.models.annotationmodels/polylineannotation/penwidth) { get; set; } | 获取或设置批注笔宽度 |
+| [Replies](../../groupdocs.annotation.models.annotationmodels/annotationbase/replies) { get; set; } | 代表注解回复集合 |
+| [SvgPath](../../groupdocs.annotation.models.annotationmodels/polylineannotation/svgpath) { get; set; } | 获取或设置注释 SVG 路径 |
 | [Type](../../groupdocs.annotation.models.annotationmodels/annotationbase/type) { get; set; } | 获取或设置注解类型 |
 | [User](../../groupdocs.annotation.models.annotationmodels/annotationbase/user) { get; set; } | 获取或设置注解创建者 |
 
@@ -47,14 +47,14 @@ public class PolylineAnnotation : AnnotationBase, IEquatable<PolylineAnnotation>
 | [Equals](../../groupdocs.annotation.models.annotationmodels/annotationbase/equals)(AnnotationBase) | 使用 IEquatable Equals 方法比较基本注释 |
 | override [Equals](../../groupdocs.annotation.models.annotationmodels/polylineannotation/equals#equals_2)(object) | 使用标准对象 Equals 方法比较折线注释 |
 | [Equals](../../groupdocs.annotation.models.annotationmodels/polylineannotation/equals#equals_1)(PolylineAnnotation) | 使用 IEquatable Equals 方法比较折线注释 |
-| override [GetHashCode](../../groupdocs.annotation.models.annotationmodels/polylineannotation/gethashcode)() | 返回折线标注的HashCode |
+| override [GetHashCode](../../groupdocs.annotation.models.annotationmodels/polylineannotation/gethashcode)() | 返回 Polyline Annotation 的 HashCode |
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 更多关于注释类型和注释 PDF 和 Microsoft Word 文档、Excel 电子表格和 PowerPoint 演示文稿： [如何使用 GroupDocs.Annotation for .NET 注释文档](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
-* 更多关于为各种类型的文档添加折线注释： [如何在 C# 中添加折线注释](https://docs.groupdocs.com/display/annotationnet/Add+polyline+annotation)
+* 更多关于注释类型和注释 PDF 和 Microsoft Word 文档、Excel 电子表格和 PowerPoint 演示文稿的信息： [如何使用 GroupDocs.Annotation for .NET 注释文档](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
+* 有关向各种类型的文档添加多段线注释的更多信息： [如何在C#中添加折线注释](https://docs.groupdocs.com/display/annotationnet/Add+polyline+annotation)
 
 ### 也可以看看
 

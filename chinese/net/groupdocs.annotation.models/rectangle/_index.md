@@ -1,14 +1,14 @@
 ---
 title: Rectangle
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 表示矩形
+description: 代表矩形
 type: docs
 weight: 880
 url: /zh/net/groupdocs.annotation.models/rectangle/
 ---
 ## Rectangle structure
 
-表示矩形。
+代表矩形。
 
 ```csharp
 public struct Rectangle
@@ -18,7 +18,7 @@ public struct Rectangle
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Rectangle](rectangle)(float, float, float, float) | 初始化[`Rectangle`](../rectangle) struct. |
+| [Rectangle](rectangle)(float, float, float, float) | 初始化一个新的实例[`Rectangle`](../rectangle)结构. |
 
 ## 特性
 
@@ -33,10 +33,10 @@ public struct Rectangle
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [Equals](../../groupdocs.annotation.models/rectangle/equals)(object) | 判断指定矩形是否等于当前矩形 |
-| override [GetHashCode](../../groupdocs.annotation.models/rectangle/gethashcode)() | 用作默认哈希函数。 |
-| [operator ==](../../groupdocs.annotation.models/rectangle/op_equality) | 比较两个 Rectangle 对象。结果指定两个 Rectangle 对象的 Rectangle.X、Rectangle.Y、Rectangle.Width 和 Rectangle.Height 属性的值是否相等。 |
-| [operator !=](../../groupdocs.annotation.models/rectangle/op_inequality) | 比较两个 Rectangle 对象。结果指定两个 Rectangle 对象的 Rectangle.X、Rectangle.Y、Rectangle.Width 和 Rectangle.Height 属性的值是否不相等。 |
+| override [Equals](../../groupdocs.annotation.models/rectangle/equals)(object) | 判断指定矩形是否等于当前矩形。 |
+| override [GetHashCode](../../groupdocs.annotation.models/rectangle/gethashcode)() | 作为默认哈希函数。 |
+| [operator ==](../../groupdocs.annotation.models/rectangle/op_equality) | 比较两个 Rectangle 对象。结果指定两个Rectangle对象的Rectangle.X、Rectangle.Y、Rectangle.Width和Rectangle.Height属性的值是否相等。 |
+| [operator !=](../../groupdocs.annotation.models/rectangle/op_inequality) | 比较两个 Rectangle 对象。结果指定两个Rectangle对象的Rectangle.X、Rectangle.Y、Rectangle.Width和Rectangle.Height属性的值是否不相等。 |
 
 ### 也可以看看
 

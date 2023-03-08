@@ -17,7 +17,7 @@ public Rectangle(float x, float y, float width, float height)
 | معامل | يكتب | وصف |
 | --- | --- | --- |
 | x | Single | x. |
-| y | Single | أنهم. |
+| y | Single | هم. |
 | width | Single | العرض. |
 | height | Single | الإرتفاع. |
 

@@ -1,14 +1,14 @@
 ---
 title: GetHashCode
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 返回链接注解的HashCode
+description: 返回链接注解的哈希码
 type: docs
 weight: 90
 url: /zh/net/groupdocs.annotation.models.annotationmodels/linkannotation/gethashcode/
 ---
 ## LinkAnnotation.GetHashCode method
 
-返回链接注解的HashCode
+返回链接注解的哈希码
 
 ```csharp
 public override int GetHashCode()

@@ -20,7 +20,7 @@ public void Remove(int annotationId)
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее об удалении аннотаций документа: [Как удалить аннотации документа в C#](https://docs.groupdocs.com/display/annotationnet/Remove+annotation+from+document)
 
@@ -46,7 +46,7 @@ public void Remove(AnnotationBase annotation)
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее об удалении аннотаций документа: [Как удалить аннотации документа в C#](https://docs.groupdocs.com/display/annotationnet/Remove+annotation+from+document)
 
@@ -73,7 +73,7 @@ public void Remove(List<int> annotationIds)
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее об удалении аннотаций документа: [Как удалить аннотации документа в C#](https://docs.groupdocs.com/display/annotationnet/Remove+annotation+from+document)
 
@@ -99,7 +99,7 @@ public void Remove(List<AnnotationBase> annotationsToDelete)
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее об удалении аннотаций документа: [Как удалить аннотации документа в C#](https://docs.groupdocs.com/display/annotationnet/Remove+annotation+from+document)
 

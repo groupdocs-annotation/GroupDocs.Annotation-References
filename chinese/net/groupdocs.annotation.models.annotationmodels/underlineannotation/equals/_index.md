@@ -16,7 +16,7 @@ public bool Equals(UnderlineAnnotation other)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| other | UnderlineAnnotation | 与当前对象比较的 UnderlineAnnotation 对象 |
+| other | UnderlineAnnotation | 要与当前对象进行比较的 UnderlineAnnotation 对象 |
 
 ### 也可以看看
 

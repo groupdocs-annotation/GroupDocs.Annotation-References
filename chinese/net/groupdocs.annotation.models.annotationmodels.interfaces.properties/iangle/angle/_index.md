@@ -1,14 +1,14 @@
 ---
 title: Angle
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 获取或设置注解旋转角度
+description: 获取或设置注释旋转角度
 type: docs
 weight: 10
 url: /zh/net/groupdocs.annotation.models.annotationmodels.interfaces.properties/iangle/angle/
 ---
 ## IAngle.Angle property
 
-获取或设置注解旋转角度
+获取或设置注释旋转角度
 
 ```csharp
 public double? Angle { get; set; }

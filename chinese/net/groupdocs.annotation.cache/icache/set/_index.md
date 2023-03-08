@@ -1,14 +1,14 @@
 ---
 title: Set
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 将缓存条目插入缓存
+description: 将缓存条目插入到缓存中
 type: docs
 weight: 20
 url: /zh/net/groupdocs.annotation.cache/icache/set/
 ---
 ## ICache.Set method
 
-将缓存条目插入缓存。
+将缓存条目插入到缓存中。
 
 ```csharp
 public void Set(string key, object value)

@@ -1,14 +1,14 @@
 ---
 title: Message
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 获取或设置注解消息
+description: 获取或设置注释消息
 type: docs
 weight: 30
 url: /zh/net/groupdocs.annotation.models.annotationmodels/annotationbase/message/
 ---
 ## AnnotationBase.Message property
 
-获取或设置注解消息
+获取或设置注释消息
 
 ```csharp
 public string Message { get; set; }

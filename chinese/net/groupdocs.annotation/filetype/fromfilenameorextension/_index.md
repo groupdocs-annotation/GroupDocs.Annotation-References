@@ -1,14 +1,14 @@
 ---
 title: FromFileNameOrExtension
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 根据文件名或扩展名返回 FileType
+description: 根据文件名或扩展名返回文件类型
 type: docs
 weight: 410
 url: /zh/net/groupdocs.annotation/filetype/fromfilenameorextension/
 ---
 ## FileType.FromFileNameOrExtension method
 
-根据文件名或扩展名返回 FileType。
+根据文件名或扩展名返回文件类型。
 
 ```csharp
 public static FileType FromFileNameOrExtension(string fileNameOrExtension)

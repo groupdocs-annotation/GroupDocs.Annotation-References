@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 使用 IEquatable Equals 方法比较 Strikeout Annotations
+description: 使用 IEquatable Equals 方法比较删除线注释
 type: docs
 weight: 70
 url: /zh/net/groupdocs.annotation.models.annotationmodels/strikeoutannotation/equals/
 ---
 ## Equals(StrikeoutAnnotation) {#equals_1}
 
-使用 IEquatable Equals 方法比较 Strikeout Annotations
+使用 IEquatable Equals 方法比较删除线注释
 
 ```csharp
 public bool Equals(StrikeoutAnnotation other)
@@ -16,7 +16,7 @@ public bool Equals(StrikeoutAnnotation other)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| other | StrikeoutAnnotation | 与当前对象进行比较的 StrikeoutAnnotation 对象 |
+| other | StrikeoutAnnotation | 要与当前对象进行比较的 StrikeoutAnnotation 对象 |
 
 ### 也可以看看
 
@@ -28,7 +28,7 @@ public bool Equals(StrikeoutAnnotation other)
 
 ## Equals(object) {#equals_2}
 
-使用标准对象 Equals 方法比较 Strikeout Annotations
+使用标准对象 Equals 方法比较删除线注解
 
 ```csharp
 public override bool Equals(object obj)

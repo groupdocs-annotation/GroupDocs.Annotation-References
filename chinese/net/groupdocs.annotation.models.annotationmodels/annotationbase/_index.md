@@ -18,11 +18,11 @@ public abstract class AnnotationBase : ICloneable, IEquatable<AnnotationBase>
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CreatedOn](../../groupdocs.annotation.models.annotationmodels/annotationbase/createdon) { get; set; } | 获取或设置注解创建日期 |
+| [CreatedOn](../../groupdocs.annotation.models.annotationmodels/annotationbase/createdon) { get; set; } | 获取或设置注释创建日期 |
 | [Id](../../groupdocs.annotation.models.annotationmodels/annotationbase/id) { get; set; } | 获取或设置注解唯一标识符 |
-| [Message](../../groupdocs.annotation.models.annotationmodels/annotationbase/message) { get; set; } | 获取或设置注解消息 |
+| [Message](../../groupdocs.annotation.models.annotationmodels/annotationbase/message) { get; set; } | 获取或设置注释消息 |
 | [PageNumber](../../groupdocs.annotation.models.annotationmodels/annotationbase/pagenumber) { get; set; } | 获取或设置要标注的页码 |
-| [Replies](../../groupdocs.annotation.models.annotationmodels/annotationbase/replies) { get; set; } | 表示注释回复集合 |
+| [Replies](../../groupdocs.annotation.models.annotationmodels/annotationbase/replies) { get; set; } | 代表注解回复集合 |
 | [Type](../../groupdocs.annotation.models.annotationmodels/annotationbase/type) { get; set; } | 获取或设置注解类型 |
 | [User](../../groupdocs.annotation.models.annotationmodels/annotationbase/user) { get; set; } | 获取或设置注解创建者 |
 
@@ -33,7 +33,7 @@ public abstract class AnnotationBase : ICloneable, IEquatable<AnnotationBase>
 | virtual [Clone](../../groupdocs.annotation.models.annotationmodels/annotationbase/clone)() | 返回具有相同值的新实例 |
 | [Equals](../../groupdocs.annotation.models.annotationmodels/annotationbase/equals#equals)(AnnotationBase) | 使用 IEquatable Equals 方法比较基本注释 |
 | override [Equals](../../groupdocs.annotation.models.annotationmodels/annotationbase/equals#equals_1)(object) | 使用标准对象 Equals 方法比较基本注释 |
-| override [GetHashCode](../../groupdocs.annotation.models.annotationmodels/annotationbase/gethashcode)() | 返回 AnnotationBase 消息的 HashCode、PageNumber 和类型属性 |
+| override [GetHashCode](../../groupdocs.annotation.models.annotationmodels/annotationbase/gethashcode)() | 返回 AnnotationBase Message 的 HashCode，PageNumber 和 Type Properties |
 
 ### 也可以看看
 

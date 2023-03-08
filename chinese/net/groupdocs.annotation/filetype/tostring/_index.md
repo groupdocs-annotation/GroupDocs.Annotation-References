@@ -1,14 +1,14 @@
 ---
 title: ToString
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 返回一个表示文件类型的字符串
+description: 返回表示文件类型的字符串
 type: docs
 weight: 460
 url: /zh/net/groupdocs.annotation/filetype/tostring/
 ---
 ## FileType.ToString method
 
-返回一个表示文件类型的字符串。
+返回表示文件类型的字符串。
 
 ```csharp
 public override string ToString()

@@ -1,14 +1,14 @@
 ---
 title: AreaAnnotation
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 代表区域标注属性
+description: 表示区域标注属性
 type: docs
 weight: 200
 url: /zh/net/groupdocs.annotation.models.annotationmodels/areaannotation/
 ---
 ## AreaAnnotation class
 
-代表区域标注属性
+表示区域标注属性
 
 ```csharp
 public class AreaAnnotation : AnnotationBase, IAreaAnnotation, IEquatable<AreaAnnotation>
@@ -18,7 +18,7 @@ public class AreaAnnotation : AnnotationBase, IAreaAnnotation, IEquatable<AreaAn
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AreaAnnotation](areaannotation)() | 初始化的新实例[`AreaAnnotation`](../areaannotation)类. |
+| [AreaAnnotation](areaannotation)() | 初始化新实例[`AreaAnnotation`](../areaannotation)类. |
 
 ## 特性
 
@@ -26,15 +26,15 @@ public class AreaAnnotation : AnnotationBase, IAreaAnnotation, IEquatable<AreaAn
 | --- | --- |
 | [BackgroundColor](../../groupdocs.annotation.models.annotationmodels/areaannotation/backgroundcolor) { get; set; } | 获取或设置注释背景颜色 |
 | [Box](../../groupdocs.annotation.models.annotationmodels/areaannotation/box) { get; set; } | 获取或设置注解位置 |
-| [CreatedOn](../../groupdocs.annotation.models.annotationmodels/annotationbase/createdon) { get; set; } | 获取或设置注解创建日期 |
+| [CreatedOn](../../groupdocs.annotation.models.annotationmodels/annotationbase/createdon) { get; set; } | 获取或设置注释创建日期 |
 | [Id](../../groupdocs.annotation.models.annotationmodels/annotationbase/id) { get; set; } | 获取或设置注解唯一标识符 |
-| [Message](../../groupdocs.annotation.models.annotationmodels/annotationbase/message) { get; set; } | 获取或设置注解消息 |
-| [Opacity](../../groupdocs.annotation.models.annotationmodels/areaannotation/opacity) { get; set; } | 获取或设置注解不透明度 |
+| [Message](../../groupdocs.annotation.models.annotationmodels/annotationbase/message) { get; set; } | 获取或设置注释消息 |
+| [Opacity](../../groupdocs.annotation.models.annotationmodels/areaannotation/opacity) { get; set; } | 获取或设置注释不透明度 |
 | [PageNumber](../../groupdocs.annotation.models.annotationmodels/annotationbase/pagenumber) { get; set; } | 获取或设置要标注的页码 |
 | [PenColor](../../groupdocs.annotation.models.annotationmodels/areaannotation/pencolor) { get; set; } | 获取或设置批注笔颜色 |
 | [PenStyle](../../groupdocs.annotation.models.annotationmodels/areaannotation/penstyle) { get; set; } | 获取或设置批注笔样式 |
-| [PenWidth](../../groupdocs.annotation.models.annotationmodels/areaannotation/penwidth) { get; set; } | 获取或设置注释笔宽度 |
-| [Replies](../../groupdocs.annotation.models.annotationmodels/annotationbase/replies) { get; set; } | 表示注释回复集合 |
+| [PenWidth](../../groupdocs.annotation.models.annotationmodels/areaannotation/penwidth) { get; set; } | 获取或设置批注笔宽度 |
+| [Replies](../../groupdocs.annotation.models.annotationmodels/annotationbase/replies) { get; set; } | 代表注解回复集合 |
 | [Type](../../groupdocs.annotation.models.annotationmodels/annotationbase/type) { get; set; } | 获取或设置注解类型 |
 | [User](../../groupdocs.annotation.models.annotationmodels/annotationbase/user) { get; set; } | 获取或设置注解创建者 |
 
@@ -45,15 +45,15 @@ public class AreaAnnotation : AnnotationBase, IAreaAnnotation, IEquatable<AreaAn
 | override [Clone](../../groupdocs.annotation.models.annotationmodels/areaannotation/clone)() | 返回具有相同值的新实例 |
 | [Equals](../../groupdocs.annotation.models.annotationmodels/annotationbase/equals)(AnnotationBase) | 使用 IEquatable Equals 方法比较基本注释 |
 | [Equals](../../groupdocs.annotation.models.annotationmodels/areaannotation/equals#equals_1)(AreaAnnotation) | 使用 IEquatable Equals 方法比较区域注释 |
-| override [Equals](../../groupdocs.annotation.models.annotationmodels/areaannotation/equals#equals_2)(object) | 使用标准对象等于方法比较区域注释 |
-| override [GetHashCode](../../groupdocs.annotation.models.annotationmodels/areaannotation/gethashcode)() | 返回区域标注的HashCode |
+| override [Equals](../../groupdocs.annotation.models.annotationmodels/areaannotation/equals#equals_2)(object) | 使用标准对象 Equals 方法比较区域注释 |
+| override [GetHashCode](../../groupdocs.annotation.models.annotationmodels/areaannotation/gethashcode)() | 返回区域注解的HashCode |
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 更多关于注释类型和注释 PDF 和 Microsoft Word 文档、Excel 电子表格和 PowerPoint 演示文稿： [如何使用 GroupDocs.Annotation for .NET 注释文档](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
-* 更多关于为各种类型的文档添加区域注释： [如何在 C# 中添加区域注释](https://docs.groupdocs.com/display/annotationnet/Add+area+annotation)
+* 更多关于注释类型和注释 PDF 和 Microsoft Word 文档、Excel 电子表格和 PowerPoint 演示文稿的信息： [如何使用 GroupDocs.Annotation for .NET 注释文档](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
+* 更多关于为各种类型的文档添加区域注释： [如何在C#中添加区域注释](https://docs.groupdocs.com/display/annotationnet/Add+area+annotation)
 
 ### 也可以看看
 

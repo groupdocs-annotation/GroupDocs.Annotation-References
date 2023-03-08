@@ -10,7 +10,7 @@ url: /zh/net/groupdocs.annotation.models.annotationmodels/imageannotation/zindex
 
 获取或设置 z-index。默认值为 0
 
-这**z-index**属性指定元素的堆栈顺序。
+这**z-索引**属性指定元素的堆叠顺序。
 
 ```csharp
 public int ZIndex { get; set; }

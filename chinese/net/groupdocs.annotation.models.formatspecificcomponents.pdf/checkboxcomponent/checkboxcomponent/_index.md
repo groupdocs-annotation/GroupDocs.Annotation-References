@@ -1,14 +1,14 @@
 ---
 title: CheckBoxComponent
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 初始化的新实例CheckBoxComponentgroupdocs.annotation.models.formatspecificcomponents.pdf/checkboxcomponent类.
+description: 初始化新实例CheckBoxComponentgroupdocs.annotation.models.formatspecificcomponents.pdf/checkboxcomponent类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.annotation.models.formatspecificcomponents.pdf/checkboxcomponent/checkboxcomponent/
 ---
 ## CheckBoxComponent constructor
 
-初始化的新实例[`CheckBoxComponent`](../../checkboxcomponent)类.
+初始化新实例[`CheckBoxComponent`](../../checkboxcomponent)类.
 
 ```csharp
 public CheckBoxComponent()

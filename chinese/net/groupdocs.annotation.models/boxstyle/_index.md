@@ -19,11 +19,11 @@ public enum BoxStyle : byte
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | Circle | `0` | 制作圆形样式 |
-| Check | `1` | 使检查器样式 |
-| Cross | `2` | 使交叉样式 |
-| Diamond | `3` | 使钻石样式 |
-| Square | `4` | 使正方形样式 |
-| Star | `5` | 制作星星样式 |
+| Check | `1` | 制作检查器样式 |
+| Cross | `2` | 制作交叉样式 |
+| Diamond | `3` | 打造钻石风格 |
+| Square | `4` | 制作正方形 style |
+| Star | `5` | 打造明星风格 |
 
 ### 也可以看看
 

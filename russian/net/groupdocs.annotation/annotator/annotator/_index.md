@@ -20,7 +20,7 @@ public Annotator(string filePath)
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее о типах файлов, поддерживаемых GroupDocs.Аннотация: [Форматы документов, поддерживаемые GroupDocs.Annotation](https://docs.groupdocs.com/display/annotationnet/Supported+Document+Formats)
 * Подробнее о функциях GroupDocs.Annotation для .NET: [Руководство для разработчиков](https://docs.groupdocs.com/display/annotationnet/Developer+Guide)
@@ -48,7 +48,7 @@ public Annotator(string filePath, LoadOptions loadOptions)
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее о типах файлов, поддерживаемых GroupDocs.Аннотация: [Форматы документов, поддерживаемые GroupDocs.Annotation](https://docs.groupdocs.com/display/annotationnet/Supported+Document+Formats)
 * Подробнее о функциях GroupDocs.Annotation для .NET: [Руководство для разработчиков](https://docs.groupdocs.com/display/annotationnet/Developer+Guide)
@@ -79,7 +79,7 @@ public Annotator(string filePath, AnnotatorSettings settings)
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее о типах файлов, поддерживаемых GroupDocs.Аннотация: [Форматы документов, поддерживаемые GroupDocs.Annotation](https://docs.groupdocs.com/display/annotationnet/Supported+Document+Formats)
 * Подробнее о функциях GroupDocs.Annotation для .NET: [Руководство для разработчиков](https://docs.groupdocs.com/display/annotationnet/Developer+Guide)
@@ -109,7 +109,7 @@ public Annotator(string filePath, LoadOptions loadOptions, AnnotatorSettings set
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее о типах файлов, поддерживаемых GroupDocs.Аннотация: [Форматы документов, поддерживаемые GroupDocs.Annotation](https://docs.groupdocs.com/display/annotationnet/Supported+Document+Formats)
 * Подробнее о функциях GroupDocs.Annotation для .NET: [Руководство для разработчиков](https://docs.groupdocs.com/display/annotationnet/Developer+Guide)
@@ -140,7 +140,7 @@ public Annotator(Stream document)
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее о типах файлов, поддерживаемых GroupDocs.Аннотация: [Форматы документов, поддерживаемые GroupDocs.Annotation](https://docs.groupdocs.com/display/annotationnet/Supported+Document+Formats)
 * Подробнее о функциях GroupDocs.Annotation для .NET: [Руководство для разработчиков](https://docs.groupdocs.com/display/annotationnet/Developer+Guide)
@@ -168,7 +168,7 @@ public Annotator(Stream document, LoadOptions loadOptions)
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее о типах файлов, поддерживаемых GroupDocs.Аннотация: [Форматы документов, поддерживаемые GroupDocs.Annotation](https://docs.groupdocs.com/display/annotationnet/Supported+Document+Formats)
 * Подробнее о функциях GroupDocs.Annotation для .NET: [Руководство для разработчиков](https://docs.groupdocs.com/display/annotationnet/Developer+Guide)
@@ -199,7 +199,7 @@ public Annotator(Stream document, AnnotatorSettings settings)
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее о типах файлов, поддерживаемых GroupDocs.Аннотация: [Форматы документов, поддерживаемые GroupDocs.Annotation](https://docs.groupdocs.com/display/annotationnet/Supported+Document+Formats)
 * Подробнее о функциях GroupDocs.Annotation для .NET: [Руководство для разработчиков](https://docs.groupdocs.com/display/annotationnet/Developer+Guide)
@@ -229,7 +229,7 @@ public Annotator(Stream document, LoadOptions loadOptions, AnnotatorSettings set
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее о типах файлов, поддерживаемых GroupDocs.Аннотация: [Форматы документов, поддерживаемые GroupDocs.Annotation](https://docs.groupdocs.com/display/annotationnet/Supported+Document+Formats)
 * Подробнее о функциях GroupDocs.Annotation для .NET: [Руководство для разработчиков](https://docs.groupdocs.com/display/annotationnet/Developer+Guide)

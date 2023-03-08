@@ -16,7 +16,7 @@ public bool Equals(LinkAnnotation other)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| other | LinkAnnotation | 与当前对象比较的 LinkAnnotation 对象 |
+| other | LinkAnnotation | 要与当前对象进行比较的 LinkAnnotation 对象 |
 
 ### 也可以看看
 
@@ -28,7 +28,7 @@ public bool Equals(LinkAnnotation other)
 
 ## Equals(object) {#equals_2}
 
-使用标准对象 Equals 方法比较链接注释
+使用标准对象等于方法比较链接注释
 
 ```csharp
 public override bool Equals(object obj)

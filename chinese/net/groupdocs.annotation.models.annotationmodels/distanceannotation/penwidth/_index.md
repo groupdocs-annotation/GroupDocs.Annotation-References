@@ -1,14 +1,14 @@
 ---
 title: PenWidth
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 获取或设置注释笔宽度
+description: 获取或设置批注笔宽度
 type: docs
 weight: 60
 url: /zh/net/groupdocs.annotation.models.annotationmodels/distanceannotation/penwidth/
 ---
 ## DistanceAnnotation.PenWidth property
 
-获取或设置注释笔宽度
+获取或设置批注笔宽度
 
 ```csharp
 public byte? PenWidth { get; set; }

@@ -3,7 +3,7 @@ title: ReleasePageStream
 second_title: GroupDocs.Annotation for .NET API Reference
 description: المفوض الذي يحدد طريقة إصدار دفق معاينة صفحة الإخراج.
 type: docs
-weight: 1000
+weight: 1010
 url: /ar/net/groupdocs.annotation.options/releasepagestream/
 ---
 ## ReleasePageStream delegate

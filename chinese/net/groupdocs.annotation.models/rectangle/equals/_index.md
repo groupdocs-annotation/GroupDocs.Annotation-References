@@ -8,7 +8,7 @@ url: /zh/net/groupdocs.annotation.models/rectangle/equals/
 ---
 ## Rectangle.Equals method
 
-判断指定矩形是否等于当前矩形
+判断指定矩形是否等于当前矩形。
 
 ```csharp
 public override bool Equals(object obj)
@@ -20,7 +20,7 @@ public override bool Equals(object obj)
 
 ### 返回值
 
-`true`如果指定的矩形等于当前的矩形；否则，`false`.
+`true`如果指定的矩形等于当前矩形；否则，`false`.
 
 ### 也可以看看
 

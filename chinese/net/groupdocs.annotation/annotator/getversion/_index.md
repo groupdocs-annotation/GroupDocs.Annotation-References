@@ -16,11 +16,11 @@ public List<AnnotationBase> GetVersion(object version)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| version | Object | 要返回的版本的版本密钥 |
+| version | Object | 您要返回的版本的版本密钥 |
 
 ### 返回值
 
-来自特定版本的注释列表。如果 null 将最后返回。
+来自特定版本的注释列表。如果为 null 将最后返回。
 
 ### 也可以看看
 

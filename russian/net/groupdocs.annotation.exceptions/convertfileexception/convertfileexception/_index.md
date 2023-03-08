@@ -1,14 +1,14 @@
 ---
 title: ConvertFileException
 second_title: Справочник по API GroupDocs.Annotation для .NET
-description: Инициализирует новый экземплярConvertFileExceptiongroupdocs.annotation.exceptions/convertfileexception учебный класс.
+description: Инициализирует новый экземплярConvertFileExceptiongroupdocs.annotation.exceptions/convertfileexception сорт.
 type: docs
 weight: 10
 url: /ru/net/groupdocs.annotation.exceptions/convertfileexception/convertfileexception/
 ---
 ## ConvertFileException(string) {#constructor}
 
-Инициализирует новый экземпляр[`ConvertFileException`](../../convertfileexception) учебный класс.
+Инициализирует новый экземпляр[`ConvertFileException`](../../convertfileexception) сорт.
 
 ```csharp
 public ConvertFileException(string message)
@@ -28,7 +28,7 @@ public ConvertFileException(string message)
 
 ## ConvertFileException(string, Exception) {#constructor_1}
 
-Инициализирует новый экземпляр[`ConvertFileException`](../../convertfileexception) учебный класс.
+Инициализирует новый экземпляр[`ConvertFileException`](../../convertfileexception) сорт.
 
 ```csharp
 public ConvertFileException(string message, Exception innerException)

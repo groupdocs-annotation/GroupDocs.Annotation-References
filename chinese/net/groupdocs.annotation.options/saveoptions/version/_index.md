@@ -1,14 +1,14 @@
 ---
 title: Version
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 用于访问当前版本的版本密钥
+description: 将用于访问当前版本的版本密钥
 type: docs
 weight: 60
 url: /zh/net/groupdocs.annotation.options/saveoptions/version/
 ---
 ## SaveOptions.Version property
 
-用于访问当前版本的版本密钥
+将用于访问当前版本的版本密钥
 
 ```csharp
 public object Version { get; set; }

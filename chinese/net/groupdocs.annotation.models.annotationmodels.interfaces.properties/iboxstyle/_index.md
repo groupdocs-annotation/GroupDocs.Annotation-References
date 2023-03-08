@@ -18,7 +18,7 @@ public interface IBoxStyle
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Style](../../groupdocs.annotation.models.annotationmodels.interfaces.properties/iboxstyle/style) { get; set; } | 获取或设置标注框样式 |
+| [Style](../../groupdocs.annotation.models.annotationmodels.interfaces.properties/iboxstyle/style) { get; set; } | 获取或设置注释框样式 |
 
 ### 也可以看看
 

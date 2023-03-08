@@ -1,14 +1,14 @@
 ---
 title: ImageNotLoadedException
 second_title: GroupDocs.Annotation for .NET API Reference
-description: يقوم بتهيئة مثيل جديد لملفImageNotLoadedExceptiongroupdocs.annotation.exceptions/imagenotloadedexception صف دراسي.
+description: يقوم بتهيئة مثيل جديد لملفImageNotLoadedExceptiongroupdocs.annotation.exceptions/imagenotloadedexception فصل.
 type: docs
 weight: 10
 url: /ar/net/groupdocs.annotation.exceptions/imagenotloadedexception/imagenotloadedexception/
 ---
 ## ImageNotLoadedException(string) {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`ImageNotLoadedException`](../../imagenotloadedexception) صف دراسي.
+يقوم بتهيئة مثيل جديد لملف[`ImageNotLoadedException`](../../imagenotloadedexception) فصل.
 
 ```csharp
 public ImageNotLoadedException(string message)
@@ -28,7 +28,7 @@ public ImageNotLoadedException(string message)
 
 ## ImageNotLoadedException(string, Exception) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`ImageNotLoadedException`](../../imagenotloadedexception) صف دراسي.
+يقوم بتهيئة مثيل جديد لملف[`ImageNotLoadedException`](../../imagenotloadedexception) فصل.
 
 ```csharp
 public ImageNotLoadedException(string message, Exception innerException)

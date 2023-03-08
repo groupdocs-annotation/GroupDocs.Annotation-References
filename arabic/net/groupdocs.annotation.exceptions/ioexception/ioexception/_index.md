@@ -1,14 +1,14 @@
 ---
 title: IOException
 second_title: GroupDocs.Annotation for .NET API Reference
-description: يقوم بتهيئة مثيل جديد لملفIOExceptiongroupdocs.annotation.exceptions/ioexception صف دراسي.
+description: يقوم بتهيئة مثيل جديد لملفIOExceptiongroupdocs.annotation.exceptions/ioexception فصل.
 type: docs
 weight: 10
 url: /ar/net/groupdocs.annotation.exceptions/ioexception/ioexception/
 ---
 ## IOException(string) {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`IOException`](../../ioexception) صف دراسي.
+يقوم بتهيئة مثيل جديد لملف[`IOException`](../../ioexception) فصل.
 
 ```csharp
 public IOException(string message)
@@ -28,7 +28,7 @@ public IOException(string message)
 
 ## IOException(string, Exception) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`IOException`](../../ioexception) صف دراسي.
+يقوم بتهيئة مثيل جديد لملف[`IOException`](../../ioexception) فصل.
 
 ```csharp
 public IOException(string message, Exception innerException)

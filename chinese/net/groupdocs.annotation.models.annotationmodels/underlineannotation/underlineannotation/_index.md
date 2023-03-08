@@ -1,14 +1,14 @@
 ---
 title: UnderlineAnnotation
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 初始化的新实例UnderlineAnnotationgroupdocs.annotation.models.annotationmodels/underlineannotation类.
+description: 初始化新实例UnderlineAnnotationgroupdocs.annotation.models.annotationmodels/underlineannotation类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.annotation.models.annotationmodels/underlineannotation/underlineannotation/
 ---
 ## UnderlineAnnotation constructor
 
-初始化的新实例[`UnderlineAnnotation`](../../underlineannotation)类.
+初始化新实例[`UnderlineAnnotation`](../../underlineannotation)类.
 
 ```csharp
 public UnderlineAnnotation()

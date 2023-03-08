@@ -1,14 +1,14 @@
 ---
 title: ButtonComponent
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 初始化的新实例ButtonComponentgroupdocs.annotation.models.formatspecificcomponents.pdf/buttoncomponent类.
+description: 初始化新实例ButtonComponentgroupdocs.annotation.models.formatspecificcomponents.pdf/buttoncomponent类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.annotation.models.formatspecificcomponents.pdf/buttoncomponent/buttoncomponent/
 ---
 ## ButtonComponent constructor
 
-初始化的新实例[`ButtonComponent`](../../buttoncomponent)类.
+初始化新实例[`ButtonComponent`](../../buttoncomponent)类.
 
 ```csharp
 public ButtonComponent()

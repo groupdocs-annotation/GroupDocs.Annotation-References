@@ -1,14 +1,14 @@
 ---
 title: op_Equality
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 运算符重载
+description: 运算符超载
 type: docs
 weight: 480
 url: /zh/net/groupdocs.annotation/filetype/op_equality/
 ---
 ## FileType Equality operator
 
-运算符重载。
+运算符超载。
 
 ```csharp
 public static bool operator ==(FileType left, FileType right)

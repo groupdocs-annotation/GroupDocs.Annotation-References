@@ -3,7 +3,7 @@ title: CreatePageStream
 second_title: GroupDocs.Annotation for .NET API Reference
 description: المفوض الذي يحدد طريقة إنشاء تدفق معاينة صفحة الإخراج.
 type: docs
-weight: 960
+weight: 970
 url: /ar/net/groupdocs.annotation.options/createpagestream/
 ---
 ## CreatePageStream delegate

@@ -3,7 +3,7 @@ title: LoadOptions
 second_title: Справочник по API GroupDocs.Annotation для .NET
 description: Позволяет указать дополнительные параметры например пароль при открытии документа для комментирования.
 type: docs
-weight: 970
+weight: 980
 url: /ru/net/groupdocs.annotation.options/loadoptions/
 ---
 ## LoadOptions class

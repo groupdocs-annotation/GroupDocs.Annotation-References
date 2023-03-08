@@ -3,7 +3,7 @@ title: VerticalAlignment
 second_title: Справочник по API GroupDocs.Annotation для .NET
 description: Представляет состояние вертикального выравнивания аннотаций
 type: docs
-weight: 940
+weight: 950
 url: /ru/net/groupdocs.annotation.models/verticalalignment/
 ---
 ## VerticalAlignment enumeration

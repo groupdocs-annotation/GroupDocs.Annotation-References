@@ -1,14 +1,14 @@
 ---
 title: op_Equality
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 比较两个 Point 对象结果指定两个Point对象的Point.X和Point.Y属性值是否相等
+description: 比较两个点对象结果指定两个Point对象的Point.X和Point.Y属性的值是否相等
 type: docs
 weight: 60
 url: /zh/net/groupdocs.annotation.models/point/op_equality/
 ---
 ## Point Equality operator
 
-比较两个 Point 对象。结果指定两个Point对象的Point.X和Point.Y属性值是否相等。
+比较两个点对象。结果指定两个Point对象的Point.X和Point.Y属性的值是否相等。
 
 ```csharp
 public static bool operator ==(Point left, Point right)
@@ -16,12 +16,12 @@ public static bool operator ==(Point left, Point right)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| left | Point | 一个要比较的点。 |
-| right | Point | 一个要比较的点。 |
+| left | Point | 比较点。 |
+| right | Point | 比较点。 |
 
 ### 返回值
 
-如果左右的 Point.X 和 Point.Y 值相等，则为 true；否则为假。
+如果 left 和 right 的 Point.X 和 Point.Y 值相等，则为真；否则，假的。
 
 ### 也可以看看
 

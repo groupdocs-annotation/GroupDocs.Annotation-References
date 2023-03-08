@@ -1,14 +1,14 @@
 ---
 title: ReplacementAnnotation
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 初始化的新实例ReplacementAnnotationgroupdocs.annotation.models.annotationmodels/replacementannotation类.
+description: 初始化新实例ReplacementAnnotationgroupdocs.annotation.models.annotationmodels/replacementannotation类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.annotation.models.annotationmodels/replacementannotation/replacementannotation/
 ---
 ## ReplacementAnnotation constructor
 
-初始化的新实例[`ReplacementAnnotation`](../../replacementannotation)类.
+初始化新实例[`ReplacementAnnotation`](../../replacementannotation)类.
 
 ```csharp
 public ReplacementAnnotation()

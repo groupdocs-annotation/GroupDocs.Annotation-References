@@ -1,14 +1,14 @@
 ---
 title: Save
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 在添加更新或删除注释后保存文档
+description: 添加更新或删除注释后保存文档
 type: docs
 weight: 130
 url: /zh/net/groupdocs.annotation/annotator/save/
 ---
 ## Save() {#save}
 
-在添加、更新或删除注释后保存文档。
+添加、更新或删除注释后保存文档。
 
 ```csharp
 public void Save()
@@ -18,9 +18,9 @@ public void Save()
 
 **了解有关保存带注释文档的更多信息**
 
-* 更多关于如何只保存带注释的文档页面： [仅保存带注释的页面](https://docs.groupdocs.com/display/annotationnet/Save+only+annotated+pages)
-* 有关如何仅使用特定注释类型保存文档的更多信息： [保存时过滤注释类型](https://docs.groupdocs.com/display/annotationnet/Filtering+annotation+types)
-* 更多关于如何从整个文档中保存特定页面： [保存特定页面范围](https://docs.groupdocs.com/display/annotationnet/Save+specific+page+range)
+* 有关如何仅保存带注释的文档页面的更多信息： [仅保存带注释的页面](https://docs.groupdocs.com/display/annotationnet/Save+only+annotated+pages)
+* 更多关于如何仅使用特定注释类型保存文档的信息： [保存时过滤注释类型](https://docs.groupdocs.com/display/annotationnet/Filtering+annotation+types)
+* 有关如何从整个文档中保存特定页面的更多信息： [保存特定页面范围](https://docs.groupdocs.com/display/annotationnet/Save+specific+page+range)
 
 ### 也可以看看
 
@@ -32,7 +32,7 @@ public void Save()
 
 ## Save(SaveOptions) {#save_1}
 
-在添加、更新或删除注释后保存文档。
+添加、更新或删除注释后保存文档。
 
 ```csharp
 public void Save(SaveOptions saveOptions)
@@ -46,9 +46,9 @@ public void Save(SaveOptions saveOptions)
 
 **了解有关保存带注释文档的更多信息**
 
-* 更多关于如何只保存带注释的文档页面： [仅保存带注释的页面](https://docs.groupdocs.com/display/annotationnet/Save+only+annotated+pages)
-* 有关如何仅使用特定注释类型保存文档的更多信息： [保存时过滤注释类型](https://docs.groupdocs.com/display/annotationnet/Filtering+annotation+types)
-* 更多关于如何从整个文档中保存特定页面： [保存特定页面范围](https://docs.groupdocs.com/display/annotationnet/Save+specific+page+range)
+* 有关如何仅保存带注释的文档页面的更多信息： [仅保存带注释的页面](https://docs.groupdocs.com/display/annotationnet/Save+only+annotated+pages)
+* 更多关于如何仅使用特定注释类型保存文档的信息： [保存时过滤注释类型](https://docs.groupdocs.com/display/annotationnet/Filtering+annotation+types)
+* 有关如何从整个文档中保存特定页面的更多信息： [保存特定页面范围](https://docs.groupdocs.com/display/annotationnet/Save+specific+page+range)
 
 ### 也可以看看
 
@@ -61,7 +61,7 @@ public void Save(SaveOptions saveOptions)
 
 ## Save(Stream) {#save_2}
 
-在添加、更新或删除注释后保存文档。
+添加、更新或删除注释后保存文档。
 
 ```csharp
 public void Save(Stream document)
@@ -75,9 +75,9 @@ public void Save(Stream document)
 
 **了解有关保存带注释文档的更多信息**
 
-* 更多关于如何只保存带注释的文档页面： [仅保存带注释的页面](https://docs.groupdocs.com/display/annotationnet/Save+only+annotated+pages)
-* 有关如何仅使用特定注释类型保存文档的更多信息： [保存时过滤注释类型](https://docs.groupdocs.com/display/annotationnet/Filtering+annotation+types)
-* 更多关于如何从整个文档中保存特定页面： [保存特定页面范围](https://docs.groupdocs.com/display/annotationnet/Save+specific+page+range)
+* 有关如何仅保存带注释的文档页面的更多信息： [仅保存带注释的页面](https://docs.groupdocs.com/display/annotationnet/Save+only+annotated+pages)
+* 更多关于如何仅使用特定注释类型保存文档的信息： [保存时过滤注释类型](https://docs.groupdocs.com/display/annotationnet/Filtering+annotation+types)
+* 有关如何从整个文档中保存特定页面的更多信息： [保存特定页面范围](https://docs.groupdocs.com/display/annotationnet/Save+specific+page+range)
 
 ### 也可以看看
 
@@ -89,7 +89,7 @@ public void Save(Stream document)
 
 ## Save(string) {#save_4}
 
-在添加、更新或删除注释后保存文档。
+添加、更新或删除注释后保存文档。
 
 ```csharp
 public void Save(string filePath)
@@ -103,9 +103,9 @@ public void Save(string filePath)
 
 **了解有关保存带注释文档的更多信息**
 
-* 更多关于如何只保存带注释的文档页面： [仅保存带注释的页面](https://docs.groupdocs.com/display/annotationnet/Save+only+annotated+pages)
-* 有关如何仅使用特定注释类型保存文档的更多信息： [保存时过滤注释类型](https://docs.groupdocs.com/display/annotationnet/Filtering+annotation+types)
-* 更多关于如何从整个文档中保存特定页面： [保存特定页面范围](https://docs.groupdocs.com/display/annotationnet/Save+specific+page+range)
+* 有关如何仅保存带注释的文档页面的更多信息： [仅保存带注释的页面](https://docs.groupdocs.com/display/annotationnet/Save+only+annotated+pages)
+* 更多关于如何仅使用特定注释类型保存文档的信息： [保存时过滤注释类型](https://docs.groupdocs.com/display/annotationnet/Filtering+annotation+types)
+* 有关如何从整个文档中保存特定页面的更多信息： [保存特定页面范围](https://docs.groupdocs.com/display/annotationnet/Save+specific+page+range)
 
 ### 也可以看看
 
@@ -117,7 +117,7 @@ public void Save(string filePath)
 
 ## Save(Stream, SaveOptions) {#save_3}
 
-在添加、更新或删除注释后保存文档。
+添加、更新或删除注释后保存文档。
 
 ```csharp
 public void Save(Stream document, SaveOptions saveOptions)
@@ -132,9 +132,9 @@ public void Save(Stream document, SaveOptions saveOptions)
 
 **了解有关保存带注释文档的更多信息**
 
-* 更多关于如何只保存带注释的文档页面： [仅保存带注释的页面](https://docs.groupdocs.com/display/annotationnet/Save+only+annotated+pages)
-* 有关如何仅使用特定注释类型保存文档的更多信息： [保存时过滤注释类型](https://docs.groupdocs.com/display/annotationnet/Filtering+annotation+types)
-* 更多关于如何从整个文档中保存特定页面： [保存特定页面范围](https://docs.groupdocs.com/display/annotationnet/Save+specific+page+range)
+* 有关如何仅保存带注释的文档页面的更多信息： [仅保存带注释的页面](https://docs.groupdocs.com/display/annotationnet/Save+only+annotated+pages)
+* 更多关于如何仅使用特定注释类型保存文档的信息： [保存时过滤注释类型](https://docs.groupdocs.com/display/annotationnet/Filtering+annotation+types)
+* 有关如何从整个文档中保存特定页面的更多信息： [保存特定页面范围](https://docs.groupdocs.com/display/annotationnet/Save+specific+page+range)
 
 ### 也可以看看
 
@@ -147,7 +147,7 @@ public void Save(Stream document, SaveOptions saveOptions)
 
 ## Save(string, SaveOptions) {#save_5}
 
-在添加、更新或删除注释后保存文档。
+添加、更新或删除注释后保存文档。
 
 ```csharp
 public void Save(string filePath, SaveOptions saveOptions)
@@ -162,9 +162,9 @@ public void Save(string filePath, SaveOptions saveOptions)
 
 **了解有关保存带注释文档的更多信息**
 
-* 更多关于如何只保存带注释的文档页面： [仅保存带注释的页面](https://docs.groupdocs.com/display/annotationnet/Save+only+annotated+pages)
-* 有关如何仅使用特定注释类型保存文档的更多信息： [保存时过滤注释类型](https://docs.groupdocs.com/display/annotationnet/Filtering+annotation+types)
-* 更多关于如何从整个文档中保存特定页面： [保存特定页面范围](https://docs.groupdocs.com/display/annotationnet/Save+specific+page+range)
+* 有关如何仅保存带注释的文档页面的更多信息： [仅保存带注释的页面](https://docs.groupdocs.com/display/annotationnet/Save+only+annotated+pages)
+* 更多关于如何仅使用特定注释类型保存文档的信息： [保存时过滤注释类型](https://docs.groupdocs.com/display/annotationnet/Filtering+annotation+types)
+* 有关如何从整个文档中保存特定页面的更多信息： [保存特定页面范围](https://docs.groupdocs.com/display/annotationnet/Save+specific+page+range)
 
 ### 也可以看看
 

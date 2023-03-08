@@ -1,14 +1,14 @@
 ---
 title: BorderColor
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 获取或设置标注边框颜色
+description: 获取或设置注释边框颜色
 type: docs
 weight: 30
 url: /zh/net/groupdocs.annotation.models.formatspecificcomponents.pdf/buttoncomponent/bordercolor/
 ---
 ## ButtonComponent.BorderColor property
 
-获取或设置标注边框颜色
+获取或设置注释边框颜色
 
 ```csharp
 public int? BorderColor { get; set; }

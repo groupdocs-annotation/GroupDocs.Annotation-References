@@ -8,7 +8,7 @@ url: /zh/net/groupdocs.annotation.models/point/equals/
 ---
 ## Point.Equals method
 
-判断指定点是否等于当前点
+判断指定点是否等于当前点。
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,7 +16,7 @@ public override bool Equals(object obj)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| obj | Object | 与当前点进行比较的点。 |
+| obj | Object | 要与当前点进行比较的点。 |
 
 ### 返回值
 

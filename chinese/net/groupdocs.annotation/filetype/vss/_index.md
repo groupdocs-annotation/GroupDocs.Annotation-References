@@ -1,14 +1,14 @@
 ---
 title: Vss
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: Microsoft Visio 模具文件
+description: Microsoft Visio 模具文件.
 type: docs
 weight: 320
 url: /zh/net/groupdocs.annotation/filetype/vss/
 ---
 ## FileType.Vss property
 
-Microsoft Visio 模具文件。
+Microsoft Visio 模具文件.
 
 ```csharp
 public static FileType Vss { get; }

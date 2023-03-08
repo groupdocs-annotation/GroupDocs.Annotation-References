@@ -1,14 +1,14 @@
 ---
 title: BackgroundColor
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 获取或设置注释文本背景颜色
+description: 获取或设置注释文字背景颜色
 type: docs
 weight: 20
 url: /zh/net/groupdocs.annotation.models.annotationmodels/underlineannotation/backgroundcolor/
 ---
 ## UnderlineAnnotation.BackgroundColor property
 
-获取或设置注释文本背景颜色
+获取或设置注释文字背景颜色
 
 ```csharp
 public int? BackgroundColor { get; set; }

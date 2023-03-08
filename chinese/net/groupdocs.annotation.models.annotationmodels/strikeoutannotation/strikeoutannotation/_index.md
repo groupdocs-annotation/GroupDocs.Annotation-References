@@ -1,14 +1,14 @@
 ---
 title: StrikeoutAnnotation
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 初始化的新实例StrikeoutAnnotationgroupdocs.annotation.models.annotationmodels/strikeoutannotation类.
+description: 初始化新实例StrikeoutAnnotationgroupdocs.annotation.models.annotationmodels/strikeoutannotation类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.annotation.models.annotationmodels/strikeoutannotation/strikeoutannotation/
 ---
 ## StrikeoutAnnotation constructor
 
-初始化的新实例[`StrikeoutAnnotation`](../../strikeoutannotation)类.
+初始化新实例[`StrikeoutAnnotation`](../../strikeoutannotation)类.
 
 ```csharp
 public StrikeoutAnnotation()

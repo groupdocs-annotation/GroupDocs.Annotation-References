@@ -1,14 +1,14 @@
 ---
 title: Url
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 获取或设置注解链接 url
+description: 获取或设置注释链接 url
 type: docs
 weight: 60
 url: /zh/net/groupdocs.annotation.models.annotationmodels/linkannotation/url/
 ---
 ## LinkAnnotation.Url property
 
-获取或设置注解链接 url
+获取或设置注释链接 url
 
 ```csharp
 public string Url { get; set; }

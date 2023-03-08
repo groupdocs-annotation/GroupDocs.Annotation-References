@@ -1,14 +1,14 @@
 ---
 title: CheckBoxComponent
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 表示复选框属性
+description: 代表复选框属性
 type: docs
 weight: 790
 url: /zh/net/groupdocs.annotation.models.formatspecificcomponents.pdf/checkboxcomponent/
 ---
 ## CheckBoxComponent class
 
-表示复选框属性
+代表复选框属性
 
 ```csharp
 public class CheckBoxComponent : AnnotationBase, ICheckBoxComponent, IEquatable<CheckBoxComponent>
@@ -18,20 +18,20 @@ public class CheckBoxComponent : AnnotationBase, ICheckBoxComponent, IEquatable<
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CheckBoxComponent](checkboxcomponent)() | 初始化的新实例[`CheckBoxComponent`](../checkboxcomponent)类. |
+| [CheckBoxComponent](checkboxcomponent)() | 初始化新实例[`CheckBoxComponent`](../checkboxcomponent)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [Box](../../groupdocs.annotation.models.formatspecificcomponents.pdf/checkboxcomponent/box) { get; set; } | 获取或设置组件位置 |
-| [Checked](../../groupdocs.annotation.models.formatspecificcomponents.pdf/checkboxcomponent/checked) { get; set; } | 获取或设置组件checked |
-| [CreatedOn](../../groupdocs.annotation.models.annotationmodels/annotationbase/createdon) { get; set; } | 获取或设置注解创建日期 |
+| [Checked](../../groupdocs.annotation.models.formatspecificcomponents.pdf/checkboxcomponent/checked) { get; set; } | 获取或设置组件 checked |
+| [CreatedOn](../../groupdocs.annotation.models.annotationmodels/annotationbase/createdon) { get; set; } | 获取或设置注释创建日期 |
 | [Id](../../groupdocs.annotation.models.annotationmodels/annotationbase/id) { get; set; } | 获取或设置注解唯一标识符 |
-| [Message](../../groupdocs.annotation.models.annotationmodels/annotationbase/message) { get; set; } | 获取或设置注解消息 |
+| [Message](../../groupdocs.annotation.models.annotationmodels/annotationbase/message) { get; set; } | 获取或设置注释消息 |
 | [PageNumber](../../groupdocs.annotation.models.annotationmodels/annotationbase/pagenumber) { get; set; } | 获取或设置要标注的页码 |
 | [PenColor](../../groupdocs.annotation.models.formatspecificcomponents.pdf/checkboxcomponent/pencolor) { get; set; } | 获取或设置组件颜色 |
-| [Replies](../../groupdocs.annotation.models.annotationmodels/annotationbase/replies) { get; set; } | 表示注释回复集合 |
+| [Replies](../../groupdocs.annotation.models.annotationmodels/annotationbase/replies) { get; set; } | 代表注解回复集合 |
 | [Style](../../groupdocs.annotation.models.formatspecificcomponents.pdf/checkboxcomponent/style) { get; set; } | 获取或设置样式框 |
 | [Type](../../groupdocs.annotation.models.annotationmodels/annotationbase/type) { get; set; } | 获取或设置注解类型 |
 | [User](../../groupdocs.annotation.models.annotationmodels/annotationbase/user) { get; set; } | 获取或设置注解创建者 |
@@ -48,10 +48,10 @@ public class CheckBoxComponent : AnnotationBase, ICheckBoxComponent, IEquatable<
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 更多关于注释类型和注释 PDF： [如何使用 GroupDocs.Annotation for .NET 注释文档](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
-* 更多关于向 PDF 添加复选框组件的信息： [如何在 C# 中添加复选框组件](https://docs.groupdocs.com/display/annotationnet/Add+dropdown+component)
+* 有关注释类型和注释 PDF 的更多信息： [如何使用 GroupDocs.Annotation for .NET 注释文档](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
+* 有关将复选框组件添加到 PDF 的更多信息： [C#中如何添加checkBox组件](https://docs.groupdocs.com/display/annotationnet/Add+dropdown+component)
 
 ### 也可以看看
 

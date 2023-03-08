@@ -1,14 +1,14 @@
 ---
 title: ReleasePageStream
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 定义删除输出页面预览流的方法的委托
+description: Delegate 定义了删除输出页面预览 stream 的方法
 type: docs
 weight: 60
 url: /zh/net/groupdocs.annotation.options/previewoptions/releasepagestream/
 ---
 ## PreviewOptions.ReleasePageStream property
 
-定义删除输出页面预览流的方法的委托
+Delegate 定义了删除输出页面预览 stream 的方法
 
 ```csharp
 public ReleasePageStream ReleasePageStream { get; set; }

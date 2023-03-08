@@ -1,14 +1,14 @@
 ---
 title: AnnotatorException
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 初始化AnnotatorExceptiongroupdocs.annotation.exceptions/annotatorexception类.
+description: 初始化一个新的实例AnnotatorExceptiongroupdocs.annotation.exceptions/annotatorexception类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.annotation.exceptions/annotatorexception/annotatorexception/
 ---
 ## AnnotatorException(string) {#constructor}
 
-初始化[`AnnotatorException`](../../annotatorexception)类.
+初始化一个新的实例[`AnnotatorException`](../../annotatorexception)类.
 
 ```csharp
 public AnnotatorException(string message)
@@ -28,7 +28,7 @@ public AnnotatorException(string message)
 
 ## AnnotatorException(string, Exception) {#constructor_1}
 
-初始化[`AnnotatorException`](../../annotatorexception)类.
+初始化一个新的实例[`AnnotatorException`](../../annotatorexception)类.
 
 ```csharp
 public AnnotatorException(string message, Exception innerException)
@@ -37,7 +37,7 @@ public AnnotatorException(string message, Exception innerException)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | message | String | 解释异常原因的错误消息。 |
-| innerException | Exception | 导致当前异常的异常，如果未指定内部异常，则为空引用（Visual Basic 中为 Nothing）。 |
+| innerException | Exception | 导致当前异常的异常，如果未指定内部异常，则为空引用（在 Visual Basic 中为 Nothing）。 |
 
 ### 也可以看看
 

@@ -18,8 +18,8 @@ public class ImageNotLoadedException : AnnotatorException
 
 | اسم | وصف |
 | --- | --- |
-| [ImageNotLoadedException](imagenotloadedexception#constructor)(string) | يقوم بتهيئة مثيل جديد لملف[`ImageNotLoadedException`](../imagenotloadedexception) صف دراسي. |
-| [ImageNotLoadedException](imagenotloadedexception#constructor_1)(string, Exception) | يقوم بتهيئة مثيل جديد لملف[`ImageNotLoadedException`](../imagenotloadedexception) صف دراسي. |
+| [ImageNotLoadedException](imagenotloadedexception#constructor)(string) | يقوم بتهيئة مثيل جديد لملف[`ImageNotLoadedException`](../imagenotloadedexception) فصل. |
+| [ImageNotLoadedException](imagenotloadedexception#constructor_1)(string, Exception) | يقوم بتهيئة مثيل جديد لملف[`ImageNotLoadedException`](../imagenotloadedexception) فصل. |
 
 ### أنظر أيضا
 

@@ -1,14 +1,14 @@
 ---
 title: TextLineInfo
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 表示文本行信息
+description: 代表文本行信息
 type: docs
-weight: 920
+weight: 930
 url: /zh/net/groupdocs.annotation.models/textlineinfo/
 ---
 ## TextLineInfo structure
 
-表示文本行信息。
+代表文本行信息。
 
 ```csharp
 public struct TextLineInfo
@@ -18,10 +18,10 @@ public struct TextLineInfo
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Height](../../groupdocs.annotation.models/textlineinfo/height) { get; set; } | 高度宽度 |
-| [LeftIndent](../../groupdocs.annotation.models/textlineinfo/leftindent) { get; set; } | 从左缩进 |
+| [Height](../../groupdocs.annotation.models/textlineinfo/height) { get; set; } | 高度 width |
+| [LeftIndent](../../groupdocs.annotation.models/textlineinfo/leftindent) { get; set; } | 从左边缩进 |
 | [Text](../../groupdocs.annotation.models/textlineinfo/text) { get; set; } | 行文本 |
-| [TopIndent](../../groupdocs.annotation.models/textlineinfo/topindent) { get; set; } | 从顶部缩进 |
+| [TopIndent](../../groupdocs.annotation.models/textlineinfo/topindent) { get; set; } | 从 top 缩进 |
 | [Width](../../groupdocs.annotation.models/textlineinfo/width) { get; set; } | 线宽 |
 
 ### 也可以看看

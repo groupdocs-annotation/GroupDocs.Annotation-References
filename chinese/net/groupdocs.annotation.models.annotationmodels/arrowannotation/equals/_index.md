@@ -16,7 +16,7 @@ public bool Equals(ArrowAnnotation other)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| other | ArrowAnnotation | 与当前对象进行比较的 ArrowAnnotation 对象 |
+| other | ArrowAnnotation | 要与当前对象进行比较的 ArrowAnnotation 对象 |
 
 ### 也可以看看
 

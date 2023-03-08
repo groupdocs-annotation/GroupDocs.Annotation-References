@@ -1,14 +1,14 @@
 ---
 title: FontSize
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 获取或设置注释文本字体大小
+description: 获取或设置注释文字字体大小
 type: docs
 weight: 60
 url: /zh/net/groupdocs.annotation.models.annotationmodels/textfieldannotation/fontsize/
 ---
 ## TextFieldAnnotation.FontSize property
 
-获取或设置注释文本字体大小
+获取或设置注释文字字体大小
 
 ```csharp
 public double? FontSize { get; set; }

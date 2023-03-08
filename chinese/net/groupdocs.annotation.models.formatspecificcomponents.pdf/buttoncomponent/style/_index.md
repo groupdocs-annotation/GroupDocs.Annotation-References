@@ -1,14 +1,14 @@
 ---
 title: Style
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 获取或设置注解边框
+description: 获取或设置注解 border
 type: docs
 weight: 110
 url: /zh/net/groupdocs.annotation.models.formatspecificcomponents.pdf/buttoncomponent/style/
 ---
 ## ButtonComponent.Style property
 
-获取或设置注解边框
+获取或设置注解 border
 
 ```csharp
 public BorderStyle? Style { get; set; }

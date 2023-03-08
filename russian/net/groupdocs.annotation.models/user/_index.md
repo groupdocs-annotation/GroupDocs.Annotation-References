@@ -3,7 +3,7 @@ title: User
 second_title: Справочник по API GroupDocs.Annotation для .NET
 description: Представляет свойства пользователя.
 type: docs
-weight: 930
+weight: 940
 url: /ru/net/groupdocs.annotation.models/user/
 ---
 ## User class
@@ -19,7 +19,7 @@ public class User
 | Имя | Описание |
 | --- | --- |
 | [User](user#constructor)() | Инициализирует новый экземпляр[`User`](../user) класс. |
-| [User](user#constructor_1)(int, string) | Инициализирует новый экземпляр[`User`](../user) класс. |
+| [User](user#constructor_1)(int, string, Role) | Инициализирует новый экземпляр[`User`](../user) класс. |
 
 ## Характеристики
 
@@ -28,6 +28,7 @@ public class User
 | [Email](../../groupdocs.annotation.models/user/email) { get; set; } | Электронная почта |
 | [Id](../../groupdocs.annotation.models/user/id) { get; set; } | Идентификатор пользователя |
 | [Name](../../groupdocs.annotation.models/user/name) { get; set; } | Имя пользователя |
+| [Role](../../groupdocs.annotation.models/user/role) { get; set; } | Роль |
 
 ### Смотрите также
 

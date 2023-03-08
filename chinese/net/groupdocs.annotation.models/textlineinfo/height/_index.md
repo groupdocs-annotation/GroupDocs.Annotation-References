@@ -1,14 +1,14 @@
 ---
 title: Height
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 高度宽度
+description: 高度 width
 type: docs
 weight: 10
 url: /zh/net/groupdocs.annotation.models/textlineinfo/height/
 ---
 ## TextLineInfo.Height property
 
-高度宽度
+高度 width
 
 ```csharp
 public double Height { get; set; }

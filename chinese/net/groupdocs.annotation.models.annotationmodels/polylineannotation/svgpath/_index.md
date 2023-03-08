@@ -1,14 +1,14 @@
 ---
 title: SvgPath
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 获取或设置注解 SVG 路径
+description: 获取或设置注释 SVG 路径
 type: docs
 weight: 70
 url: /zh/net/groupdocs.annotation.models.annotationmodels/polylineannotation/svgpath/
 ---
 ## PolylineAnnotation.SvgPath property
 
-获取或设置注解 SVG 路径
+获取或设置注释 SVG 路径
 
 ```csharp
 public string SvgPath { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: Checked
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 获取或设置组件checked
+description: 获取或设置组件 checked
 type: docs
 weight: 30
 url: /zh/net/groupdocs.annotation.models.formatspecificcomponents.pdf/checkboxcomponent/checked/
 ---
 ## CheckBoxComponent.Checked property
 
-获取或设置组件checked
+获取或设置组件 checked
 
 ```csharp
 public bool Checked { get; set; }

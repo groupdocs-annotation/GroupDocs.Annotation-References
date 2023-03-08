@@ -1,14 +1,14 @@
 ---
 title: PolylineAnnotation
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 初始化的新实例AreaAnnotationgroupdocs.annotation.models.annotationmodels/areaannotation类.
+description: 初始化新实例AreaAnnotationgroupdocs.annotation.models.annotationmodels/areaannotation类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.annotation.models.annotationmodels/polylineannotation/polylineannotation/
 ---
 ## PolylineAnnotation constructor
 
-初始化的新实例[`AreaAnnotation`](../../areaannotation)类.
+初始化新实例[`AreaAnnotation`](../../areaannotation)类.
 
 ```csharp
 public PolylineAnnotation()

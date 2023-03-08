@@ -1,14 +1,14 @@
 ---
 title: HighlightAnnotation
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 初始化的新实例HighlightAnnotationgroupdocs.annotation.models.annotationmodels/highlightannotation类.
+description: 初始化新实例HighlightAnnotationgroupdocs.annotation.models.annotationmodels/highlightannotation类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.annotation.models.annotationmodels/highlightannotation/highlightannotation/
 ---
 ## HighlightAnnotation constructor
 
-初始化的新实例[`HighlightAnnotation`](../../highlightannotation)类.
+初始化新实例[`HighlightAnnotation`](../../highlightannotation)类.
 
 ```csharp
 public HighlightAnnotation()

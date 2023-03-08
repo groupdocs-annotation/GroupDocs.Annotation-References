@@ -1,12 +1,12 @@
 ---
 title: GroupDocs.Annotation.Logging
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 命名空间提供了用于使用集成或您自己的记录器的类
+description: 命名空间提供用于使用集成或您自己的记录器的类
 type: docs
 weight: 50
 url: /zh/net/groupdocs.annotation.logging/
 ---
-命名空间提供了用于使用集成或您自己的记录器的类。
+命名空间提供用于使用集成或您自己的记录器的类。
 
 ## 课程
 

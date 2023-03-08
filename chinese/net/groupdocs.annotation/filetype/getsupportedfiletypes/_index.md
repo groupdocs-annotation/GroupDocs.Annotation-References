@@ -16,7 +16,7 @@ public static IEnumerable<FileType> GetSupportedFileTypes()
 
 ### 返回值
 
-枚举文件类型。
+文件类型的枚举。
 
 ### 也可以看看
 

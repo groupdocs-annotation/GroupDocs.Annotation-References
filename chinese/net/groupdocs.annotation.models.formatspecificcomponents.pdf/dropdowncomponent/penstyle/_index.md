@@ -1,14 +1,14 @@
 ---
 title: PenStyle
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 获取或设置组件笔样式
+description: 获取或设置组件画笔样式
 type: docs
 weight: 50
 url: /zh/net/groupdocs.annotation.models.formatspecificcomponents.pdf/dropdowncomponent/penstyle/
 ---
 ## DropdownComponent.PenStyle property
 
-获取或设置组件笔样式
+获取或设置组件画笔样式
 
 ```csharp
 public PenStyle? PenStyle { get; set; }

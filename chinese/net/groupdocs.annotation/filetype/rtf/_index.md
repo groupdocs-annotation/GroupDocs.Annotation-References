@@ -1,14 +1,14 @@
 ---
 title: Rtf
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 富文本格式文件
+description: 富文本格式文件.
 type: docs
 weight: 250
 url: /zh/net/groupdocs.annotation/filetype/rtf/
 ---
 ## FileType.Rtf property
 
-富文本格式文件。
+富文本格式文件.
 
 ```csharp
 public static FileType Rtf { get; }

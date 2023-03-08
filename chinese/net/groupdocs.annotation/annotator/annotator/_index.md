@@ -20,10 +20,10 @@ public Annotator(string filePath)
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 更多关于 GroupDocs 支持的文件类型。注释： [GroupDocs.Annotation 支持的文档格式](https://docs.groupdocs.com/display/annotationnet/Supported+Document+Formats)
-* 有关 GroupDocs 的更多信息。.NET 功能的注释： [开发者指南](https://docs.groupdocs.com/display/annotationnet/Developer+Guide)
+* 有关 GroupDocs 支持的文件类型的更多信息。注释： [GroupDocs.Annotation 支持的文档格式](https://docs.groupdocs.com/display/annotationnet/Supported+Document+Formats)
+* 有关 GroupDocs.Annotation for .NET 功能的更多信息： [开发者指南](https://docs.groupdocs.com/display/annotationnet/Developer+Guide)
 
 ### 也可以看看
 
@@ -48,12 +48,12 @@ public Annotator(string filePath, LoadOptions loadOptions)
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 更多关于 GroupDocs 支持的文件类型。注释： [GroupDocs.Annotation 支持的文档格式](https://docs.groupdocs.com/display/annotationnet/Supported+Document+Formats)
-* 有关 GroupDocs 的更多信息。.NET 功能的注释： [开发者指南](https://docs.groupdocs.com/display/annotationnet/Developer+Guide)
-* 更多关于如何打开和注释受密码保护的文档： [打开和注释受密码保护的文档](https://docs.groupdocs.com/display/annotationnet/Load+password-protected+documents)
-* 更多关于如何从 URL、FTP、Amazon S3、Azure Blob 存储等打开和注释文档： [从第三方存储打开和注释文档](https://docs.groupdocs.com/display/annotationnet/Loading+documents+from+different+sources)
+* 有关 GroupDocs 支持的文件类型的更多信息。注释： [GroupDocs.Annotation 支持的文档格式](https://docs.groupdocs.com/display/annotationnet/Supported+Document+Formats)
+* 有关 GroupDocs.Annotation for .NET 功能的更多信息： [开发者指南](https://docs.groupdocs.com/display/annotationnet/Developer+Guide)
+* 更多关于如何打开和注释受密码保护的文档： [打开并注释受密码保护的文档](https://docs.groupdocs.com/display/annotationnet/Load+password-protected+documents)
+* 更多有关如何从 URL、FTP、Amazon S3、Azure Blob 存储和其他文件打开和注释文档的信息： [打开和注释来自第三方存储的文档](https://docs.groupdocs.com/display/annotationnet/Loading+documents+from+different+sources)
 
 ### 也可以看看
 
@@ -79,10 +79,10 @@ public Annotator(string filePath, AnnotatorSettings settings)
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 更多关于 GroupDocs 支持的文件类型。注释： [GroupDocs.Annotation 支持的文档格式](https://docs.groupdocs.com/display/annotationnet/Supported+Document+Formats)
-* 有关 GroupDocs 的更多信息。.NET 功能的注释： [开发者指南](https://docs.groupdocs.com/display/annotationnet/Developer+Guide)
+* 有关 GroupDocs 支持的文件类型的更多信息。注释： [GroupDocs.Annotation 支持的文档格式](https://docs.groupdocs.com/display/annotationnet/Supported+Document+Formats)
+* 有关 GroupDocs.Annotation for .NET 功能的更多信息： [开发者指南](https://docs.groupdocs.com/display/annotationnet/Developer+Guide)
 
 ### 也可以看看
 
@@ -109,12 +109,12 @@ public Annotator(string filePath, LoadOptions loadOptions, AnnotatorSettings set
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 更多关于 GroupDocs 支持的文件类型。注释： [GroupDocs.Annotation 支持的文档格式](https://docs.groupdocs.com/display/annotationnet/Supported+Document+Formats)
-* 有关 GroupDocs 的更多信息。.NET 功能的注释： [开发者指南](https://docs.groupdocs.com/display/annotationnet/Developer+Guide)
-* 更多关于如何打开和注释受密码保护的文档： [打开和注释受密码保护的文档](https://docs.groupdocs.com/display/annotationnet/Load+password-protected+documents)
-* 更多关于如何从 URL、FTP、Amazon S3、Azure Blob 存储等打开和注释文档： [从第三方存储打开和注释文档](https://docs.groupdocs.com/display/annotationnet/Loading+documents+from+different+sources)
+* 有关 GroupDocs 支持的文件类型的更多信息。注释： [GroupDocs.Annotation 支持的文档格式](https://docs.groupdocs.com/display/annotationnet/Supported+Document+Formats)
+* 有关 GroupDocs.Annotation for .NET 功能的更多信息： [开发者指南](https://docs.groupdocs.com/display/annotationnet/Developer+Guide)
+* 更多关于如何打开和注释受密码保护的文档： [打开并注释受密码保护的文档](https://docs.groupdocs.com/display/annotationnet/Load+password-protected+documents)
+* 更多有关如何从 URL、FTP、Amazon S3、Azure Blob 存储和其他文件打开和注释文档的信息： [打开和注释来自第三方存储的文档](https://docs.groupdocs.com/display/annotationnet/Loading+documents+from+different+sources)
 
 ### 也可以看看
 
@@ -128,7 +128,7 @@ public Annotator(string filePath, LoadOptions loadOptions, AnnotatorSettings set
 
 ## Annotator(Stream) {#constructor}
 
-初始化接受文档流的注释器类
+初始化接受文档 stream 的注释器类
 
 ```csharp
 public Annotator(Stream document)
@@ -140,10 +140,10 @@ public Annotator(Stream document)
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 更多关于 GroupDocs 支持的文件类型。注释： [GroupDocs.Annotation 支持的文档格式](https://docs.groupdocs.com/display/annotationnet/Supported+Document+Formats)
-* 有关 GroupDocs 的更多信息。.NET 功能的注释： [开发者指南](https://docs.groupdocs.com/display/annotationnet/Developer+Guide)
+* 有关 GroupDocs 支持的文件类型的更多信息。注释： [GroupDocs.Annotation 支持的文档格式](https://docs.groupdocs.com/display/annotationnet/Supported+Document+Formats)
+* 有关 GroupDocs.Annotation for .NET 功能的更多信息： [开发者指南](https://docs.groupdocs.com/display/annotationnet/Developer+Guide)
 
 ### 也可以看看
 
@@ -155,7 +155,7 @@ public Annotator(Stream document)
 
 ## Annotator(Stream, LoadOptions) {#constructor_2}
 
-初始化接受文档流的注释器类
+初始化接受文档 stream 的注释器类
 
 ```csharp
 public Annotator(Stream document, LoadOptions loadOptions)
@@ -168,12 +168,12 @@ public Annotator(Stream document, LoadOptions loadOptions)
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 更多关于 GroupDocs 支持的文件类型。注释： [GroupDocs.Annotation 支持的文档格式](https://docs.groupdocs.com/display/annotationnet/Supported+Document+Formats)
-* 有关 GroupDocs 的更多信息。.NET 功能的注释： [开发者指南](https://docs.groupdocs.com/display/annotationnet/Developer+Guide)
-* 更多关于如何打开和注释受密码保护的文档： [打开和注释受密码保护的文档](https://docs.groupdocs.com/display/annotationnet/Load+password-protected+documents)
-* 更多关于如何从 URL、FTP、Amazon S3、Azure Blob 存储等打开和注释文档： [从第三方存储打开和注释文档](https://docs.groupdocs.com/display/annotationnet/Loading+documents+from+different+sources)
+* 有关 GroupDocs 支持的文件类型的更多信息。注释： [GroupDocs.Annotation 支持的文档格式](https://docs.groupdocs.com/display/annotationnet/Supported+Document+Formats)
+* 有关 GroupDocs.Annotation for .NET 功能的更多信息： [开发者指南](https://docs.groupdocs.com/display/annotationnet/Developer+Guide)
+* 更多关于如何打开和注释受密码保护的文档： [打开并注释受密码保护的文档](https://docs.groupdocs.com/display/annotationnet/Load+password-protected+documents)
+* 更多有关如何从 URL、FTP、Amazon S3、Azure Blob 存储和其他文件打开和注释文档的信息： [打开和注释来自第三方存储的文档](https://docs.groupdocs.com/display/annotationnet/Loading+documents+from+different+sources)
 
 ### 也可以看看
 
@@ -186,7 +186,7 @@ public Annotator(Stream document, LoadOptions loadOptions)
 
 ## Annotator(Stream, AnnotatorSettings) {#constructor_1}
 
-初始化接受文档流的注释器类
+初始化接受文档 stream 的注释器类
 
 ```csharp
 public Annotator(Stream document, AnnotatorSettings settings)
@@ -199,10 +199,10 @@ public Annotator(Stream document, AnnotatorSettings settings)
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 更多关于 GroupDocs 支持的文件类型。注释： [GroupDocs.Annotation 支持的文档格式](https://docs.groupdocs.com/display/annotationnet/Supported+Document+Formats)
-* 有关 GroupDocs 的更多信息。.NET 功能的注释： [开发者指南](https://docs.groupdocs.com/display/annotationnet/Developer+Guide)
+* 有关 GroupDocs 支持的文件类型的更多信息。注释： [GroupDocs.Annotation 支持的文档格式](https://docs.groupdocs.com/display/annotationnet/Supported+Document+Formats)
+* 有关 GroupDocs.Annotation for .NET 功能的更多信息： [开发者指南](https://docs.groupdocs.com/display/annotationnet/Developer+Guide)
 
 ### 也可以看看
 
@@ -215,7 +215,7 @@ public Annotator(Stream document, AnnotatorSettings settings)
 
 ## Annotator(Stream, LoadOptions, AnnotatorSettings) {#constructor_3}
 
-初始化接受文档流的注释器类
+初始化接受文档 stream 的注释器类
 
 ```csharp
 public Annotator(Stream document, LoadOptions loadOptions, AnnotatorSettings settings)
@@ -229,12 +229,12 @@ public Annotator(Stream document, LoadOptions loadOptions, AnnotatorSettings set
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 更多关于 GroupDocs 支持的文件类型。注释： [GroupDocs.Annotation 支持的文档格式](https://docs.groupdocs.com/display/annotationnet/Supported+Document+Formats)
-* 有关 GroupDocs 的更多信息。.NET 功能的注释： [开发者指南](https://docs.groupdocs.com/display/annotationnet/Developer+Guide)
-* 更多关于如何打开和注释受密码保护的文档： [打开和注释受密码保护的文档](https://docs.groupdocs.com/display/annotationnet/Load+password-protected+documents)
-* 更多关于如何从 URL、FTP、Amazon S3、Azure Blob 存储等打开和注释文档： [从第三方存储打开和注释文档](https://docs.groupdocs.com/display/annotationnet/Loading+documents+from+different+sources)
+* 有关 GroupDocs 支持的文件类型的更多信息。注释： [GroupDocs.Annotation 支持的文档格式](https://docs.groupdocs.com/display/annotationnet/Supported+Document+Formats)
+* 有关 GroupDocs.Annotation for .NET 功能的更多信息： [开发者指南](https://docs.groupdocs.com/display/annotationnet/Developer+Guide)
+* 更多关于如何打开和注释受密码保护的文档： [打开并注释受密码保护的文档](https://docs.groupdocs.com/display/annotationnet/Load+password-protected+documents)
+* 更多有关如何从 URL、FTP、Amazon S3、Azure Blob 存储和其他文件打开和注释文档的信息： [打开和注释来自第三方存储的文档](https://docs.groupdocs.com/display/annotationnet/Loading+documents+from+different+sources)
 
 ### 也可以看看
 

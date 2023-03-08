@@ -1,14 +1,14 @@
 ---
 title: User
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 回复创建者
+description: 回复 creator
 type: docs
 weight: 60
 url: /zh/net/groupdocs.annotation.models/reply/user/
 ---
 ## Reply.User property
 
-回复创建者
+回复 creator
 
 ```csharp
 public User User { get; set; }

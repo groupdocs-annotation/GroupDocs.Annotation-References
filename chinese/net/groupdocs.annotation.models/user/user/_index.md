@@ -1,14 +1,14 @@
 ---
 title: User
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 初始化的新实例Usergroupdocs.annotation.models/user类.
+description: 初始化新实例Usergroupdocs.annotation.models/user类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.annotation.models/user/user/
 ---
 ## User() {#constructor}
 
-初始化的新实例[`User`](../../user)类.
+初始化新实例[`User`](../../user)类.
 
 ```csharp
 public User()
@@ -22,21 +22,23 @@ public User()
 
 ---
 
-## User(int, string) {#constructor_1}
+## User(int, string, Role) {#constructor_1}
 
-初始化的新实例[`User`](../../user)类.
+初始化新实例[`User`](../../user)类.
 
 ```csharp
-public User(int id, string name)
+public User(int id, string name, Role role)
 ```
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | id | Int32 | 用户标识。 |
 | name | String | 用户名。 |
+| role | Role | 用户角色。 |
 
 ### 也可以看看
 
+* enum [Role](../../role)
 * class [User](../../user)
 * 命名空间 [GroupDocs.Annotation.Models](../../user)
 * 部件 [GroupDocs.Annotation](../../../)

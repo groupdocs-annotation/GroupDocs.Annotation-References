@@ -3,7 +3,7 @@ title: AnnotationType
 second_title: Справочник по API GroupDocs.Annotation для .NET
 description: Перечисление описывающее типы аннотаций поддерживаемые GroupDocs.Annotation for .NET
 type: docs
-weight: 950
+weight: 960
 url: /ru/net/groupdocs.annotation.options/annotationtype/
 ---
 ## AnnotationType enumeration
@@ -36,16 +36,16 @@ public enum AnnotationType
 | TextUnderline | `4000` | Тип аннотации, помечающий текст подчеркиванием styling |
 | Watermark | `8000` | Тип аннотации, добавляющий текстовый водяной знак поверх страницы документа |
 | Image | `10000` | Тип аннотации, добавляющий изображение поверх содержимого страницы документа |
-| Dropdown | `20000` | Тип компонента, добавляющий выпадающий компонент для pdf-документа**Только** |
-| Checkbox | `21000` |  |
-| Button | `22000` |  |
+| Dropdown | `20000` | Тип компонента, добавляющий выпадающий компонент для pdf-документа**только** |
+| Checkbox | `21000` | Тип аннотации, добавляющий флажок для pdf document |
+| Button | `22000` | Тип аннотации, добавляющий кнопку для pdf document |
 | TextSquiggly | `2500` | Тип аннотации, в которой волнистые линии и комментарии выделены text |
 | SearchText | `2700` | Тип аннотации для поиска текста фрагмента в документе |
 | All | `7FFFFFFF` | Все |
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * [Как аннотировать документы в C#](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
 * [Как добавить аннотации области в C#](https://docs.groupdocs.com/display/annotationnet/Add+area+annotation)

@@ -3,7 +3,7 @@ title: PreviewFormats
 second_title: .NET API 参考的 GroupDocs.Annotation
 description: 文档预览支持的格式
 type: docs
-weight: 980
+weight: 990
 url: /zh/net/groupdocs.annotation.options/previewformats/
 ---
 ## PreviewFormats enumeration

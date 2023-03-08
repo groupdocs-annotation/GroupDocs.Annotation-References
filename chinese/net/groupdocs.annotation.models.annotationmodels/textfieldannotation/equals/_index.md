@@ -16,7 +16,7 @@ public bool Equals(TextFieldAnnotation other)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| other | TextFieldAnnotation | 与当前对象进行比较的 TextFieldAnnotation 对象 |
+| other | TextFieldAnnotation | 要与当前对象进行比较的 TextFieldAnnotation 对象 |
 
 ### 也可以看看
 
@@ -28,7 +28,7 @@ public bool Equals(TextFieldAnnotation other)
 
 ## Equals(object) {#equals_2}
 
-使用标准对象 Equals 方法比较文本字段注释
+使用标准对象等于方法比较文本字段注释
 
 ```csharp
 public override bool Equals(object obj)

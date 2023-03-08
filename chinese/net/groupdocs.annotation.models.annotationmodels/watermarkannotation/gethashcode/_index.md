@@ -1,14 +1,14 @@
 ---
 title: GetHashCode
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 返回水印标注的HashCode
+description: 返回水印注解的HashCode
 type: docs
 weight: 140
 url: /zh/net/groupdocs.annotation.models.annotationmodels/watermarkannotation/gethashcode/
 ---
 ## WatermarkAnnotation.GetHashCode method
 
-返回水印标注的HashCode
+返回水印注解的HashCode
 
 ```csharp
 public override int GetHashCode()

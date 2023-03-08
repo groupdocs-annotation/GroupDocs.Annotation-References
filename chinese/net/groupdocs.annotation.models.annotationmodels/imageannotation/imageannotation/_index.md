@@ -1,14 +1,14 @@
 ---
 title: ImageAnnotation
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 初始化的新实例ImageAnnotationgroupdocs.annotation.models.annotationmodels/imageannotation类.
+description: 初始化新实例ImageAnnotationgroupdocs.annotation.models.annotationmodels/imageannotation类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.annotation.models.annotationmodels/imageannotation/imageannotation/
 ---
 ## ImageAnnotation constructor
 
-初始化的新实例[`ImageAnnotation`](../../imageannotation)类.
+初始化新实例[`ImageAnnotation`](../../imageannotation)类.
 
 ```csharp
 public ImageAnnotation()

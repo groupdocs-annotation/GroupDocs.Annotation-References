@@ -20,7 +20,7 @@ public void Add(AnnotationBase annotation)
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее о том, как добавить аннотацию к документу: [Как аннотировать документ в C#](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
 
@@ -47,7 +47,7 @@ public void Add(List<AnnotationBase> annotations)
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее о том, как добавить аннотацию к документу: [Как аннотировать документ в C#](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
 

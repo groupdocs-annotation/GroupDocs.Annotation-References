@@ -1,14 +1,14 @@
 ---
 title: GetHashCode
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 返回文本密文注释的 HashCode
+description: 返回文本密文注释的哈希码
 type: docs
 weight: 60
 url: /zh/net/groupdocs.annotation.models.annotationmodels/textredactionannotation/gethashcode/
 ---
 ## TextRedactionAnnotation.GetHashCode method
 
-返回文本密文注释的 HashCode
+返回文本密文注释的哈希码
 
 ```csharp
 public override int GetHashCode()

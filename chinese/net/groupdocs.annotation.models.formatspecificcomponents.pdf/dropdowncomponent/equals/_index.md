@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 使用 IEquatable Equals 方法比较 Dropdown 组件
+description: 使用 IEquatable Equals 方法比较下拉组件
 type: docs
 weight: 100
 url: /zh/net/groupdocs.annotation.models.formatspecificcomponents.pdf/dropdowncomponent/equals/
 ---
 ## Equals(DropdownComponent) {#equals_1}
 
-使用 IEquatable Equals 方法比较 Dropdown 组件
+使用 IEquatable Equals 方法比较下拉组件
 
 ```csharp
 public bool Equals(DropdownComponent other)

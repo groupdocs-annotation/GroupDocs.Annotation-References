@@ -1,14 +1,14 @@
 ---
 title: Get
 second_title: Справочник по API GroupDocs.Annotation для .NET
-description: Получает коллекции аннотаций документа.
+description: Получает коллекции аннотаций документов.
 type: docs
 weight: 80
 url: /ru/net/groupdocs.annotation/annotator/get/
 ---
 ## Get() {#get}
 
-Получает коллекции аннотаций документа.
+Получает коллекции аннотаций документов.
 
 ```csharp
 public List<AnnotationBase> Get()
@@ -20,7 +20,7 @@ public List<AnnotationBase> Get()
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее о том, как получить коллекцию аннотаций документов: [Как получить аннотации документа в C#](https://docs.groupdocs.com/display/annotationnet/Extract+annotations+from+document)
 
@@ -51,7 +51,7 @@ public List<AnnotationBase> Get(AnnotationType type)
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее о том, как получить коллекцию аннотаций документов: [Как получить аннотации документа в C#](https://docs.groupdocs.com/display/annotationnet/Extract+annotations+from+document)
 

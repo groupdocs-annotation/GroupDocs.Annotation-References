@@ -19,19 +19,19 @@ public class TextRedactionAnnotation : AnnotationBase, IEquatable<TextRedactionA
 
 | 姓名 | 描述 |
 | --- | --- |
-| [TextRedactionAnnotation](textredactionannotation)() | 初始化的新实例[`TextRedactionAnnotation`](../textredactionannotation)类. |
+| [TextRedactionAnnotation](textredactionannotation)() | 初始化新实例[`TextRedactionAnnotation`](../textredactionannotation)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CreatedOn](../../groupdocs.annotation.models.annotationmodels/annotationbase/createdon) { get; set; } | 获取或设置注解创建日期 |
-| [FontColor](../../groupdocs.annotation.models.annotationmodels/textredactionannotation/fontcolor) { get; set; } | 获取或设置注释文本字体颜色 |
+| [CreatedOn](../../groupdocs.annotation.models.annotationmodels/annotationbase/createdon) { get; set; } | 获取或设置注释创建日期 |
+| [FontColor](../../groupdocs.annotation.models.annotationmodels/textredactionannotation/fontcolor) { get; set; } | 获取或设置注释文字字体颜色 |
 | [Id](../../groupdocs.annotation.models.annotationmodels/annotationbase/id) { get; set; } | 获取或设置注解唯一标识符 |
-| [Message](../../groupdocs.annotation.models.annotationmodels/annotationbase/message) { get; set; } | 获取或设置注解消息 |
+| [Message](../../groupdocs.annotation.models.annotationmodels/annotationbase/message) { get; set; } | 获取或设置注释消息 |
 | [PageNumber](../../groupdocs.annotation.models.annotationmodels/annotationbase/pagenumber) { get; set; } | 获取或设置要标注的页码 |
-| [Points](../../groupdocs.annotation.models.annotationmodels/textredactionannotation/points) { get; set; } | 获取或设置用文本描述矩形的点集合 |
-| [Replies](../../groupdocs.annotation.models.annotationmodels/annotationbase/replies) { get; set; } | 表示注释回复集合 |
+| [Points](../../groupdocs.annotation.models.annotationmodels/textredactionannotation/points) { get; set; } | 获取或设置用 text 描述矩形的点集合 |
+| [Replies](../../groupdocs.annotation.models.annotationmodels/annotationbase/replies) { get; set; } | 代表注解回复集合 |
 | [Type](../../groupdocs.annotation.models.annotationmodels/annotationbase/type) { get; set; } | 获取或设置注解类型 |
 | [User](../../groupdocs.annotation.models.annotationmodels/annotationbase/user) { get; set; } | 获取或设置注解创建者 |
 
@@ -41,16 +41,16 @@ public class TextRedactionAnnotation : AnnotationBase, IEquatable<TextRedactionA
 | --- | --- |
 | override [Clone](../../groupdocs.annotation.models.annotationmodels/textredactionannotation/clone)() | 返回具有相同值的新实例 |
 | [Equals](../../groupdocs.annotation.models.annotationmodels/annotationbase/equals)(AnnotationBase) | 使用 IEquatable Equals 方法比较基本注释 |
-| override [Equals](../../groupdocs.annotation.models.annotationmodels/textredactionannotation/equals#equals_2)(object) | 使用标准对象 Equals 方法比较文本密文注释 |
-| [Equals](../../groupdocs.annotation.models.annotationmodels/textredactionannotation/equals#equals_1)(TextRedactionAnnotation) | 使用 IEquatable Equals 方法比较文本密文注释 |
-| override [GetHashCode](../../groupdocs.annotation.models.annotationmodels/textredactionannotation/gethashcode)() | 返回文本密文注释的 HashCode |
+| override [Equals](../../groupdocs.annotation.models.annotationmodels/textredactionannotation/equals#equals_2)(object) | 使用标准对象等于方法比较文本编辑注释 |
+| [Equals](../../groupdocs.annotation.models.annotationmodels/textredactionannotation/equals#equals_1)(TextRedactionAnnotation) | 使用 IEquatable Equals 方法比较文本编辑注释 |
+| override [GetHashCode](../../groupdocs.annotation.models.annotationmodels/textredactionannotation/gethashcode)() | 返回文本密文注释的哈希码 |
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 更多关于注释类型和注释 PDF 和 Microsoft Word 文档、Excel 电子表格和 PowerPoint 演示文稿： [如何使用 GroupDocs.Annotation for .NET 注释文档](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
-* 更多关于为各种类型的文档添加文本编辑注释： [如何在 C# 中添加文本编辑注释](https://docs.groupdocs.com/display/annotationnet/Add+text+redaction+annotation)
+* 更多关于注释类型和注释 PDF 和 Microsoft Word 文档、Excel 电子表格和 PowerPoint 演示文稿的信息： [如何使用 GroupDocs.Annotation for .NET 注释文档](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
+* 有关向各种类型的文档添加文本编辑注释的更多信息： [如何在 C# 中添加文本密文注释](https://docs.groupdocs.com/display/annotationnet/Add+text+redaction+annotation)
 
 ### 也可以看看
 

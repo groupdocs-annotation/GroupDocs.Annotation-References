@@ -3,7 +3,7 @@ title: LoadOptions
 second_title: GroupDocs.Annotation for .NET API Reference
 description: يسمح بتحديد خيارات إضافية مثل كلمة المرور عند فتح مستند للتعليق عليه.
 type: docs
-weight: 970
+weight: 980
 url: /ar/net/groupdocs.annotation.options/loadoptions/
 ---
 ## LoadOptions class

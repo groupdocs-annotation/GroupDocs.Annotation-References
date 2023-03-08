@@ -17,9 +17,9 @@ public void AddImageToDocument(string dataDir, string jpgFileName, int pageNumbe
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | dataDir | String | 指定输入 PDF 文件的路径 |
-| jpgFileName | String | JPG文件的路径 |
-| pageNumber | Int32 | 将插入图像的页面 |
-| imageQuality | Int32 | 设置图像质量从 1 到 100，“1” - 最小分辨率 “100” - 最大 |
+| jpgFileName | String | JPG 文件的路径 |
+| pageNumber | Int32 | 插入图片的页面 |
+| imageQuality | Int32 | 设置图像质量从 1 到 100，“1”- 最小分辨率“100”- 最大 |
 
 ### 也可以看看
 

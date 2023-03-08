@@ -18,8 +18,8 @@ public class CorruptedOrDamagedFileException : AnnotatorException
 
 | اسم | وصف |
 | --- | --- |
-| [CorruptedOrDamagedFileException](corruptedordamagedfileexception#constructor)(string) | يقوم بتهيئة مثيل جديد لملف[`CorruptedOrDamagedFileException`](../corruptedordamagedfileexception) صف دراسي. |
-| [CorruptedOrDamagedFileException](corruptedordamagedfileexception#constructor_1)(string, Exception) | يقوم بتهيئة مثيل جديد لملف[`CorruptedOrDamagedFileException`](../corruptedordamagedfileexception) صف دراسي. |
+| [CorruptedOrDamagedFileException](corruptedordamagedfileexception#constructor)(string) | يقوم بتهيئة مثيل جديد لملف[`CorruptedOrDamagedFileException`](../corruptedordamagedfileexception) فصل. |
+| [CorruptedOrDamagedFileException](corruptedordamagedfileexception#constructor_1)(string, Exception) | يقوم بتهيئة مثيل جديد لملف[`CorruptedOrDamagedFileException`](../corruptedordamagedfileexception) فصل. |
 
 ### أنظر أيضا
 

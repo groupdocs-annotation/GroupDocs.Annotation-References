@@ -3,7 +3,7 @@ title: PreviewFormats
 second_title: Справочник по API GroupDocs.Annotation для .NET
 description: Поддерживаемые форматы предварительного просмотра документов.
 type: docs
-weight: 980
+weight: 990
 url: /ru/net/groupdocs.annotation.options/previewformats/
 ---
 ## PreviewFormats enumeration

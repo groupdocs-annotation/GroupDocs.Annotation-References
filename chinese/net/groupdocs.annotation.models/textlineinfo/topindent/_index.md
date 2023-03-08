@@ -1,14 +1,14 @@
 ---
 title: TopIndent
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 从顶部缩进
+description: 从 top 缩进
 type: docs
 weight: 40
 url: /zh/net/groupdocs.annotation.models/textlineinfo/topindent/
 ---
 ## TextLineInfo.TopIndent property
 
-从顶部缩进
+从 top 缩进
 
 ```csharp
 public double TopIndent { get; set; }

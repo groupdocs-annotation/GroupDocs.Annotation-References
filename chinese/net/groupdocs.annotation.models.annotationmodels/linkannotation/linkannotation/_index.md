@@ -1,14 +1,14 @@
 ---
 title: LinkAnnotation
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 初始化的新实例LinkAnnotationgroupdocs.annotation.models.annotationmodels/linkannotation类.
+description: 初始化新实例LinkAnnotationgroupdocs.annotation.models.annotationmodels/linkannotation类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.annotation.models.annotationmodels/linkannotation/linkannotation/
 ---
 ## LinkAnnotation constructor
 
-初始化的新实例[`LinkAnnotation`](../../linkannotation)类.
+初始化新实例[`LinkAnnotation`](../../linkannotation)类.
 
 ```csharp
 public LinkAnnotation()

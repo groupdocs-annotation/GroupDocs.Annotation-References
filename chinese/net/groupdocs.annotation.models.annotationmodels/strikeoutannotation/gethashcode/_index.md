@@ -1,14 +1,14 @@
 ---
 title: GetHashCode
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 返回 Strikeout Annotation 的 HashCode
+description: 返回删除线注解的哈希码
 type: docs
 weight: 80
 url: /zh/net/groupdocs.annotation.models.annotationmodels/strikeoutannotation/gethashcode/
 ---
 ## StrikeoutAnnotation.GetHashCode method
 
-返回 Strikeout Annotation 的 HashCode
+返回删除线注解的哈希码
 
 ```csharp
 public override int GetHashCode()

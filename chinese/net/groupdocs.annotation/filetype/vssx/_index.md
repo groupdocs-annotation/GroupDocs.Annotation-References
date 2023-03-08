@@ -1,14 +1,14 @@
 ---
 title: Vssx
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: Microsoft Visio 模具文件
+description: Microsoft Visio 模具文件.
 type: docs
 weight: 330
 url: /zh/net/groupdocs.annotation/filetype/vssx/
 ---
 ## FileType.Vssx property
 
-Microsoft Visio 模具文件。
+Microsoft Visio 模具文件.
 
 ```csharp
 public static FileType Vssx { get; }

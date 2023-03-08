@@ -1,14 +1,14 @@
 ---
 title: Tif
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 标记的图像文件
+description: 标记图像文件.
 type: docs
 weight: 260
 url: /zh/net/groupdocs.annotation/filetype/tif/
 ---
 ## FileType.Tif property
 
-标记的图像文件。
+标记图像文件.
 
 ```csharp
 public static FileType Tif { get; }

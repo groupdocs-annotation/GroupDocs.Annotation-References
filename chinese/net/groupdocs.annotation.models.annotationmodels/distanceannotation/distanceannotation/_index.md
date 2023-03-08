@@ -1,14 +1,14 @@
 ---
 title: DistanceAnnotation
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 初始化的新实例DistanceAnnotationgroupdocs.annotation.models.annotationmodels/distanceannotation类.
+description: 初始化新实例DistanceAnnotationgroupdocs.annotation.models.annotationmodels/distanceannotation类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.annotation.models.annotationmodels/distanceannotation/distanceannotation/
 ---
 ## DistanceAnnotation constructor
 
-初始化的新实例[`DistanceAnnotation`](../../distanceannotation)类.
+初始化新实例[`DistanceAnnotation`](../../distanceannotation)类.
 
 ```csharp
 public DistanceAnnotation()

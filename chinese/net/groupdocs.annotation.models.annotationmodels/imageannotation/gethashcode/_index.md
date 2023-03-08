@@ -1,14 +1,14 @@
 ---
 title: GetHashCode
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 返回图像标注的HashCode
+description: 返回图片标注的HashCode
 type: docs
 weight: 100
 url: /zh/net/groupdocs.annotation.models.annotationmodels/imageannotation/gethashcode/
 ---
 ## ImageAnnotation.GetHashCode method
 
-返回图像标注的HashCode
+返回图片标注的HashCode
 
 ```csharp
 public override int GetHashCode()

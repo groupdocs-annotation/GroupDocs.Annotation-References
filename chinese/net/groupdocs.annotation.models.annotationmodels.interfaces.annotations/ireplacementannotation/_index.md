@@ -11,12 +11,13 @@ url: /zh/net/groupdocs.annotation.models.annotationmodels.interfaces.annotations
 定义替换注释属性
 
 ```csharp
-public interface IReplacementAnnotation : IFontColor, IOpacity, IPoints, ITextToReplace
+public interface IReplacementAnnotation : IFontColor, IFontSize, IOpacity, IPoints, ITextToReplace
 ```
 
 ### 也可以看看
 
 * interface [IFontColor](../../groupdocs.annotation.models.annotationmodels.interfaces.properties/ifontcolor)
+* interface [IFontSize](../../groupdocs.annotation.models.annotationmodels.interfaces.properties/ifontsize)
 * interface [IOpacity](../../groupdocs.annotation.models.annotationmodels.interfaces.properties/iopacity)
 * interface [IPoints](../../groupdocs.annotation.models.annotationmodels.interfaces.properties/ipoints)
 * interface [ITextToReplace](../../groupdocs.annotation.models.annotationmodels.interfaces.properties/itexttoreplace)

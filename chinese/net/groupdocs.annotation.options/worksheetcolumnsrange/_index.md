@@ -3,7 +3,7 @@ title: WorksheetColumnsRange
 second_title: .NET API 参考的 GroupDocs.Annotation
 description: 表示指定工作表的列范围
 type: docs
-weight: 1020
+weight: 1030
 url: /zh/net/groupdocs.annotation.options/worksheetcolumnsrange/
 ---
 ## WorksheetColumnsRange class
@@ -18,8 +18,8 @@ public class WorksheetColumnsRange
 
 | 姓名 | 描述 |
 | --- | --- |
-| [WorksheetColumnsRange](worksheetcolumnsrange#constructor)(int, int, int) | 初始化一个新的实例[`WorksheetColumnsRange`](../worksheetcolumnsrange)类. |
-| [WorksheetColumnsRange](worksheetcolumnsrange#constructor_1)(string, int, int) | 初始化一个新的实例[`WorksheetColumnsRange`](../worksheetcolumnsrange)类. |
+| [WorksheetColumnsRange](worksheetcolumnsrange#constructor)(int, int, int) | 初始化一个新实例[`WorksheetColumnsRange`](../worksheetcolumnsrange)类. |
+| [WorksheetColumnsRange](worksheetcolumnsrange#constructor_1)(string, int, int) | 初始化一个新实例[`WorksheetColumnsRange`](../worksheetcolumnsrange)类. |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: ResourcesRedactionAnnotation
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 初始化的新实例ResourcesRedactionAnnotationgroupdocs.annotation.models.annotationmodels/resourcesredactionannotation类.
+description: 初始化新实例ResourcesRedactionAnnotationgroupdocs.annotation.models.annotationmodels/resourcesredactionannotation类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.annotation.models.annotationmodels/resourcesredactionannotation/resourcesredactionannotation/
 ---
 ## ResourcesRedactionAnnotation constructor
 
-初始化的新实例[`ResourcesRedactionAnnotation`](../../resourcesredactionannotation)类.
+初始化新实例[`ResourcesRedactionAnnotation`](../../resourcesredactionannotation)类.
 
 ```csharp
 public ResourcesRedactionAnnotation()

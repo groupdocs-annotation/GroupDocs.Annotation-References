@@ -18,8 +18,8 @@ public class AnnotatorException : Exception
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AnnotatorException](annotatorexception#constructor)(string) | 初始化[`AnnotatorException`](../annotatorexception)类. |
-| [AnnotatorException](annotatorexception#constructor_1)(string, Exception) | 初始化[`AnnotatorException`](../annotatorexception)类. |
+| [AnnotatorException](annotatorexception#constructor)(string) | 初始化一个新的实例[`AnnotatorException`](../annotatorexception)类. |
+| [AnnotatorException](annotatorexception#constructor_1)(string, Exception) | 初始化一个新的实例[`AnnotatorException`](../annotatorexception)类. |
 
 ### 也可以看看
 

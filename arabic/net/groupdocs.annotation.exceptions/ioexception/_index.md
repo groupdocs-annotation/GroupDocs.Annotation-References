@@ -18,8 +18,8 @@ public class IOException : AnnotatorException
 
 | اسم | وصف |
 | --- | --- |
-| [IOException](ioexception#constructor)(string) | يقوم بتهيئة مثيل جديد لملف[`IOException`](../ioexception) صف دراسي. |
-| [IOException](ioexception#constructor_1)(string, Exception) | يقوم بتهيئة مثيل جديد لملف[`IOException`](../ioexception) صف دراسي. |
+| [IOException](ioexception#constructor)(string) | يقوم بتهيئة مثيل جديد لملف[`IOException`](../ioexception) فصل. |
+| [IOException](ioexception#constructor_1)(string, Exception) | يقوم بتهيئة مثيل جديد لملف[`IOException`](../ioexception) فصل. |
 
 ### أنظر أيضا
 

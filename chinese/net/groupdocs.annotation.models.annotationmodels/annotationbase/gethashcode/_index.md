@@ -1,14 +1,14 @@
 ---
 title: GetHashCode
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 返回 AnnotationBase 消息的 HashCodePageNumber 和类型属性
+description: 返回 AnnotationBase Message 的 HashCodePageNumber 和 Type Properties
 type: docs
 weight: 100
 url: /zh/net/groupdocs.annotation.models.annotationmodels/annotationbase/gethashcode/
 ---
 ## AnnotationBase.GetHashCode method
 
-返回 AnnotationBase 消息的 HashCode、PageNumber 和类型属性
+返回 AnnotationBase Message 的 HashCode，PageNumber 和 Type Properties
 
 ```csharp
 public override int GetHashCode()

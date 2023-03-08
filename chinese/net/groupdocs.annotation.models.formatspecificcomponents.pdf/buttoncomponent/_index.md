@@ -1,14 +1,14 @@
 ---
 title: ButtonComponent
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 代表按钮属性
+description: 代表Button属性
 type: docs
 weight: 780
 url: /zh/net/groupdocs.annotation.models.formatspecificcomponents.pdf/buttoncomponent/
 ---
 ## ButtonComponent class
 
-代表按钮属性
+代表Button属性
 
 ```csharp
 public class ButtonComponent : AnnotationBase, IButtonComponent, IEquatable<ButtonComponent>
@@ -18,27 +18,27 @@ public class ButtonComponent : AnnotationBase, IButtonComponent, IEquatable<Butt
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ButtonComponent](buttoncomponent)() | 初始化的新实例[`ButtonComponent`](../buttoncomponent)类. |
+| [ButtonComponent](buttoncomponent)() | 初始化新实例[`ButtonComponent`](../buttoncomponent)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AlternateName](../../groupdocs.annotation.models.formatspecificcomponents.pdf/buttoncomponent/alternatename) { get; set; } | 获取或设置组件备用名称 备用名称用作 Adobe Acrobat 中的字段工具提示。 |
-| [BorderColor](../../groupdocs.annotation.models.formatspecificcomponents.pdf/buttoncomponent/bordercolor) { get; set; } | 获取或设置标注边框颜色 |
-| [BorderWidth](../../groupdocs.annotation.models.formatspecificcomponents.pdf/buttoncomponent/borderwidth) { get; set; } | 获取或设置注解边框宽度 |
+| [AlternateName](../../groupdocs.annotation.models.formatspecificcomponents.pdf/buttoncomponent/alternatename) { get; set; } | 获取或设置组件备用名称 备用名称在 Adobe Acrobat 中用作字段工具提示。 |
+| [BorderColor](../../groupdocs.annotation.models.formatspecificcomponents.pdf/buttoncomponent/bordercolor) { get; set; } | 获取或设置注释边框颜色 |
+| [BorderWidth](../../groupdocs.annotation.models.formatspecificcomponents.pdf/buttoncomponent/borderwidth) { get; set; } | 获取或设置注释边框宽度 |
 | [Box](../../groupdocs.annotation.models.formatspecificcomponents.pdf/buttoncomponent/box) { get; set; } | 获取或设置组件位置 |
 | [ButtonColor](../../groupdocs.annotation.models.formatspecificcomponents.pdf/buttoncomponent/buttoncolor) { get; set; } | 获取或设置组件颜色 |
-| [CreatedOn](../../groupdocs.annotation.models.annotationmodels/annotationbase/createdon) { get; set; } | 获取或设置注解创建日期 |
+| [CreatedOn](../../groupdocs.annotation.models.annotationmodels/annotationbase/createdon) { get; set; } | 获取或设置注释创建日期 |
 | [Id](../../groupdocs.annotation.models.annotationmodels/annotationbase/id) { get; set; } | 获取或设置注解唯一标识符 |
-| [Message](../../groupdocs.annotation.models.annotationmodels/annotationbase/message) { get; set; } | 获取或设置注解消息 |
-| [NormalCaption](../../groupdocs.annotation.models.formatspecificcomponents.pdf/buttoncomponent/normalcaption) { get; set; } | 获取或设置组件法线标题 |
+| [Message](../../groupdocs.annotation.models.annotationmodels/annotationbase/message) { get; set; } | 获取或设置注释消息 |
+| [NormalCaption](../../groupdocs.annotation.models.formatspecificcomponents.pdf/buttoncomponent/normalcaption) { get; set; } | 获取或设置组件普通标题 |
 | [PageNumber](../../groupdocs.annotation.models.annotationmodels/annotationbase/pagenumber) { get; set; } | 获取或设置要标注的页码 |
 | [PartialName](../../groupdocs.annotation.models.formatspecificcomponents.pdf/buttoncomponent/partialname) { get; set; } | 获取或设置组件部分名称 |
 | [PenColor](../../groupdocs.annotation.models.formatspecificcomponents.pdf/buttoncomponent/pencolor) { get; set; } | 获取或设置组件笔颜色 |
-| [Replies](../../groupdocs.annotation.models.annotationmodels/annotationbase/replies) { get; set; } | 表示注释回复集合 |
-| [RolloverCaption](../../groupdocs.annotation.models.formatspecificcomponents.pdf/buttoncomponent/rollovercaption) { get; set; } | 获取或设置按钮的翻转标题，当用户将光标滚动到其活动区域而不按下鼠标按钮时应显示该标题。 |
-| [Style](../../groupdocs.annotation.models.formatspecificcomponents.pdf/buttoncomponent/style) { get; set; } | 获取或设置注解边框 |
+| [Replies](../../groupdocs.annotation.models.annotationmodels/annotationbase/replies) { get; set; } | 代表注解回复集合 |
+| [RolloverCaption](../../groupdocs.annotation.models.formatspecificcomponents.pdf/buttoncomponent/rollovercaption) { get; set; } | 获取或设置按钮的滚动标题，当用户将光标滚动到其活动区域而不按下鼠标按钮时应显示该标题。 |
+| [Style](../../groupdocs.annotation.models.formatspecificcomponents.pdf/buttoncomponent/style) { get; set; } | 获取或设置注解 border |
 | [Type](../../groupdocs.annotation.models.annotationmodels/annotationbase/type) { get; set; } | 获取或设置注解类型 |
 | [User](../../groupdocs.annotation.models.annotationmodels/annotationbase/user) { get; set; } | 获取或设置注解创建者 |
 
@@ -49,15 +49,15 @@ public class ButtonComponent : AnnotationBase, IButtonComponent, IEquatable<Butt
 | override [Clone](../../groupdocs.annotation.models.formatspecificcomponents.pdf/buttoncomponent/clone)() | 返回具有相同值的新实例 |
 | [Equals](../../groupdocs.annotation.models.annotationmodels/annotationbase/equals)(AnnotationBase) | 使用 IEquatable Equals 方法比较基本注释 |
 | [Equals](../../groupdocs.annotation.models.formatspecificcomponents.pdf/buttoncomponent/equals#equals_1)(ButtonComponent) | 使用 IEquatable Equals 方法比较按钮组件 |
-| override [Equals](../../groupdocs.annotation.models.formatspecificcomponents.pdf/buttoncomponent/equals#equals_2)(object) | 使用标准对象 Equals 方法比较按钮组件 |
-| override [GetHashCode](../../groupdocs.annotation.models.formatspecificcomponents.pdf/buttoncomponent/gethashcode)() | 返回按钮组件的HashCode |
+| override [Equals](../../groupdocs.annotation.models.formatspecificcomponents.pdf/buttoncomponent/equals#equals_2)(object) | 使用标准对象等于方法比较按钮组件 |
+| override [GetHashCode](../../groupdocs.annotation.models.formatspecificcomponents.pdf/buttoncomponent/gethashcode)() | 返回按钮组件的哈希码 |
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 更多关于注释类型和注释 PDF： [如何使用 GroupDocs.Annotation for .NET 注释文档](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
-* 更多关于向 PDF 添加按钮组件： [如何在 C# 中添加按钮组件](https://docs.groupdocs.com/display/annotationnet/Add+button+component)
+* 有关注释类型和注释 PDF 的更多信息： [如何使用 GroupDocs.Annotation for .NET 注释文档](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
+* 有关将按钮组件添加到 PDF 的更多信息： [如何在C#中添加按钮组件](https://docs.groupdocs.com/display/annotationnet/Add+button+component)
 
 ### 也可以看看
 

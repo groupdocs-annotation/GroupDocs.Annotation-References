@@ -17,7 +17,7 @@ public Point(float x, float y)
 | معامل | يكتب | وصف |
 | --- | --- | --- |
 | x | Single | x. |
-| y | Single | أنهم. |
+| y | Single | هم. |
 
 ### أنظر أيضا
 

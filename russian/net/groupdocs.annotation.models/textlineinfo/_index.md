@@ -3,7 +3,7 @@ title: TextLineInfo
 second_title: Справочник по API GroupDocs.Annotation для .NET
 description: Представляет информацию о текстовой строке.
 type: docs
-weight: 920
+weight: 930
 url: /ru/net/groupdocs.annotation.models/textlineinfo/
 ---
 ## TextLineInfo structure

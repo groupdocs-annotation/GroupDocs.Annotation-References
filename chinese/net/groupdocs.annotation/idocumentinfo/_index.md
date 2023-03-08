@@ -1,14 +1,14 @@
 ---
 title: IDocumentInfo
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 关于文档的信息
+description: 有关文档 的信息
 type: docs
 weight: 130
 url: /zh/net/groupdocs.annotation/idocumentinfo/
 ---
 ## IDocumentInfo interface
 
-关于文档的信息
+有关文档 的信息
 
 ```csharp
 public interface IDocumentInfo

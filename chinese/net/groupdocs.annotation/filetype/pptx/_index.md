@@ -1,14 +1,14 @@
 ---
 title: Pptx
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: Microsoft PowerPoint Open XML Presentation.
+description: Microsoft PowerPoint Open XML 演示文稿
 type: docs
 weight: 240
 url: /zh/net/groupdocs.annotation/filetype/pptx/
 ---
 ## FileType.Pptx property
 
-Microsoft PowerPoint Open XML Presentation.
+Microsoft PowerPoint Open XML 演示文稿。
 
 ```csharp
 public static FileType Pptx { get; }

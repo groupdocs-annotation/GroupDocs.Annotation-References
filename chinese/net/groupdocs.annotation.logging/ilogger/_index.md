@@ -18,9 +18,9 @@ public interface ILogger
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Error](../../groupdocs.annotation.logging/ilogger/error)(string, Exception) | 错误消息。 |
+| [Error](../../groupdocs.annotation.logging/ilogger/error)(string, Exception) | 错误信息。 |
 | [Trace](../../groupdocs.annotation.logging/ilogger/trace)(string) | 跟踪消息。 |
-| [Warning](../../groupdocs.annotation.logging/ilogger/warning)(string) | 警告信息。 |
+| [Warning](../../groupdocs.annotation.logging/ilogger/warning)(string) | 警告消息。 |
 
 ### 也可以看看
 

@@ -16,7 +16,7 @@ public bool Equals(CheckBoxComponent other)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| other | CheckBoxComponent | 与当前对象比较的 CheckBoxComponent 对象 |
+| other | CheckBoxComponent | 要与当前对象进行比较的 CheckBoxComponent 对象 |
 
 ### 也可以看看
 

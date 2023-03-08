@@ -20,9 +20,9 @@ public void ImportAnnotationsFromDocument(string outputPath)
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 更多关于如何导入注解： [如何在 C# 中从文档中导入注释](https://docs.groupdocs.com/display/annotationnet/Import+annotations+from+document)
+* 有关如何导入注释的更多信息： [如何从 C# 中的文档导入注释](https://docs.groupdocs.com/display/annotationnet/Import+annotations+from+document)
 
 ### 也可以看看
 

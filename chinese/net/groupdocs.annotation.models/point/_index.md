@@ -18,7 +18,7 @@ public struct Point
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Point](point)(float, float) | 初始化[`Point`](../point) struct. |
+| [Point](point)(float, float) | 初始化一个新的实例[`Point`](../point)结构. |
 
 ## 特性
 
@@ -31,10 +31,10 @@ public struct Point
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [Equals](../../groupdocs.annotation.models/point/equals)(object) | 判断指定点是否等于当前点 |
-| override [GetHashCode](../../groupdocs.annotation.models/point/gethashcode)() | 用作默认哈希函数。 |
-| [operator ==](../../groupdocs.annotation.models/point/op_equality) | 比较两个 Point 对象。结果指定两个Point对象的Point.X和Point.Y属性值是否相等。 |
-| [operator !=](../../groupdocs.annotation.models/point/op_inequality) | 比较两个 Point 对象。结果指定两个Point对象的Point.X和Point.Y属性的值是否不相等。 |
+| override [Equals](../../groupdocs.annotation.models/point/equals)(object) | 判断指定点是否等于当前点。 |
+| override [GetHashCode](../../groupdocs.annotation.models/point/gethashcode)() | 作为默认哈希函数。 |
+| [operator ==](../../groupdocs.annotation.models/point/op_equality) | 比较两个点对象。结果指定两个Point对象的Point.X和Point.Y属性的值是否相等。 |
+| [operator !=](../../groupdocs.annotation.models/point/op_inequality) | 比较两个点对象。结果指定两个Point对象的Point.X和Point.Y属性的值是否不相等。 |
 
 ### 也可以看看
 

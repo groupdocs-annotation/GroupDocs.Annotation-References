@@ -1,14 +1,14 @@
 ---
 title: UnderlineAnnotation
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 表示下划线注释属性
+description: 表示下划线标注属性
 type: docs
 weight: 730
 url: /zh/net/groupdocs.annotation.models.annotationmodels/underlineannotation/
 ---
 ## UnderlineAnnotation class
 
-表示下划线注释属性
+表示下划线标注属性
 
 ```csharp
 public class UnderlineAnnotation : AnnotationBase, IEquatable<UnderlineAnnotation>, 
@@ -19,23 +19,23 @@ public class UnderlineAnnotation : AnnotationBase, IEquatable<UnderlineAnnotatio
 
 | 姓名 | 描述 |
 | --- | --- |
-| [UnderlineAnnotation](underlineannotation)() | 初始化的新实例[`UnderlineAnnotation`](../underlineannotation)类. |
+| [UnderlineAnnotation](underlineannotation)() | 初始化新实例[`UnderlineAnnotation`](../underlineannotation)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BackgroundColor](../../groupdocs.annotation.models.annotationmodels/underlineannotation/backgroundcolor) { get; set; } | 获取或设置注释文本背景颜色 |
-| [CreatedOn](../../groupdocs.annotation.models.annotationmodels/annotationbase/createdon) { get; set; } | 获取或设置注解创建日期 |
-| [FontColor](../../groupdocs.annotation.models.annotationmodels/underlineannotation/fontcolor) { get; set; } | 获取或设置注释文本字体颜色 |
+| [BackgroundColor](../../groupdocs.annotation.models.annotationmodels/underlineannotation/backgroundcolor) { get; set; } | 获取或设置注释文字背景颜色 |
+| [CreatedOn](../../groupdocs.annotation.models.annotationmodels/annotationbase/createdon) { get; set; } | 获取或设置注释创建日期 |
+| [FontColor](../../groupdocs.annotation.models.annotationmodels/underlineannotation/fontcolor) { get; set; } | 获取或设置注释文字字体颜色 |
 | [Id](../../groupdocs.annotation.models.annotationmodels/annotationbase/id) { get; set; } | 获取或设置注解唯一标识符 |
-| [Message](../../groupdocs.annotation.models.annotationmodels/annotationbase/message) { get; set; } | 获取或设置注解消息 |
-| [Opacity](../../groupdocs.annotation.models.annotationmodels/underlineannotation/opacity) { get; set; } | 获取或设置注解不透明度 |
+| [Message](../../groupdocs.annotation.models.annotationmodels/annotationbase/message) { get; set; } | 获取或设置注释消息 |
+| [Opacity](../../groupdocs.annotation.models.annotationmodels/underlineannotation/opacity) { get; set; } | 获取或设置注释不透明度 |
 | [PageNumber](../../groupdocs.annotation.models.annotationmodels/annotationbase/pagenumber) { get; set; } | 获取或设置要标注的页码 |
-| [Points](../../groupdocs.annotation.models.annotationmodels/underlineannotation/points) { get; set; } | 获取或设置用文本描述矩形的点集合 |
-| [Replies](../../groupdocs.annotation.models.annotationmodels/annotationbase/replies) { get; set; } | 表示注释回复集合 |
+| [Points](../../groupdocs.annotation.models.annotationmodels/underlineannotation/points) { get; set; } | 获取或设置用 text 描述矩形的点集合 |
+| [Replies](../../groupdocs.annotation.models.annotationmodels/annotationbase/replies) { get; set; } | 代表注解回复集合 |
 | [Type](../../groupdocs.annotation.models.annotationmodels/annotationbase/type) { get; set; } | 获取或设置注解类型 |
-| [UnderlineColor](../../groupdocs.annotation.models.annotationmodels/underlineannotation/underlinecolor) { get; set; } | 获取或设置注解颜色 |
+| [UnderlineColor](../../groupdocs.annotation.models.annotationmodels/underlineannotation/underlinecolor) { get; set; } | 获取或设置标注颜色 |
 | [User](../../groupdocs.annotation.models.annotationmodels/annotationbase/user) { get; set; } | 获取或设置注解创建者 |
 
 ## 方法
@@ -46,14 +46,14 @@ public class UnderlineAnnotation : AnnotationBase, IEquatable<UnderlineAnnotatio
 | [Equals](../../groupdocs.annotation.models.annotationmodels/annotationbase/equals)(AnnotationBase) | 使用 IEquatable Equals 方法比较基本注释 |
 | override [Equals](../../groupdocs.annotation.models.annotationmodels/underlineannotation/equals#equals_2)(object) | 使用标准对象 Equals 方法比较下划线注释 |
 | [Equals](../../groupdocs.annotation.models.annotationmodels/underlineannotation/equals#equals_1)(UnderlineAnnotation) | 使用 IEquatable Equals 方法比较下划线注释 |
-| override [GetHashCode](../../groupdocs.annotation.models.annotationmodels/underlineannotation/gethashcode)() | 返回下划线标注的HashCode |
+| override [GetHashCode](../../groupdocs.annotation.models.annotationmodels/underlineannotation/gethashcode)() | 返回下划线注解的HashCode |
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 更多关于注释类型和注释 PDF 和 Microsoft Word 文档、Excel 电子表格和 PowerPoint 演示文稿： [如何使用 GroupDocs.Annotation for .NET 注释文档](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
-* 更多关于为各种类型的文档添加下划线注释： [如何在 C# 中添加下划线注释](https://docs.groupdocs.com/display/annotationnet/Add+underline+annotation)
+* 更多关于注释类型和注释 PDF 和 Microsoft Word 文档、Excel 电子表格和 PowerPoint 演示文稿的信息： [如何使用 GroupDocs.Annotation for .NET 注释文档](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
+* 更多关于为各种类型的文档添加下划线注释： [C#中如何添加下划线注解](https://docs.groupdocs.com/display/annotationnet/Add+underline+annotation)
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 使用 IEquatable Equals 方法比较替换注释
+description: 使用 IEquatable Equals 方法比较替换注解
 type: docs
 weight: 80
 url: /zh/net/groupdocs.annotation.models.annotationmodels/replacementannotation/equals/
 ---
 ## Equals(ReplacementAnnotation) {#equals_1}
 
-使用 IEquatable Equals 方法比较替换注释
+使用 IEquatable Equals 方法比较替换注解
 
 ```csharp
 public bool Equals(ReplacementAnnotation other)
@@ -16,7 +16,7 @@ public bool Equals(ReplacementAnnotation other)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| other | ReplacementAnnotation | ReplacementAnnotation 对象与当前对象进行比较 |
+| other | ReplacementAnnotation | 要与当前对象进行比较的 ReplacementAnnotation 对象 |
 
 ### 也可以看看
 
@@ -28,7 +28,7 @@ public bool Equals(ReplacementAnnotation other)
 
 ## Equals(object) {#equals_2}
 
-使用标准对象 Equals 方法比较替换注释
+使用标准对象 Equals 方法比较替换注解
 
 ```csharp
 public override bool Equals(object obj)

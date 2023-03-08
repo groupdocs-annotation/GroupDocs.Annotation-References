@@ -18,8 +18,8 @@ public class ConvertFileException : AnnotatorException
 
 | اسم | وصف |
 | --- | --- |
-| [ConvertFileException](convertfileexception#constructor)(string) | يقوم بتهيئة مثيل جديد لملف[`ConvertFileException`](../convertfileexception) صف دراسي. |
-| [ConvertFileException](convertfileexception#constructor_1)(string, Exception) | يقوم بتهيئة مثيل جديد لملف[`ConvertFileException`](../convertfileexception) صف دراسي. |
+| [ConvertFileException](convertfileexception#constructor)(string) | يقوم بتهيئة مثيل جديد لملف[`ConvertFileException`](../convertfileexception) فصل. |
+| [ConvertFileException](convertfileexception#constructor_1)(string, Exception) | يقوم بتهيئة مثيل جديد لملف[`ConvertFileException`](../convertfileexception) فصل. |
 
 ### أنظر أيضا
 

@@ -1,14 +1,14 @@
 ---
 title: Stream
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 文档流
+description: 文件流
 type: docs
 weight: 40
 url: /zh/net/groupdocs.annotation/document/stream/
 ---
 ## Document.Stream property
 
-文档流
+文件流
 
 ```csharp
 public Stream Stream { get; }

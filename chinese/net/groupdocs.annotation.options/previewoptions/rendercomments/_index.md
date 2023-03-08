@@ -1,14 +1,14 @@
 ---
 title: RenderComments
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 控制是否在预览中生成评论的属性默认状态  真现在仅支持 MS Word 文档
+description: 控制是否在预览中生成注释的属性默认状态  真现在仅在 MS Word 文档中受支持
 type: docs
 weight: 80
 url: /zh/net/groupdocs.annotation.options/previewoptions/rendercomments/
 ---
 ## PreviewOptions.RenderComments property
 
-控制是否在预览中生成评论的属性。默认状态 - 真。现在仅支持 MS Word 文档
+控制是否在预览中生成注释的属性。默认状态 - 真。现在仅在 MS Word 文档中受支持
 
 ```csharp
 public bool RenderComments { get; set; }

@@ -18,8 +18,8 @@ public class FileTypeNotSupportedException : AnnotatorException
 
 | Имя | Описание |
 | --- | --- |
-| [FileTypeNotSupportedException](filetypenotsupportedexception#constructor)(string) | Инициализирует новый экземпляр[`FileTypeNotSupportedException`](../filetypenotsupportedexception) учебный класс. |
-| [FileTypeNotSupportedException](filetypenotsupportedexception#constructor_1)(string, Exception) | Инициализирует новый экземпляр[`FileTypeNotSupportedException`](../filetypenotsupportedexception) учебный класс. |
+| [FileTypeNotSupportedException](filetypenotsupportedexception#constructor)(string) | Инициализирует новый экземпляр[`FileTypeNotSupportedException`](../filetypenotsupportedexception) сорт. |
+| [FileTypeNotSupportedException](filetypenotsupportedexception#constructor_1)(string, Exception) | Инициализирует новый экземпляр[`FileTypeNotSupportedException`](../filetypenotsupportedexception) сорт. |
 
 ### Смотрите также
 
