@@ -1,14 +1,14 @@
 ---
 title: Password
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: Belge şifresi
+description: Belge parolası
 type: docs
 weight: 30
 url: /tr/net/groupdocs.annotation/document/password/
 ---
 ## Document.Password property
 
-Belge şifresi
+Belge parolası
 
 ```csharp
 public string Password { get; }

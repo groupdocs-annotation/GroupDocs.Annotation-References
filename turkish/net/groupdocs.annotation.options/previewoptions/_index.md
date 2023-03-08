@@ -3,7 +3,7 @@ title: PreviewOptions
 second_title: .NET API Başvurusu için GroupDocs.Annotation
 description: Belge önizleme seçeneklerini temsil eder.
 type: docs
-weight: 990
+weight: 1000
 url: /tr/net/groupdocs.annotation.options/previewoptions/
 ---
 ## PreviewOptions class
@@ -25,14 +25,14 @@ public class PreviewOptions
 
 | İsim | Tanım |
 | --- | --- |
-| [CreatePageStream](../../groupdocs.annotation.options/previewoptions/createpagestream) { get; set; } | Çıkış sayfası önizleme akışı oluşturma yöntemini tanımlayan temsilci. |
+| [CreatePageStream](../../groupdocs.annotation.options/previewoptions/createpagestream) { get; set; } | Çıktı sayfası önizleme akışı oluşturmak için yöntemi tanımlayan temsilci. |
 | [Height](../../groupdocs.annotation.options/previewoptions/height) { get; set; } | Sayfa önizleme yüksekliği. |
 | [PageNumbers](../../groupdocs.annotation.options/previewoptions/pagenumbers) { get; set; } | Önizlenecek sayfa numaraları. |
-| [PreviewFormat](../../groupdocs.annotation.options/previewoptions/previewformat) { get; set; } | Resim biçimini önizleyin. |
-| [ReleasePageStream](../../groupdocs.annotation.options/previewoptions/releasepagestream) { get; set; } | Çıkış sayfası önizlemesini kaldırma yöntemini tanımlayan temsilci akışı |
+| [PreviewFormat](../../groupdocs.annotation.options/previewoptions/previewformat) { get; set; } | Önizleme resim formatı. |
+| [ReleasePageStream](../../groupdocs.annotation.options/previewoptions/releasepagestream) { get; set; } | Çıktı sayfası önizleme akışını kaldırma yöntemini tanımlayan temsilci stream |
 | [RenderAnnotations](../../groupdocs.annotation.options/previewoptions/renderannotations) { get; set; } | Önizlemede açıklamaların oluşturulup oluşturulmayacağını kontrol eden özellik. Varsayılan Durum - true. |
 | [RenderComments](../../groupdocs.annotation.options/previewoptions/rendercomments) { get; set; } | Önizlemede yorumların oluşturulup oluşturulmayacağını kontrol eden özellik. Varsayılan Durum - doğru. Artık yalnızca MS Word belgesinde destekleniyor |
-| [Resolution](../../groupdocs.annotation.options/previewoptions/resolution) { get; set; } | Oluşturulan görüntülerin çözünürlüğünü inç başına nokta olarak alır veya ayarlar. |
+| [Resolution](../../groupdocs.annotation.options/previewoptions/resolution) { get; set; } | Oluşturulan görüntülerin çözünürlüğünü inç başına nokta cinsinden alır veya ayarlar. |
 | [Width](../../groupdocs.annotation.options/previewoptions/width) { get; set; } | Sayfa önizleme genişliği. |
 | [WorksheetColumns](../../groupdocs.annotation.options/previewoptions/worksheetcolumns) { get; set; } | Oluşturulacak çalışma sayfası sütunları. Oluşturma, belirtilen sırada ilerler. |
 

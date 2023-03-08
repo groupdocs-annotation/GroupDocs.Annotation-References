@@ -1,14 +1,14 @@
 ---
 title: Vsx
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: Microsoft Visio Stencil XML Dosyası.
+description: Microsoft Visio Kalıp XML Dosyası.
 type: docs
 weight: 360
 url: /tr/net/groupdocs.annotation/filetype/vsx/
 ---
 ## FileType.Vsx property
 
-Microsoft Visio Stencil XML Dosyası.
+Microsoft Visio Kalıp XML Dosyası.
 
 ```csharp
 public static FileType Vsx { get; }

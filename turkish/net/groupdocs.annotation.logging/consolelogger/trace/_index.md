@@ -1,14 +1,14 @@
 ---
 title: Trace
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: Açıklama ekleme sürecini günlüğe kaydeder.
+description: Ek açıklama sürecini günlüğe kaydeder.
 type: docs
 weight: 30
 url: /tr/net/groupdocs.annotation.logging/consolelogger/trace/
 ---
 ## ConsoleLogger.Trace method
 
-Açıklama ekleme sürecini günlüğe kaydeder.
+Ek açıklama sürecini günlüğe kaydeder.
 
 ```csharp
 public void Trace(string message)

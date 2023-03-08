@@ -3,7 +3,7 @@ title: RotationDocument
 second_title: .NET API Başvurusu için GroupDocs.Annotation
 description: Döndürme
 type: docs
-weight: 910
+weight: 920
 url: /tr/net/groupdocs.annotation.models/rotationdocument/
 ---
 ## RotationDocument enumeration
@@ -21,7 +21,7 @@ public enum RotationDocument : byte
 | None | `0` | belgeyi 90 derece döndürün |
 | on90 | `1` | belgeyi 180 derece döndürün |
 | on180 | `2` | belgeyi 270 derece döndürün |
-| on270 | `3` | belgeyi döndürmez |
+| on270 | `3` | , belgeyi döndürmez |
 
 ### Ayrıca bakınız
 

@@ -21,7 +21,7 @@ public static bool operator ==(Rectangle left, Rectangle right)
 
 ### Geri dönüş değeri
 
-sol ve sağ Rectangle.X, Rectangle.Y, Rectangle.Width ve Rectangle.Height değerleri eşitse true ; aksi halde yanlış.
+true sol ve sağın Rectangle.X, Rectangle.Y, Rectangle.Width ve Rectangle.Height değerleri eşitse; Aksi takdirde, yanlış.
 
 ### Ayrıca bakınız
 

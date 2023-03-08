@@ -1,14 +1,14 @@
 ---
 title: Annotator
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: Belge yolunu kabul eden açıklayıcı sınıfını başlat
+description: Belge yolunu kabul eden annotator sınıfını başlat
 type: docs
 weight: 10
 url: /tr/net/groupdocs.annotation/annotator/annotator/
 ---
 ## Annotator(string) {#constructor_4}
 
-Belge yolunu kabul eden açıklayıcı sınıfını başlat
+Belge yolunu kabul eden annotator sınıfını başlat
 
 ```csharp
 public Annotator(string filePath)
@@ -23,7 +23,7 @@ public Annotator(string filePath)
 **Daha fazla bilgi edin**
 
 * GroupDocs tarafından desteklenen dosya türleri hakkında daha fazla bilgi.Açıklama: [GroupDocs.Annotation tarafından desteklenen belge biçimleri](https://docs.groupdocs.com/display/annotationnet/Supported+Document+Formats)
-* GroupDocs hakkında daha fazla bilgi. .NET özellikleri için açıklama: [Geliştirici Kılavuzu](https://docs.groupdocs.com/display/annotationnet/Developer+Guide)
+* GroupDocs.Annotation for .NET özellikleri hakkında daha fazla bilgi: [Geliştirici Kılavuzu](https://docs.groupdocs.com/display/annotationnet/Developer+Guide)
 
 ### Ayrıca bakınız
 
@@ -35,7 +35,7 @@ public Annotator(string filePath)
 
 ## Annotator(string, LoadOptions) {#constructor_6}
 
-Belge yolunu kabul eden açıklayıcı sınıfını başlat
+Belge yolunu kabul eden annotator sınıfını başlat
 
 ```csharp
 public Annotator(string filePath, LoadOptions loadOptions)
@@ -44,14 +44,14 @@ public Annotator(string filePath, LoadOptions loadOptions)
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
 | filePath | String | Dosya yolu |
-| loadOptions | LoadOptions | Seçenekleri yükle |
+| loadOptions | LoadOptions | Yükleme seçenekleri |
 
 ### Notlar
 
 **Daha fazla bilgi edin**
 
 * GroupDocs tarafından desteklenen dosya türleri hakkında daha fazla bilgi.Açıklama: [GroupDocs.Annotation tarafından desteklenen belge biçimleri](https://docs.groupdocs.com/display/annotationnet/Supported+Document+Formats)
-* GroupDocs hakkında daha fazla bilgi. .NET özellikleri için açıklama: [Geliştirici Kılavuzu](https://docs.groupdocs.com/display/annotationnet/Developer+Guide)
+* GroupDocs.Annotation for .NET özellikleri hakkında daha fazla bilgi: [Geliştirici Kılavuzu](https://docs.groupdocs.com/display/annotationnet/Developer+Guide)
 * Parola korumalı belgeyi açma ve açıklama ekleme hakkında daha fazla bilgi: [Parola korumalı belgeyi açın ve açıklama ekleyin](https://docs.groupdocs.com/display/annotationnet/Load+password-protected+documents)
 * URL, FTP, Amazon S3, Azure Blob Storage ve diğerlerinden belge açma ve açıklama ekleme hakkında daha fazla bilgi: [Üçüncü taraf depolardaki belgeleri açın ve açıklama ekleyin](https://docs.groupdocs.com/display/annotationnet/Loading+documents+from+different+sources)
 
@@ -66,7 +66,7 @@ public Annotator(string filePath, LoadOptions loadOptions)
 
 ## Annotator(string, AnnotatorSettings) {#constructor_5}
 
-Belge yolunu kabul eden açıklayıcı sınıfını başlat
+Belge yolunu kabul eden annotator sınıfını başlat
 
 ```csharp
 public Annotator(string filePath, AnnotatorSettings settings)
@@ -82,7 +82,7 @@ public Annotator(string filePath, AnnotatorSettings settings)
 **Daha fazla bilgi edin**
 
 * GroupDocs tarafından desteklenen dosya türleri hakkında daha fazla bilgi.Açıklama: [GroupDocs.Annotation tarafından desteklenen belge biçimleri](https://docs.groupdocs.com/display/annotationnet/Supported+Document+Formats)
-* GroupDocs hakkında daha fazla bilgi. .NET özellikleri için açıklama: [Geliştirici Kılavuzu](https://docs.groupdocs.com/display/annotationnet/Developer+Guide)
+* GroupDocs.Annotation for .NET özellikleri hakkında daha fazla bilgi: [Geliştirici Kılavuzu](https://docs.groupdocs.com/display/annotationnet/Developer+Guide)
 
 ### Ayrıca bakınız
 
@@ -95,7 +95,7 @@ public Annotator(string filePath, AnnotatorSettings settings)
 
 ## Annotator(string, LoadOptions, AnnotatorSettings) {#constructor_7}
 
-Belge yolunu kabul eden açıklayıcı sınıfını başlat
+Belge yolunu kabul eden annotator sınıfını başlat
 
 ```csharp
 public Annotator(string filePath, LoadOptions loadOptions, AnnotatorSettings settings)
@@ -104,7 +104,7 @@ public Annotator(string filePath, LoadOptions loadOptions, AnnotatorSettings set
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
 | filePath | String | Dosya yolu |
-| loadOptions | LoadOptions | Seçenekleri yükle |
+| loadOptions | LoadOptions | Yükleme seçenekleri |
 | settings | AnnotatorSettings | Ek açıklama ayarları |
 
 ### Notlar
@@ -112,7 +112,7 @@ public Annotator(string filePath, LoadOptions loadOptions, AnnotatorSettings set
 **Daha fazla bilgi edin**
 
 * GroupDocs tarafından desteklenen dosya türleri hakkında daha fazla bilgi.Açıklama: [GroupDocs.Annotation tarafından desteklenen belge biçimleri](https://docs.groupdocs.com/display/annotationnet/Supported+Document+Formats)
-* GroupDocs hakkında daha fazla bilgi. .NET özellikleri için açıklama: [Geliştirici Kılavuzu](https://docs.groupdocs.com/display/annotationnet/Developer+Guide)
+* GroupDocs.Annotation for .NET özellikleri hakkında daha fazla bilgi: [Geliştirici Kılavuzu](https://docs.groupdocs.com/display/annotationnet/Developer+Guide)
 * Parola korumalı belgeyi açma ve açıklama ekleme hakkında daha fazla bilgi: [Parola korumalı belgeyi açın ve açıklama ekleyin](https://docs.groupdocs.com/display/annotationnet/Load+password-protected+documents)
 * URL, FTP, Amazon S3, Azure Blob Storage ve diğerlerinden belge açma ve açıklama ekleme hakkında daha fazla bilgi: [Üçüncü taraf depolardaki belgeleri açın ve açıklama ekleyin](https://docs.groupdocs.com/display/annotationnet/Loading+documents+from+different+sources)
 
@@ -128,7 +128,7 @@ public Annotator(string filePath, LoadOptions loadOptions, AnnotatorSettings set
 
 ## Annotator(Stream) {#constructor}
 
-Belge akışını kabul eden açıklayıcı sınıfını başlat
+Belge akışını kabul eden annotator sınıfını başlat
 
 ```csharp
 public Annotator(Stream document)
@@ -143,7 +143,7 @@ public Annotator(Stream document)
 **Daha fazla bilgi edin**
 
 * GroupDocs tarafından desteklenen dosya türleri hakkında daha fazla bilgi.Açıklama: [GroupDocs.Annotation tarafından desteklenen belge biçimleri](https://docs.groupdocs.com/display/annotationnet/Supported+Document+Formats)
-* GroupDocs hakkında daha fazla bilgi. .NET özellikleri için açıklama: [Geliştirici Kılavuzu](https://docs.groupdocs.com/display/annotationnet/Developer+Guide)
+* GroupDocs.Annotation for .NET özellikleri hakkında daha fazla bilgi: [Geliştirici Kılavuzu](https://docs.groupdocs.com/display/annotationnet/Developer+Guide)
 
 ### Ayrıca bakınız
 
@@ -155,7 +155,7 @@ public Annotator(Stream document)
 
 ## Annotator(Stream, LoadOptions) {#constructor_2}
 
-Belge akışını kabul eden açıklayıcı sınıfını başlat
+Belge akışını kabul eden annotator sınıfını başlat
 
 ```csharp
 public Annotator(Stream document, LoadOptions loadOptions)
@@ -164,14 +164,14 @@ public Annotator(Stream document, LoadOptions loadOptions)
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
 | document | Stream | Belge akışı |
-| loadOptions | LoadOptions | Seçenekleri yükle |
+| loadOptions | LoadOptions | Yükleme seçenekleri |
 
 ### Notlar
 
 **Daha fazla bilgi edin**
 
 * GroupDocs tarafından desteklenen dosya türleri hakkında daha fazla bilgi.Açıklama: [GroupDocs.Annotation tarafından desteklenen belge biçimleri](https://docs.groupdocs.com/display/annotationnet/Supported+Document+Formats)
-* GroupDocs hakkında daha fazla bilgi. .NET özellikleri için açıklama: [Geliştirici Kılavuzu](https://docs.groupdocs.com/display/annotationnet/Developer+Guide)
+* GroupDocs.Annotation for .NET özellikleri hakkında daha fazla bilgi: [Geliştirici Kılavuzu](https://docs.groupdocs.com/display/annotationnet/Developer+Guide)
 * Parola korumalı belgeyi açma ve açıklama ekleme hakkında daha fazla bilgi: [Parola korumalı belgeyi açın ve açıklama ekleyin](https://docs.groupdocs.com/display/annotationnet/Load+password-protected+documents)
 * URL, FTP, Amazon S3, Azure Blob Storage ve diğerlerinden belge açma ve açıklama ekleme hakkında daha fazla bilgi: [Üçüncü taraf depolardaki belgeleri açın ve açıklama ekleyin](https://docs.groupdocs.com/display/annotationnet/Loading+documents+from+different+sources)
 
@@ -186,7 +186,7 @@ public Annotator(Stream document, LoadOptions loadOptions)
 
 ## Annotator(Stream, AnnotatorSettings) {#constructor_1}
 
-Belge akışını kabul eden açıklayıcı sınıfını başlat
+Belge akışını kabul eden annotator sınıfını başlat
 
 ```csharp
 public Annotator(Stream document, AnnotatorSettings settings)
@@ -202,7 +202,7 @@ public Annotator(Stream document, AnnotatorSettings settings)
 **Daha fazla bilgi edin**
 
 * GroupDocs tarafından desteklenen dosya türleri hakkında daha fazla bilgi.Açıklama: [GroupDocs.Annotation tarafından desteklenen belge biçimleri](https://docs.groupdocs.com/display/annotationnet/Supported+Document+Formats)
-* GroupDocs hakkında daha fazla bilgi. .NET özellikleri için açıklama: [Geliştirici Kılavuzu](https://docs.groupdocs.com/display/annotationnet/Developer+Guide)
+* GroupDocs.Annotation for .NET özellikleri hakkında daha fazla bilgi: [Geliştirici Kılavuzu](https://docs.groupdocs.com/display/annotationnet/Developer+Guide)
 
 ### Ayrıca bakınız
 
@@ -215,7 +215,7 @@ public Annotator(Stream document, AnnotatorSettings settings)
 
 ## Annotator(Stream, LoadOptions, AnnotatorSettings) {#constructor_3}
 
-Belge akışını kabul eden açıklayıcı sınıfını başlat
+Belge akışını kabul eden annotator sınıfını başlat
 
 ```csharp
 public Annotator(Stream document, LoadOptions loadOptions, AnnotatorSettings settings)
@@ -224,7 +224,7 @@ public Annotator(Stream document, LoadOptions loadOptions, AnnotatorSettings set
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
 | document | Stream | Belge akışı |
-| loadOptions | LoadOptions | Seçenekleri yükle |
+| loadOptions | LoadOptions | Yükleme seçenekleri |
 | settings | AnnotatorSettings | Ek açıklama ayarları |
 
 ### Notlar
@@ -232,7 +232,7 @@ public Annotator(Stream document, LoadOptions loadOptions, AnnotatorSettings set
 **Daha fazla bilgi edin**
 
 * GroupDocs tarafından desteklenen dosya türleri hakkında daha fazla bilgi.Açıklama: [GroupDocs.Annotation tarafından desteklenen belge biçimleri](https://docs.groupdocs.com/display/annotationnet/Supported+Document+Formats)
-* GroupDocs hakkında daha fazla bilgi. .NET özellikleri için açıklama: [Geliştirici Kılavuzu](https://docs.groupdocs.com/display/annotationnet/Developer+Guide)
+* GroupDocs.Annotation for .NET özellikleri hakkında daha fazla bilgi: [Geliştirici Kılavuzu](https://docs.groupdocs.com/display/annotationnet/Developer+Guide)
 * Parola korumalı belgeyi açma ve açıklama ekleme hakkında daha fazla bilgi: [Parola korumalı belgeyi açın ve açıklama ekleyin](https://docs.groupdocs.com/display/annotationnet/Load+password-protected+documents)
 * URL, FTP, Amazon S3, Azure Blob Storage ve diğerlerinden belge açma ve açıklama ekleme hakkında daha fazla bilgi: [Üçüncü taraf depolardaki belgeleri açın ve açıklama ekleyin](https://docs.groupdocs.com/display/annotationnet/Loading+documents+from+different+sources)
 

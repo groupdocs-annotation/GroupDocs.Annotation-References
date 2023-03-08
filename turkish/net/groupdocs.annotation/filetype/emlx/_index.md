@@ -1,14 +1,14 @@
 ---
 title: Emlx
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: Appleın Mail.app programı dosya biçimi.
+description: Appleın Mail.app programı dosya formatı.
 type: docs
 weight: 110
 url: /tr/net/groupdocs.annotation/filetype/emlx/
 ---
 ## FileType.Emlx property
 
-Apple'ın Mail.app programı dosya biçimi.
+Apple'ın Mail.app programı dosya formatı.
 
 ```csharp
 public static FileType Emlx { get; }

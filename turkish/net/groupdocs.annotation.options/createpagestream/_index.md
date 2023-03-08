@@ -3,7 +3,7 @@ title: CreatePageStream
 second_title: .NET API Başvurusu için GroupDocs.Annotation
 description: Çıktı sayfası önizleme akışı oluşturmak için yöntemi tanımlayan temsilci.
 type: docs
-weight: 960
+weight: 970
 url: /tr/net/groupdocs.annotation.options/createpagestream/
 ---
 ## CreatePageStream delegate

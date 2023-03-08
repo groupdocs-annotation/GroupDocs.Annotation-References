@@ -1,14 +1,14 @@
 ---
 title: Text
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: Metni find olacak şekilde alır veya ayarlar
+description: Metni find olarak alır veya ayarlar
 type: docs
 weight: 60
 url: /tr/net/groupdocs.annotation.models.annotationmodels/searchtextfragment/text/
 ---
 ## SearchTextFragment.Text property
 
-Metni find olacak şekilde alır veya ayarlar
+Metni find olarak alır veya ayarlar
 
 ```csharp
 public string Text { get; set; }

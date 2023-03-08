@@ -27,7 +27,7 @@ public class WatermarkAnnotation : AnnotationBase, IEquatable<WatermarkAnnotatio
 | --- | --- |
 | [Angle](../../groupdocs.annotation.models.annotationmodels/watermarkannotation/angle) { get; set; } | Filigran döndürme açısını alır veya ayarlar |
 | [AutoScale](../../groupdocs.annotation.models.annotationmodels/watermarkannotation/autoscale) { get; set; } | Filigran için otomatik ölçeklendirmeyi ayarlar |
-| [Box](../../groupdocs.annotation.models.annotationmodels/watermarkannotation/box) { get; set; } | Konum açıklamasını alır veya ayarlar |
+| [Box](../../groupdocs.annotation.models.annotationmodels/watermarkannotation/box) { get; set; } | Ek açıklama pozisyonunu alır veya ayarlar |
 | [CreatedOn](../../groupdocs.annotation.models.annotationmodels/annotationbase/createdon) { get; set; } | Ek açıklama oluşturma tarihini alır veya ayarlar |
 | [FontColor](../../groupdocs.annotation.models.annotationmodels/watermarkannotation/fontcolor) { get; set; } | Filigran metin yazı tipi rengini alır veya ayarlar |
 | [FontFamily](../../groupdocs.annotation.models.annotationmodels/watermarkannotation/fontfamily) { get; set; } | Filigran metni yazı tipi ailesini alır veya ayarlar |
@@ -57,7 +57,7 @@ public class WatermarkAnnotation : AnnotationBase, IEquatable<WatermarkAnnotatio
 
 **Daha fazla bilgi edin**
 
-* Açıklama türleri ve PDF ve Microsoft Word belgelerine, Excel elektronik tablolarına ve PowerPoint Sunumlarına açıklama ekleme hakkında daha fazla bilgi: [.NET için GroupDocs.Annotation kullanarak belgelere açıklama ekleme](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
+* Ek açıklama türleri ve PDF ve Microsoft Word belgeleri, Excel elektronik tabloları ve PowerPoint Sunumları hakkında daha fazla bilgi: [.NET için GroupDocs.Annotation kullanarak belgelere açıklama ekleme](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
 * Çeşitli türdeki belgelere filigran ek açıklamaları ekleme hakkında daha fazla bilgi: [C#'ta filigran ek açıklamaları nasıl eklenir?](https://docs.groupdocs.com/display/annotationnet/Add+watermark+annotation)
 
 ### Ayrıca bakınız

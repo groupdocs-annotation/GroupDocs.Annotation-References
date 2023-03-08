@@ -45,7 +45,7 @@ public class SquigglyAnnotation : AnnotationBase, IEquatable<SquigglyAnnotation>
 | override [Clone](../../groupdocs.annotation.models.annotationmodels/squigglyannotation/clone)() | Devuelve una nueva Instancia con los mismos valores |
 | [Equals](../../groupdocs.annotation.models.annotationmodels/annotationbase/equals)(AnnotationBase) | Compara anotaciones base utilizando el método IEquatable Equals |
 | override [Equals](../../groupdocs.annotation.models.annotationmodels/squigglyannotation/equals#equals_2)(object) | Compara anotaciones onduladas usando el objeto estándar Es igual al método |
-| [Equals](../../groupdocs.annotation.models.annotationmodels/squigglyannotation/equals#equals_1)(SquigglyAnnotation) | Compara anotaciones onduladas usando el método IEquatable Equals |
+| [Equals](../../groupdocs.annotation.models.annotationmodels/squigglyannotation/equals#equals_1)(SquigglyAnnotation) | Compara anotaciones onduladas utilizando el método IEquatable Equals |
 | override [GetHashCode](../../groupdocs.annotation.models.annotationmodels/squigglyannotation/gethashcode)() | Devuelve el código hash de la anotación Squiggly |
 
 ### Observaciones
@@ -53,7 +53,7 @@ public class SquigglyAnnotation : AnnotationBase, IEquatable<SquigglyAnnotation>
 **Aprende más**
 
 * Más información sobre los tipos de anotaciones y la anotación de documentos PDF y Microsoft Word, hojas de cálculo de Excel y presentaciones de PowerPoint: [Cómo anotar documentos usando GroupDocs.Annotation para .NET](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
-* Más información sobre cómo agregar anotaciones onduladas a documentos de varios tipos: [Cómo agregar anotaciones onduladas en C#](https://docs.groupdocs.com/display/annotationnet/Add+squiggly+annotation)
+* Más información sobre cómo agregar anotaciones onduladas a documentos de varios tipos: [Cómo agregar anotaciones onduladas en C#](https://docs.groupdocs.com/annotation/net/add-squiggly-annotation/)
 
 ### Ver también
 

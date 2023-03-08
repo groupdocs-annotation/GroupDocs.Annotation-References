@@ -3,7 +3,7 @@ title: ReleasePageStream
 second_title: GroupDocs.Annotation for .NET API Reference
 description: Delegat som definierar metod för att frigöra förhandsvisningsström för utdatasida.
 type: docs
-weight: 1000
+weight: 1010
 url: /sv/net/groupdocs.annotation.options/releasepagestream/
 ---
 ## ReleasePageStream delegate

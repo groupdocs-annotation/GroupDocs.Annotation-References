@@ -1,14 +1,14 @@
 ---
 title: IPolylineAnnotation
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: Çoklu çizgi ek açıklama özelliklerini tanımlar
+description: Çoklu Çizgi açıklama özelliklerini tanımlar
 type: docs
 weight: 330
 url: /tr/net/groupdocs.annotation.models.annotationmodels.interfaces.annotations/ipolylineannotation/
 ---
 ## IPolylineAnnotation interface
 
-Çoklu çizgi ek açıklama özelliklerini tanımlar
+Çoklu Çizgi açıklama özelliklerini tanımlar
 
 ```csharp
 public interface IPolylineAnnotation : IBox, IOpacity, IPenColor, IPenStyle, IPenWidth, ISvgPath

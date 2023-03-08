@@ -1,14 +1,14 @@
 ---
 title: ConvertFileException
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: Dosya dönüştürme başarısız olduğunda oluşturulan özel durum.
+description: Dosya dönüştürme başarısız olduğunda atılan istisna.
 type: docs
 weight: 70
 url: /tr/net/groupdocs.annotation.exceptions/convertfileexception/
 ---
 ## ConvertFileException class
 
-Dosya dönüştürme başarısız olduğunda oluşturulan özel durum.
+Dosya dönüştürme başarısız olduğunda atılan istisna.
 
 ```csharp
 public class ConvertFileException : AnnotatorException

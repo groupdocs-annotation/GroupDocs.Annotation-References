@@ -37,7 +37,7 @@ public ConvertFileException(string message, Exception innerException)
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
 | message | String | İstisnanın nedenini açıklayan hata mesajı. |
-| innerException | Exception | Geçerli özel durumun nedeni olan özel durum veya bir iç özel durum belirtilmemişse boş bir başvuru (Visual Basic'te Hiçbir Şey). |
+| innerException | Exception | Geçerli özel durumun nedeni olan özel durum veya herhangi bir iç özel durum belirtilmemişse boş başvuru (Visual Basic'te Hiçbir Şey). |
 
 ### Ayrıca bakınız
 

@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: IEquatable Equals method kullanarak dalgalı Açıklamaları karşılaştırır
+description: IEquatable Equals yöntemini kullanarak dalgalı Ek Açıklamaları karşılaştırır
 type: docs
 weight: 80
 url: /tr/net/groupdocs.annotation.models.annotationmodels/squigglyannotation/equals/
 ---
 ## Equals(SquigglyAnnotation) {#equals_1}
 
-IEquatable Equals method kullanarak dalgalı Açıklamaları karşılaştırır
+IEquatable Equals yöntemini kullanarak dalgalı Ek Açıklamaları karşılaştırır
 
 ```csharp
 public bool Equals(SquigglyAnnotation other)

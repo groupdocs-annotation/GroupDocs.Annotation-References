@@ -18,7 +18,7 @@ public interface IDropdownComponent : IBox, IPenColor, IPenStyle, IPenWidth
 
 | İsim | Tanım |
 | --- | --- |
-| [Options](../../groupdocs.annotation.models.formatspecificcomponents.pdf.interfaces/idropdowncomponent/options) { get; set; } | Bileşen tıklandığında gösterilecek seçeneklerin listesi (açılır öğeler) |
+| [Options](../../groupdocs.annotation.models.formatspecificcomponents.pdf.interfaces/idropdowncomponent/options) { get; set; } | Bileşen tıklandığında gösterilecek seçeneklerin (açılır öğeler) listesi |
 | [Placeholder](../../groupdocs.annotation.models.formatspecificcomponents.pdf.interfaces/idropdowncomponent/placeholder) { get; set; } | Henüz hiçbir seçenek seçilmediğinde gösterilecek metin |
 | [SelectedOption](../../groupdocs.annotation.models.formatspecificcomponents.pdf.interfaces/idropdowncomponent/selectedoption) { get; set; } | Varsayılan olarak seçilecek seçenek sayısı |
 

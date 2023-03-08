@@ -1,22 +1,23 @@
 ---
 title: IReplacementAnnotation
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: Değiştirme ek açıklama özelliklerini tanımlar
+description: Değiştirme açıklama özelliklerini tanımlar
 type: docs
 weight: 340
 url: /tr/net/groupdocs.annotation.models.annotationmodels.interfaces.annotations/ireplacementannotation/
 ---
 ## IReplacementAnnotation interface
 
-Değiştirme ek açıklama özelliklerini tanımlar
+Değiştirme açıklama özelliklerini tanımlar
 
 ```csharp
-public interface IReplacementAnnotation : IFontColor, IOpacity, IPoints, ITextToReplace
+public interface IReplacementAnnotation : IFontColor, IFontSize, IOpacity, IPoints, ITextToReplace
 ```
 
 ### Ayrıca bakınız
 
 * interface [IFontColor](../../groupdocs.annotation.models.annotationmodels.interfaces.properties/ifontcolor)
+* interface [IFontSize](../../groupdocs.annotation.models.annotationmodels.interfaces.properties/ifontsize)
 * interface [IOpacity](../../groupdocs.annotation.models.annotationmodels.interfaces.properties/iopacity)
 * interface [IPoints](../../groupdocs.annotation.models.annotationmodels.interfaces.properties/ipoints)
 * interface [ITextToReplace](../../groupdocs.annotation.models.annotationmodels.interfaces.properties/itexttoreplace)

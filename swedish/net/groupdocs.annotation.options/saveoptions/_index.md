@@ -3,7 +3,7 @@ title: SaveOptions
 second_title: GroupDocs.Annotation for .NET API Reference
 description: Gör det möjligt att ange ytterligare alternativ som lösenord när du sparar ett kommenterat dokument.
 type: docs
-weight: 1010
+weight: 1020
 url: /sv/net/groupdocs.annotation.options/saveoptions/
 ---
 ## SaveOptions class

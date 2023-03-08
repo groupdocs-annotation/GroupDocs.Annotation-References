@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: Düğme Bileşenlerini IEquatable Equals method kullanarak karşılaştırır
+description: IEquatable Equals yöntemini kullanarak Düğme Bileşenlerini karşılaştırır
 type: docs
 weight: 130
 url: /tr/net/groupdocs.annotation.models.formatspecificcomponents.pdf/buttoncomponent/equals/
 ---
 ## Equals(ButtonComponent) {#equals_1}
 
-Düğme Bileşenlerini IEquatable Equals method kullanarak karşılaştırır
+IEquatable Equals yöntemini kullanarak Düğme Bileşenlerini karşılaştırır
 
 ```csharp
 public bool Equals(ButtonComponent other)
@@ -28,7 +28,7 @@ public bool Equals(ButtonComponent other)
 
 ## Equals(object) {#equals_2}
 
-Standart nesne Eşittir yöntemini kullanarak Düğme Bileşenlerini karşılaştırır method
+standart nesne Equals method kullanarak Düğme Bileşenlerini karşılaştırır
 
 ```csharp
 public override bool Equals(object obj)

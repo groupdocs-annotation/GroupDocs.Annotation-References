@@ -3,7 +3,7 @@ title: PreviewFormats
 second_title: .NET API Başvurusu için GroupDocs.Annotation
 description: Belge ön izleme desteklenen biçimler.
 type: docs
-weight: 980
+weight: 990
 url: /tr/net/groupdocs.annotation.options/previewformats/
 ---
 ## PreviewFormats enumeration

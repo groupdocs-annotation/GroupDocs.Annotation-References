@@ -18,14 +18,14 @@ public class Annotator : IDisposable
 
 | İsim | Tanım |
 | --- | --- |
-| [Annotator](annotator#constructor)(Stream) | Belge akışını kabul eden açıklayıcı sınıfını başlat |
-| [Annotator](annotator#constructor_4)(string) | Belge yolunu kabul eden açıklayıcı sınıfını başlat |
-| [Annotator](annotator#constructor_1)(Stream, AnnotatorSettings) | Belge akışını kabul eden açıklayıcı sınıfını başlat |
-| [Annotator](annotator#constructor_2)(Stream, LoadOptions) | Belge akışını kabul eden açıklayıcı sınıfını başlat |
-| [Annotator](annotator#constructor_5)(string, AnnotatorSettings) | Belge yolunu kabul eden açıklayıcı sınıfını başlat |
-| [Annotator](annotator#constructor_6)(string, LoadOptions) | Belge yolunu kabul eden açıklayıcı sınıfını başlat |
-| [Annotator](annotator#constructor_3)(Stream, LoadOptions, AnnotatorSettings) | Belge akışını kabul eden açıklayıcı sınıfını başlat |
-| [Annotator](annotator#constructor_7)(string, LoadOptions, AnnotatorSettings) | Belge yolunu kabul eden açıklayıcı sınıfını başlat |
+| [Annotator](annotator#constructor)(Stream) | Belge akışını kabul eden annotator sınıfını başlat |
+| [Annotator](annotator#constructor_4)(string) | Belge yolunu kabul eden annotator sınıfını başlat |
+| [Annotator](annotator#constructor_1)(Stream, AnnotatorSettings) | Belge akışını kabul eden annotator sınıfını başlat |
+| [Annotator](annotator#constructor_2)(Stream, LoadOptions) | Belge akışını kabul eden annotator sınıfını başlat |
+| [Annotator](annotator#constructor_5)(string, AnnotatorSettings) | Belge yolunu kabul eden annotator sınıfını başlat |
+| [Annotator](annotator#constructor_6)(string, LoadOptions) | Belge yolunu kabul eden annotator sınıfını başlat |
+| [Annotator](annotator#constructor_3)(Stream, LoadOptions, AnnotatorSettings) | Belge akışını kabul eden annotator sınıfını başlat |
+| [Annotator](annotator#constructor_7)(string, LoadOptions, AnnotatorSettings) | Belge yolunu kabul eden annotator sınıfını başlat |
 
 ## Özellikleri
 
@@ -52,12 +52,12 @@ public class Annotator : IDisposable
 | [Remove](../../groupdocs.annotation/annotator/remove#remove_1)(int) | Ek açıklamayı belgeden Id. ile kaldırır |
 | [Remove](../../groupdocs.annotation/annotator/remove#remove_2)(List&lt;AnnotationBase&gt;) | Belgeden açıklama koleksiyonunu kaldırır. |
 | [Remove](../../groupdocs.annotation/annotator/remove#remove_3)(List&lt;int&gt;) | Sağlanan ek açıklama kimlikleri tarafından belgeden ek açıklamaların toplanmasını kaldırır. |
-| [Save](../../groupdocs.annotation/annotator/save#save)() | Ek açıklamaları ekledikten, güncelledikten veya kaldırdıktan sonra belgeyi kaydeder. |
-| [Save](../../groupdocs.annotation/annotator/save#save_1)(SaveOptions) | Ek açıklamaları ekledikten, güncelledikten veya kaldırdıktan sonra belgeyi kaydeder. |
-| [Save](../../groupdocs.annotation/annotator/save#save_2)(Stream) | Ek açıklamaları ekledikten, güncelledikten veya kaldırdıktan sonra belgeyi kaydeder. |
-| [Save](../../groupdocs.annotation/annotator/save#save_4)(string) | Ek açıklamaları ekledikten, güncelledikten veya kaldırdıktan sonra belgeyi kaydeder. |
-| [Save](../../groupdocs.annotation/annotator/save#save_3)(Stream, SaveOptions) | Ek açıklamaları ekledikten, güncelledikten veya kaldırdıktan sonra belgeyi kaydeder. |
-| [Save](../../groupdocs.annotation/annotator/save#save_5)(string, SaveOptions) | Ek açıklamaları ekledikten, güncelledikten veya kaldırdıktan sonra belgeyi kaydeder. |
+| [Save](../../groupdocs.annotation/annotator/save#save)() | Açıklamaları ekledikten, güncelledikten veya çıkardıktan sonra belgeyi kaydeder. |
+| [Save](../../groupdocs.annotation/annotator/save#save_1)(SaveOptions) | Açıklamaları ekledikten, güncelledikten veya çıkardıktan sonra belgeyi kaydeder. |
+| [Save](../../groupdocs.annotation/annotator/save#save_2)(Stream) | Açıklamaları ekledikten, güncelledikten veya çıkardıktan sonra belgeyi kaydeder. |
+| [Save](../../groupdocs.annotation/annotator/save#save_4)(string) | Açıklamaları ekledikten, güncelledikten veya çıkardıktan sonra belgeyi kaydeder. |
+| [Save](../../groupdocs.annotation/annotator/save#save_3)(Stream, SaveOptions) | Açıklamaları ekledikten, güncelledikten veya çıkardıktan sonra belgeyi kaydeder. |
+| [Save](../../groupdocs.annotation/annotator/save#save_5)(string, SaveOptions) | Açıklamaları ekledikten, güncelledikten veya çıkardıktan sonra belgeyi kaydeder. |
 | [Update](../../groupdocs.annotation/annotator/update#update)(AnnotationBase) | Belge açıklamasını günceller. |
 | [Update](../../groupdocs.annotation/annotator/update#update_1)(List&lt;AnnotationBase&gt;) | Belge ek açıklamaları koleksiyonunu günceller. |
 

@@ -24,9 +24,9 @@ public sealed class ConsoleLogger : ILogger
 
 | İsim | Tanım |
 | --- | --- |
-| [Error](../../groupdocs.annotation.logging/consolelogger/error)(string, Exception) | Hata mesajını günlüğe kaydeder. |
-| [Trace](../../groupdocs.annotation.logging/consolelogger/trace)(string) | Açıklama ekleme sürecini günlüğe kaydeder. |
-| [Warning](../../groupdocs.annotation.logging/consolelogger/warning)(string) | Uyarı mesajını günlüğe kaydeder. |
+| [Error](../../groupdocs.annotation.logging/consolelogger/error)(string, Exception) | Günlük hata mesajı. |
+| [Trace](../../groupdocs.annotation.logging/consolelogger/trace)(string) | Ek açıklama sürecini günlüğe kaydeder. |
+| [Warning](../../groupdocs.annotation.logging/consolelogger/warning)(string) | Günlük uyarı mesajı. |
 
 ### Ayrıca bakınız
 

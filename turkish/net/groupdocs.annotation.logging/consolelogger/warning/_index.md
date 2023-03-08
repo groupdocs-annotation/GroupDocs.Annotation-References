@@ -1,14 +1,14 @@
 ---
 title: Warning
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: Uyarı mesajını günlüğe kaydeder.
+description: Günlük uyarı mesajı.
 type: docs
 weight: 40
 url: /tr/net/groupdocs.annotation.logging/consolelogger/warning/
 ---
 ## ConsoleLogger.Warning method
 
-Uyarı mesajını günlüğe kaydeder.
+Günlük uyarı mesajı.
 
 ```csharp
 public void Warning(string message)

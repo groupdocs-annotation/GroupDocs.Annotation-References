@@ -18,12 +18,12 @@ public enum PenStyle : byte
 
 | İsim | Değer | Tanım |
 | --- | --- | --- |
-| Solid | `0` | Düz bir çizgi belirtir |
+| Solid | `0` | Kesintisiz bir çizgi belirtir |
 | Dash | `1` | tirelerden oluşan bir satırı belirtir |
-| DashDot | `2` | Kısa çizgiler ve noktalardan oluşan bir satırı belirtir |
-| Dot | `3` | dots içeren bir satırı belirtir |
-| LongDash | `4` | Uzun tirelerden oluşan bir satırı belirtir |
-| DashDotDot | `5` | Kısa çizgiler ve iki noktadan oluşan bir satırı belirtir |
+| DashDot | `2` | Tire ve noktalardan oluşan bir çizgi belirtir |
+| Dot | `3` | noktalardan oluşan bir satırı belirtir |
+| LongDash | `4` | Uzun çizgilerden oluşan bir satırı belirtir |
+| DashDotDot | `5` | Tire ve iki noktadan oluşan bir çizgi belirtir |
 
 ### Ayrıca bakınız
 

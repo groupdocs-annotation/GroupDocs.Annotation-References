@@ -18,10 +18,10 @@ public enum ResolutionQuality : byte
 
 | İsim | Değer | Tanım |
 | --- | --- | --- |
-| None | `0` |  |
-| Low | `1` |  |
-| Medium | `2` |  |
-| High | `3` |  |
+| None | `0` | Varsayılan kalite |
+| Low | `1` | Düşük görüntü kalitesine sahip küçük belgeler oluşturmaya izin verir |
+| Medium | `2` | İyi görüntü kalitesine sahip orta boyutlu belgeler oluşturmaya izin verir |
+| High | `3` | Yüksek görüntü kalitesiyle daha büyük belgeler oluşturmaya izin verir |
 
 ### Ayrıca bakınız
 

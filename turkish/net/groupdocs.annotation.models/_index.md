@@ -32,6 +32,7 @@ Ad alanı açıklama veri sınıfları sağlar.
 | [HorizontalAlignment](./horizontalalignment) | Açıklamaların yatay hizalamasını temsil eder state |
 | [PenStyle](./penstyle) | Kalem stili |
 | [ResolutionQuality](./resolutionquality) | Çözünürlük Kalitesi |
+| [Role](./role) | Rol |
 | [RotationDocument](./rotationdocument) | Döndürme |
 | [VerticalAlignment](./verticalalignment) | Açıklamaların dikey hizalamasını temsil eder state |
 

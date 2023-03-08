@@ -1,14 +1,14 @@
 ---
 title: ReleasePageStream
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: Çıkış sayfası önizlemesini kaldırma yöntemini tanımlayan temsilci akışı
+description: Çıktı sayfası önizleme akışını kaldırma yöntemini tanımlayan temsilci stream
 type: docs
 weight: 60
 url: /tr/net/groupdocs.annotation.options/previewoptions/releasepagestream/
 ---
 ## PreviewOptions.ReleasePageStream property
 
-Çıkış sayfası önizlemesini kaldırma yöntemini tanımlayan temsilci akışı
+Çıktı sayfası önizleme akışını kaldırma yöntemini tanımlayan temsilci stream
 
 ```csharp
 public ReleasePageStream ReleasePageStream { get; set; }

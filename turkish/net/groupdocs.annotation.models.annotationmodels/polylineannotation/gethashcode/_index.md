@@ -1,14 +1,14 @@
 ---
 title: GetHashCode
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: Çoklu Çizgi Açıklamasının HashCodeunu döndürür
+description: Çoklu Çizgi Açıklamanın HashCodeunu döndürür
 type: docs
 weight: 100
 url: /tr/net/groupdocs.annotation.models.annotationmodels/polylineannotation/gethashcode/
 ---
 ## PolylineAnnotation.GetHashCode method
 
-Çoklu Çizgi Açıklamasının HashCode'unu döndürür
+Çoklu Çizgi Açıklamanın HashCode'unu döndürür
 
 ```csharp
 public override int GetHashCode()

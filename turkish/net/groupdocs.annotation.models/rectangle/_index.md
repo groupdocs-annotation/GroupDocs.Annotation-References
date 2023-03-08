@@ -18,7 +18,7 @@ public struct Rectangle
 
 | İsim | Tanım |
 | --- | --- |
-| [Rectangle](rectangle)(float, float, float, float) | Yeni bir örneğini başlatır[`Rectangle`](../rectangle) yapı. |
+| [Rectangle](rectangle)(float, float, float, float) | Yeni bir örneğini başlatır.[`Rectangle`](../rectangle) yapı. |
 
 ## Özellikleri
 

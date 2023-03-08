@@ -3,7 +3,7 @@ title: PreviewFormats
 second_title: GroupDocs.Annotation for .NET API Reference
 description: Format som stöds för förhandsgranskning av dokument.
 type: docs
-weight: 980
+weight: 990
 url: /sv/net/groupdocs.annotation.options/previewformats/
 ---
 ## PreviewFormats enumeration

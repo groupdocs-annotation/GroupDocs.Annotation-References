@@ -26,14 +26,14 @@ public class TextFieldAnnotation : AnnotationBase, IEquatable<TextFieldAnnotatio
 | İsim | Tanım |
 | --- | --- |
 | [BackgroundColor](../../groupdocs.annotation.models.annotationmodels/textfieldannotation/backgroundcolor) { get; set; } | Ek açıklama arka plan rengini alır veya ayarlar |
-| [Box](../../groupdocs.annotation.models.annotationmodels/textfieldannotation/box) { get; set; } | Konum açıklamasını alır veya ayarlar |
+| [Box](../../groupdocs.annotation.models.annotationmodels/textfieldannotation/box) { get; set; } | Ek açıklama pozisyonunu alır veya ayarlar |
 | [CreatedOn](../../groupdocs.annotation.models.annotationmodels/annotationbase/createdon) { get; set; } | Ek açıklama oluşturma tarihini alır veya ayarlar |
 | [FontColor](../../groupdocs.annotation.models.annotationmodels/textfieldannotation/fontcolor) { get; set; } | Açıklama metni yazı tipi rengini alır veya ayarlar color |
 | [FontFamily](../../groupdocs.annotation.models.annotationmodels/textfieldannotation/fontfamily) { get; set; } | Ek açıklama metni yazı tipi ailesini alır veya ayarlar |
 | [FontSize](../../groupdocs.annotation.models.annotationmodels/textfieldannotation/fontsize) { get; set; } | Ek açıklama metni yazı tipi boyutunu alır veya ayarlar |
 | [Id](../../groupdocs.annotation.models.annotationmodels/annotationbase/id) { get; set; } | Ek açıklama benzersiz tanımlayıcısını alır veya ayarlar |
 | [Message](../../groupdocs.annotation.models.annotationmodels/annotationbase/message) { get; set; } | Açıklama mesajını alır veya ayarlar |
-| [Opacity](../../groupdocs.annotation.models.annotationmodels/textfieldannotation/opacity) { get; set; } | Açıklama opacity değerini alır veya ayarlar |
+| [Opacity](../../groupdocs.annotation.models.annotationmodels/textfieldannotation/opacity) { get; set; } | Ek açıklama opaklığını alır veya ayarlar |
 | [PageNumber](../../groupdocs.annotation.models.annotationmodels/annotationbase/pagenumber) { get; set; } | Ek açıklamalı sayfa numarasını alır veya ayarlar |
 | [PenColor](../../groupdocs.annotation.models.annotationmodels/textfieldannotation/pencolor) { get; set; } | Açıklama kalemi rengini alır veya ayarlar |
 | [PenStyle](../../groupdocs.annotation.models.annotationmodels/textfieldannotation/penstyle) { get; set; } | Açıklama kalem stilini alır veya ayarlar |
@@ -58,7 +58,7 @@ public class TextFieldAnnotation : AnnotationBase, IEquatable<TextFieldAnnotatio
 
 **Daha fazla bilgi edin**
 
-* Açıklama türleri ve PDF ve Microsoft Word belgelerine, Excel elektronik tablolarına ve PowerPoint Sunumlarına açıklama ekleme hakkında daha fazla bilgi: [.NET için GroupDocs.Annotation kullanarak belgelere açıklama ekleme](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
+* Ek açıklama türleri ve PDF ve Microsoft Word belgeleri, Excel elektronik tabloları ve PowerPoint Sunumları hakkında daha fazla bilgi: [.NET için GroupDocs.Annotation kullanarak belgelere açıklama ekleme](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
 * Çeşitli türdeki belgelere metin alanı açıklamaları ekleme hakkında daha fazla bilgi: [C# metin alanı ek açıklamaları nasıl eklenir](https://docs.groupdocs.com/display/annotationnet/Add+text+field+annotation)
 
 ### Ayrıca bakınız

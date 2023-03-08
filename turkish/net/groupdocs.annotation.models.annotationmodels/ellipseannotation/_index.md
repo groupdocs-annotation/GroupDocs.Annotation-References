@@ -25,11 +25,11 @@ public class EllipseAnnotation : AnnotationBase, IEllipseAnnotation, IEquatable<
 | İsim | Tanım |
 | --- | --- |
 | [BackgroundColor](../../groupdocs.annotation.models.annotationmodels/ellipseannotation/backgroundcolor) { get; set; } | Ek açıklama arka plan rengini alır veya ayarlar |
-| [Box](../../groupdocs.annotation.models.annotationmodels/ellipseannotation/box) { get; set; } | Konum açıklamasını alır veya ayarlar |
+| [Box](../../groupdocs.annotation.models.annotationmodels/ellipseannotation/box) { get; set; } | Ek açıklama pozisyonunu alır veya ayarlar |
 | [CreatedOn](../../groupdocs.annotation.models.annotationmodels/annotationbase/createdon) { get; set; } | Ek açıklama oluşturma tarihini alır veya ayarlar |
 | [Id](../../groupdocs.annotation.models.annotationmodels/annotationbase/id) { get; set; } | Ek açıklama benzersiz tanımlayıcısını alır veya ayarlar |
 | [Message](../../groupdocs.annotation.models.annotationmodels/annotationbase/message) { get; set; } | Açıklama mesajını alır veya ayarlar |
-| [Opacity](../../groupdocs.annotation.models.annotationmodels/ellipseannotation/opacity) { get; set; } | Açıklama opacity değerini alır veya ayarlar |
+| [Opacity](../../groupdocs.annotation.models.annotationmodels/ellipseannotation/opacity) { get; set; } | Ek açıklama opaklığını alır veya ayarlar |
 | [PageNumber](../../groupdocs.annotation.models.annotationmodels/annotationbase/pagenumber) { get; set; } | Ek açıklamalı sayfa numarasını alır veya ayarlar |
 | [PenColor](../../groupdocs.annotation.models.annotationmodels/ellipseannotation/pencolor) { get; set; } | Açıklama kalemi rengini alır veya ayarlar |
 | [PenStyle](../../groupdocs.annotation.models.annotationmodels/ellipseannotation/penstyle) { get; set; } | Açıklama kalem stilini alır veya ayarlar |
@@ -44,16 +44,16 @@ public class EllipseAnnotation : AnnotationBase, IEllipseAnnotation, IEquatable<
 | --- | --- |
 | override [Clone](../../groupdocs.annotation.models.annotationmodels/ellipseannotation/clone)() | Aynı değerlere sahip yeni Örnek döndürür |
 | [Equals](../../groupdocs.annotation.models.annotationmodels/annotationbase/equals)(AnnotationBase) | IEquatable Equals yöntemini kullanarak Temel Açıklamaları karşılaştırır |
-| [Equals](../../groupdocs.annotation.models.annotationmodels/ellipseannotation/equals#equals_1)(EllipseAnnotation) | IEquatable Equals method kullanarak Elips Açıklamalarını karşılaştırır |
-| override [Equals](../../groupdocs.annotation.models.annotationmodels/ellipseannotation/equals#equals_2)(object) | Standart nesne Equals yöntemini kullanarak Elips Açıklamalarını karşılaştırır method |
-| override [GetHashCode](../../groupdocs.annotation.models.annotationmodels/ellipseannotation/gethashcode)() | Elips Açıklamasının HashCode'unu döndürür |
+| [Equals](../../groupdocs.annotation.models.annotationmodels/ellipseannotation/equals#equals_1)(EllipseAnnotation) | Elips Ek Açıklamalarını IEquatable Equals yöntemini kullanarak karşılaştırır |
+| override [Equals](../../groupdocs.annotation.models.annotationmodels/ellipseannotation/equals#equals_2)(object) | standart nesne Equals method kullanarak Elips Ek Açıklamalarını karşılaştırır |
+| override [GetHashCode](../../groupdocs.annotation.models.annotationmodels/ellipseannotation/gethashcode)() | Elips Açıklamanın HashCode'unu döndürür |
 
 ### Notlar
 
 **Daha fazla bilgi edin**
 
-* Açıklama türleri ve PDF ve Microsoft Word belgelerine, Excel elektronik tablolarına ve PowerPoint Sunumlarına açıklama ekleme hakkında daha fazla bilgi: [.NET için GroupDocs.Annotation kullanarak belgelere açıklama ekleme](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
-* Çeşitli türlerdeki belgelere elips ek açıklamaları ekleme hakkında daha fazla bilgi: [C#'da elips ek açıklamaları nasıl eklenir](https://docs.groupdocs.com/display/annotationnet/Add+ellipse+annotation)
+* Ek açıklama türleri ve PDF ve Microsoft Word belgeleri, Excel elektronik tabloları ve PowerPoint Sunumları hakkında daha fazla bilgi: [.NET için GroupDocs.Annotation kullanarak belgelere açıklama ekleme](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
+* Çeşitli türlerdeki belgelere elips açıklamaları ekleme hakkında daha fazla bilgi: [C#'ta elips ek açıklamaları nasıl eklenir](https://docs.groupdocs.com/display/annotationnet/Add+ellipse+annotation)
 
 ### Ayrıca bakınız
 

@@ -1,14 +1,14 @@
 ---
 title: GetHashCode
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: HashCode of Resources Redaksiyon Açıklamasını döndürür
+description: HashCode of Resources Redaksiyon Ek Açıklamasını döndürür
 type: docs
 weight: 50
 url: /tr/net/groupdocs.annotation.models.annotationmodels/resourcesredactionannotation/gethashcode/
 ---
 ## ResourcesRedactionAnnotation.GetHashCode method
 
-HashCode of Resources Redaksiyon Açıklamasını döndürür
+HashCode of Resources Redaksiyon Ek Açıklamasını döndürür
 
 ```csharp
 public override int GetHashCode()

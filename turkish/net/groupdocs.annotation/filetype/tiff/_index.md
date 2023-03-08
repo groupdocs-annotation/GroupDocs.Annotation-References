@@ -1,14 +1,14 @@
 ---
 title: Tiff
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: Etiketli Görüntü Dosyası Formatı
+description: Etiketli Görüntü Dosyası Biçimi
 type: docs
 weight: 270
 url: /tr/net/groupdocs.annotation/filetype/tiff/
 ---
 ## FileType.Tiff property
 
-Etiketli Görüntü Dosyası Formatı
+Etiketli Görüntü Dosyası Biçimi
 
 ```csharp
 public static FileType Tiff { get; }

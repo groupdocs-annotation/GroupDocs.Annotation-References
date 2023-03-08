@@ -1,14 +1,14 @@
 ---
 title: Vsdm
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: Microsoft Visio Makro Etkinleştirilmiş Çizim.
+description: Microsoft Visio Makro Etkin Çizim.
 type: docs
 weight: 300
 url: /tr/net/groupdocs.annotation/filetype/vsdm/
 ---
 ## FileType.Vsdm property
 
-Microsoft Visio Makro Etkinleştirilmiş Çizim.
+Microsoft Visio Makro Etkin Çizim.
 
 ```csharp
 public static FileType Vsdm { get; }

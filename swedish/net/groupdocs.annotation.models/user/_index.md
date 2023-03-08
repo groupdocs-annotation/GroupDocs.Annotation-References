@@ -3,7 +3,7 @@ title: User
 second_title: GroupDocs.Annotation for .NET API Reference
 description: Representerar användaregenskaper.
 type: docs
-weight: 930
+weight: 940
 url: /sv/net/groupdocs.annotation.models/user/
 ---
 ## User class
@@ -19,7 +19,7 @@ public class User
 | namn | Beskrivning |
 | --- | --- |
 | [User](user#constructor)() | Initierar ny instans av[`User`](../user) class. |
-| [User](user#constructor_1)(int, string) | Initierar ny instans av[`User`](../user) class. |
+| [User](user#constructor_1)(int, string, Role) | Initierar ny instans av[`User`](../user) class. |
 
 ## Egenskaper
 
@@ -28,6 +28,7 @@ public class User
 | [Email](../../groupdocs.annotation.models/user/email) { get; set; } | E-post |
 | [Id](../../groupdocs.annotation.models/user/id) { get; set; } | Användar-ID |
 | [Name](../../groupdocs.annotation.models/user/name) { get; set; } | Användarnamn |
+| [Role](../../groupdocs.annotation.models/user/role) { get; set; } | Roll |
 
 ### Se även
 

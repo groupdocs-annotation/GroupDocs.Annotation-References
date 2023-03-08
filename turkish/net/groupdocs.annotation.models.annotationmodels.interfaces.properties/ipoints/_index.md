@@ -18,7 +18,7 @@ public interface IPoints
 
 | İsim | Tanım |
 | --- | --- |
-| [Points](../../groupdocs.annotation.models.annotationmodels.interfaces.properties/ipoints/points) { get; set; } | Konum açıklamasını alır veya ayarlar |
+| [Points](../../groupdocs.annotation.models.annotationmodels.interfaces.properties/ipoints/points) { get; set; } | Ek açıklama pozisyonunu alır veya ayarlar |
 
 ### Ayrıca bakınız
 

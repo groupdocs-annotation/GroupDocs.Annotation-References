@@ -1,12 +1,12 @@
 ---
 title: GroupDocs.Annotation
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: Ad alanı tüm popüler belge biçimleri için belgelere açıklama eklemek üzere sınıflar sağlar.
+description: Ad alanı tüm popüler belge biçimleri için belgelere açıklama eklemek için sınıflar sağlar.
 type: docs
 weight: 10
 url: /tr/net/groupdocs.annotation/
 ---
-Ad alanı, tüm popüler belge biçimleri için belgelere açıklama eklemek üzere sınıflar sağlar.
+Ad alanı, tüm popüler belge biçimleri için belgelere açıklama eklemek için sınıflar sağlar.
 
 ## sınıflar
 
@@ -16,7 +16,7 @@ Ad alanı, tüm popüler belge biçimleri için belgelere açıklama eklemek üz
 | [AnnotatorSettings](./annotatorsettings) | Özelleştirme için ayarları tanımlar[`Annotator`](../groupdocs.annotation/annotator) davranış. |
 | [Document](./document) | Belge özelliklerini temsil eder |
 | [FileType](./filetype) | Tür, uzantı vb. gibi dosya hakkında bilgiler. |
-| [License](./license) | Bileşeni lisanslamak için yöntemler sağlar. Lisanslama hakkında daha fazla bilgi edinin[burada](https://purchase.groupdocs.com/faqs/licensing) . |
+| [License](./license) | Bileşeni lisanslamak için yöntemler sağlar. Lisanslama hakkında daha fazla bilgi edinin[Burada](https://purchase.groupdocs.com/faqs/licensing) . |
 | [Metered](./metered) | Uygulama için yöntemler sağlar[ölçülü](https://purchase.groupdocs.com/faqs/licensing/metered) lisans. |
 ## Arayüzler
 

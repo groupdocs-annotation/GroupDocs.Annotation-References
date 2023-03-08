@@ -27,7 +27,7 @@ public class FileCache : ICache
 | --- | --- |
 | [GetKeys](../../groupdocs.annotation.cache/filecache/getkeys)(string) | Dosya adında filtre içeren tüm dosya adlarını döndürür. |
 | [Set](../../groupdocs.annotation.cache/filecache/set)(string, object) | Verileri yerel diske seri hale getirir. |
-| [TryGetValue](../../groupdocs.annotation.cache/filecache/trygetvalue)(string, out object) | Varsa, bu anahtarla ilişkili verileri seri durumdan çıkarır. |
+| [TryGetValue](../../groupdocs.annotation.cache/filecache/trygetvalue)(string, out object) | Varsa, bu anahtarla ilişkili verilerin serisini kaldırır. |
 
 ### Ayrıca bakınız
 

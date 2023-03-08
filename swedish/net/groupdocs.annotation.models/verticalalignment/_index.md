@@ -3,7 +3,7 @@ title: VerticalAlignment
 second_title: GroupDocs.Annotation for .NET API Reference
 description: Representerar annoteringar vertikal justering state
 type: docs
-weight: 940
+weight: 950
 url: /sv/net/groupdocs.annotation.models/verticalalignment/
 ---
 ## VerticalAlignment enumeration

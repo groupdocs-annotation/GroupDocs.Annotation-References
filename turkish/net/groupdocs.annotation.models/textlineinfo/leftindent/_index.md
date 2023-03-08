@@ -1,14 +1,14 @@
 ---
 title: LeftIndent
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: left den girinti
+description: Soldan Girinti
 type: docs
 weight: 20
 url: /tr/net/groupdocs.annotation.models/textlineinfo/leftindent/
 ---
 ## TextLineInfo.LeftIndent property
 
-left 'den girinti
+Soldan Girinti
 
 ```csharp
 public double LeftIndent { get; set; }

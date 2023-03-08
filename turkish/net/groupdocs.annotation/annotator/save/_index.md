@@ -1,14 +1,14 @@
 ---
 title: Save
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: Ek açıklamaları ekledikten güncelledikten veya kaldırdıktan sonra belgeyi kaydeder.
+description: Açıklamaları ekledikten güncelledikten veya çıkardıktan sonra belgeyi kaydeder.
 type: docs
 weight: 130
 url: /tr/net/groupdocs.annotation/annotator/save/
 ---
 ## Save() {#save}
 
-Ek açıklamaları ekledikten, güncelledikten veya kaldırdıktan sonra belgeyi kaydeder.
+Açıklamaları ekledikten, güncelledikten veya çıkardıktan sonra belgeyi kaydeder.
 
 ```csharp
 public void Save()
@@ -18,8 +18,8 @@ public void Save()
 
 **Açıklamalı belgeleri kaydetme hakkında daha fazla bilgi edinin**
 
-* Yalnızca açıklamalı belge sayfalarının nasıl kaydedileceği hakkında daha fazla bilgi: [Yalnızca açıklamalı sayfaları kaydet](https://docs.groupdocs.com/display/annotationnet/Save+only+annotated+pages)
-* Yalnızca belirli ek açıklama türleriyle belgenin nasıl kaydedileceği hakkında daha fazla bilgi: [Kaydederken ek açıklama türlerini filtreleme](https://docs.groupdocs.com/display/annotationnet/Filtering+annotation+types)
+* Yalnızca açıklamalı belge sayfalarının nasıl kaydedileceği hakkında daha fazla bilgi: [Yalnızca ek açıklamalı sayfaları kaydet](https://docs.groupdocs.com/display/annotationnet/Save+only+annotated+pages)
+* Yalnızca belirli ek açıklama türleriyle belgenin nasıl kaydedileceği hakkında daha fazla bilgi: [Kaydetme sırasında ek açıklama türlerini filtreleme](https://docs.groupdocs.com/display/annotationnet/Filtering+annotation+types)
 * Belgenin tamamından belirli sayfaların nasıl kaydedileceği hakkında daha fazla bilgi: [Belirli sayfa aralığını kaydet](https://docs.groupdocs.com/display/annotationnet/Save+specific+page+range)
 
 ### Ayrıca bakınız
@@ -32,7 +32,7 @@ public void Save()
 
 ## Save(SaveOptions) {#save_1}
 
-Ek açıklamaları ekledikten, güncelledikten veya kaldırdıktan sonra belgeyi kaydeder.
+Açıklamaları ekledikten, güncelledikten veya çıkardıktan sonra belgeyi kaydeder.
 
 ```csharp
 public void Save(SaveOptions saveOptions)
@@ -46,8 +46,8 @@ public void Save(SaveOptions saveOptions)
 
 **Açıklamalı belgeleri kaydetme hakkında daha fazla bilgi edinin**
 
-* Yalnızca açıklamalı belge sayfalarının nasıl kaydedileceği hakkında daha fazla bilgi: [Yalnızca açıklamalı sayfaları kaydet](https://docs.groupdocs.com/display/annotationnet/Save+only+annotated+pages)
-* Yalnızca belirli ek açıklama türleriyle belgenin nasıl kaydedileceği hakkında daha fazla bilgi: [Kaydederken ek açıklama türlerini filtreleme](https://docs.groupdocs.com/display/annotationnet/Filtering+annotation+types)
+* Yalnızca açıklamalı belge sayfalarının nasıl kaydedileceği hakkında daha fazla bilgi: [Yalnızca ek açıklamalı sayfaları kaydet](https://docs.groupdocs.com/display/annotationnet/Save+only+annotated+pages)
+* Yalnızca belirli ek açıklama türleriyle belgenin nasıl kaydedileceği hakkında daha fazla bilgi: [Kaydetme sırasında ek açıklama türlerini filtreleme](https://docs.groupdocs.com/display/annotationnet/Filtering+annotation+types)
 * Belgenin tamamından belirli sayfaların nasıl kaydedileceği hakkında daha fazla bilgi: [Belirli sayfa aralığını kaydet](https://docs.groupdocs.com/display/annotationnet/Save+specific+page+range)
 
 ### Ayrıca bakınız
@@ -61,7 +61,7 @@ public void Save(SaveOptions saveOptions)
 
 ## Save(Stream) {#save_2}
 
-Ek açıklamaları ekledikten, güncelledikten veya kaldırdıktan sonra belgeyi kaydeder.
+Açıklamaları ekledikten, güncelledikten veya çıkardıktan sonra belgeyi kaydeder.
 
 ```csharp
 public void Save(Stream document)
@@ -75,8 +75,8 @@ public void Save(Stream document)
 
 **Açıklamalı belgeleri kaydetme hakkında daha fazla bilgi edinin**
 
-* Yalnızca açıklamalı belge sayfalarının nasıl kaydedileceği hakkında daha fazla bilgi: [Yalnızca açıklamalı sayfaları kaydet](https://docs.groupdocs.com/display/annotationnet/Save+only+annotated+pages)
-* Yalnızca belirli ek açıklama türleriyle belgenin nasıl kaydedileceği hakkında daha fazla bilgi: [Kaydederken ek açıklama türlerini filtreleme](https://docs.groupdocs.com/display/annotationnet/Filtering+annotation+types)
+* Yalnızca açıklamalı belge sayfalarının nasıl kaydedileceği hakkında daha fazla bilgi: [Yalnızca ek açıklamalı sayfaları kaydet](https://docs.groupdocs.com/display/annotationnet/Save+only+annotated+pages)
+* Yalnızca belirli ek açıklama türleriyle belgenin nasıl kaydedileceği hakkında daha fazla bilgi: [Kaydetme sırasında ek açıklama türlerini filtreleme](https://docs.groupdocs.com/display/annotationnet/Filtering+annotation+types)
 * Belgenin tamamından belirli sayfaların nasıl kaydedileceği hakkında daha fazla bilgi: [Belirli sayfa aralığını kaydet](https://docs.groupdocs.com/display/annotationnet/Save+specific+page+range)
 
 ### Ayrıca bakınız
@@ -89,7 +89,7 @@ public void Save(Stream document)
 
 ## Save(string) {#save_4}
 
-Ek açıklamaları ekledikten, güncelledikten veya kaldırdıktan sonra belgeyi kaydeder.
+Açıklamaları ekledikten, güncelledikten veya çıkardıktan sonra belgeyi kaydeder.
 
 ```csharp
 public void Save(string filePath)
@@ -103,8 +103,8 @@ public void Save(string filePath)
 
 **Açıklamalı belgeleri kaydetme hakkında daha fazla bilgi edinin**
 
-* Yalnızca açıklamalı belge sayfalarının nasıl kaydedileceği hakkında daha fazla bilgi: [Yalnızca açıklamalı sayfaları kaydet](https://docs.groupdocs.com/display/annotationnet/Save+only+annotated+pages)
-* Yalnızca belirli ek açıklama türleriyle belgenin nasıl kaydedileceği hakkında daha fazla bilgi: [Kaydederken ek açıklama türlerini filtreleme](https://docs.groupdocs.com/display/annotationnet/Filtering+annotation+types)
+* Yalnızca açıklamalı belge sayfalarının nasıl kaydedileceği hakkında daha fazla bilgi: [Yalnızca ek açıklamalı sayfaları kaydet](https://docs.groupdocs.com/display/annotationnet/Save+only+annotated+pages)
+* Yalnızca belirli ek açıklama türleriyle belgenin nasıl kaydedileceği hakkında daha fazla bilgi: [Kaydetme sırasında ek açıklama türlerini filtreleme](https://docs.groupdocs.com/display/annotationnet/Filtering+annotation+types)
 * Belgenin tamamından belirli sayfaların nasıl kaydedileceği hakkında daha fazla bilgi: [Belirli sayfa aralığını kaydet](https://docs.groupdocs.com/display/annotationnet/Save+specific+page+range)
 
 ### Ayrıca bakınız
@@ -117,7 +117,7 @@ public void Save(string filePath)
 
 ## Save(Stream, SaveOptions) {#save_3}
 
-Ek açıklamaları ekledikten, güncelledikten veya kaldırdıktan sonra belgeyi kaydeder.
+Açıklamaları ekledikten, güncelledikten veya çıkardıktan sonra belgeyi kaydeder.
 
 ```csharp
 public void Save(Stream document, SaveOptions saveOptions)
@@ -132,8 +132,8 @@ public void Save(Stream document, SaveOptions saveOptions)
 
 **Açıklamalı belgeleri kaydetme hakkında daha fazla bilgi edinin**
 
-* Yalnızca açıklamalı belge sayfalarının nasıl kaydedileceği hakkında daha fazla bilgi: [Yalnızca açıklamalı sayfaları kaydet](https://docs.groupdocs.com/display/annotationnet/Save+only+annotated+pages)
-* Yalnızca belirli ek açıklama türleriyle belgenin nasıl kaydedileceği hakkında daha fazla bilgi: [Kaydederken ek açıklama türlerini filtreleme](https://docs.groupdocs.com/display/annotationnet/Filtering+annotation+types)
+* Yalnızca açıklamalı belge sayfalarının nasıl kaydedileceği hakkında daha fazla bilgi: [Yalnızca ek açıklamalı sayfaları kaydet](https://docs.groupdocs.com/display/annotationnet/Save+only+annotated+pages)
+* Yalnızca belirli ek açıklama türleriyle belgenin nasıl kaydedileceği hakkında daha fazla bilgi: [Kaydetme sırasında ek açıklama türlerini filtreleme](https://docs.groupdocs.com/display/annotationnet/Filtering+annotation+types)
 * Belgenin tamamından belirli sayfaların nasıl kaydedileceği hakkında daha fazla bilgi: [Belirli sayfa aralığını kaydet](https://docs.groupdocs.com/display/annotationnet/Save+specific+page+range)
 
 ### Ayrıca bakınız
@@ -147,7 +147,7 @@ public void Save(Stream document, SaveOptions saveOptions)
 
 ## Save(string, SaveOptions) {#save_5}
 
-Ek açıklamaları ekledikten, güncelledikten veya kaldırdıktan sonra belgeyi kaydeder.
+Açıklamaları ekledikten, güncelledikten veya çıkardıktan sonra belgeyi kaydeder.
 
 ```csharp
 public void Save(string filePath, SaveOptions saveOptions)
@@ -162,8 +162,8 @@ public void Save(string filePath, SaveOptions saveOptions)
 
 **Açıklamalı belgeleri kaydetme hakkında daha fazla bilgi edinin**
 
-* Yalnızca açıklamalı belge sayfalarının nasıl kaydedileceği hakkında daha fazla bilgi: [Yalnızca açıklamalı sayfaları kaydet](https://docs.groupdocs.com/display/annotationnet/Save+only+annotated+pages)
-* Yalnızca belirli ek açıklama türleriyle belgenin nasıl kaydedileceği hakkında daha fazla bilgi: [Kaydederken ek açıklama türlerini filtreleme](https://docs.groupdocs.com/display/annotationnet/Filtering+annotation+types)
+* Yalnızca açıklamalı belge sayfalarının nasıl kaydedileceği hakkında daha fazla bilgi: [Yalnızca ek açıklamalı sayfaları kaydet](https://docs.groupdocs.com/display/annotationnet/Save+only+annotated+pages)
+* Yalnızca belirli ek açıklama türleriyle belgenin nasıl kaydedileceği hakkında daha fazla bilgi: [Kaydetme sırasında ek açıklama türlerini filtreleme](https://docs.groupdocs.com/display/annotationnet/Filtering+annotation+types)
 * Belgenin tamamından belirli sayfaların nasıl kaydedileceği hakkında daha fazla bilgi: [Belirli sayfa aralığını kaydet](https://docs.groupdocs.com/display/annotationnet/Save+specific+page+range)
 
 ### Ayrıca bakınız

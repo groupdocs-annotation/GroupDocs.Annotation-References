@@ -3,7 +3,7 @@ title: WorksheetColumnsRange
 second_title: GroupDocs.Annotation for .NET API Reference
 description: Representerar ett intervall av kolumner för ett specificerat kalkylblad
 type: docs
-weight: 1020
+weight: 1030
 url: /sv/net/groupdocs.annotation.options/worksheetcolumnsrange/
 ---
 ## WorksheetColumnsRange class

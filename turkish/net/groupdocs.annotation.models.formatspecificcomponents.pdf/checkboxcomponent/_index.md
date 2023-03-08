@@ -32,7 +32,7 @@ public class CheckBoxComponent : AnnotationBase, ICheckBoxComponent, IEquatable<
 | [PageNumber](../../groupdocs.annotation.models.annotationmodels/annotationbase/pagenumber) { get; set; } | Ek açıklamalı sayfa numarasını alır veya ayarlar |
 | [PenColor](../../groupdocs.annotation.models.formatspecificcomponents.pdf/checkboxcomponent/pencolor) { get; set; } | color bileşenini alır veya ayarlar |
 | [Replies](../../groupdocs.annotation.models.annotationmodels/annotationbase/replies) { get; set; } | Ek açıklama yanıtlarını temsil eder koleksiyon |
-| [Style](../../groupdocs.annotation.models.formatspecificcomponents.pdf/checkboxcomponent/style) { get; set; } | box stilini alır veya ayarlar |
+| [Style](../../groupdocs.annotation.models.formatspecificcomponents.pdf/checkboxcomponent/style) { get; set; } | Stil box alır veya ayarlar |
 | [Type](../../groupdocs.annotation.models.annotationmodels/annotationbase/type) { get; set; } | Açıklama tipini alır veya ayarlar |
 | [User](../../groupdocs.annotation.models.annotationmodels/annotationbase/user) { get; set; } | Ek açıklamayı alır veya ayarlar creator |
 
@@ -42,16 +42,16 @@ public class CheckBoxComponent : AnnotationBase, ICheckBoxComponent, IEquatable<
 | --- | --- |
 | override [Clone](../../groupdocs.annotation.models.formatspecificcomponents.pdf/checkboxcomponent/clone)() | Aynı değerlere sahip yeni Örnek döndürür |
 | [Equals](../../groupdocs.annotation.models.annotationmodels/annotationbase/equals)(AnnotationBase) | IEquatable Equals yöntemini kullanarak Temel Açıklamaları karşılaştırır |
-| [Equals](../../groupdocs.annotation.models.formatspecificcomponents.pdf/checkboxcomponent/equals#equals_1)(CheckBoxComponent) | CheckBox Bileşenlerini IEquatable Equals method kullanarak karşılaştırır |
-| override [Equals](../../groupdocs.annotation.models.formatspecificcomponents.pdf/checkboxcomponent/equals#equals_2)(object) | Standart nesne Equals yöntemini kullanarak CheckBox Bileşenlerini karşılaştırır method |
-| override [GetHashCode](../../groupdocs.annotation.models.formatspecificcomponents.pdf/checkboxcomponent/gethashcode)() | CheckBox Component HashCode'unu döndürür |
+| [Equals](../../groupdocs.annotation.models.formatspecificcomponents.pdf/checkboxcomponent/equals#equals_1)(CheckBoxComponent) | CheckBox Bileşenlerini IEquatable Equals yöntemini kullanarak karşılaştırır |
+| override [Equals](../../groupdocs.annotation.models.formatspecificcomponents.pdf/checkboxcomponent/equals#equals_2)(object) | Standart nesne Equals method kullanarak CheckBox Bileşenlerini karşılaştırır |
+| override [GetHashCode](../../groupdocs.annotation.models.formatspecificcomponents.pdf/checkboxcomponent/gethashcode)() | CheckBox Bileşeninin HashCode'unu döndürür |
 
 ### Notlar
 
 **Daha fazla bilgi edin**
 
-* Açıklama türleri ve PDF'ye açıklama ekleme hakkında daha fazla bilgi: [.NET için GroupDocs.Annotation kullanarak belgelere açıklama ekleme](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
-* PDF'ye checkBox bileşeni ekleme hakkında daha fazla bilgi: [C#'da checkBox bileşeni nasıl eklenir](https://docs.groupdocs.com/display/annotationnet/Add+dropdown+component)
+* Ek açıklama türleri ve açıklama ekleme hakkında daha fazla bilgi PDF: [.NET için GroupDocs.Annotation kullanarak belgelere açıklama ekleme](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
+* PDF'ye checkBox bileşeni ekleme hakkında daha fazla bilgi: [C#'ta checkBox bileşeni nasıl eklenir](https://docs.groupdocs.com/display/annotationnet/Add+dropdown+component)
 
 ### Ayrıca bakınız
 

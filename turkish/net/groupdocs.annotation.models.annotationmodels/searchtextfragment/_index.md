@@ -1,14 +1,14 @@
 ---
 title: SearchTextFragment
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: searchText ek açıklama özelliklerini temsil eder
+description: searchText açıklama özelliklerini temsil eder
 type: docs
 weight: 680
 url: /tr/net/groupdocs.annotation.models.annotationmodels/searchtextfragment/
 ---
 ## SearchTextFragment class
 
-searchText ek açıklama özelliklerini temsil eder
+searchText açıklama özelliklerini temsil eder
 
 ```csharp
 public class SearchTextFragment : AnnotationBase, IEquatable<SearchTextFragment>, 
@@ -28,13 +28,13 @@ public class SearchTextFragment : AnnotationBase, IEquatable<SearchTextFragment>
 | [BackgroundColor](../../groupdocs.annotation.models.annotationmodels/searchtextfragment/backgroundcolor) { get; set; } | Metin arka plan rengini alır veya ayarlar |
 | [CreatedOn](../../groupdocs.annotation.models.annotationmodels/annotationbase/createdon) { get; set; } | Ek açıklama oluşturma tarihini alır veya ayarlar |
 | [FontColor](../../groupdocs.annotation.models.annotationmodels/searchtextfragment/fontcolor) { get; set; } | Metin yazı tipi rengini alır veya ayarlar |
-| [FontFamily](../../groupdocs.annotation.models.annotationmodels/searchtextfragment/fontfamily) { get; set; } | Metin yazı tipini alır veya ayarlar family |
+| [FontFamily](../../groupdocs.annotation.models.annotationmodels/searchtextfragment/fontfamily) { get; set; } | Metin yazı tipi ailesini alır veya ayarlar |
 | [FontSize](../../groupdocs.annotation.models.annotationmodels/searchtextfragment/fontsize) { get; set; } | Metin yazı tipi boyutunu alır veya ayarlar |
 | [Id](../../groupdocs.annotation.models.annotationmodels/annotationbase/id) { get; set; } | Ek açıklama benzersiz tanımlayıcısını alır veya ayarlar |
 | [Message](../../groupdocs.annotation.models.annotationmodels/annotationbase/message) { get; set; } | Açıklama mesajını alır veya ayarlar |
 | [PageNumber](../../groupdocs.annotation.models.annotationmodels/annotationbase/pagenumber) { get; set; } | Ek açıklamalı sayfa numarasını alır veya ayarlar |
 | [Replies](../../groupdocs.annotation.models.annotationmodels/annotationbase/replies) { get; set; } | Ek açıklama yanıtlarını temsil eder koleksiyon |
-| [Text](../../groupdocs.annotation.models.annotationmodels/searchtextfragment/text) { get; set; } | Metni find olacak şekilde alır veya ayarlar |
+| [Text](../../groupdocs.annotation.models.annotationmodels/searchtextfragment/text) { get; set; } | Metni find olarak alır veya ayarlar |
 | [Type](../../groupdocs.annotation.models.annotationmodels/annotationbase/type) { get; set; } | Açıklama tipini alır veya ayarlar |
 | [User](../../groupdocs.annotation.models.annotationmodels/annotationbase/user) { get; set; } | Ek açıklamayı alır veya ayarlar creator |
 
@@ -44,16 +44,16 @@ public class SearchTextFragment : AnnotationBase, IEquatable<SearchTextFragment>
 | --- | --- |
 | override [Clone](../../groupdocs.annotation.models.annotationmodels/searchtextfragment/clone)() | Aynı değerlere sahip yeni Örnek döndürür |
 | [Equals](../../groupdocs.annotation.models.annotationmodels/annotationbase/equals)(AnnotationBase) | IEquatable Equals yöntemini kullanarak Temel Açıklamaları karşılaştırır |
-| override [Equals](../../groupdocs.annotation.models.annotationmodels/searchtextfragment/equals#equals_2)(object) | Standart nesne Equals yöntemini kullanarak Arama Metni Ek Açıklamalarını karşılaştırır method |
-| [Equals](../../groupdocs.annotation.models.annotationmodels/searchtextfragment/equals#equals_1)(SearchTextFragment) | IEquatable Equals method kullanarak searchText Ek Açıklamalarını karşılaştırır |
-| override [GetHashCode](../../groupdocs.annotation.models.annotationmodels/searchtextfragment/gethashcode)() | SearchText Annotation HashCode'unu döndürür |
+| override [Equals](../../groupdocs.annotation.models.annotationmodels/searchtextfragment/equals#equals_2)(object) | standart nesne Equals method kullanarak Arama Metni Ek Açıklamalarını karşılaştırır |
+| [Equals](../../groupdocs.annotation.models.annotationmodels/searchtextfragment/equals#equals_1)(SearchTextFragment) | IEquatable Equals yöntemini kullanarak searchText Açıklamalarını karşılaştırır |
+| override [GetHashCode](../../groupdocs.annotation.models.annotationmodels/searchtextfragment/gethashcode)() | SearchText Açıklamanın HashCode'unu döndürür |
 
 ### Notlar
 
 **Daha fazla bilgi edin**
 
-* Açıklama türleri ve PDF'ye açıklama ekleme hakkında daha fazla bilgi: [.NET için GroupDocs.Annotation kullanarak belgelere açıklama ekleme](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
-* Çeşitli türlerdeki belgelere searchText ek açıklamaları ekleme hakkında daha fazla bilgi: [C#'da searchText ek açıklamaları nasıl eklenir](https://docs.groupdocs.com/display/annotationnet/Add+searchText+annotation)
+* Ek açıklama türleri ve açıklama ekleme hakkında daha fazla bilgi PDF: [.NET için GroupDocs.Annotation kullanarak belgelere açıklama ekleme](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
+* Çeşitli türdeki belgelere searchText ek açıklamaları ekleme hakkında daha fazla bilgi: [C#'ta searchText ek açıklamaları nasıl eklenir?](https://docs.groupdocs.com/display/annotationnet/Add+searchText+annotation)
 
 ### Ayrıca bakınız
 

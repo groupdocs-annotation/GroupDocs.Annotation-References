@@ -1,14 +1,14 @@
 ---
 title: NormalCaption
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: Bileşen normal caption öğesini alır veya ayarlar
+description: Normal caption bileşenini alır veya ayarlar
 type: docs
 weight: 70
 url: /tr/net/groupdocs.annotation.models.formatspecificcomponents.pdf/buttoncomponent/normalcaption/
 ---
 ## ButtonComponent.NormalCaption property
 
-Bileşen normal caption öğesini alır veya ayarlar
+Normal caption bileşenini alır veya ayarlar
 
 ```csharp
 public string NormalCaption { get; set; }

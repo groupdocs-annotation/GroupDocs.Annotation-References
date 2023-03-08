@@ -1,14 +1,14 @@
 ---
 title: Options
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: Bileşen tıklandığında gösterilecek seçeneklerin listesi açılır öğeler
+description: Bileşen tıklandığında gösterilecek seçeneklerin açılır öğeler listesi
 type: docs
 weight: 10
 url: /tr/net/groupdocs.annotation.models.formatspecificcomponents.pdf.interfaces/idropdowncomponent/options/
 ---
 ## IDropdownComponent.Options property
 
-Bileşen tıklandığında gösterilecek seçeneklerin listesi (açılır öğeler)
+Bileşen tıklandığında gösterilecek seçeneklerin (açılır öğeler) listesi
 
 ```csharp
 public List<string> Options { get; set; }

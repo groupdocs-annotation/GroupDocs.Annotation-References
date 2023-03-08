@@ -28,7 +28,7 @@ public bool Equals(ResourcesRedactionAnnotation other)
 
 ## Equals(object) {#equals_2}
 
-Standart nesne Equals yöntemini kullanarak Kaynak Redaksiyonu Açıklamalarını karşılaştırır method
+Standart nesne Equals method kullanarak Redaksiyon Ek Açıklamalarını Karşılaştırır
 
 ```csharp
 public override bool Equals(object obj)

@@ -1,14 +1,14 @@
 ---
 title: Points
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: Dikdörtgenleri text ile tanımlayan noktaların koleksiyonunu alır veya ayarlar
+description: Metin ile dikdörtgenleri tanımlayan noktaların koleksiyonunu alır veya ayarlar
 type: docs
 weight: 50
 url: /tr/net/groupdocs.annotation.models.annotationmodels/underlineannotation/points/
 ---
 ## UnderlineAnnotation.Points property
 
-Dikdörtgenleri text ile tanımlayan noktaların koleksiyonunu alır veya ayarlar
+Metin ile dikdörtgenleri tanımlayan noktaların koleksiyonunu alır veya ayarlar
 
 ```csharp
 public List<Point> Points { get; set; }

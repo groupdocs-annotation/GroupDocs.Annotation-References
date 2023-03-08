@@ -1,14 +1,14 @@
 ---
 title: SvgPath
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: SVG ek açıklamasını alır veya ayarlar path
+description: Ek açıklamayı alır veya ayarlar SVG path
 type: docs
 weight: 70
 url: /tr/net/groupdocs.annotation.models.annotationmodels/polylineannotation/svgpath/
 ---
 ## PolylineAnnotation.SvgPath property
 
-SVG ek açıklamasını alır veya ayarlar path
+Ek açıklamayı alır veya ayarlar SVG path
 
 ```csharp
 public string SvgPath { get; set; }

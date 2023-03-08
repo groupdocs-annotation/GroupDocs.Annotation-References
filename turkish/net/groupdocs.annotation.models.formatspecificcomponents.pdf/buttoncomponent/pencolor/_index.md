@@ -1,14 +1,14 @@
 ---
 title: PenColor
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: Bileşen kalemi rengini alır veya ayarlar
+description: Bileşen kalem rengini alır veya ayarlar
 type: docs
 weight: 90
 url: /tr/net/groupdocs.annotation.models.formatspecificcomponents.pdf/buttoncomponent/pencolor/
 ---
 ## ButtonComponent.PenColor property
 
-Bileşen kalemi rengini alır veya ayarlar
+Bileşen kalem rengini alır veya ayarlar
 
 ```csharp
 public int? PenColor { get; set; }

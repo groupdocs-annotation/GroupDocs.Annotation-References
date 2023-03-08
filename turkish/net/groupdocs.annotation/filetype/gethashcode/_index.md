@@ -1,14 +1,14 @@
 ---
 title: GetHashCode
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: Karma kodunu alın.
+description: Hash kodunu al.
 type: docs
 weight: 450
 url: /tr/net/groupdocs.annotation/filetype/gethashcode/
 ---
 ## FileType.GetHashCode method
 
-Karma kodunu alın.
+Hash kodunu al.
 
 ```csharp
 public override int GetHashCode()

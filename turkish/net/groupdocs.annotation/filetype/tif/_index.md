@@ -1,14 +1,14 @@
 ---
 title: Tif
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: Etiketli Resim Dosyası.
+description: Etiketli Görüntü Dosyası.
 type: docs
 weight: 260
 url: /tr/net/groupdocs.annotation/filetype/tif/
 ---
 ## FileType.Tif property
 
-Etiketli Resim Dosyası.
+Etiketli Görüntü Dosyası.
 
 ```csharp
 public static FileType Tif { get; }

@@ -3,7 +3,7 @@ title: VerticalAlignment
 second_title: .NET API Başvurusu için GroupDocs.Annotation
 description: Açıklamaların dikey hizalamasını temsil eder state
 type: docs
-weight: 940
+weight: 950
 url: /tr/net/groupdocs.annotation.models/verticalalignment/
 ---
 ## VerticalAlignment enumeration

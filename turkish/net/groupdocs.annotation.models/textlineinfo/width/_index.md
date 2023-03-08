@@ -1,14 +1,14 @@
 ---
 title: Width
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: Çizgi genişliği
+description: Satır genişliği
 type: docs
 weight: 50
 url: /tr/net/groupdocs.annotation.models/textlineinfo/width/
 ---
 ## TextLineInfo.Width property
 
-Çizgi genişliği
+Satır genişliği
 
 ```csharp
 public double Width { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: GetHashCode
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: AnnotationBase İleti Sayfa Numarası ve Tür Özelliklerinin HashCodeunu döndürür
+description: AnnotationBase Mesajının HashCodeunu döndürür SayfaNumarası ve Tip Özellikleri
 type: docs
 weight: 100
 url: /tr/net/groupdocs.annotation.models.annotationmodels/annotationbase/gethashcode/
 ---
 ## AnnotationBase.GetHashCode method
 
-AnnotationBase İleti, Sayfa Numarası ve Tür Özelliklerinin HashCode'unu döndürür
+AnnotationBase Mesajının HashCode'unu döndürür, SayfaNumarası ve Tip Özellikleri
 
 ```csharp
 public override int GetHashCode()

@@ -19,14 +19,14 @@ Ad alanı, açıklama modelleri arabirimleri sağlar.
 | [IHighlightAnnotation](./ihighlightannotation) | Vurgu açıklama özelliklerini tanımlar |
 | [ILinkAnnotation](./ilinkannotation) | Bağlantı açıklama özelliklerini tanımlar |
 | [IPointAnnotation](./ipointannotation) | Nokta açıklama özelliklerini tanımlar |
-| [IPolylineAnnotation](./ipolylineannotation) | Çoklu çizgi ek açıklama özelliklerini tanımlar |
-| [IReplacementAnnotation](./ireplacementannotation) | Değiştirme ek açıklama özelliklerini tanımlar |
-| [IResourcesRedactionAnnotation](./iresourcesredactionannotation) | Kaynak redaksiyonu ek açıklama özelliklerini tanımlar |
-| [ISerachTextFragment](./iserachtextfragment) | Değiştirme ek açıklama özelliklerini tanımlar |
+| [IPolylineAnnotation](./ipolylineannotation) | Çoklu Çizgi açıklama özelliklerini tanımlar |
+| [IReplacementAnnotation](./ireplacementannotation) | Değiştirme açıklama özelliklerini tanımlar |
+| [IResourcesRedactionAnnotation](./iresourcesredactionannotation) | Kaynak düzeltme açıklama özelliklerini tanımlar |
+| [ISerachTextFragment](./iserachtextfragment) | Değiştirme açıklama özelliklerini tanımlar |
 | [ISquigglyAnnotation](./isquigglyannotation) | Dalgalı açıklama özelliklerini tanımlar |
 | [IStrikeoutAnnotation](./istrikeoutannotation) | Üstü çizili açıklama özelliklerini tanımlar |
 | [ITextFieldAnnotation](./itextfieldannotation) | Metin alanı açıklama özelliklerini tanımlar |
-| [ITextRedactionAnnotation](./itextredactionannotation) | Metin redaksiyonu açıklama özelliklerini tanımlar |
+| [ITextRedactionAnnotation](./itextredactionannotation) | Metin düzeltme açıklama özelliklerini tanımlar |
 | [IUnderlineAnnotation](./iunderlineannotation) | Altı çizili açıklama özelliklerini tanımlar |
 | [IWatermarkAnnotation](./iwatermarkannotation) | Filigran açıklama özelliklerini tanımlar |
 

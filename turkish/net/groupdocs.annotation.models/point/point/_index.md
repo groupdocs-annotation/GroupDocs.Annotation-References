@@ -1,14 +1,14 @@
 ---
 title: Point
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: Yeni bir örneğini başlatırPointgroupdocs.annotation.models/point yapı.
+description: Yeni bir örneğini başlatır.Pointgroupdocs.annotation.models/point yapı.
 type: docs
 weight: 10
 url: /tr/net/groupdocs.annotation.models/point/point/
 ---
 ## Point constructor
 
-Yeni bir örneğini başlatır[`Point`](../../point) yapı.
+Yeni bir örneğini başlatır.[`Point`](../../point) yapı.
 
 ```csharp
 public Point(float x, float y)

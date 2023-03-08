@@ -1,14 +1,14 @@
 ---
 title: GetHashCode
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: SearchText Annotation HashCodeunu döndürür
+description: SearchText Açıklamanın HashCodeunu döndürür
 type: docs
 weight: 90
 url: /tr/net/groupdocs.annotation.models.annotationmodels/searchtextfragment/gethashcode/
 ---
 ## SearchTextFragment.GetHashCode method
 
-SearchText Annotation HashCode'unu döndürür
+SearchText Açıklamanın HashCode'unu döndürür
 
 ```csharp
 public override int GetHashCode()
