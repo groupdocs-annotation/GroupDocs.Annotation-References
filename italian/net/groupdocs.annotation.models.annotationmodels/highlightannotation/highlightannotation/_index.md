@@ -1,14 +1,14 @@
 ---
 title: HighlightAnnotation
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Inizializza la nuova istanza diHighlightAnnotationgroupdocs.annotation.models.annotationmodels/highlightannotation classe.
+description: Inizializza una nuova istanza diHighlightAnnotationgroupdocs.annotation.models.annotationmodels/highlightannotation classe.
 type: docs
 weight: 10
 url: /it/net/groupdocs.annotation.models.annotationmodels/highlightannotation/highlightannotation/
 ---
 ## HighlightAnnotation constructor
 
-Inizializza la nuova istanza di[`HighlightAnnotation`](../../highlightannotation) classe.
+Inizializza una nuova istanza di[`HighlightAnnotation`](../../highlightannotation) classe.
 
 ```csharp
 public HighlightAnnotation()

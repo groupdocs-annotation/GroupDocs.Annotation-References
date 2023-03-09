@@ -1,14 +1,14 @@
 ---
 title: IUrl
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 定义注释链接 url
+description: 定义注解链接url
 type: docs
 weight: 610
 url: /zh/net/groupdocs.annotation.models.annotationmodels.interfaces.properties/iurl/
 ---
 ## IUrl interface
 
-定义注释链接 url
+定义注解链接url
 
 ```csharp
 public interface IUrl
@@ -18,7 +18,7 @@ public interface IUrl
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Url](../../groupdocs.annotation.models.annotationmodels.interfaces.properties/iurl/url) { get; set; } | 获取或设置注解链接 url |
+| [Url](../../groupdocs.annotation.models.annotationmodels.interfaces.properties/iurl/url) { get; set; } | 获取或设置注释链接 url |
 
 ### 也可以看看
 

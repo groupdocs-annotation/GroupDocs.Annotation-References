@@ -1,14 +1,14 @@
 ---
 title: IPenStyle
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 定义注释笔样式
+description: 定义批注笔样式
 type: docs
 weight: 540
 url: /zh/net/groupdocs.annotation.models.annotationmodels.interfaces.properties/ipenstyle/
 ---
 ## IPenStyle interface
 
-定义注释笔样式
+定义批注笔样式
 
 ```csharp
 public interface IPenStyle

@@ -1,14 +1,14 @@
 ---
 title: RolloverCaption
 second_title: GroupDocs.Annotation for .NET API Reference
-description: الحصول على أو تعيين التسمية التوضيحية للزر التي يتم عرضها عندما يقوم المستخدم بتدوير المؤشر إلى المنطقة النشطة دون الضغط على زر الماوس.
+description: الحصول على أو تعيين التسمية التوضيحية للزر التي يتم عرضها عندما يقوم المستخدم بتحريك المؤشر إلى المنطقة النشطة دون الضغط على زر الماوس.
 type: docs
 weight: 100
 url: /ar/net/groupdocs.annotation.models.formatspecificcomponents.pdf/buttoncomponent/rollovercaption/
 ---
 ## ButtonComponent.RolloverCaption property
 
-الحصول على أو تعيين التسمية التوضيحية للزر التي يتم عرضها عندما يقوم المستخدم بتدوير المؤشر إلى المنطقة النشطة دون الضغط على زر الماوس.
+الحصول على أو تعيين التسمية التوضيحية للزر التي يتم عرضها عندما يقوم المستخدم بتحريك المؤشر إلى المنطقة النشطة دون الضغط على زر الماوس.
 
 ```csharp
 public string RolloverCaption { get; set; }

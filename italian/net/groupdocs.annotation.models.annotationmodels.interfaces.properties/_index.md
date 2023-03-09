@@ -26,7 +26,7 @@ Lo spazio dei nomi fornisce le interfacce delle proprietà di annotazione.
 | [IPenStyle](./ipenstyle) | Definisce lo stile della penna di annotazione |
 | [IPenWidth](./ipenwidth) | Definisce la larghezza della penna di annotazione |
 | [IPoints](./ipoints) | Definisce la posizione dell'annotazione |
-| [ISvgPath](./isvgpath) | Definisce le coordinate del percorso svg dell'annotazione array |
+| [ISvgPath](./isvgpath) | Definisce le coordinate del percorso di annotazione svg array |
 | [IText](./itext) | Definisce il testo dell'annotazione |
 | [ITextHorizontalAlignment](./itexthorizontalalignment) | Definisce l'allineamento orizzontale del testo dell'annotazione |
 | [ITextToReplace](./itexttoreplace) | Definisce il testo dell'annotazione per replace |

@@ -1,14 +1,14 @@
 ---
 title: op_Equality
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: Operatör aşırı yüklenmesi.
+description: Operatör aşırı yükü.
 type: docs
 weight: 480
 url: /tr/net/groupdocs.annotation/filetype/op_equality/
 ---
 ## FileType Equality operator
 
-Operatör aşırı yüklenmesi.
+Operatör aşırı yükü.
 
 ```csharp
 public static bool operator ==(FileType left, FileType right)
@@ -16,12 +16,12 @@ public static bool operator ==(FileType left, FileType right)
 
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
-| left | FileType | Sol dosya türü. |
+| left | FileType | Soldaki dosya türü. |
 | right | FileType | Doğru dosya türü. |
 
 ### Geri dönüş değeri
 
-Dosya türleri eşdeğerse doğru, değilse yanlış.
+Dosya türleri eşdeğer ise true, değilse false.
 
 ### Ayrıca bakınız
 

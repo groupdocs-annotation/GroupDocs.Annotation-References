@@ -1,14 +1,14 @@
 ---
 title: VerticalAlignment
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 获取或设置标注垂直对齐方式
+description: 获取或设置注释垂直对齐方式
 type: docs
 weight: 10
 url: /zh/net/groupdocs.annotation.models.annotationmodels.interfaces.properties/iverticalalignment/verticalalignment/
 ---
 ## IVerticalAlignment.VerticalAlignment property
 
-获取或设置标注垂直对齐方式
+获取或设置注释垂直对齐方式
 
 ```csharp
 public VerticalAlignment VerticalAlignment { get; set; }

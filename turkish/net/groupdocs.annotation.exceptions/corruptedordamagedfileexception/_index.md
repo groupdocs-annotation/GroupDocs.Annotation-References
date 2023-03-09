@@ -1,14 +1,14 @@
 ---
 title: CorruptedOrDamagedFileException
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: Dosya bozulduğunda veya hasar gördüğünde ortaya çıkan istisna.
+description: Dosya bozulduğunda veya hasar gördüğünde atılan istisna.
 type: docs
 weight: 80
 url: /tr/net/groupdocs.annotation.exceptions/corruptedordamagedfileexception/
 ---
 ## CorruptedOrDamagedFileException class
 
-Dosya bozulduğunda veya hasar gördüğünde ortaya çıkan istisna.
+Dosya bozulduğunda veya hasar gördüğünde atılan istisna.
 
 ```csharp
 public class CorruptedOrDamagedFileException : AnnotatorException

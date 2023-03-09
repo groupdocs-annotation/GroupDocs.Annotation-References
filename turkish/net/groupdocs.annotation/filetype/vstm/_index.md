@@ -1,14 +1,14 @@
 ---
 title: Vstm
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: Microsoft Visio Makro Etkinleştirilmiş Çizim Şablonu.
+description: Microsoft Visio Makro Etkin Çizim Şablonu.
 type: docs
 weight: 350
 url: /tr/net/groupdocs.annotation/filetype/vstm/
 ---
 ## FileType.Vstm property
 
-Microsoft Visio Makro Etkinleştirilmiş Çizim Şablonu.
+Microsoft Visio Makro Etkin Çizim Şablonu.
 
 ```csharp
 public static FileType Vstm { get; }

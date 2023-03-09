@@ -3,7 +3,7 @@ title: User
 second_title: .NET API Başvurusu için GroupDocs.Annotation
 description: Kullanıcı özelliklerini temsil eder.
 type: docs
-weight: 930
+weight: 940
 url: /tr/net/groupdocs.annotation.models/user/
 ---
 ## User class
@@ -19,7 +19,7 @@ public class User
 | İsim | Tanım |
 | --- | --- |
 | [User](user#constructor)() | Yeni örneğini başlatır[`User`](../user) sınıf. |
-| [User](user#constructor_1)(int, string) | Yeni örneğini başlatır[`User`](../user) sınıf. |
+| [User](user#constructor_1)(int, string, Role) | Yeni örneğini başlatır[`User`](../user) sınıf. |
 
 ## Özellikleri
 
@@ -28,6 +28,7 @@ public class User
 | [Email](../../groupdocs.annotation.models/user/email) { get; set; } | E-posta |
 | [Id](../../groupdocs.annotation.models/user/id) { get; set; } | Kullanıcı Kimliği |
 | [Name](../../groupdocs.annotation.models/user/name) { get; set; } | Kullanıcı adı |
+| [Role](../../groupdocs.annotation.models/user/role) { get; set; } | Rol |
 
 ### Ayrıca bakınız
 

@@ -1,14 +1,14 @@
 ---
 title: Style
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 获取或设置标注框样式
+description: 获取或设置注释框样式
 type: docs
 weight: 10
 url: /zh/net/groupdocs.annotation.models.annotationmodels.interfaces.properties/iboxstyle/style/
 ---
 ## IBoxStyle.Style property
 
-获取或设置标注框样式
+获取或设置注释框样式
 
 ```csharp
 public BoxStyle? Style { get; set; }

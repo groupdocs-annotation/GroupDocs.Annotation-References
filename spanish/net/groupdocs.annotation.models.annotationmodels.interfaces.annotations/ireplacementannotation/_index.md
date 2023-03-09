@@ -11,12 +11,13 @@ url: /es/net/groupdocs.annotation.models.annotationmodels.interfaces.annotations
 Define las propiedades de anotación de reemplazo
 
 ```csharp
-public interface IReplacementAnnotation : IFontColor, IOpacity, IPoints, ITextToReplace
+public interface IReplacementAnnotation : IFontColor, IFontSize, IOpacity, IPoints, ITextToReplace
 ```
 
 ### Ver también
 
 * interface [IFontColor](../../groupdocs.annotation.models.annotationmodels.interfaces.properties/ifontcolor)
+* interface [IFontSize](../../groupdocs.annotation.models.annotationmodels.interfaces.properties/ifontsize)
 * interface [IOpacity](../../groupdocs.annotation.models.annotationmodels.interfaces.properties/iopacity)
 * interface [IPoints](../../groupdocs.annotation.models.annotationmodels.interfaces.properties/ipoints)
 * interface [ITextToReplace](../../groupdocs.annotation.models.annotationmodels.interfaces.properties/itexttoreplace)

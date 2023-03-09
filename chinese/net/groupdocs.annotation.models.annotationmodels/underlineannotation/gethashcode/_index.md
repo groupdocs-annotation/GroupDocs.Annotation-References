@@ -1,14 +1,14 @@
 ---
 title: GetHashCode
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 返回下划线标注的HashCode
+description: 返回下划线注解的HashCode
 type: docs
 weight: 90
 url: /zh/net/groupdocs.annotation.models.annotationmodels/underlineannotation/gethashcode/
 ---
 ## UnderlineAnnotation.GetHashCode method
 
-返回下划线标注的HashCode
+返回下划线注解的HashCode
 
 ```csharp
 public override int GetHashCode()

@@ -1,14 +1,14 @@
 ---
 title: Reply
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 代表注解回复
+description: 表示注释回复
 type: docs
 weight: 890
 url: /zh/net/groupdocs.annotation.models/reply/
 ---
 ## Reply class
 
-代表注解回复。
+表示注释回复。
 
 ```csharp
 public class Reply : ICloneable
@@ -25,10 +25,10 @@ public class Reply : ICloneable
 | 姓名 | 描述 |
 | --- | --- |
 | [Comment](../../groupdocs.annotation.models/reply/comment) { get; set; } | 回复评论 |
-| [Id](../../groupdocs.annotation.models/reply/id) { get; set; } | 回复 ID |
+| [Id](../../groupdocs.annotation.models/reply/id) { get; set; } | 回复 Id |
 | [ParentReply](../../groupdocs.annotation.models/reply/parentreply) { get; set; } | 家长回复 |
 | [RepliedOn](../../groupdocs.annotation.models/reply/repliedon) { get; set; } | 回复创建日期 |
-| [User](../../groupdocs.annotation.models/reply/user) { get; set; } | 回复创建者 |
+| [User](../../groupdocs.annotation.models/reply/user) { get; set; } | 回复 creator |
 
 ## 方法
 

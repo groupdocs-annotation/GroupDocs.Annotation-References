@@ -1,14 +1,14 @@
 ---
 title: Style
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: box stilini alır veya ayarlar
+description: Stil box alır veya ayarlar
 type: docs
 weight: 50
 url: /tr/net/groupdocs.annotation.models.formatspecificcomponents.pdf/checkboxcomponent/style/
 ---
 ## CheckBoxComponent.Style property
 
-box stilini alır veya ayarlar
+Stil box alır veya ayarlar
 
 ```csharp
 public BoxStyle? Style { get; set; }

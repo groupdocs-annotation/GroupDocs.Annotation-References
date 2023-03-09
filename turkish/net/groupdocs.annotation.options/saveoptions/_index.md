@@ -3,7 +3,7 @@ title: SaveOptions
 second_title: .NET API Başvurusu için GroupDocs.Annotation
 description: Açıklamalı belgeyi kaydederken ek seçeneklerin şifre gibi belirtilmesine izin verir.
 type: docs
-weight: 1010
+weight: 1020
 url: /tr/net/groupdocs.annotation.options/saveoptions/
 ---
 ## SaveOptions class

@@ -1,14 +1,14 @@
 ---
 title: RenderAnnotations
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: La proprietà che controlla se le annotazioni verranno generate nellanteprima. Stato predefinito  true.
+description: La proprietà che controlla se le annotazioni verranno generate nellanteprima. Stato predefinito true.
 type: docs
 weight: 70
 url: /it/net/groupdocs.annotation.options/previewoptions/renderannotations/
 ---
 ## PreviewOptions.RenderAnnotations property
 
-La proprietà che controlla se le annotazioni verranno generate nell'anteprima. Stato predefinito - true.
+La proprietà che controlla se le annotazioni verranno generate nell'anteprima. Stato predefinito: true.
 
 ```csharp
 public bool RenderAnnotations { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: Jpeg
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 联合摄影专家组
+description: 联合摄影专家组.
 type: docs
 weight: 140
 url: /zh/net/groupdocs.annotation/filetype/jpeg/
 ---
 ## FileType.Jpeg property
 
-联合摄影专家组。
+联合摄影专家组.
 
 ```csharp
 public static FileType Jpeg { get; }

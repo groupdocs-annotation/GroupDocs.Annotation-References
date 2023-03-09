@@ -20,7 +20,7 @@ public override bool Equals(object obj)
 
 ### Rückgabewert
 
-`true` wenn das angegebene Rechteck gleich dem aktuellen Rechteck ist; Andernfalls,`false`.
+`true` wenn das angegebene Rechteck gleich dem aktuellen Rechteck ist; ansonsten,`false`.
 
 ### Siehe auch
 

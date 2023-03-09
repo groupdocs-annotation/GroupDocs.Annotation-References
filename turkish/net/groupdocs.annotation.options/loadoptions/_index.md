@@ -3,7 +3,7 @@ title: LoadOptions
 second_title: .NET API Başvurusu için GroupDocs.Annotation
 description: Açıklama eklemek için bir belgeyi açarken ek seçeneklerin şifre gibi belirtilmesine izin verir.
 type: docs
-weight: 970
+weight: 980
 url: /tr/net/groupdocs.annotation.options/loadoptions/
 ---
 ## LoadOptions class
@@ -24,8 +24,8 @@ public class LoadOptions
 
 | İsim | Tanım |
 | --- | --- |
-| [FontDirectories](../../groupdocs.annotation.options/loadoptions/fontdirectories) { get; set; } | den özel yazı tiplerini yüklemek için yazı tipi dizinlerinin listesi |
-| [Password](../../groupdocs.annotation.options/loadoptions/password) { get; set; } | Belge şifresi |
+| [FontDirectories](../../groupdocs.annotation.options/loadoptions/fontdirectories) { get; set; } | 'den özel yazı tiplerini yüklemek için yazı tipi dizinlerinin listesi |
+| [Password](../../groupdocs.annotation.options/loadoptions/password) { get; set; } | Belge parolası |
 | [Version](../../groupdocs.annotation.options/loadoptions/version) { get; set; } | Belgenin hangi sürümünün yükleneceğini ayarlar. Varsayılan Durum - last |
 
 ### Ayrıca bakınız

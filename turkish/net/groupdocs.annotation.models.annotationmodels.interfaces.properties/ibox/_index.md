@@ -18,7 +18,7 @@ public interface IBox
 
 | İsim | Tanım |
 | --- | --- |
-| [Box](../../groupdocs.annotation.models.annotationmodels.interfaces.properties/ibox/box) { get; set; } | Konum açıklamasını alır veya ayarlar |
+| [Box](../../groupdocs.annotation.models.annotationmodels.interfaces.properties/ibox/box) { get; set; } | Ek açıklama pozisyonunu alır veya ayarlar |
 
 ### Ayrıca bakınız
 

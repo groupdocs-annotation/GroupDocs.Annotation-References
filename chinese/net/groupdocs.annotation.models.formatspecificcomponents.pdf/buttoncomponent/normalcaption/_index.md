@@ -1,14 +1,14 @@
 ---
 title: NormalCaption
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 获取或设置组件法线标题
+description: 获取或设置组件普通标题
 type: docs
 weight: 70
 url: /zh/net/groupdocs.annotation.models.formatspecificcomponents.pdf/buttoncomponent/normalcaption/
 ---
 ## ButtonComponent.NormalCaption property
 
-获取或设置组件法线标题
+获取或设置组件普通标题
 
 ```csharp
 public string NormalCaption { get; set; }

@@ -20,9 +20,9 @@ public enum BorderStyle : byte
 | --- | --- | --- |
 | Solid | `0` | 创建实心边框 |
 | Dashed | `1` | 创建虚线边框 |
-| Beveled | `2` | 创建斜边 |
+| Beveled | `2` | 创建斜边 border |
 | Inset | `3` | 创建插入边框 |
-| Underline | `4` | 创建下划线边框 |
+| Underline | `4` | 创建带下划线的边框 |
 
 ### 也可以看看
 

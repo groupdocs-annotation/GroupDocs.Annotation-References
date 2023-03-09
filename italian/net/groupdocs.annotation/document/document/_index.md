@@ -1,14 +1,14 @@
 ---
 title: Document
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Inizializza la nuova istanza diDocumentgroupdocs.annotation/document classe.
+description: Inizializza una nuova istanza diDocumentgroupdocs.annotation/document classe.
 type: docs
 weight: 10
 url: /it/net/groupdocs.annotation/document/document/
 ---
 ## Document(Stream) {#constructor}
 
-Inizializza la nuova istanza di[`Document`](../../document) classe.
+Inizializza una nuova istanza di[`Document`](../../document) classe.
 
 ```csharp
 public Document(Stream stream)
@@ -28,7 +28,7 @@ public Document(Stream stream)
 
 ## Document(Stream, string) {#constructor_1}
 
-Inizializza la nuova istanza di[`Document`](../../document) classe.
+Inizializza una nuova istanza di[`Document`](../../document) classe.
 
 ```csharp
 public Document(Stream stream, string password)

@@ -26,7 +26,7 @@ public class Document
 | İsim | Tanım |
 | --- | --- |
 | [Name](../../groupdocs.annotation/document/name) { get; set; } | Belge adı |
-| [Password](../../groupdocs.annotation/document/password) { get; } | Belge şifresi |
+| [Password](../../groupdocs.annotation/document/password) { get; } | Belge parolası |
 | [Stream](../../groupdocs.annotation/document/stream) { get; } | Belge akışı |
 
 ## yöntemler

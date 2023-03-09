@@ -1,14 +1,14 @@
 ---
 title: Vss
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: Microsoft Visio Şablon Dosyası.
+description: Microsoft Visio Kalıp Dosyası.
 type: docs
 weight: 320
 url: /tr/net/groupdocs.annotation/filetype/vss/
 ---
 ## FileType.Vss property
 
-Microsoft Visio Şablon Dosyası.
+Microsoft Visio Kalıp Dosyası.
 
 ```csharp
 public static FileType Vss { get; }

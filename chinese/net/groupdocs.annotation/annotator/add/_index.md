@@ -1,14 +1,14 @@
 ---
 title: Add
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 向文档添加注释
+description: 向 document 添加注释
 type: docs
 weight: 50
 url: /zh/net/groupdocs.annotation/annotator/add/
 ---
 ## Add(AnnotationBase) {#add}
 
-向文档添加注释
+向 document 添加注释
 
 ```csharp
 public void Add(AnnotationBase annotation)
@@ -20,9 +20,9 @@ public void Add(AnnotationBase annotation)
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 更多关于如何为文档添加注释： [如何在 C# 中注释文档](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
+* 有关如何向文档添加注释的更多信息： [如何在 C# 中注释文档](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
 
 ### 也可以看看
 
@@ -35,7 +35,7 @@ public void Add(AnnotationBase annotation)
 
 ## Add(List&lt;AnnotationBase&gt;) {#add_1}
 
-将注释集合添加到文档中。
+将注释集合添加到文档。
 
 ```csharp
 public void Add(List<AnnotationBase> annotations)
@@ -47,9 +47,9 @@ public void Add(List<AnnotationBase> annotations)
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 更多关于如何为文档添加注释： [如何在 C# 中注释文档](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
+* 有关如何向文档添加注释的更多信息： [如何在 C# 中注释文档](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
 
 ### 也可以看看
 

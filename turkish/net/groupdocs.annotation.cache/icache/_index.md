@@ -1,14 +1,14 @@
 ---
 title: ICache
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: İşlenmiş belgeyi ve belge kaynakları önbelleğini depolamak için gerekli yöntemleri tanımlar.
+description: İşlenen belgeyi ve belge kaynakları önbelleğini depolamak için gereken yöntemleri tanımlar.
 type: docs
 weight: 40
 url: /tr/net/groupdocs.annotation.cache/icache/
 ---
 ## ICache interface
 
-İşlenmiş belgeyi ve belge kaynakları önbelleğini depolamak için gerekli yöntemleri tanımlar.
+İşlenen belgeyi ve belge kaynakları önbelleğini depolamak için gereken yöntemleri tanımlar.
 
 ```csharp
 public interface ICache
@@ -18,7 +18,7 @@ public interface ICache
 
 | İsim | Tanım |
 | --- | --- |
-| [GetKeys](../../groupdocs.annotation.cache/icache/getkeys)(string) | Filtreyle eşleşen tüm anahtarları döndürür. |
+| [GetKeys](../../groupdocs.annotation.cache/icache/getkeys)(string) | filter. ile eşleşen tüm anahtarları döndürür |
 | [Set](../../groupdocs.annotation.cache/icache/set)(string, object) | Önbelleğe bir önbellek girişi ekler. |
 | [TryGetValue](../../groupdocs.annotation.cache/icache/trygetvalue)(string, out object) | Varsa, bu anahtarla ilişkili girişi alır. |
 

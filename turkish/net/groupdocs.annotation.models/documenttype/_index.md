@@ -20,13 +20,13 @@ public enum DocumentType
 | --- | --- | --- |
 | Undefined | `-1` | tanımsız |
 | Pdf | `0` | Pdf biçimini temsil eder |
-| Cells | `1` | Excel biçimini temsil eder |
+| Cells | `1` | Excel formatını temsil eder |
 | Slides | `2` | Powerpoint biçimini temsil eder |
-| Words | `3` | Word biçimini temsil eder |
-| Images | `4` | Resim formatını temsil eder |
-| Email | `5` | E-posta biçimini temsil eder |
+| Words | `3` | Word formatını temsil eder |
+| Images | `4` | Görüntü formatını temsil eder |
+| Email | `5` | E-posta formatını temsil eder |
 | Html | `6` | HTML biçimini temsil eder |
-| Diagram | `7` | Diyagram biçimini temsil eder |
+| Diagram | `7` | Diyagram formatını temsil eder |
 
 ### Ayrıca bakınız
 

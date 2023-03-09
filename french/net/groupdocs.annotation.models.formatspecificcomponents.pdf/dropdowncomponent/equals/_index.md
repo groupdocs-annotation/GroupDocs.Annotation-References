@@ -16,7 +16,7 @@ public bool Equals(DropdownComponent other)
 
 | Paramètre | Taper | La description |
 | --- | --- | --- |
-| other | DropdownComponent | L'objet DropdownComponent à comparer avec l'objet actuel |
+| other | DropdownComponent | L'objet DropdownComponent à comparer avec l'objet courant |
 
 ### Voir également
 

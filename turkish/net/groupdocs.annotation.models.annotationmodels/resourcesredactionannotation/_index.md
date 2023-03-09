@@ -25,7 +25,7 @@ public class ResourcesRedactionAnnotation : AnnotationBase,
 
 | İsim | Tanım |
 | --- | --- |
-| [Box](../../groupdocs.annotation.models.annotationmodels/resourcesredactionannotation/box) { get; set; } | Konum açıklamasını alır veya ayarlar |
+| [Box](../../groupdocs.annotation.models.annotationmodels/resourcesredactionannotation/box) { get; set; } | Ek açıklama pozisyonunu alır veya ayarlar |
 | [CreatedOn](../../groupdocs.annotation.models.annotationmodels/annotationbase/createdon) { get; set; } | Ek açıklama oluşturma tarihini alır veya ayarlar |
 | [Id](../../groupdocs.annotation.models.annotationmodels/annotationbase/id) { get; set; } | Ek açıklama benzersiz tanımlayıcısını alır veya ayarlar |
 | [Message](../../groupdocs.annotation.models.annotationmodels/annotationbase/message) { get; set; } | Açıklama mesajını alır veya ayarlar |
@@ -40,15 +40,15 @@ public class ResourcesRedactionAnnotation : AnnotationBase,
 | --- | --- |
 | override [Clone](../../groupdocs.annotation.models.annotationmodels/resourcesredactionannotation/clone)() | Aynı değerlere sahip yeni Örnek döndürür |
 | [Equals](../../groupdocs.annotation.models.annotationmodels/annotationbase/equals)(AnnotationBase) | IEquatable Equals yöntemini kullanarak Temel Açıklamaları karşılaştırır |
-| override [Equals](../../groupdocs.annotation.models.annotationmodels/resourcesredactionannotation/equals#equals_2)(object) | Standart nesne Equals yöntemini kullanarak Kaynak Redaksiyonu Açıklamalarını karşılaştırır method |
+| override [Equals](../../groupdocs.annotation.models.annotationmodels/resourcesredactionannotation/equals#equals_2)(object) | Standart nesne Equals method kullanarak Redaksiyon Ek Açıklamalarını Karşılaştırır |
 | [Equals](../../groupdocs.annotation.models.annotationmodels/resourcesredactionannotation/equals#equals_1)(ResourcesRedactionAnnotation) | IEquatable Equals yöntemini kullanarak Kaynak Düzeltme Ek Açıklamalarını karşılaştırır |
-| override [GetHashCode](../../groupdocs.annotation.models.annotationmodels/resourcesredactionannotation/gethashcode)() | HashCode of Resources Redaksiyon Açıklamasını döndürür |
+| override [GetHashCode](../../groupdocs.annotation.models.annotationmodels/resourcesredactionannotation/gethashcode)() | HashCode of Resources Redaksiyon Ek Açıklamasını döndürür |
 
 ### Notlar
 
 **Daha fazla bilgi edin**
 
-* Açıklama türleri ve PDF ve Microsoft Word belgelerine, Excel elektronik tablolarına ve PowerPoint Sunumlarına açıklama ekleme hakkında daha fazla bilgi: [.NET için GroupDocs.Annotation kullanarak belgelere açıklama ekleme](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
+* Ek açıklama türleri ve PDF ve Microsoft Word belgeleri, Excel elektronik tabloları ve PowerPoint Sunumları hakkında daha fazla bilgi: [.NET için GroupDocs.Annotation kullanarak belgelere açıklama ekleme](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
 * Çeşitli türdeki belgelere kaynak redaksiyon açıklamaları ekleme hakkında daha fazla bilgi: [C#'ta kaynak redaksiyon ek açıklamaları nasıl eklenir?](https://docs.groupdocs.com/display/annotationnet/Add+resource+redaction+annotation)
 
 ### Ayrıca bakınız

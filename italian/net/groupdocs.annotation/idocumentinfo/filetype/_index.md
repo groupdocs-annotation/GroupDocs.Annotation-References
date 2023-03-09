@@ -1,14 +1,14 @@
 ---
 title: FileType
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Tipo di documento
+description: Tipo documento
 type: docs
 weight: 10
 url: /it/net/groupdocs.annotation/idocumentinfo/filetype/
 ---
 ## IDocumentInfo.FileType property
 
-Tipo di documento
+Tipo documento
 
 ```csharp
 public FileType FileType { get; set; }

@@ -18,8 +18,8 @@ public class IOException : AnnotatorException
 
 | Имя | Описание |
 | --- | --- |
-| [IOException](ioexception#constructor)(string) | Инициализирует новый экземпляр[`IOException`](../ioexception) учебный класс. |
-| [IOException](ioexception#constructor_1)(string, Exception) | Инициализирует новый экземпляр[`IOException`](../ioexception) учебный класс. |
+| [IOException](ioexception#constructor)(string) | Инициализирует новый экземпляр[`IOException`](../ioexception) сорт. |
+| [IOException](ioexception#constructor_1)(string, Exception) | Инициализирует новый экземпляр[`IOException`](../ioexception) сорт. |
 
 ### Смотрите также
 

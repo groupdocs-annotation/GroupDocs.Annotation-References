@@ -11,7 +11,7 @@ url: /ru/net/groupdocs.annotation.models.annotationmodels/replacementannotation/
 Получает или задает размер шрифта текста аннотации
 
 ```csharp
-public int? FontSize { get; set; }
+public double? FontSize { get; set; }
 ```
 
 ### Смотрите также

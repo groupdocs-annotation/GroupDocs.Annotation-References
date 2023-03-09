@@ -1,14 +1,14 @@
 ---
 title: SvgPath
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 获取或设置注解 svg 路径坐标 array
+description: 获取或设置注解svg路径坐标array
 type: docs
 weight: 10
 url: /zh/net/groupdocs.annotation.models.annotationmodels.interfaces.properties/isvgpath/svgpath/
 ---
 ## ISvgPath.SvgPath property
 
-获取或设置注解 svg 路径坐标 array
+获取或设置注解svg路径坐标array
 
 ```csharp
 public string SvgPath { get; set; }

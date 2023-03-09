@@ -3,7 +3,7 @@ title: TextLineInfo
 second_title: .NET API Başvurusu için GroupDocs.Annotation
 description: Metin Satırı Bilgisini Temsil Eder.
 type: docs
-weight: 920
+weight: 930
 url: /tr/net/groupdocs.annotation.models/textlineinfo/
 ---
 ## TextLineInfo structure
@@ -18,11 +18,11 @@ public struct TextLineInfo
 
 | İsim | Tanım |
 | --- | --- |
-| [Height](../../groupdocs.annotation.models/textlineinfo/height) { get; set; } | Yükseklik genişliği |
-| [LeftIndent](../../groupdocs.annotation.models/textlineinfo/leftindent) { get; set; } | left 'den girinti |
+| [Height](../../groupdocs.annotation.models/textlineinfo/height) { get; set; } | Yükseklik genişlik |
+| [LeftIndent](../../groupdocs.annotation.models/textlineinfo/leftindent) { get; set; } | Soldan Girinti |
 | [Text](../../groupdocs.annotation.models/textlineinfo/text) { get; set; } | Satır metni |
-| [TopIndent](../../groupdocs.annotation.models/textlineinfo/topindent) { get; set; } | top öğesinden girinti |
-| [Width](../../groupdocs.annotation.models/textlineinfo/width) { get; set; } | Çizgi genişliği |
+| [TopIndent](../../groupdocs.annotation.models/textlineinfo/topindent) { get; set; } | top 'den Girinti |
+| [Width](../../groupdocs.annotation.models/textlineinfo/width) { get; set; } | Satır genişliği |
 
 ### Ayrıca bakınız
 

@@ -18,9 +18,9 @@ public interface IDocumentInfo
 
 | Nome | Descrizione |
 | --- | --- |
-| [FileType](../../groupdocs.annotation/idocumentinfo/filetype) { get; set; } | Tipo di documento |
+| [FileType](../../groupdocs.annotation/idocumentinfo/filetype) { get; set; } | Tipo documento |
 | [PageCount](../../groupdocs.annotation/idocumentinfo/pagecount) { get; set; } | Numero di pagine |
-| [PagesInfo](../../groupdocs.annotation/idocumentinfo/pagesinfo) { get; set; } | Informazioni sulle pagine |
+| [PagesInfo](../../groupdocs.annotation/idocumentinfo/pagesinfo) { get; set; } | Pagine Informazioni |
 | [Size](../../groupdocs.annotation/idocumentinfo/size) { get; set; } | Dimensione file |
 
 ### Guarda anche

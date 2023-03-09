@@ -1,14 +1,14 @@
 ---
 title: DropdownComponent
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 初始化的新实例DropdownComponentgroupdocs.annotation.models.formatspecificcomponents.pdf/dropdowncomponent类.
+description: 初始化新实例DropdownComponentgroupdocs.annotation.models.formatspecificcomponents.pdf/dropdowncomponent类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.annotation.models.formatspecificcomponents.pdf/dropdowncomponent/dropdowncomponent/
 ---
 ## DropdownComponent constructor
 
-初始化的新实例[`DropdownComponent`](../../dropdowncomponent)类.
+初始化新实例[`DropdownComponent`](../../dropdowncomponent)类.
 
 ```csharp
 public DropdownComponent()

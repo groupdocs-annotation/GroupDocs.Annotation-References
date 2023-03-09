@@ -1,14 +1,14 @@
 ---
 title: Replies
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 表示注释回复集合
+description: 代表注解回复集合
 type: docs
 weight: 50
 url: /zh/net/groupdocs.annotation.models.annotationmodels/annotationbase/replies/
 ---
 ## AnnotationBase.Replies property
 
-表示注释回复集合
+代表注解回复集合
 
 ```csharp
 public List<Reply> Replies { get; set; }

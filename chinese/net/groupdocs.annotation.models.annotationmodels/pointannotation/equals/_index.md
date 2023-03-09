@@ -28,7 +28,7 @@ public bool Equals(PointAnnotation other)
 
 ## Equals(object) {#equals_2}
 
-使用标准对象 Equals 方法比较点注释
+使用标准对象等于方法比较点注释
 
 ```csharp
 public override bool Equals(object obj)

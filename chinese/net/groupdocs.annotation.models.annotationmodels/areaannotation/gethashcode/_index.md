@@ -1,14 +1,14 @@
 ---
 title: GetHashCode
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 返回区域标注的HashCode
+description: 返回区域注解的HashCode
 type: docs
 weight: 100
 url: /zh/net/groupdocs.annotation.models.annotationmodels/areaannotation/gethashcode/
 ---
 ## AreaAnnotation.GetHashCode method
 
-返回区域标注的HashCode
+返回区域注解的HashCode
 
 ```csharp
 public override int GetHashCode()

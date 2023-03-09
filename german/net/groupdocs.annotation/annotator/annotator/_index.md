@@ -20,7 +20,7 @@ public Annotator(string filePath)
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Weitere Informationen zu den von GroupDocs unterstützten Dateitypen. Anmerkung: [Von GroupDocs.Annotation unterstützte Dokumentformate](https://docs.groupdocs.com/display/annotationnet/Supported+Document+Formats)
 * Mehr über GroupDocs.Annotation für .NET-Features: [Entwicklerhandbuch](https://docs.groupdocs.com/display/annotationnet/Developer+Guide)
@@ -48,7 +48,7 @@ public Annotator(string filePath, LoadOptions loadOptions)
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Weitere Informationen zu den von GroupDocs unterstützten Dateitypen. Anmerkung: [Von GroupDocs.Annotation unterstützte Dokumentformate](https://docs.groupdocs.com/display/annotationnet/Supported+Document+Formats)
 * Mehr über GroupDocs.Annotation für .NET-Features: [Entwicklerhandbuch](https://docs.groupdocs.com/display/annotationnet/Developer+Guide)
@@ -79,7 +79,7 @@ public Annotator(string filePath, AnnotatorSettings settings)
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Weitere Informationen zu den von GroupDocs unterstützten Dateitypen. Anmerkung: [Von GroupDocs.Annotation unterstützte Dokumentformate](https://docs.groupdocs.com/display/annotationnet/Supported+Document+Formats)
 * Mehr über GroupDocs.Annotation für .NET-Features: [Entwicklerhandbuch](https://docs.groupdocs.com/display/annotationnet/Developer+Guide)
@@ -109,7 +109,7 @@ public Annotator(string filePath, LoadOptions loadOptions, AnnotatorSettings set
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Weitere Informationen zu den von GroupDocs unterstützten Dateitypen. Anmerkung: [Von GroupDocs.Annotation unterstützte Dokumentformate](https://docs.groupdocs.com/display/annotationnet/Supported+Document+Formats)
 * Mehr über GroupDocs.Annotation für .NET-Features: [Entwicklerhandbuch](https://docs.groupdocs.com/display/annotationnet/Developer+Guide)
@@ -140,7 +140,7 @@ public Annotator(Stream document)
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Weitere Informationen zu den von GroupDocs unterstützten Dateitypen. Anmerkung: [Von GroupDocs.Annotation unterstützte Dokumentformate](https://docs.groupdocs.com/display/annotationnet/Supported+Document+Formats)
 * Mehr über GroupDocs.Annotation für .NET-Features: [Entwicklerhandbuch](https://docs.groupdocs.com/display/annotationnet/Developer+Guide)
@@ -168,7 +168,7 @@ public Annotator(Stream document, LoadOptions loadOptions)
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Weitere Informationen zu den von GroupDocs unterstützten Dateitypen. Anmerkung: [Von GroupDocs.Annotation unterstützte Dokumentformate](https://docs.groupdocs.com/display/annotationnet/Supported+Document+Formats)
 * Mehr über GroupDocs.Annotation für .NET-Features: [Entwicklerhandbuch](https://docs.groupdocs.com/display/annotationnet/Developer+Guide)
@@ -199,7 +199,7 @@ public Annotator(Stream document, AnnotatorSettings settings)
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Weitere Informationen zu den von GroupDocs unterstützten Dateitypen. Anmerkung: [Von GroupDocs.Annotation unterstützte Dokumentformate](https://docs.groupdocs.com/display/annotationnet/Supported+Document+Formats)
 * Mehr über GroupDocs.Annotation für .NET-Features: [Entwicklerhandbuch](https://docs.groupdocs.com/display/annotationnet/Developer+Guide)
@@ -229,7 +229,7 @@ public Annotator(Stream document, LoadOptions loadOptions, AnnotatorSettings set
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Weitere Informationen zu den von GroupDocs unterstützten Dateitypen. Anmerkung: [Von GroupDocs.Annotation unterstützte Dokumentformate](https://docs.groupdocs.com/display/annotationnet/Supported+Document+Formats)
 * Mehr über GroupDocs.Annotation für .NET-Features: [Entwicklerhandbuch](https://docs.groupdocs.com/display/annotationnet/Developer+Guide)

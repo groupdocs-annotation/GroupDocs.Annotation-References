@@ -1,14 +1,14 @@
 ---
 title: Placeholder
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Testo da visualizzare quando non è stata ancora selezionata alcuna opzione
+description: Testo da mostrare quando non è stata ancora selezionata alcuna opzione
 type: docs
 weight: 70
 url: /it/net/groupdocs.annotation.models.formatspecificcomponents.pdf/dropdowncomponent/placeholder/
 ---
 ## DropdownComponent.Placeholder property
 
-Testo da visualizzare quando non è stata ancora selezionata alcuna opzione
+Testo da mostrare quando non è stata ancora selezionata alcuna opzione
 
 ```csharp
 public string Placeholder { get; set; }

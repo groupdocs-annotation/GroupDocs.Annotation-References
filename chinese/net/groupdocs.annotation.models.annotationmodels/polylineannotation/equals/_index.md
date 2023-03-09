@@ -16,7 +16,7 @@ public bool Equals(PolylineAnnotation other)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| other | PolylineAnnotation | PolylineAnnotation 对象与当前对象进行比较 |
+| other | PolylineAnnotation | 要与当前对象进行比较的 PolylineAnnotation 对象 |
 
 ### 也可以看看
 

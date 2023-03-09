@@ -1,14 +1,14 @@
 ---
 title: ReplacementAnnotation
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: Değiştirilen açıklama özelliklerini temsil eder
+description: Değiştirme açıklama özelliklerini temsil eder
 type: docs
 weight: 660
 url: /tr/net/groupdocs.annotation.models.annotationmodels/replacementannotation/
 ---
 ## ReplacementAnnotation class
 
-Değiştirilen açıklama özelliklerini temsil eder
+Değiştirme açıklama özelliklerini temsil eder
 
 ```csharp
 public class ReplacementAnnotation : AnnotationBase, IEquatable<ReplacementAnnotation>, 
@@ -26,13 +26,13 @@ public class ReplacementAnnotation : AnnotationBase, IEquatable<ReplacementAnnot
 | İsim | Tanım |
 | --- | --- |
 | [CreatedOn](../../groupdocs.annotation.models.annotationmodels/annotationbase/createdon) { get; set; } | Ek açıklama oluşturma tarihini alır veya ayarlar |
-| [FontColor](../../groupdocs.annotation.models.annotationmodels/replacementannotation/fontcolor) { get; set; } | Ek açıklama metni yazı tipi rengini alır veya ayarlar |
+| [FontColor](../../groupdocs.annotation.models.annotationmodels/replacementannotation/fontcolor) { get; set; } | Açıklama metni yazı tipi rengini alır veya ayarlar color |
 | [FontSize](../../groupdocs.annotation.models.annotationmodels/replacementannotation/fontsize) { get; set; } | Ek açıklama metni yazı tipi boyutunu alır veya ayarlar |
 | [Id](../../groupdocs.annotation.models.annotationmodels/annotationbase/id) { get; set; } | Ek açıklama benzersiz tanımlayıcısını alır veya ayarlar |
 | [Message](../../groupdocs.annotation.models.annotationmodels/annotationbase/message) { get; set; } | Açıklama mesajını alır veya ayarlar |
-| [Opacity](../../groupdocs.annotation.models.annotationmodels/replacementannotation/opacity) { get; set; } | Açıklama opacity değerini alır veya ayarlar |
+| [Opacity](../../groupdocs.annotation.models.annotationmodels/replacementannotation/opacity) { get; set; } | Ek açıklama opaklığını alır veya ayarlar |
 | [PageNumber](../../groupdocs.annotation.models.annotationmodels/annotationbase/pagenumber) { get; set; } | Ek açıklamalı sayfa numarasını alır veya ayarlar |
-| [Points](../../groupdocs.annotation.models.annotationmodels/replacementannotation/points) { get; set; } | Dikdörtgenleri text ile tanımlayan noktaların koleksiyonunu alır veya ayarlar |
+| [Points](../../groupdocs.annotation.models.annotationmodels/replacementannotation/points) { get; set; } | Metin ile dikdörtgenleri tanımlayan noktaların koleksiyonunu alır veya ayarlar |
 | [Replies](../../groupdocs.annotation.models.annotationmodels/annotationbase/replies) { get; set; } | Ek açıklama yanıtlarını temsil eder koleksiyon |
 | [TextToReplace](../../groupdocs.annotation.models.annotationmodels/replacementannotation/texttoreplace) { get; set; } | Değiştirilecek metni alır veya ayarlar |
 | [Type](../../groupdocs.annotation.models.annotationmodels/annotationbase/type) { get; set; } | Açıklama tipini alır veya ayarlar |
@@ -52,8 +52,8 @@ public class ReplacementAnnotation : AnnotationBase, IEquatable<ReplacementAnnot
 
 **Daha fazla bilgi edin**
 
-* Açıklama türleri ve PDF ve Microsoft Word belgelerine, Excel elektronik tablolarına ve PowerPoint Sunumlarına açıklama ekleme hakkında daha fazla bilgi: [.NET için GroupDocs.Annotation kullanarak belgelere açıklama ekleme](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
-* Çeşitli türlerdeki belgelere yedek ek açıklamalar ekleme hakkında daha fazla bilgi: [C#'da değiştirme açıklamaları nasıl eklenir](https://docs.groupdocs.com/display/annotationnet/Add+replacement+annotation)
+* Ek açıklama türleri ve PDF ve Microsoft Word belgeleri, Excel elektronik tabloları ve PowerPoint Sunumları hakkında daha fazla bilgi: [.NET için GroupDocs.Annotation kullanarak belgelere açıklama ekleme](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
+* Çeşitli türlerdeki belgelere değiştirme açıklamaları ekleme hakkında daha fazla bilgi: [C#'ta değiştirme ek açıklamaları nasıl eklenir?](https://docs.groupdocs.com/display/annotationnet/Add+replacement+annotation)
 
 ### Ayrıca bakınız
 

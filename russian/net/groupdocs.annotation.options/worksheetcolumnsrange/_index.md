@@ -3,7 +3,7 @@ title: WorksheetColumnsRange
 second_title: Справочник по API GroupDocs.Annotation для .NET
 description: Представляет диапазон столбцов для указанного рабочего листа
 type: docs
-weight: 1020
+weight: 1030
 url: /ru/net/groupdocs.annotation.options/worksheetcolumnsrange/
 ---
 ## WorksheetColumnsRange class

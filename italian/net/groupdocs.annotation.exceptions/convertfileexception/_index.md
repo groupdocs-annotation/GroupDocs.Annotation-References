@@ -1,14 +1,14 @@
 ---
 title: ConvertFileException
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Leccezione generata quando la conversione del file non è riuscita.
+description: Leccezione che viene generata quando la conversione del file non riesce.
 type: docs
 weight: 70
 url: /it/net/groupdocs.annotation.exceptions/convertfileexception/
 ---
 ## ConvertFileException class
 
-L'eccezione generata quando la conversione del file non è riuscita.
+L'eccezione che viene generata quando la conversione del file non riesce.
 
 ```csharp
 public class ConvertFileException : AnnotatorException

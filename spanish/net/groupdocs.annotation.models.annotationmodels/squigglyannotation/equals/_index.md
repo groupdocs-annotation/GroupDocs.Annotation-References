@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: GroupDocs.Annotation para la referencia de la API de .NET
-description: Compara anotaciones onduladas usando el método IEquatable Equals
+description: Compara anotaciones onduladas utilizando el método IEquatable Equals
 type: docs
 weight: 80
 url: /es/net/groupdocs.annotation.models.annotationmodels/squigglyannotation/equals/
 ---
 ## Equals(SquigglyAnnotation) {#equals_1}
 
-Compara anotaciones onduladas usando el método IEquatable Equals
+Compara anotaciones onduladas utilizando el método IEquatable Equals
 
 ```csharp
 public bool Equals(SquigglyAnnotation other)

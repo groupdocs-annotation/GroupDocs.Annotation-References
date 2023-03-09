@@ -1,14 +1,14 @@
 ---
 title: IResourcesRedactionAnnotation
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Definisce le proprietà di annotazione della redazione della risorsa
+description: Definisce le proprietà di annotazione della redazione delle risorse
 type: docs
 weight: 350
 url: /it/net/groupdocs.annotation.models.annotationmodels.interfaces.annotations/iresourcesredactionannotation/
 ---
 ## IResourcesRedactionAnnotation interface
 
-Definisce le proprietà di annotazione della redazione della risorsa
+Definisce le proprietà di annotazione della redazione delle risorse
 
 ```csharp
 public interface IResourcesRedactionAnnotation : IBox

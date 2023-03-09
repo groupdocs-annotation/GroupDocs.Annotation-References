@@ -16,7 +16,7 @@ public bool Equals(AnnotationBase other)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| other | AnnotationBase | L'oggetto AnnotationBase da confrontare con l'oggetto corrente |
+| other | AnnotationBase | Oggetto AnnotationBase da confrontare con l'oggetto corrente |
 
 ### Guarda anche
 
@@ -28,7 +28,7 @@ public bool Equals(AnnotationBase other)
 
 ## Equals(object) {#equals_1}
 
-Confronta le annotazioni di base utilizzando il metodo Equals dell'oggetto standard
+Confronta le annotazioni di base utilizzando l'oggetto standard Equals method
 
 ```csharp
 public override bool Equals(object obj)

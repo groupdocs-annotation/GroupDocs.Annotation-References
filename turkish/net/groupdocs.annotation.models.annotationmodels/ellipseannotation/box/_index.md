@@ -1,14 +1,14 @@
 ---
 title: Box
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: Konum açıklamasını alır veya ayarlar
+description: Ek açıklama pozisyonunu alır veya ayarlar
 type: docs
 weight: 30
 url: /tr/net/groupdocs.annotation.models.annotationmodels/ellipseannotation/box/
 ---
 ## EllipseAnnotation.Box property
 
-Konum açıklamasını alır veya ayarlar
+Ek açıklama pozisyonunu alır veya ayarlar
 
 ```csharp
 public Rectangle Box { get; set; }

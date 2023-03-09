@@ -32,6 +32,7 @@ url: /ar/net/groupdocs.annotation.models/
 | [HorizontalAlignment](./horizontalalignment) | يمثل التعليقات التوضيحية حالة المحاذاة الأفقية |
 | [PenStyle](./penstyle) | نمط القلم |
 | [ResolutionQuality](./resolutionquality) | جودة الدقة |
+| [Role](./role) | الدور |
 | [RotationDocument](./rotationdocument) | التناوب |
 | [VerticalAlignment](./verticalalignment) | يمثل التعليقات التوضيحية حالة المحاذاة الرأسية |
 

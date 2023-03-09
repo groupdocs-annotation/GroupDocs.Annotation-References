@@ -1,14 +1,14 @@
 ---
 title: SquigglyAnnotation
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Inizializza la nuova istanza diSquigglyAnnotationgroupdocs.annotation.models.annotationmodels/squigglyannotation classe.
+description: Inizializza una nuova istanza diSquigglyAnnotationgroupdocs.annotation.models.annotationmodels/squigglyannotation classe.
 type: docs
 weight: 10
 url: /it/net/groupdocs.annotation.models.annotationmodels/squigglyannotation/squigglyannotation/
 ---
 ## SquigglyAnnotation constructor
 
-Inizializza la nuova istanza di[`SquigglyAnnotation`](../../squigglyannotation) classe.
+Inizializza una nuova istanza di[`SquigglyAnnotation`](../../squigglyannotation) classe.
 
 ```csharp
 public SquigglyAnnotation()

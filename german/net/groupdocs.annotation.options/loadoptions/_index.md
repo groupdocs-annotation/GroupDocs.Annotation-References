@@ -3,7 +3,7 @@ title: LoadOptions
 second_title: GroupDocs.Annotation für .NET-API-Referenz
 description: Ermöglicht die Angabe zusätzlicher Optionen z. B. Passwort beim Öffnen eines Dokuments zum Kommentieren.
 type: docs
-weight: 970
+weight: 980
 url: /de/net/groupdocs.annotation.options/loadoptions/
 ---
 ## LoadOptions class

@@ -1,14 +1,14 @@
 ---
 title: FontColor
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: Ek açıklama metni yazı tipi rengini alır veya ayarlar
+description: Açıklama metni yazı tipi rengini alır veya ayarlar color
 type: docs
 weight: 10
 url: /tr/net/groupdocs.annotation.models.annotationmodels.interfaces.properties/ifontcolor/fontcolor/
 ---
 ## IFontColor.FontColor property
 
-Ek açıklama metni yazı tipi rengini alır veya ayarlar
+Açıklama metni yazı tipi rengini alır veya ayarlar color
 
 ```csharp
 public int? FontColor { get; set; }

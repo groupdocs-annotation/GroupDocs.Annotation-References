@@ -1,14 +1,14 @@
 ---
 title: AlternateName
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 获取或设置组件备用名称 备用名称用作 Adobe Acrobat 中的字段工具提示
+description: 获取或设置组件备用名称 备用名称在 Adobe Acrobat 中用作字段工具提示
 type: docs
 weight: 20
 url: /zh/net/groupdocs.annotation.models.formatspecificcomponents.pdf/buttoncomponent/alternatename/
 ---
 ## ButtonComponent.AlternateName property
 
-获取或设置组件备用名称 备用名称用作 Adobe Acrobat 中的字段工具提示。
+获取或设置组件备用名称 备用名称在 Adobe Acrobat 中用作字段工具提示。
 
 ```csharp
 public string AlternateName { get; set; }

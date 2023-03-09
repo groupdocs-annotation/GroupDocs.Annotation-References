@@ -1,14 +1,14 @@
 ---
 title: DistanceAnnotation
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Rappresenta le proprietà di annotazione della distanza
+description: Rappresenta le proprietà dellannotazione della distanza
 type: docs
 weight: 220
 url: /it/net/groupdocs.annotation.models.annotationmodels/distanceannotation/
 ---
 ## DistanceAnnotation class
 
-Rappresenta le proprietà di annotazione della distanza
+Rappresenta le proprietà dell'annotazione della distanza
 
 ```csharp
 public class DistanceAnnotation : AnnotationBase, IDistanceAnnotation, 
@@ -19,7 +19,7 @@ public class DistanceAnnotation : AnnotationBase, IDistanceAnnotation,
 
 | Nome | Descrizione |
 | --- | --- |
-| [DistanceAnnotation](distanceannotation)() | Inizializza la nuova istanza di[`DistanceAnnotation`](../distanceannotation) classe. |
+| [DistanceAnnotation](distanceannotation)() | Inizializza una nuova istanza di[`DistanceAnnotation`](../distanceannotation) classe. |
 
 ## Proprietà
 
@@ -36,7 +36,7 @@ public class DistanceAnnotation : AnnotationBase, IDistanceAnnotation,
 | [PenWidth](../../groupdocs.annotation.models.annotationmodels/distanceannotation/penwidth) { get; set; } | Ottiene o imposta la larghezza della penna dell'annotazione |
 | [Replies](../../groupdocs.annotation.models.annotationmodels/annotationbase/replies) { get; set; } | Rappresenta la raccolta di risposte alle annotazioni |
 | [Type](../../groupdocs.annotation.models.annotationmodels/annotationbase/type) { get; set; } | Ottiene o imposta il tipo di annotazione |
-| [User](../../groupdocs.annotation.models.annotationmodels/annotationbase/user) { get; set; } | Ottiene o imposta il creatore di annotazioni |
+| [User](../../groupdocs.annotation.models.annotationmodels/annotationbase/user) { get; set; } | Ottiene o imposta il creatore dell'annotazione |
 
 ## Metodi
 
@@ -45,12 +45,12 @@ public class DistanceAnnotation : AnnotationBase, IDistanceAnnotation,
 | override [Clone](../../groupdocs.annotation.models.annotationmodels/distanceannotation/clone)() | Restituisce una nuova istanza con gli stessi valori |
 | [Equals](../../groupdocs.annotation.models.annotationmodels/annotationbase/equals)(AnnotationBase) | Confronta le annotazioni di base utilizzando il metodo IEquatable Equals |
 | [Equals](../../groupdocs.annotation.models.annotationmodels/distanceannotation/equals#equals_1)(DistanceAnnotation) | Confronta le annotazioni di distanza utilizzando il metodo IEquatable Equals |
-| override [Equals](../../groupdocs.annotation.models.annotationmodels/distanceannotation/equals#equals_2)(object) | Confronta le annotazioni di distanza usando l'oggetto standard Equals method |
-| override [GetHashCode](../../groupdocs.annotation.models.annotationmodels/distanceannotation/gethashcode)() | Restituisce il codice hash dell'annotazione della distanza |
+| override [Equals](../../groupdocs.annotation.models.annotationmodels/distanceannotation/equals#equals_2)(object) | Confronta le annotazioni di distanza utilizzando il metodo Equals oggetto standard |
+| override [GetHashCode](../../groupdocs.annotation.models.annotationmodels/distanceannotation/gethashcode)() | Restituisce HashCode dell'annotazione della distanza |
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni sui tipi di annotazione e sull'annotazione di documenti PDF e Microsoft Word, fogli di calcolo Excel e presentazioni PowerPoint: [Come annotare i documenti utilizzando GroupDocs.Annotation per .NET](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
 * Ulteriori informazioni sull'aggiunta di annotazioni di distanza a documenti di vario tipo: [Come aggiungere annotazioni di distanza in C#](https://docs.groupdocs.com/display/annotationnet/Add+distance+annotation)

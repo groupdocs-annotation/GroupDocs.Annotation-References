@@ -18,7 +18,7 @@ public interface IOpacity
 
 | İsim | Tanım |
 | --- | --- |
-| [Opacity](../../groupdocs.annotation.models.annotationmodels.interfaces.properties/iopacity/opacity) { get; set; } | Açıklama opacity değerini alır veya ayarlar |
+| [Opacity](../../groupdocs.annotation.models.annotationmodels.interfaces.properties/iopacity/opacity) { get; set; } | Ek açıklama opaklığını alır veya ayarlar |
 
 ### Ayrıca bakınız
 

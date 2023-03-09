@@ -1,14 +1,14 @@
 ---
 title: IOException
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: Dosya işleme başarısız olduğunda oluşturulan özel durum.
+description: Dosya işleme başarısız olduğunda atılan istisna.
 type: docs
 weight: 100
 url: /tr/net/groupdocs.annotation.exceptions/ioexception/
 ---
 ## IOException class
 
-Dosya işleme başarısız olduğunda oluşturulan özel durum.
+Dosya işleme başarısız olduğunda atılan istisna.
 
 ```csharp
 public class IOException : AnnotatorException

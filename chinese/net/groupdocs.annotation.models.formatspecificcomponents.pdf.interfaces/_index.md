@@ -12,7 +12,7 @@ url: /zh/net/groupdocs.annotation.models.formatspecificcomponents.pdf.interfaces
 
 | 界面 | 描述 |
 | --- | --- |
-| [IButtonComponent](./ibuttoncomponent) | 定义按钮组件属性 |
+| [IButtonComponent](./ibuttoncomponent) | 定义 Button 组件属性 |
 | [ICheckBoxComponent](./icheckboxcomponent) | 定义 CheckBox 组件属性 |
 | [IDropdownComponent](./idropdowncomponent) | 定义下拉组件属性 |
 

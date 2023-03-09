@@ -19,14 +19,14 @@ public class WatermarkAnnotation : AnnotationBase, IEquatable<WatermarkAnnotatio
 
 | Nome | Descrizione |
 | --- | --- |
-| [WatermarkAnnotation](watermarkannotation)() | Inizializza la nuova istanza di[`WatermarkAnnotation`](../watermarkannotation) classe. |
+| [WatermarkAnnotation](watermarkannotation)() | Inizializza una nuova istanza di[`WatermarkAnnotation`](../watermarkannotation) classe. |
 
 ## Proprietà
 
 | Nome | Descrizione |
 | --- | --- |
 | [Angle](../../groupdocs.annotation.models.annotationmodels/watermarkannotation/angle) { get; set; } | Ottiene o imposta l'angolo di rotazione della filigrana |
-| [AutoScale](../../groupdocs.annotation.models.annotationmodels/watermarkannotation/autoscale) { get; set; } | Imposta la scalabilità automatica per la filigrana |
+| [AutoScale](../../groupdocs.annotation.models.annotationmodels/watermarkannotation/autoscale) { get; set; } | Imposta la scala automatica per la filigrana |
 | [Box](../../groupdocs.annotation.models.annotationmodels/watermarkannotation/box) { get; set; } | Ottiene o imposta la posizione dell'annotazione |
 | [CreatedOn](../../groupdocs.annotation.models.annotationmodels/annotationbase/createdon) { get; set; } | Ottiene o imposta la data di creazione dell'annotazione |
 | [FontColor](../../groupdocs.annotation.models.annotationmodels/watermarkannotation/fontcolor) { get; set; } | Ottiene o imposta il colore del carattere del testo della filigrana |
@@ -40,7 +40,7 @@ public class WatermarkAnnotation : AnnotationBase, IEquatable<WatermarkAnnotatio
 | [Replies](../../groupdocs.annotation.models.annotationmodels/annotationbase/replies) { get; set; } | Rappresenta la raccolta di risposte alle annotazioni |
 | [Text](../../groupdocs.annotation.models.annotationmodels/watermarkannotation/text) { get; set; } | Ottiene o imposta il testo della filigrana |
 | [Type](../../groupdocs.annotation.models.annotationmodels/annotationbase/type) { get; set; } | Ottiene o imposta il tipo di annotazione |
-| [User](../../groupdocs.annotation.models.annotationmodels/annotationbase/user) { get; set; } | Ottiene o imposta il creatore di annotazioni |
+| [User](../../groupdocs.annotation.models.annotationmodels/annotationbase/user) { get; set; } | Ottiene o imposta il creatore dell'annotazione |
 | [VerticalAlignment](../../groupdocs.annotation.models.annotationmodels/watermarkannotation/verticalalignment) { get; set; } | Ottiene o imposta l'allineamento verticale della filigrana sul documento |
 
 ## Metodi
@@ -55,10 +55,10 @@ public class WatermarkAnnotation : AnnotationBase, IEquatable<WatermarkAnnotatio
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni sui tipi di annotazione e sull'annotazione di documenti PDF e Microsoft Word, fogli di calcolo Excel e presentazioni PowerPoint: [Come annotare i documenti utilizzando GroupDocs.Annotation per .NET](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
-* Ulteriori informazioni sull'aggiunta di annotazioni filigrana a documenti di vario tipo: [Come aggiungere annotazioni filigrana in C#](https://docs.groupdocs.com/display/annotationnet/Add+watermark+annotation)
+* Ulteriori informazioni sull'aggiunta di annotazioni in filigrana a documenti di vario tipo: [Come aggiungere annotazioni di filigrana in C#](https://docs.groupdocs.com/display/annotationnet/Add+watermark+annotation)
 
 ### Guarda anche
 

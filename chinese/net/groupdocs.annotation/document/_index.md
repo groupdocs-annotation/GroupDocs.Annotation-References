@@ -1,14 +1,14 @@
 ---
 title: Document
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 表示文档属性
+description: 代表文档属性
 type: docs
 weight: 50
 url: /zh/net/groupdocs.annotation/document/
 ---
 ## Document class
 
-表示文档属性
+代表文档属性
 
 ```csharp
 public class Document
@@ -18,16 +18,16 @@ public class Document
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Document](document#constructor)(Stream) | 初始化的新实例[`Document`](../document)类. |
-| [Document](document#constructor_1)(Stream, string) | 初始化的新实例[`Document`](../document)类. |
+| [Document](document#constructor)(Stream) | 初始化新实例[`Document`](../document)类. |
+| [Document](document#constructor_1)(Stream, string) | 初始化新实例[`Document`](../document)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [Name](../../groupdocs.annotation/document/name) { get; set; } | 文件名 |
-| [Password](../../groupdocs.annotation/document/password) { get; } | 文档密码 |
-| [Stream](../../groupdocs.annotation/document/stream) { get; } | 文档流 |
+| [Password](../../groupdocs.annotation/document/password) { get; } | 文件密码 |
+| [Stream](../../groupdocs.annotation/document/stream) { get; } | 文件流 |
 
 ## 方法
 

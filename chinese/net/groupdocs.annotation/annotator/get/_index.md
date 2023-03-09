@@ -20,9 +20,9 @@ public List<AnnotationBase> Get()
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 更多关于如何获取文档注释集合： [如何在 C# 中获取文档注释](https://docs.groupdocs.com/display/annotationnet/Extract+annotations+from+document)
+* 有关如何获取文档注释集合的更多信息： [如何在C#中获取文档注释](https://docs.groupdocs.com/display/annotationnet/Extract+annotations+from+document)
 
 ### 也可以看看
 
@@ -51,9 +51,9 @@ public List<AnnotationBase> Get(AnnotationType type)
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 更多关于如何获取文档注释集合： [如何在 C# 中获取文档注释](https://docs.groupdocs.com/display/annotationnet/Extract+annotations+from+document)
+* 有关如何获取文档注释集合的更多信息： [如何在C#中获取文档注释](https://docs.groupdocs.com/display/annotationnet/Extract+annotations+from+document)
 
 ### 也可以看看
 

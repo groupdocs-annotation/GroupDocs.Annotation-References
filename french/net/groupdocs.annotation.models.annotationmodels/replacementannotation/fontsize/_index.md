@@ -11,7 +11,7 @@ url: /fr/net/groupdocs.annotation.models.annotationmodels/replacementannotation/
 Obtient ou définit la taille de police du texte d'annotation
 
 ```csharp
-public int? FontSize { get; set; }
+public double? FontSize { get; set; }
 ```
 
 ### Voir également

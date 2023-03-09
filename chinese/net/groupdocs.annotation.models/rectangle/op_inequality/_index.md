@@ -1,14 +1,14 @@
 ---
 title: op_Inequality
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 比较两个 Rectangle 对象结果指定两个 Rectangle 对象的 Rectangle.XRectangle.YRectangle.Width 和 Rectangle.Height 属性的值是否不相等
+description: 比较两个 Rectangle 对象结果指定两个Rectangle对象的Rectangle.XRectangle.YRectangle.Width和Rectangle.Height属性的值是否不相等
 type: docs
 weight: 90
 url: /zh/net/groupdocs.annotation.models/rectangle/op_inequality/
 ---
 ## Rectangle Inequality operator
 
-比较两个 Rectangle 对象。结果指定两个 Rectangle 对象的 Rectangle.X、Rectangle.Y、Rectangle.Width 和 Rectangle.Height 属性的值是否不相等。
+比较两个 Rectangle 对象。结果指定两个Rectangle对象的Rectangle.X、Rectangle.Y、Rectangle.Width和Rectangle.Height属性的值是否不相等。
 
 ```csharp
 public static bool operator !=(Rectangle left, Rectangle right)
@@ -21,7 +21,7 @@ public static bool operator !=(Rectangle left, Rectangle right)
 
 ### 返回值
 
-如果左右的 Rectangle.X、Rectangle.Y、Rectangle.Width 和 Rectangle.Height 值不相等，则为 true；否则为假。
+如果左右的 Rectangle.X、Rectangle.Y、Rectangle.Width 和 Rectangle.Height 值不相等，则为 true；否则，假的。
 
 ### 也可以看看
 

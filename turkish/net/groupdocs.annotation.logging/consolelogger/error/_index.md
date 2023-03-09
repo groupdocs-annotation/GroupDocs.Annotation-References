@@ -1,14 +1,14 @@
 ---
 title: Error
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: Hata mesajını günlüğe kaydeder.
+description: Günlük hata mesajı.
 type: docs
 weight: 20
 url: /tr/net/groupdocs.annotation.logging/consolelogger/error/
 ---
 ## ConsoleLogger.Error method
 
-Hata mesajını günlüğe kaydeder.
+Günlük hata mesajı.
 
 ```csharp
 public void Error(string message, Exception exception)

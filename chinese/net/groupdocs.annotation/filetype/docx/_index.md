@@ -1,14 +1,14 @@
 ---
 title: Docx
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: Microsoft Word Open XML 格式
+description: Microsoft Word 打开 XML 格式
 type: docs
 weight: 40
 url: /zh/net/groupdocs.annotation/filetype/docx/
 ---
 ## FileType.Docx property
 
-Microsoft Word Open XML 格式。
+Microsoft Word 打开 XML 格式。
 
 ```csharp
 public static FileType Docx { get; }

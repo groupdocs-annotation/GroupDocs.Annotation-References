@@ -1,14 +1,14 @@
 ---
 title: ICache
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Definisce i metodi richiesti per la memorizzazione dei documenti sottoposti a rendering e della cache delle risorse dei documenti.
+description: Definisce i metodi richiesti per larchiviazione del documento renderizzato e della cache delle risorse del documento.
 type: docs
 weight: 40
 url: /it/net/groupdocs.annotation.cache/icache/
 ---
 ## ICache interface
 
-Definisce i metodi richiesti per la memorizzazione dei documenti sottoposti a rendering e della cache delle risorse dei documenti.
+Definisce i metodi richiesti per l'archiviazione del documento renderizzato e della cache delle risorse del documento.
 
 ```csharp
 public interface ICache

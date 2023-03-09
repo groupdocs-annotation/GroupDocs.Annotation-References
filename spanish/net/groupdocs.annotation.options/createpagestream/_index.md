@@ -3,7 +3,7 @@ title: CreatePageStream
 second_title: GroupDocs.Annotation para la referencia de la API de .NET
 description: Delegado que define el método para crear el flujo de vista previa de la página de salida.
 type: docs
-weight: 960
+weight: 970
 url: /es/net/groupdocs.annotation.options/createpagestream/
 ---
 ## CreatePageStream delegate

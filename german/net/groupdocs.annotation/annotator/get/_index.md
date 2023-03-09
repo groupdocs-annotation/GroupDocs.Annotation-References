@@ -20,7 +20,7 @@ Die Liste der Anmerkungen.
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Weitere Informationen zum Abrufen der Sammlung von Dokumentanmerkungen: [So erhalten Sie Dokumentanmerkungen in C#](https://docs.groupdocs.com/display/annotationnet/Extract+annotations+from+document)
 
@@ -51,7 +51,7 @@ Die Liste der Anmerkungen nach Typ.
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Weitere Informationen zum Abrufen der Sammlung von Dokumentanmerkungen: [So erhalten Sie Dokumentanmerkungen in C#](https://docs.groupdocs.com/display/annotationnet/Extract+annotations+from+document)
 

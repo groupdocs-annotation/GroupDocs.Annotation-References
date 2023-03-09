@@ -1,14 +1,14 @@
 ---
 title: TextRedactionAnnotation
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 初始化的新实例TextRedactionAnnotationgroupdocs.annotation.models.annotationmodels/textredactionannotation类.
+description: 初始化新实例TextRedactionAnnotationgroupdocs.annotation.models.annotationmodels/textredactionannotation类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.annotation.models.annotationmodels/textredactionannotation/textredactionannotation/
 ---
 ## TextRedactionAnnotation constructor
 
-初始化的新实例[`TextRedactionAnnotation`](../../textredactionannotation)类.
+初始化新实例[`TextRedactionAnnotation`](../../textredactionannotation)类.
 
 ```csharp
 public TextRedactionAnnotation()

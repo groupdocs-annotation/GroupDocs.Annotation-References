@@ -26,10 +26,10 @@ public class LinkAnnotation : AnnotationBase, IEquatable<LinkAnnotation>, ILinkA
 | --- | --- |
 | [BackgroundColor](../../groupdocs.annotation.models.annotationmodels/linkannotation/backgroundcolor) { get; set; } | Ek açıklama arka plan rengini alır veya ayarlar |
 | [CreatedOn](../../groupdocs.annotation.models.annotationmodels/annotationbase/createdon) { get; set; } | Ek açıklama oluşturma tarihini alır veya ayarlar |
-| [FontColor](../../groupdocs.annotation.models.annotationmodels/linkannotation/fontcolor) { get; set; } | Ek açıklama metni yazı tipi rengini alır veya ayarlar |
+| [FontColor](../../groupdocs.annotation.models.annotationmodels/linkannotation/fontcolor) { get; set; } | Açıklama metni yazı tipi rengini alır veya ayarlar color |
 | [Id](../../groupdocs.annotation.models.annotationmodels/annotationbase/id) { get; set; } | Ek açıklama benzersiz tanımlayıcısını alır veya ayarlar |
 | [Message](../../groupdocs.annotation.models.annotationmodels/annotationbase/message) { get; set; } | Açıklama mesajını alır veya ayarlar |
-| [Opacity](../../groupdocs.annotation.models.annotationmodels/linkannotation/opacity) { get; set; } | Açıklama opacity değerini alır veya ayarlar |
+| [Opacity](../../groupdocs.annotation.models.annotationmodels/linkannotation/opacity) { get; set; } | Ek açıklama opaklığını alır veya ayarlar |
 | [PageNumber](../../groupdocs.annotation.models.annotationmodels/annotationbase/pagenumber) { get; set; } | Ek açıklamalı sayfa numarasını alır veya ayarlar |
 | [Points](../../groupdocs.annotation.models.annotationmodels/linkannotation/points) { get; set; } | Koordinatlar |
 | [Replies](../../groupdocs.annotation.models.annotationmodels/annotationbase/replies) { get; set; } | Ek açıklama yanıtlarını temsil eder koleksiyon |
@@ -51,7 +51,7 @@ public class LinkAnnotation : AnnotationBase, IEquatable<LinkAnnotation>, ILinkA
 
 **Daha fazla bilgi edin**
 
-* Açıklama türleri ve PDF ve Microsoft Word belgelerine, Excel elektronik tablolarına ve PowerPoint Sunumlarına açıklama ekleme hakkında daha fazla bilgi: [.NET için GroupDocs.Annotation kullanarak belgelere açıklama ekleme](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
+* Ek açıklama türleri ve PDF ve Microsoft Word belgeleri, Excel elektronik tabloları ve PowerPoint Sunumları hakkında daha fazla bilgi: [.NET için GroupDocs.Annotation kullanarak belgelere açıklama ekleme](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
 * Çeşitli türlerdeki belgelere bağlantı ek açıklamaları ekleme hakkında daha fazla bilgi: [C#'ta bağlantı ek açıklamaları nasıl eklenir?](https://docs.groupdocs.com/display/annotationnet/Add+link+annotation)
 
 ### Ayrıca bakınız

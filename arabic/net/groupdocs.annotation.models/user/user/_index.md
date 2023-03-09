@@ -22,21 +22,23 @@ public User()
 
 ---
 
-## User(int, string) {#constructor_1}
+## User(int, string, Role) {#constructor_1}
 
 تهيئة مثيل جديد لـ[`User`](../../user) فئة .
 
 ```csharp
-public User(int id, string name)
+public User(int id, string name, Role role)
 ```
 
 | معامل | يكتب | وصف |
 | --- | --- | --- |
 | id | Int32 | معرف المستخدم. |
 | name | String | اسم المستخدم. |
+| role | Role | دور المستخدم. |
 
 ### أنظر أيضا
 
+* enum [Role](../../role)
 * class [User](../../user)
 * مساحة الاسم [GroupDocs.Annotation.Models](../../user)
 * المجسم [GroupDocs.Annotation](../../../)

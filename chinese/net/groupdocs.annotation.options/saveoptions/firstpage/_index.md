@@ -1,14 +1,14 @@
 ---
 title: FirstPage
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 保存页面范围时的第一个页码
+description: 保存页面范围时的第一页码
 type: docs
 weight: 30
 url: /zh/net/groupdocs.annotation.options/saveoptions/firstpage/
 ---
 ## SaveOptions.FirstPage property
 
-保存页面范围时的第一个页码。
+保存页面范围时的第一页码。
 
 ```csharp
 public int FirstPage { get; set; }

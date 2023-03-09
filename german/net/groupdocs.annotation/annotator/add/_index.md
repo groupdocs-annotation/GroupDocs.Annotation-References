@@ -20,7 +20,7 @@ public void Add(AnnotationBase annotation)
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Weitere Informationen zum Hinzufügen von Anmerkungen zu Dokumenten: [So kommentieren Sie ein Dokument in C#](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
 
@@ -47,7 +47,7 @@ public void Add(List<AnnotationBase> annotations)
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Weitere Informationen zum Hinzufügen von Anmerkungen zu Dokumenten: [So kommentieren Sie ein Dokument in C#](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
 

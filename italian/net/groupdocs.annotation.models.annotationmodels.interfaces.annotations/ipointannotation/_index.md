@@ -1,14 +1,14 @@
 ---
 title: IPointAnnotation
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Definisce le proprietà dellannotazione del punto
+description: Definisce le proprietà di annotazione punto
 type: docs
 weight: 320
 url: /it/net/groupdocs.annotation.models.annotationmodels.interfaces.annotations/ipointannotation/
 ---
 ## IPointAnnotation interface
 
-Definisce le proprietà dell'annotazione del punto
+Definisce le proprietà di annotazione punto
 
 ```csharp
 public interface IPointAnnotation : IBox

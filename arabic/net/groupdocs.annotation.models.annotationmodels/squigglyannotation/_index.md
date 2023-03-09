@@ -53,7 +53,7 @@ public class SquigglyAnnotation : AnnotationBase, IEquatable<SquigglyAnnotation>
 **يتعلم أكثر**
 
 * المزيد حول أنواع التعليقات التوضيحية والتعليقات التوضيحية على مستندات PDF و Microsoft Word وجداول بيانات Excel وعروض PowerPoint التقديمية: [كيفية إضافة تعليق توضيحي على المستندات باستخدام GroupDocs.Annotation for .NET](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
-* المزيد حول إضافة التعليقات التوضيحية المتعرجة إلى المستندات من مختلف الأنواع: [كيفية إضافة التعليقات التوضيحية المتعرجة في C #](https://docs.groupdocs.com/display/annotationnet/Add+squiggly+annotation)
+* المزيد حول إضافة التعليقات التوضيحية المتعرجة إلى المستندات من مختلف الأنواع: [كيفية إضافة التعليقات التوضيحية المتعرجة في C #](https://docs.groupdocs.com/annotation/net/add-squiggly-annotation/)
 
 ### أنظر أيضا
 

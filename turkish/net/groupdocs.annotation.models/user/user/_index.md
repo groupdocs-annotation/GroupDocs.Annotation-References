@@ -22,21 +22,23 @@ public User()
 
 ---
 
-## User(int, string) {#constructor_1}
+## User(int, string, Role) {#constructor_1}
 
 Yeni örneğini başlatır[`User`](../../user) sınıf.
 
 ```csharp
-public User(int id, string name)
+public User(int id, string name, Role role)
 ```
 
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
 | id | Int32 | Kullanıcı kimliği. |
 | name | String | Kullanıcı adı. |
+| role | Role | Kullanıcı rolü. |
 
 ### Ayrıca bakınız
 
+* enum [Role](../../role)
 * class [User](../../user)
 * ad alanı [GroupDocs.Annotation.Models](../../user)
 * toplantı [GroupDocs.Annotation](../../../)

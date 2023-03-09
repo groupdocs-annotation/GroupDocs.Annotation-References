@@ -20,7 +20,7 @@ public override bool Equals(object obj)
 
 ### Rückgabewert
 
-`true` wenn der angegebene Punkt gleich dem aktuellen Punkt ist; Andernfalls,`false`.
+`true` wenn der angegebene Punkt gleich dem aktuellen Punkt ist; ansonsten,`false`.
 
 ### Siehe auch
 

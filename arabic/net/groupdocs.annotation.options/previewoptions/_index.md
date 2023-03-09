@@ -3,7 +3,7 @@ title: PreviewOptions
 second_title: GroupDocs.Annotation for .NET API Reference
 description: يمثل خيارات معاينة المستند.
 type: docs
-weight: 990
+weight: 1000
 url: /ar/net/groupdocs.annotation.options/previewoptions/
 ---
 ## PreviewOptions class

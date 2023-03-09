@@ -20,7 +20,7 @@ public void Update(AnnotationBase newAnnotation)
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее об обновлении аннотаций документа: [Как обновить аннотации документа в C#](https://docs.groupdocs.com/display/annotationnet/Update+annotations)
 
@@ -47,7 +47,7 @@ public void Update(List<AnnotationBase> annotations)
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее об обновлении аннотаций документа: [Как обновить аннотации документа в C#](https://docs.groupdocs.com/display/annotationnet/Update+annotations)
 

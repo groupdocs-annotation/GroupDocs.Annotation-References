@@ -1,14 +1,14 @@
 ---
 title: Height
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 页面预览高度
+description: 页面预览高度.
 type: docs
 weight: 30
 url: /zh/net/groupdocs.annotation.options/previewoptions/height/
 ---
 ## PreviewOptions.Height property
 
-页面预览高度。
+页面预览高度.
 
 ```csharp
 public int Height { get; set; }

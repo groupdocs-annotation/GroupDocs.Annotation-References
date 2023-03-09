@@ -43,7 +43,7 @@ public class HighlightAnnotation : AnnotationBase, IEquatable<HighlightAnnotatio
 | --- | --- |
 | override [Clone](../../groupdocs.annotation.models.annotationmodels/highlightannotation/clone)() | Devuelve una nueva Instancia con los mismos valores |
 | [Equals](../../groupdocs.annotation.models.annotationmodels/annotationbase/equals)(AnnotationBase) | Compara anotaciones base utilizando el método IEquatable Equals |
-| [Equals](../../groupdocs.annotation.models.annotationmodels/highlightannotation/equals#equals_1)(HighlightAnnotation) | Compara anotaciones resaltadas utilizando el método IEquatable Equals |
+| [Equals](../../groupdocs.annotation.models.annotationmodels/highlightannotation/equals#equals_1)(HighlightAnnotation) | Compara anotaciones resaltadas usando el método IEquatable Equals |
 | override [Equals](../../groupdocs.annotation.models.annotationmodels/highlightannotation/equals#equals_2)(object) | Compara las anotaciones resaltadas utilizando el objeto estándar Es igual al método |
 | override [GetHashCode](../../groupdocs.annotation.models.annotationmodels/highlightannotation/gethashcode)() | Devuelve el código hash de la anotación destacada |
 

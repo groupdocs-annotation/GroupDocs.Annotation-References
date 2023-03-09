@@ -10,7 +10,7 @@ is_root: true
 
 | ad alanı | Tanım |
 | --- | --- |
-| [GroupDocs.Annotation](./groupdocs.annotation) | Ad alanı, tüm popüler belge biçimleri için belgelere açıklama eklemek üzere sınıflar sağlar. |
+| [GroupDocs.Annotation](./groupdocs.annotation) | Ad alanı, tüm popüler belge biçimleri için belgelere açıklama eklemek için sınıflar sağlar. |
 | [GroupDocs.Annotation.Cache](./groupdocs.annotation.cache) | Ad alanı, önbelleğe alma davranışını özelleştirmek için sınıflar sağlar. |
 | [GroupDocs.Annotation.Exceptions](./groupdocs.annotation.exceptions) | Ad alanı, farklı istisna sınıfları sağlar. |
 | [GroupDocs.Annotation.Localization](./groupdocs.annotation.localization) | Ad alanı, desteklenen yerel ayarları kontrol eden sınıflar sağlar. |

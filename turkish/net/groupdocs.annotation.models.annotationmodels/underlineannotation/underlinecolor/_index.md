@@ -1,14 +1,14 @@
 ---
 title: UnderlineColor
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: color ek açıklamasını alır veya ayarlar
+description: Ek açıklamayı alır veya ayarlar color
 type: docs
 weight: 60
 url: /tr/net/groupdocs.annotation.models.annotationmodels/underlineannotation/underlinecolor/
 ---
 ## UnderlineAnnotation.UnderlineColor property
 
-color ek açıklamasını alır veya ayarlar
+Ek açıklamayı alır veya ayarlar color
 
 ```csharp
 public int? UnderlineColor { get; set; }

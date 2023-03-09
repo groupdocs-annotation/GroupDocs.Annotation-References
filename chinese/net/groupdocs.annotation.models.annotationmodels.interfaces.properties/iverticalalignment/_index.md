@@ -1,14 +1,14 @@
 ---
 title: IVerticalAlignment
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 定义注释垂直对齐方式
+description: 定义注释垂直对齐
 type: docs
 weight: 620
 url: /zh/net/groupdocs.annotation.models.annotationmodels.interfaces.properties/iverticalalignment/
 ---
 ## IVerticalAlignment interface
 
-定义注释垂直对齐方式
+定义注释垂直对齐
 
 ```csharp
 public interface IVerticalAlignment
@@ -18,7 +18,7 @@ public interface IVerticalAlignment
 
 | 姓名 | 描述 |
 | --- | --- |
-| [VerticalAlignment](../../groupdocs.annotation.models.annotationmodels.interfaces.properties/iverticalalignment/verticalalignment) { get; set; } | 获取或设置标注垂直对齐方式 |
+| [VerticalAlignment](../../groupdocs.annotation.models.annotationmodels.interfaces.properties/iverticalalignment/verticalalignment) { get; set; } | 获取或设置注释垂直对齐方式 |
 
 ### 也可以看看
 

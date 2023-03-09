@@ -1,14 +1,14 @@
 ---
 title: WatermarkAnnotation
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 初始化的新实例WatermarkAnnotationgroupdocs.annotation.models.annotationmodels/watermarkannotation类.
+description: 初始化新实例WatermarkAnnotationgroupdocs.annotation.models.annotationmodels/watermarkannotation类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.annotation.models.annotationmodels/watermarkannotation/watermarkannotation/
 ---
 ## WatermarkAnnotation constructor
 
-初始化的新实例[`WatermarkAnnotation`](../../watermarkannotation)类.
+初始化新实例[`WatermarkAnnotation`](../../watermarkannotation)类.
 
 ```csharp
 public WatermarkAnnotation()

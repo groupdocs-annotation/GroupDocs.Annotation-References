@@ -16,7 +16,7 @@ public bool Equals(DistanceAnnotation other)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| other | DistanceAnnotation | L'oggetto DistanceAnnotation da confrontare con l'oggetto corrente |
+| other | DistanceAnnotation | Oggetto DistanceAnnotation da confrontare con l'oggetto corrente |
 
 ### Guarda anche
 
@@ -28,7 +28,7 @@ public bool Equals(DistanceAnnotation other)
 
 ## Equals(object) {#equals_2}
 
-Confronta le annotazioni di distanza usando l'oggetto standard Equals method
+Confronta le annotazioni di distanza utilizzando il metodo Equals oggetto standard
 
 ```csharp
 public override bool Equals(object obj)

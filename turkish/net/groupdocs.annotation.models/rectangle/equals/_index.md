@@ -20,7 +20,7 @@ public override bool Equals(object obj)
 
 ### Geri dönüş değeri
 
-`true` belirtilen dikdörtgen mevcut dikdörtgene eşitse; aksi halde,`false`.
+`true` belirtilen dikdörtgen mevcut dikdörtgene eşitse; aksi takdirde,`false`.
 
 ### Ayrıca bakınız
 

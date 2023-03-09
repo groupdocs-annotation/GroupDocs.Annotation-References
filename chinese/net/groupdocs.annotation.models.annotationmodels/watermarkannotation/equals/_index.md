@@ -16,7 +16,7 @@ public bool Equals(WatermarkAnnotation other)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| other | WatermarkAnnotation | WatermarkAnnotation 对象与当前对象进行比较 |
+| other | WatermarkAnnotation | 要与当前对象进行比较的 WatermarkAnnotation 对象 |
 
 ### 也可以看看
 

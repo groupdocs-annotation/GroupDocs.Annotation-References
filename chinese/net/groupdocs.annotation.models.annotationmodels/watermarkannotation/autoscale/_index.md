@@ -1,14 +1,14 @@
 ---
 title: AutoScale
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 设置水印的自动缩放
+description: 设置水印的自动缩放比例
 type: docs
 weight: 30
 url: /zh/net/groupdocs.annotation.models.annotationmodels/watermarkannotation/autoscale/
 ---
 ## WatermarkAnnotation.AutoScale property
 
-设置水印的自动缩放
+设置水印的自动缩放比例
 
 ```csharp
 public bool AutoScale { get; set; }

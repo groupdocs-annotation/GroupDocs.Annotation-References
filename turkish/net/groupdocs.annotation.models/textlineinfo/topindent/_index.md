@@ -1,14 +1,14 @@
 ---
 title: TopIndent
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: top öğesinden girinti
+description: top den Girinti
 type: docs
 weight: 40
 url: /tr/net/groupdocs.annotation.models/textlineinfo/topindent/
 ---
 ## TextLineInfo.TopIndent property
 
-top öğesinden girinti
+top 'den Girinti
 
 ```csharp
 public double TopIndent { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: IEquatable Equals method kullanarak Elips Açıklamalarını karşılaştırır
+description: Elips Ek Açıklamalarını IEquatable Equals yöntemini kullanarak karşılaştırır
 type: docs
 weight: 90
 url: /tr/net/groupdocs.annotation.models.annotationmodels/ellipseannotation/equals/
 ---
 ## Equals(EllipseAnnotation) {#equals_1}
 
-IEquatable Equals method kullanarak Elips Açıklamalarını karşılaştırır
+Elips Ek Açıklamalarını IEquatable Equals yöntemini kullanarak karşılaştırır
 
 ```csharp
 public bool Equals(EllipseAnnotation other)
@@ -28,7 +28,7 @@ public bool Equals(EllipseAnnotation other)
 
 ## Equals(object) {#equals_2}
 
-Standart nesne Equals yöntemini kullanarak Elips Açıklamalarını karşılaştırır method
+standart nesne Equals method kullanarak Elips Ek Açıklamalarını karşılaştırır
 
 ```csharp
 public override bool Equals(object obj)

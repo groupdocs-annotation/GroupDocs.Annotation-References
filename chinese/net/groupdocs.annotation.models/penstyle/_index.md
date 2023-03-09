@@ -1,14 +1,14 @@
 ---
 title: PenStyle
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 笔型
+description: 钢笔样式
 type: docs
 weight: 860
 url: /zh/net/groupdocs.annotation.models/penstyle/
 ---
 ## PenStyle enumeration
 
-笔型
+钢笔样式
 
 ```csharp
 public enum PenStyle : byte
@@ -20,8 +20,8 @@ public enum PenStyle : byte
 | --- | --- | --- |
 | Solid | `0` | 指定实线 |
 | Dash | `1` | 指定由破折号组成的行 |
-| DashDot | `2` | 指定由破折号和点组成的线 |
-| Dot | `3` | 指定由点组成的行 |
+| DashDot | `2` | 指定由破折号和点组成的行 |
+| Dot | `3` | 指定一行由点组成 |
 | LongDash | `4` | 指定由长破折号组成的行 |
 | DashDotDot | `5` | 指定由破折号和两个点组成的线 |
 

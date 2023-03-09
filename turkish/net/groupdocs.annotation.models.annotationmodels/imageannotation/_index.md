@@ -25,7 +25,7 @@ public class ImageAnnotation : AnnotationBase, IAngle, IBox, IEquatable<ImageAnn
 | İsim | Tanım |
 | --- | --- |
 | [Angle](../../groupdocs.annotation.models.annotationmodels/imageannotation/angle) { get; set; } | Ek açıklama dönüş açısını alır veya ayarlar |
-| [Box](../../groupdocs.annotation.models.annotationmodels/imageannotation/box) { get; set; } | Konum açıklamasını alır veya ayarlar |
+| [Box](../../groupdocs.annotation.models.annotationmodels/imageannotation/box) { get; set; } | Ek açıklama pozisyonunu alır veya ayarlar |
 | [CreatedOn](../../groupdocs.annotation.models.annotationmodels/annotationbase/createdon) { get; set; } | Ek açıklama oluşturma tarihini alır veya ayarlar |
 | [Id](../../groupdocs.annotation.models.annotationmodels/annotationbase/id) { get; set; } | Ek açıklama benzersiz tanımlayıcısını alır veya ayarlar |
 | [ImageExtension](../../groupdocs.annotation.models.annotationmodels/imageannotation/imageextension) { get; set; } | Görüntü verilerini alır veya ayarlar |
@@ -53,7 +53,7 @@ public class ImageAnnotation : AnnotationBase, IAngle, IBox, IEquatable<ImageAnn
 
 **Daha fazla bilgi edin**
 
-* Açıklama türleri ve PDF ve Microsoft Word belgelerine, Excel elektronik tablolarına ve PowerPoint Sunumlarına açıklama ekleme hakkında daha fazla bilgi: [.NET için GroupDocs.Annotation kullanarak belgelere açıklama ekleme](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
+* Ek açıklama türleri ve PDF ve Microsoft Word belgeleri, Excel elektronik tabloları ve PowerPoint Sunumları hakkında daha fazla bilgi: [.NET için GroupDocs.Annotation kullanarak belgelere açıklama ekleme](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
 * Çeşitli türdeki belgelere resim açıklamaları ekleme hakkında daha fazla bilgi: [C#'ta görüntü ek açıklamaları nasıl eklenir?](https://docs.groupdocs.com/display/annotationnet/Add+image+annotation)
 
 ### Ayrıca bakınız

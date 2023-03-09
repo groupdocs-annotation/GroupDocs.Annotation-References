@@ -1,14 +1,14 @@
 ---
 title: PageInfo
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 表示文档页面信息
+description: 代表文档页面信息
 type: docs
 weight: 850
 url: /zh/net/groupdocs.annotation.models/pageinfo/
 ---
 ## PageInfo structure
 
-表示文档页面信息。
+代表文档页面信息。
 
 ```csharp
 public struct PageInfo
@@ -18,7 +18,7 @@ public struct PageInfo
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PageInfo](pageinfo)(int, int) | 初始化的新实例[`PageInfo`](../pageinfo)类. |
+| [PageInfo](pageinfo)(int, int) | 初始化新实例[`PageInfo`](../pageinfo)类. |
 
 ## 特性
 
@@ -27,7 +27,7 @@ public struct PageInfo
 | [Height](../../groupdocs.annotation.models/pageinfo/height) { get; set; } | 页面高度 |
 | [PageNumber](../../groupdocs.annotation.models/pageinfo/pagenumber) { get; set; } | 页码 |
 | [TextLines](../../groupdocs.annotation.models/pageinfo/textlines) { get; set; } | 文本行信息 |
-| [Width](../../groupdocs.annotation.models/pageinfo/width) { get; set; } | 页宽 |
+| [Width](../../groupdocs.annotation.models/pageinfo/width) { get; set; } | 页面宽度 |
 
 ### 也可以看看
 

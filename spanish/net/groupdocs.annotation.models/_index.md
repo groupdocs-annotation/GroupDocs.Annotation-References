@@ -32,6 +32,7 @@ El espacio de nombres proporciona clases de datos de anotación.
 | [HorizontalAlignment](./horizontalalignment) | Representa el estado de alineación horizontal de las anotaciones |
 | [PenStyle](./penstyle) | Estilo bolígrafo |
 | [ResolutionQuality](./resolutionquality) | Calidad de resolución |
+| [Role](./role) | Rol |
 | [RotationDocument](./rotationdocument) | Rotación |
 | [VerticalAlignment](./verticalalignment) | Representa el estado de alineación vertical de las anotaciones |
 

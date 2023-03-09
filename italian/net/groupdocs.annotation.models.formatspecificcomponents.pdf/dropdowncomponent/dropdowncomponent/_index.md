@@ -1,14 +1,14 @@
 ---
 title: DropdownComponent
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Inizializza la nuova istanza diDropdownComponentgroupdocs.annotation.models.formatspecificcomponents.pdf/dropdowncomponent classe.
+description: Inizializza una nuova istanza diDropdownComponentgroupdocs.annotation.models.formatspecificcomponents.pdf/dropdowncomponent classe.
 type: docs
 weight: 10
 url: /it/net/groupdocs.annotation.models.formatspecificcomponents.pdf/dropdowncomponent/dropdowncomponent/
 ---
 ## DropdownComponent constructor
 
-Inizializza la nuova istanza di[`DropdownComponent`](../../dropdowncomponent) classe.
+Inizializza una nuova istanza di[`DropdownComponent`](../../dropdowncomponent) classe.
 
 ```csharp
 public DropdownComponent()

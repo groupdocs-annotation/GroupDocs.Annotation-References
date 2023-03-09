@@ -1,14 +1,14 @@
 ---
 title: IResourcesRedactionAnnotation
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 定义资源编校注释属性
+description: 定义资源编辑注释属性
 type: docs
 weight: 350
 url: /zh/net/groupdocs.annotation.models.annotationmodels.interfaces.annotations/iresourcesredactionannotation/
 ---
 ## IResourcesRedactionAnnotation interface
 
-定义资源编校注释属性
+定义资源编辑注释属性
 
 ```csharp
 public interface IResourcesRedactionAnnotation : IBox

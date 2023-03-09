@@ -51,7 +51,7 @@ public class Annotator : IDisposable
 | [Remove](../../groupdocs.annotation/annotator/remove#remove)(AnnotationBase) | Rimuove l'annotazione dal documento. |
 | [Remove](../../groupdocs.annotation/annotator/remove#remove_1)(int) | Rimuove l'annotazione dal documento per Id. |
 | [Remove](../../groupdocs.annotation/annotator/remove#remove_2)(List&lt;AnnotationBase&gt;) | Rimuove la raccolta di annotazioni dal documento. |
-| [Remove](../../groupdocs.annotation/annotator/remove#remove_3)(List&lt;int&gt;) | Rimuove la raccolta di annotazioni dal documento in base agli ID annotazione forniti. |
+| [Remove](../../groupdocs.annotation/annotator/remove#remove_3)(List&lt;int&gt;) | Rimuove la raccolta di annotazioni dal documento in base agli ID di annotazione forniti. |
 | [Save](../../groupdocs.annotation/annotator/save#save)() | Salva il documento dopo aver aggiunto, aggiornato o rimosso annotazioni. |
 | [Save](../../groupdocs.annotation/annotator/save#save_1)(SaveOptions) | Salva il documento dopo aver aggiunto, aggiornato o rimosso annotazioni. |
 | [Save](../../groupdocs.annotation/annotator/save#save_2)(Stream) | Salva il documento dopo aver aggiunto, aggiornato o rimosso annotazioni. |

@@ -1,14 +1,14 @@
 ---
 title: FileTypeNotSupportedException
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: Dosya türü desteklenmediğinde oluşturulan özel durum.
+description: Dosya türü desteklenmediğinde atılan istisna.
 type: docs
 weight: 90
 url: /tr/net/groupdocs.annotation.exceptions/filetypenotsupportedexception/
 ---
 ## FileTypeNotSupportedException class
 
-Dosya türü desteklenmediğinde oluşturulan özel durum.
+Dosya türü desteklenmediğinde atılan istisna.
 
 ```csharp
 public class FileTypeNotSupportedException : AnnotatorException

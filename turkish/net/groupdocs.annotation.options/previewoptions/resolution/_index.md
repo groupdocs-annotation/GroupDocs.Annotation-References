@@ -1,14 +1,14 @@
 ---
 title: Resolution
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: Oluşturulan görüntülerin çözünürlüğünü inç başına nokta olarak alır veya ayarlar.
+description: Oluşturulan görüntülerin çözünürlüğünü inç başına nokta cinsinden alır veya ayarlar.
 type: docs
 weight: 90
 url: /tr/net/groupdocs.annotation.options/previewoptions/resolution/
 ---
 ## PreviewOptions.Resolution property
 
-Oluşturulan görüntülerin çözünürlüğünü inç başına nokta olarak alır veya ayarlar.
+Oluşturulan görüntülerin çözünürlüğünü inç başına nokta cinsinden alır veya ayarlar.
 
 ```csharp
 public int Resolution { get; set; }
@@ -16,7 +16,7 @@ public int Resolution { get; set; }
 
 ### Notlar
 
-Varsayılan değer 96. 'dir
+Varsayılan değer 96. 'dir.
 
 ### Ayrıca bakınız
 

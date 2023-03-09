@@ -1,14 +1,14 @@
 ---
 title: DropdownComponent
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: Açılır bileşen özelliklerini temsil eder
+description: Açılan bileşen özelliklerini temsil eder
 type: docs
 weight: 800
 url: /tr/net/groupdocs.annotation.models.formatspecificcomponents.pdf/dropdowncomponent/
 ---
 ## DropdownComponent class
 
-Açılır bileşen özelliklerini temsil eder
+Açılan bileşen özelliklerini temsil eder
 
 ```csharp
 public class DropdownComponent : AnnotationBase, IDropdownComponent
@@ -28,9 +28,9 @@ public class DropdownComponent : AnnotationBase, IDropdownComponent
 | [CreatedOn](../../groupdocs.annotation.models.annotationmodels/annotationbase/createdon) { get; set; } | Ek açıklama oluşturma tarihini alır veya ayarlar |
 | [Id](../../groupdocs.annotation.models.annotationmodels/annotationbase/id) { get; set; } | Ek açıklama benzersiz tanımlayıcısını alır veya ayarlar |
 | [Message](../../groupdocs.annotation.models.annotationmodels/annotationbase/message) { get; set; } | Açıklama mesajını alır veya ayarlar |
-| [Options](../../groupdocs.annotation.models.formatspecificcomponents.pdf/dropdowncomponent/options) { get; set; } | Bileşen tıklandığında gösterilecek seçeneklerin listesi (açılır öğeler) |
+| [Options](../../groupdocs.annotation.models.formatspecificcomponents.pdf/dropdowncomponent/options) { get; set; } | Bileşen tıklandığında gösterilecek seçeneklerin (açılır öğeler) listesi |
 | [PageNumber](../../groupdocs.annotation.models.annotationmodels/annotationbase/pagenumber) { get; set; } | Ek açıklamalı sayfa numarasını alır veya ayarlar |
-| [PenColor](../../groupdocs.annotation.models.formatspecificcomponents.pdf/dropdowncomponent/pencolor) { get; set; } | Bileşen kalemi rengini alır veya ayarlar |
+| [PenColor](../../groupdocs.annotation.models.formatspecificcomponents.pdf/dropdowncomponent/pencolor) { get; set; } | Bileşen kalem rengini alır veya ayarlar |
 | [PenStyle](../../groupdocs.annotation.models.formatspecificcomponents.pdf/dropdowncomponent/penstyle) { get; set; } | Bileşen kalem stilini alır veya ayarlar |
 | [PenWidth](../../groupdocs.annotation.models.formatspecificcomponents.pdf/dropdowncomponent/penwidth) { get; set; } | Bileşen kalem genişliğini alır veya ayarlar |
 | [Placeholder](../../groupdocs.annotation.models.formatspecificcomponents.pdf/dropdowncomponent/placeholder) { get; set; } | Henüz hiçbir seçenek seçilmediğinde gösterilecek metin |
@@ -45,16 +45,16 @@ public class DropdownComponent : AnnotationBase, IDropdownComponent
 | --- | --- |
 | override [Clone](../../groupdocs.annotation.models.formatspecificcomponents.pdf/dropdowncomponent/clone)() | Aynı değerlere sahip yeni Örnek döndürür |
 | [Equals](../../groupdocs.annotation.models.annotationmodels/annotationbase/equals)(AnnotationBase) | IEquatable Equals yöntemini kullanarak Temel Açıklamaları karşılaştırır |
-| [Equals](../../groupdocs.annotation.models.formatspecificcomponents.pdf/dropdowncomponent/equals#equals_1)(DropdownComponent) | Açılan bileşeni IEquatable Equals method kullanarak karşılaştırır |
-| override [Equals](../../groupdocs.annotation.models.formatspecificcomponents.pdf/dropdowncomponent/equals#equals_2)(object) | Standart nesne Eşittir yöntemini kullanarak Açılan Bileşenleri karşılaştırır method |
-| override [GetHashCode](../../groupdocs.annotation.models.formatspecificcomponents.pdf/dropdowncomponent/gethashcode)() | Açılır Component HashCode'unu döndürür |
+| [Equals](../../groupdocs.annotation.models.formatspecificcomponents.pdf/dropdowncomponent/equals#equals_1)(DropdownComponent) | Açılır Bileşeni IEquatable Equals yöntemini kullanarak karşılaştırır |
+| override [Equals](../../groupdocs.annotation.models.formatspecificcomponents.pdf/dropdowncomponent/equals#equals_2)(object) | Açılır Bileşenleri standart nesne Equals method kullanarak karşılaştırır |
+| override [GetHashCode](../../groupdocs.annotation.models.formatspecificcomponents.pdf/dropdowncomponent/gethashcode)() | Açılır Bileşenin HashCode'unu döndürür |
 
 ### Notlar
 
 **Daha fazla bilgi edin**
 
-* Açıklama türleri ve PDF'ye açıklama ekleme hakkında daha fazla bilgi: [.NET için GroupDocs.Annotation kullanarak belgelere açıklama ekleme](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
-* PDF'ye açılır liste bileşenleri ekleme hakkında daha fazla bilgi: [C#'da açılır bileşen nasıl eklenir](https://docs.groupdocs.com/display/annotationnet/Add+dropdown+component)
+* Ek açıklama türleri ve açıklama ekleme hakkında daha fazla bilgi PDF: [.NET için GroupDocs.Annotation kullanarak belgelere açıklama ekleme](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
+* PDF'ye açılır bileşenler ekleme hakkında daha fazla bilgi: [C#'ta açılır bileşen nasıl eklenir?](https://docs.groupdocs.com/display/annotationnet/Add+dropdown+component)
 
 ### Ayrıca bakınız
 

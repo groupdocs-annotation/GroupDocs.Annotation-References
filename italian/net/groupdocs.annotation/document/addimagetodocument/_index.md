@@ -1,14 +1,14 @@
 ---
 title: AddImageToDocument
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Modifica la qualità dellimmagine e aggiungi limmagine al documento
+description: Cambia la qualità dellimmagine e aggiungi limmagine al documento
 type: docs
 weight: 50
 url: /it/net/groupdocs.annotation/document/addimagetodocument/
 ---
 ## Document.AddImageToDocument method
 
-Modifica la qualità dell'immagine e aggiungi l'immagine al documento
+Cambia la qualità dell'immagine e aggiungi l'immagine al documento
 
 ```csharp
 public void AddImageToDocument(string dataDir, string jpgFileName, int pageNumber, int imageQuality)

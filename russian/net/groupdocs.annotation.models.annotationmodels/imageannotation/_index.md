@@ -51,7 +51,7 @@ public class ImageAnnotation : AnnotationBase, IAngle, IBox, IEquatable<ImageAnn
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее о типах аннотаций и аннотировании документов PDF и Microsoft Word, электронных таблиц Excel и презентаций PowerPoint: [Как аннотировать документы с помощью GroupDocs.Annotation для .NET](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
 * Подробнее о добавлении аннотаций к изображениям в документы различных типов: [Как добавить аннотации к изображениям в C#](https://docs.groupdocs.com/display/annotationnet/Add+image+annotation)

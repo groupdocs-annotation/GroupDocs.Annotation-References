@@ -37,7 +37,7 @@ public class ButtonComponent : AnnotationBase, IButtonComponent, IEquatable<Butt
 | [PartialName](../../groupdocs.annotation.models.formatspecificcomponents.pdf/buttoncomponent/partialname) { get; set; } | الحصول على أو تعيين الاسم الجزئي للمكون |
 | [PenColor](../../groupdocs.annotation.models.formatspecificcomponents.pdf/buttoncomponent/pencolor) { get; set; } | الحصول على أو تعيين لون القلم المكون |
 | [Replies](../../groupdocs.annotation.models.annotationmodels/annotationbase/replies) { get; set; } | يمثل مجموعة ردود التعليقات التوضيحية |
-| [RolloverCaption](../../groupdocs.annotation.models.formatspecificcomponents.pdf/buttoncomponent/rollovercaption) { get; set; } | الحصول على أو تعيين التسمية التوضيحية للزر التي يتم عرضها عندما يقوم المستخدم بتدوير المؤشر إلى المنطقة النشطة دون الضغط على زر الماوس. |
+| [RolloverCaption](../../groupdocs.annotation.models.formatspecificcomponents.pdf/buttoncomponent/rollovercaption) { get; set; } | الحصول على أو تعيين التسمية التوضيحية للزر التي يتم عرضها عندما يقوم المستخدم بتحريك المؤشر إلى المنطقة النشطة دون الضغط على زر الماوس. |
 | [Style](../../groupdocs.annotation.models.formatspecificcomponents.pdf/buttoncomponent/style) { get; set; } | الحصول على أو تعيين حد التعليق التوضيحي |
 | [Type](../../groupdocs.annotation.models.annotationmodels/annotationbase/type) { get; set; } | الحصول على نوع التعليق التوضيحي أو تعيينه |
 | [User](../../groupdocs.annotation.models.annotationmodels/annotationbase/user) { get; set; } | الحصول على أو تعيين منشئ التعليقات التوضيحية |

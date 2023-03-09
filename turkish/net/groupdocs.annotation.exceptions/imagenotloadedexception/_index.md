@@ -1,14 +1,14 @@
 ---
 title: ImageNotLoadedException
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: Görüntü uzak veya yerel yoldan yüklenemediğinde oluşturulan istisna.
+description: Görüntü uzak veya yerel yoldan yüklenemediğinde atılan istisna.
 type: docs
 weight: 110
 url: /tr/net/groupdocs.annotation.exceptions/imagenotloadedexception/
 ---
 ## ImageNotLoadedException class
 
-Görüntü uzak veya yerel yoldan yüklenemediğinde oluşturulan istisna.
+Görüntü uzak veya yerel yoldan yüklenemediğinde atılan istisna.
 
 ```csharp
 public class ImageNotLoadedException : AnnotatorException

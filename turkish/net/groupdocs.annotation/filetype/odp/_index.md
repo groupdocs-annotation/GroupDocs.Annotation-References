@@ -1,14 +1,14 @@
 ---
 title: Odp
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: Belge Sunumunu Açın.
+description: Açık Belge Sunumu.
 type: docs
 weight: 160
 url: /tr/net/groupdocs.annotation/filetype/odp/
 ---
 ## FileType.Odp property
 
-Belge Sunumunu Açın.
+Açık Belge Sunumu.
 
 ```csharp
 public static FileType Odp { get; }

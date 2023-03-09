@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 使用 IEquatable Equals 方法比较突出显示注释
+description: 使用 IEquatable Equals 方法比较高亮注释
 type: docs
 weight: 70
 url: /zh/net/groupdocs.annotation.models.annotationmodels/highlightannotation/equals/
 ---
 ## Equals(HighlightAnnotation) {#equals_1}
 
-使用 IEquatable Equals 方法比较突出显示注释
+使用 IEquatable Equals 方法比较高亮注释
 
 ```csharp
 public bool Equals(HighlightAnnotation other)
@@ -28,7 +28,7 @@ public bool Equals(HighlightAnnotation other)
 
 ## Equals(object) {#equals_2}
 
-使用标准对象 Equals 方法比较突出显示注释
+使用标准对象 Equals 方法比较高亮注释
 
 ```csharp
 public override bool Equals(object obj)

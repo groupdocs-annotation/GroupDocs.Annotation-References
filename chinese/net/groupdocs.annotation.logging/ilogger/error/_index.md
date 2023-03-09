@@ -1,14 +1,14 @@
 ---
 title: Error
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 错误消息
+description: 错误信息
 type: docs
 weight: 10
 url: /zh/net/groupdocs.annotation.logging/ilogger/error/
 ---
 ## ILogger.Error method
 
-错误消息。
+错误信息。
 
 ```csharp
 public void Error(string message, Exception ex)

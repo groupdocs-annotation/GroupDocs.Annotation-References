@@ -3,7 +3,7 @@ title: PreviewFormats
 second_title: GroupDocs.Annotation per riferimento all'API .NET
 description: Formati supportati per lanteprima del documento.
 type: docs
-weight: 980
+weight: 990
 url: /it/net/groupdocs.annotation.options/previewformats/
 ---
 ## PreviewFormats enumeration

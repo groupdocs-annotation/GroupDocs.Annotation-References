@@ -21,10 +21,10 @@ public enum DocumentType
 | Undefined | `-1` | L'indefinito |
 | Pdf | `0` | Rappresenta il formato Pdf |
 | Cells | `1` | Rappresenta il formato Excel |
-| Slides | `2` | Rappresenta il formato PowerPoint |
+| Slides | `2` | Rappresenta il formato Powerpoint |
 | Words | `3` | Rappresenta il formato Word |
 | Images | `4` | Rappresenta il formato immagine |
-| Email | `5` | Rappresenta il formato email |
+| Email | `5` | Rappresenta il formato e-mail |
 | Html | `6` | Rappresenta il formato HTML |
 | Diagram | `7` | Rappresenta il formato del diagramma |
 

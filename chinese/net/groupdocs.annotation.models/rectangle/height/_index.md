@@ -16,7 +16,7 @@ public float Height { get; set; }
 
 ### 适当的价值
 
-高度。
+高度.
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: Width
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 页面预览宽度.
+description: 页面预览宽度
 type: docs
 weight: 100
 url: /zh/net/groupdocs.annotation.options/previewoptions/width/
 ---
 ## PreviewOptions.Width property
 
-页面预览宽度.
+页面预览宽度。
 
 ```csharp
 public int Width { get; set; }

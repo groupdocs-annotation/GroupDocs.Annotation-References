@@ -1,14 +1,14 @@
 ---
 title: AlternateName
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: Bileşen alternatif adını alır veya ayarlar Alternatif ad Adobe Acrobatta alan araç ipucu olarak kullanılır.
+description: Bileşen alternatif adını alır veya ayarlar Alternatif ad Adobe Acrobatta alan ipucu olarak kullanılır.
 type: docs
 weight: 20
 url: /tr/net/groupdocs.annotation.models.formatspecificcomponents.pdf/buttoncomponent/alternatename/
 ---
 ## ButtonComponent.AlternateName property
 
-Bileşen alternatif adını alır veya ayarlar Alternatif ad, Adobe Acrobat'ta alan araç ipucu olarak kullanılır.
+Bileşen alternatif adını alır veya ayarlar Alternatif ad, Adobe Acrobat'ta alan ipucu olarak kullanılır.
 
 ```csharp
 public string AlternateName { get; set; }

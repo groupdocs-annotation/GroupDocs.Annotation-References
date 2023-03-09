@@ -1,14 +1,14 @@
 ---
 title: Width
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 页宽
+description: 页面宽度
 type: docs
 weight: 50
 url: /zh/net/groupdocs.annotation.models/pageinfo/width/
 ---
 ## PageInfo.Width property
 
-页宽
+页面宽度
 
 ```csharp
 public int Width { get; set; }

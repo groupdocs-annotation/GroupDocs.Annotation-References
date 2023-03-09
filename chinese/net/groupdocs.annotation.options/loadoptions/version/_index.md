@@ -1,14 +1,14 @@
 ---
 title: Version
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 设置要加载的文档版本默认状态  last
+description: 设置将加载的文档版本默认状态  last
 type: docs
 weight: 40
 url: /zh/net/groupdocs.annotation.options/loadoptions/version/
 ---
 ## LoadOptions.Version property
 
-设置要加载的文档版本。默认状态 - last
+设置将加载的文档版本。默认状态 - last
 
 ```csharp
 public object Version { get; set; }

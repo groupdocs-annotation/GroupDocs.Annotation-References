@@ -1,14 +1,14 @@
 ---
 title: NormalCaption
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Ottiene o imposta il componente normale caption
+description: Ottiene o imposta la didascalia normale del componente
 type: docs
 weight: 70
 url: /it/net/groupdocs.annotation.models.formatspecificcomponents.pdf/buttoncomponent/normalcaption/
 ---
 ## ButtonComponent.NormalCaption property
 
-Ottiene o imposta il componente normale caption
+Ottiene o imposta la didascalia normale del componente
 
 ```csharp
 public string NormalCaption { get; set; }

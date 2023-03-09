@@ -1,14 +1,14 @@
 ---
 title: Odt
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Apri testo documento.
+description: Apri il testo del documento.
 type: docs
 weight: 180
 url: /it/net/groupdocs.annotation/filetype/odt/
 ---
 ## FileType.Odt property
 
-Apri testo documento.
+Apri il testo del documento.
 
 ```csharp
 public static FileType Odt { get; }

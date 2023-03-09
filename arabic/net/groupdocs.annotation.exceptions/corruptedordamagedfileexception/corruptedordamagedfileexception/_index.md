@@ -1,14 +1,14 @@
 ---
 title: CorruptedOrDamagedFileException
 second_title: GroupDocs.Annotation for .NET API Reference
-description: يقوم بتهيئة مثيل جديد لملفCorruptedOrDamagedFileExceptiongroupdocs.annotation.exceptions/corruptedordamagedfileexception صف دراسي.
+description: يقوم بتهيئة مثيل جديد لملفCorruptedOrDamagedFileExceptiongroupdocs.annotation.exceptions/corruptedordamagedfileexception فصل.
 type: docs
 weight: 10
 url: /ar/net/groupdocs.annotation.exceptions/corruptedordamagedfileexception/corruptedordamagedfileexception/
 ---
 ## CorruptedOrDamagedFileException(string) {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`CorruptedOrDamagedFileException`](../../corruptedordamagedfileexception) صف دراسي.
+يقوم بتهيئة مثيل جديد لملف[`CorruptedOrDamagedFileException`](../../corruptedordamagedfileexception) فصل.
 
 ```csharp
 public CorruptedOrDamagedFileException(string message)
@@ -28,7 +28,7 @@ public CorruptedOrDamagedFileException(string message)
 
 ## CorruptedOrDamagedFileException(string, Exception) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`CorruptedOrDamagedFileException`](../../corruptedordamagedfileexception) صف دراسي.
+يقوم بتهيئة مثيل جديد لملف[`CorruptedOrDamagedFileException`](../../corruptedordamagedfileexception) فصل.
 
 ```csharp
 public CorruptedOrDamagedFileException(string message, Exception innerException)

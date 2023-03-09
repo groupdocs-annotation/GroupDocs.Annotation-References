@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: CheckBox Bileşenlerini IEquatable Equals method kullanarak karşılaştırır
+description: CheckBox Bileşenlerini IEquatable Equals yöntemini kullanarak karşılaştırır
 type: docs
 weight: 70
 url: /tr/net/groupdocs.annotation.models.formatspecificcomponents.pdf/checkboxcomponent/equals/
 ---
 ## Equals(CheckBoxComponent) {#equals_1}
 
-CheckBox Bileşenlerini IEquatable Equals method kullanarak karşılaştırır
+CheckBox Bileşenlerini IEquatable Equals yöntemini kullanarak karşılaştırır
 
 ```csharp
 public bool Equals(CheckBoxComponent other)
@@ -28,7 +28,7 @@ public bool Equals(CheckBoxComponent other)
 
 ## Equals(object) {#equals_2}
 
-Standart nesne Equals yöntemini kullanarak CheckBox Bileşenlerini karşılaştırır method
+Standart nesne Equals method kullanarak CheckBox Bileşenlerini karşılaştırır
 
 ```csharp
 public override bool Equals(object obj)

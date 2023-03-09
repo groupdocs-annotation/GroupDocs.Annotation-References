@@ -1,14 +1,14 @@
 ---
 title: Dxf
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: Çizim Değişim Biçimi Dosyası.
+description: Çizim Değişim Formatı Dosyası.
 type: docs
 weight: 90
 url: /tr/net/groupdocs.annotation/filetype/dxf/
 ---
 ## FileType.Dxf property
 
-Çizim Değişim Biçimi Dosyası.
+Çizim Değişim Formatı Dosyası.
 
 ```csharp
 public static FileType Dxf { get; }

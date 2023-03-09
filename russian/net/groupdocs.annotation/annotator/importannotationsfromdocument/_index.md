@@ -20,7 +20,7 @@ public void ImportAnnotationsFromDocument(string outputPath)
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее об импорте аннотаций: [Как импортировать аннотации из документа в С#](https://docs.groupdocs.com/display/annotationnet/Import+annotations+from+document)
 

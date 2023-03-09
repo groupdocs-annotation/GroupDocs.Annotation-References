@@ -1,14 +1,14 @@
 ---
 title: GetHashCode
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Restituisce il codice hash dellannotazione della distanza
+description: Restituisce HashCode dellannotazione della distanza
 type: docs
 weight: 90
 url: /it/net/groupdocs.annotation.models.annotationmodels/distanceannotation/gethashcode/
 ---
 ## DistanceAnnotation.GetHashCode method
 
-Restituisce il codice hash dell'annotazione della distanza
+Restituisce HashCode dell'annotazione della distanza
 
 ```csharp
 public override int GetHashCode()

@@ -11,7 +11,7 @@ url: /ar/net/groupdocs.annotation.models.annotationmodels/replacementannotation/
 الحصول على حجم خط نص التعليق التوضيحي أو تعيينه
 
 ```csharp
-public int? FontSize { get; set; }
+public double? FontSize { get; set; }
 ```
 
 ### أنظر أيضا

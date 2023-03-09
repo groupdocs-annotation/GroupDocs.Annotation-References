@@ -1,17 +1,17 @@
 ---
 title: FontSize
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 获取或设置注释文本字体大小
+description: 获取或设置注释文字字体大小
 type: docs
 weight: 30
 url: /zh/net/groupdocs.annotation.models.annotationmodels/replacementannotation/fontsize/
 ---
 ## ReplacementAnnotation.FontSize property
 
-获取或设置注释文本字体大小
+获取或设置注释文字字体大小
 
 ```csharp
-public int? FontSize { get; set; }
+public double? FontSize { get; set; }
 ```
 
 ### 也可以看看

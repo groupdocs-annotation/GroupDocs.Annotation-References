@@ -16,7 +16,7 @@ public bool Equals(AreaAnnotation other)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| other | AreaAnnotation | 与当前对象比较的 AreaAnnotation 对象 |
+| other | AreaAnnotation | 要与当前对象进行比较的 AreaAnnotation 对象 |
 
 ### 也可以看看
 
@@ -28,7 +28,7 @@ public bool Equals(AreaAnnotation other)
 
 ## Equals(object) {#equals_2}
 
-使用标准对象等于方法比较区域注释
+使用标准对象 Equals 方法比较区域注释
 
 ```csharp
 public override bool Equals(object obj)

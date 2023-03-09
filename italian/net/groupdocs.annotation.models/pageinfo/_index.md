@@ -18,7 +18,7 @@ public struct PageInfo
 
 | Nome | Descrizione |
 | --- | --- |
-| [PageInfo](pageinfo)(int, int) | Inizializza la nuova istanza di[`PageInfo`](../pageinfo) classe. |
+| [PageInfo](pageinfo)(int, int) | Inizializza una nuova istanza di[`PageInfo`](../pageinfo) classe. |
 
 ## Proprietà
 

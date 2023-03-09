@@ -1,14 +1,14 @@
 ---
 title: Document
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 初始化的新实例Documentgroupdocs.annotation/document类.
+description: 初始化新实例Documentgroupdocs.annotation/document类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.annotation/document/document/
 ---
 ## Document(Stream) {#constructor}
 
-初始化的新实例[`Document`](../../document)类.
+初始化新实例[`Document`](../../document)类.
 
 ```csharp
 public Document(Stream stream)
@@ -28,7 +28,7 @@ public Document(Stream stream)
 
 ## Document(Stream, string) {#constructor_1}
 
-初始化的新实例[`Document`](../../document)类.
+初始化新实例[`Document`](../../document)类.
 
 ```csharp
 public Document(Stream stream, string password)

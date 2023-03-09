@@ -1,14 +1,14 @@
 ---
 title: HorizontalAlignment
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 获取或设置标注水平对齐方式
+description: 获取或设置注释水平对齐方式
 type: docs
 weight: 10
 url: /zh/net/groupdocs.annotation.models.annotationmodels.interfaces.properties/ihorizontalalignment/horizontalalignment/
 ---
 ## IHorizontalAlignment.HorizontalAlignment property
 
-获取或设置标注水平对齐方式
+获取或设置注释水平对齐方式
 
 ```csharp
 public HorizontalAlignment HorizontalAlignment { get; set; }

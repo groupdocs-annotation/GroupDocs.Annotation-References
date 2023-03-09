@@ -1,14 +1,14 @@
 ---
 title: SearchTextFragment
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 初始化的新实例SearchTextFragmentgroupdocs.annotation.models.annotationmodels/searchtextfragment类.
+description: 初始化新实例SearchTextFragmentgroupdocs.annotation.models.annotationmodels/searchtextfragment类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.annotation.models.annotationmodels/searchtextfragment/searchtextfragment/
 ---
 ## SearchTextFragment constructor
 
-初始化的新实例[`SearchTextFragment`](../../searchtextfragment)类.
+初始化新实例[`SearchTextFragment`](../../searchtextfragment)类.
 
 ```csharp
 public SearchTextFragment()

@@ -3,7 +3,7 @@ title: SaveOptions
 second_title: .NET API 参考的 GroupDocs.Annotation
 description: 允许在保存带注释的文档时指定其他选项例如密码
 type: docs
-weight: 1010
+weight: 1020
 url: /zh/net/groupdocs.annotation.options/saveoptions/
 ---
 ## SaveOptions class
@@ -25,10 +25,10 @@ public class SaveOptions
 | 姓名 | 描述 |
 | --- | --- |
 | [AnnotationTypes](../../groupdocs.annotation.options/saveoptions/annotationtypes) { get; set; } | 定义结果文档中的注释。 |
-| [FirstPage](../../groupdocs.annotation.options/saveoptions/firstpage) { get; set; } | 保存页面范围时的第一个页码。 |
+| [FirstPage](../../groupdocs.annotation.options/saveoptions/firstpage) { get; set; } | 保存页面范围时的第一页码。 |
 | [LastPage](../../groupdocs.annotation.options/saveoptions/lastpage) { get; set; } | 保存页面范围时的最后页码。 |
 | [OnlyAnnotatedPages](../../groupdocs.annotation.options/saveoptions/onlyannotatedpages) { get; set; } | 表示是否只保存带注释的页面；. |
-| [Version](../../groupdocs.annotation.options/saveoptions/version) { get; set; } | 用于访问当前版本的版本密钥 |
+| [Version](../../groupdocs.annotation.options/saveoptions/version) { get; set; } | 将用于访问当前版本的版本密钥 |
 
 ### 也可以看看
 

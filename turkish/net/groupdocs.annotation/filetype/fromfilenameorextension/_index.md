@@ -1,14 +1,14 @@
 ---
 title: FromFileNameOrExtension
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: Dosya adı veya uzantısına göre Dosya Türü döndürür.
+description: Dosya adı veya uzantısına göre FileTypeı döndürür.
 type: docs
 weight: 410
 url: /tr/net/groupdocs.annotation/filetype/fromfilenameorextension/
 ---
 ## FileType.FromFileNameOrExtension method
 
-Dosya adı veya uzantısına göre Dosya Türü döndürür.
+Dosya adı veya uzantısına göre FileType'ı döndürür.
 
 ```csharp
 public static FileType FromFileNameOrExtension(string fileNameOrExtension)
@@ -20,7 +20,7 @@ public static FileType FromFileNameOrExtension(string fileNameOrExtension)
 
 ### Geri dönüş değeri
 
-Dosya türü.
+dosya türü.
 
 ### Ayrıca bakınız
 

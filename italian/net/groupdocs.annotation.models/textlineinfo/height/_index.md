@@ -1,14 +1,14 @@
 ---
 title: Height
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Larghezza altezza
+description: Altezza larghezza
 type: docs
 weight: 10
 url: /it/net/groupdocs.annotation.models/textlineinfo/height/
 ---
 ## TextLineInfo.Height property
 
-Larghezza altezza
+Altezza larghezza
 
 ```csharp
 public double Height { get; set; }

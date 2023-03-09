@@ -20,7 +20,7 @@ public void ImportAnnotationsFromDocument(string outputPath)
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Weitere Informationen zum Importieren von Anmerkungen: [So importieren Sie Anmerkungen aus einem Dokument in C#](https://docs.groupdocs.com/display/annotationnet/Import+annotations+from+document)
 

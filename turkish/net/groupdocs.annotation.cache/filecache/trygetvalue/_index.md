@@ -1,14 +1,14 @@
 ---
 title: TryGetValue
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: Varsa bu anahtarla ilişkili verileri seri durumdan çıkarır.
+description: Varsa bu anahtarla ilişkili verilerin serisini kaldırır.
 type: docs
 weight: 40
 url: /tr/net/groupdocs.annotation.cache/filecache/trygetvalue/
 ---
 ## FileCache.TryGetValue method
 
-Varsa, bu anahtarla ilişkili verileri seri durumdan çıkarır.
+Varsa, bu anahtarla ilişkili verilerin serisini kaldırır.
 
 ```csharp
 public bool TryGetValue(string key, out object value)

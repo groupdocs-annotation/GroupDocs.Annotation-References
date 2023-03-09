@@ -1,14 +1,14 @@
 ---
 title: CorruptedOrDamagedFileException
 second_title: Справочник по API GroupDocs.Annotation для .NET
-description: Инициализирует новый экземплярCorruptedOrDamagedFileExceptiongroupdocs.annotation.exceptions/corruptedordamagedfileexception учебный класс.
+description: Инициализирует новый экземплярCorruptedOrDamagedFileExceptiongroupdocs.annotation.exceptions/corruptedordamagedfileexception сорт.
 type: docs
 weight: 10
 url: /ru/net/groupdocs.annotation.exceptions/corruptedordamagedfileexception/corruptedordamagedfileexception/
 ---
 ## CorruptedOrDamagedFileException(string) {#constructor}
 
-Инициализирует новый экземпляр[`CorruptedOrDamagedFileException`](../../corruptedordamagedfileexception) учебный класс.
+Инициализирует новый экземпляр[`CorruptedOrDamagedFileException`](../../corruptedordamagedfileexception) сорт.
 
 ```csharp
 public CorruptedOrDamagedFileException(string message)
@@ -28,7 +28,7 @@ public CorruptedOrDamagedFileException(string message)
 
 ## CorruptedOrDamagedFileException(string, Exception) {#constructor_1}
 
-Инициализирует новый экземпляр[`CorruptedOrDamagedFileException`](../../corruptedordamagedfileexception) учебный класс.
+Инициализирует новый экземпляр[`CorruptedOrDamagedFileException`](../../corruptedordamagedfileexception) сорт.
 
 ```csharp
 public CorruptedOrDamagedFileException(string message, Exception innerException)

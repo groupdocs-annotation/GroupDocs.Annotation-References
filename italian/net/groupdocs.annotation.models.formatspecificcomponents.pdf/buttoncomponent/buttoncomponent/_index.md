@@ -1,14 +1,14 @@
 ---
 title: ButtonComponent
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Inizializza la nuova istanza diButtonComponentgroupdocs.annotation.models.formatspecificcomponents.pdf/buttoncomponent classe.
+description: Inizializza una nuova istanza diButtonComponentgroupdocs.annotation.models.formatspecificcomponents.pdf/buttoncomponent classe.
 type: docs
 weight: 10
 url: /it/net/groupdocs.annotation.models.formatspecificcomponents.pdf/buttoncomponent/buttoncomponent/
 ---
 ## ButtonComponent constructor
 
-Inizializza la nuova istanza di[`ButtonComponent`](../../buttoncomponent) classe.
+Inizializza una nuova istanza di[`ButtonComponent`](../../buttoncomponent) classe.
 
 ```csharp
 public ButtonComponent()

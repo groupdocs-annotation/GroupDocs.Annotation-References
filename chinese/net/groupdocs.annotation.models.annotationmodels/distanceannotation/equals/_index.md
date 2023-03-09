@@ -16,7 +16,7 @@ public bool Equals(DistanceAnnotation other)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| other | DistanceAnnotation | 与当前对象比较的 DistanceAnnotation 对象 |
+| other | DistanceAnnotation | 要与当前对象进行比较的 DistanceAnnotation 对象 |
 
 ### 也可以看看
 
@@ -28,7 +28,7 @@ public bool Equals(DistanceAnnotation other)
 
 ## Equals(object) {#equals_2}
 
-使用标准对象等于方法比较距离注释
+使用标准对象 Equals 方法比较距离注释
 
 ```csharp
 public override bool Equals(object obj)

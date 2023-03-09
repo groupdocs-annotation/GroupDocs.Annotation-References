@@ -1,14 +1,14 @@
 ---
 title: RolloverCaption
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 获取或设置按钮的翻转标题当用户将光标滚动到其活动区域而不按下鼠标按钮时应显示该标题
+description: 获取或设置按钮的滚动标题当用户将光标滚动到其活动区域而不按下鼠标按钮时应显示该标题
 type: docs
 weight: 100
 url: /zh/net/groupdocs.annotation.models.formatspecificcomponents.pdf/buttoncomponent/rollovercaption/
 ---
 ## ButtonComponent.RolloverCaption property
 
-获取或设置按钮的翻转标题，当用户将光标滚动到其活动区域而不按下鼠标按钮时应显示该标题。
+获取或设置按钮的滚动标题，当用户将光标滚动到其活动区域而不按下鼠标按钮时应显示该标题。
 
 ```csharp
 public string RolloverCaption { get; set; }

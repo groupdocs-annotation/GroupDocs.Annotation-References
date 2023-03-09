@@ -1,14 +1,14 @@
 ---
 title: ITextRedactionAnnotation
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: Metin redaksiyonu açıklama özelliklerini tanımlar
+description: Metin düzeltme açıklama özelliklerini tanımlar
 type: docs
 weight: 400
 url: /tr/net/groupdocs.annotation.models.annotationmodels.interfaces.annotations/itextredactionannotation/
 ---
 ## ITextRedactionAnnotation interface
 
-Metin redaksiyonu açıklama özelliklerini tanımlar
+Metin düzeltme açıklama özelliklerini tanımlar
 
 ```csharp
 public interface ITextRedactionAnnotation : IFontColor, IPoints

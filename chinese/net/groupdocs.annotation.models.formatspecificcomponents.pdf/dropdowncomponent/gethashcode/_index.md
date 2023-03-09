@@ -1,14 +1,14 @@
 ---
 title: GetHashCode
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 返回下拉组件的HashCode
+description: 返回下拉组件的哈希码
 type: docs
 weight: 110
 url: /zh/net/groupdocs.annotation.models.formatspecificcomponents.pdf/dropdowncomponent/gethashcode/
 ---
 ## DropdownComponent.GetHashCode method
 
-返回下拉组件的HashCode
+返回下拉组件的哈希码
 
 ```csharp
 public override int GetHashCode()

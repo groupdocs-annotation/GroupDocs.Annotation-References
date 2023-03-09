@@ -1,14 +1,14 @@
 ---
 title: ArrowAnnotation
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Inizializza la nuova istanza diArrowAnnotationgroupdocs.annotation.models.annotationmodels/arrowannotation classe.
+description: Inizializza una nuova istanza diArrowAnnotationgroupdocs.annotation.models.annotationmodels/arrowannotation classe.
 type: docs
 weight: 10
 url: /it/net/groupdocs.annotation.models.annotationmodels/arrowannotation/arrowannotation/
 ---
 ## ArrowAnnotation constructor
 
-Inizializza la nuova istanza di[`ArrowAnnotation`](../../arrowannotation) classe.
+Inizializza una nuova istanza di[`ArrowAnnotation`](../../arrowannotation) classe.
 
 ```csharp
 public ArrowAnnotation()

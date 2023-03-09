@@ -16,7 +16,7 @@ public bool Equals(WatermarkAnnotation other)
 
 | Paramètre | Taper | La description |
 | --- | --- | --- |
-| other | WatermarkAnnotation | L'objet WatermarkAnnotation à comparer avec l'objet courant |
+| other | WatermarkAnnotation | L'objet WatermarkAnnotation à comparer avec l'objet actuel |
 
 ### Voir également
 

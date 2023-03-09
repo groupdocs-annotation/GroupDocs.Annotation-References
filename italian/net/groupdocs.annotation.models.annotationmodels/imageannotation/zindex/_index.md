@@ -10,7 +10,7 @@ url: /it/net/groupdocs.annotation.models.annotationmodels/imageannotation/zindex
 
 Ottiene o imposta z-index. Il valore predefinito è 0
 
-Il**indice z**la proprietà specifica l'ordine di stack di un elemento.
+IL**indice z**La proprietà specifica l'ordine di stack di un elemento.
 
 ```csharp
 public int ZIndex { get; set; }

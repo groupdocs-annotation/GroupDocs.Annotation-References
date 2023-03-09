@@ -45,7 +45,7 @@ public class PointAnnotation : AnnotationBase, IEquatable<PointAnnotation>, IPoi
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее о типах аннотаций и аннотировании документов PDF и Microsoft Word, электронных таблиц Excel и презентаций PowerPoint: [Как аннотировать документы с помощью GroupDocs.Annotation для .NET](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
 * Подробнее о добавлении точечных аннотаций к документам различных типов: [Как добавить точечные аннотации в C#](https://docs.groupdocs.com/display/annotationnet/Add+point+annotation)

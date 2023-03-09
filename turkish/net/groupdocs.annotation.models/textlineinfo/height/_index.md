@@ -1,14 +1,14 @@
 ---
 title: Height
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: Yükseklik genişliği
+description: Yükseklik genişlik
 type: docs
 weight: 10
 url: /tr/net/groupdocs.annotation.models/textlineinfo/height/
 ---
 ## TextLineInfo.Height property
 
-Yükseklik genişliği
+Yükseklik genişlik
 
 ```csharp
 public double Height { get; set; }

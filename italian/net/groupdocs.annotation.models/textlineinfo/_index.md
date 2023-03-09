@@ -3,7 +3,7 @@ title: TextLineInfo
 second_title: GroupDocs.Annotation per riferimento all'API .NET
 description: Rappresenta le informazioni sulla riga di testo.
 type: docs
-weight: 920
+weight: 930
 url: /it/net/groupdocs.annotation.models/textlineinfo/
 ---
 ## TextLineInfo structure
@@ -18,9 +18,9 @@ public struct TextLineInfo
 
 | Nome | Descrizione |
 | --- | --- |
-| [Height](../../groupdocs.annotation.models/textlineinfo/height) { get; set; } | Larghezza altezza |
+| [Height](../../groupdocs.annotation.models/textlineinfo/height) { get; set; } | Altezza larghezza |
 | [LeftIndent](../../groupdocs.annotation.models/textlineinfo/leftindent) { get; set; } | Rientro da sinistra |
-| [Text](../../groupdocs.annotation.models/textlineinfo/text) { get; set; } | Testo riga |
+| [Text](../../groupdocs.annotation.models/textlineinfo/text) { get; set; } | Riga testo |
 | [TopIndent](../../groupdocs.annotation.models/textlineinfo/topindent) { get; set; } | Rientro dall'alto |
 | [Width](../../groupdocs.annotation.models/textlineinfo/width) { get; set; } | Larghezza linea |
 

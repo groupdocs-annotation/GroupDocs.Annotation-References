@@ -1,14 +1,14 @@
 ---
 title: Rectangle
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 初始化Rectanglegroupdocs.annotation.models/rectangle struct.
+description: 初始化一个新的实例Rectanglegroupdocs.annotation.models/rectangle结构.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.annotation.models/rectangle/rectangle/
 ---
 ## Rectangle constructor
 
-初始化[`Rectangle`](../../rectangle) struct.
+初始化一个新的实例[`Rectangle`](../../rectangle)结构.
 
 ```csharp
 public Rectangle(float x, float y, float width, float height)
@@ -16,7 +16,7 @@ public Rectangle(float x, float y, float width, float height)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| x | Single | X。 |
+| x | Single | x。 |
 | y | Single | 他们。 |
 | width | Single | 宽度。 |
 | height | Single | 高度。 |

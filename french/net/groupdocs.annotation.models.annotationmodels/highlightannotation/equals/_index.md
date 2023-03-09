@@ -16,7 +16,7 @@ public bool Equals(HighlightAnnotation other)
 
 | Paramètre | Taper | La description |
 | --- | --- | --- |
-| other | HighlightAnnotation | L'objet HighlightAnnotation à comparer avec l'objet courant |
+| other | HighlightAnnotation | L'objet HighlightAnnotation à comparer avec l'objet actuel |
 
 ### Voir également
 

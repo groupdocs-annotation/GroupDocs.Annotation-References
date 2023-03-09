@@ -32,6 +32,7 @@ url: /ru/net/groupdocs.annotation.models/
 | [HorizontalAlignment](./horizontalalignment) | Представляет состояние горизонтального выравнивания аннотаций |
 | [PenStyle](./penstyle) | Стиль пера |
 | [ResolutionQuality](./resolutionquality) | Качество разрешения |
+| [Role](./role) | Роль |
 | [RotationDocument](./rotationdocument) | Вращение |
 | [VerticalAlignment](./verticalalignment) | Представляет состояние вертикального выравнивания аннотаций |
 

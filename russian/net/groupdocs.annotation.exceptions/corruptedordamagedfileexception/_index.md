@@ -18,8 +18,8 @@ public class CorruptedOrDamagedFileException : AnnotatorException
 
 | Имя | Описание |
 | --- | --- |
-| [CorruptedOrDamagedFileException](corruptedordamagedfileexception#constructor)(string) | Инициализирует новый экземпляр[`CorruptedOrDamagedFileException`](../corruptedordamagedfileexception) учебный класс. |
-| [CorruptedOrDamagedFileException](corruptedordamagedfileexception#constructor_1)(string, Exception) | Инициализирует новый экземпляр[`CorruptedOrDamagedFileException`](../corruptedordamagedfileexception) учебный класс. |
+| [CorruptedOrDamagedFileException](corruptedordamagedfileexception#constructor)(string) | Инициализирует новый экземпляр[`CorruptedOrDamagedFileException`](../corruptedordamagedfileexception) сорт. |
+| [CorruptedOrDamagedFileException](corruptedordamagedfileexception#constructor_1)(string, Exception) | Инициализирует новый экземпляр[`CorruptedOrDamagedFileException`](../corruptedordamagedfileexception) сорт. |
 
 ### Смотрите также
 

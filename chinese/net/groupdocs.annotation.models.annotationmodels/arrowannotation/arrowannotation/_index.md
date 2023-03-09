@@ -1,14 +1,14 @@
 ---
 title: ArrowAnnotation
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 初始化的新实例ArrowAnnotationgroupdocs.annotation.models.annotationmodels/arrowannotation类.
+description: 初始化新实例ArrowAnnotationgroupdocs.annotation.models.annotationmodels/arrowannotation类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.annotation.models.annotationmodels/arrowannotation/arrowannotation/
 ---
 ## ArrowAnnotation constructor
 
-初始化的新实例[`ArrowAnnotation`](../../arrowannotation)类.
+初始化新实例[`ArrowAnnotation`](../../arrowannotation)类.
 
 ```csharp
 public ArrowAnnotation()

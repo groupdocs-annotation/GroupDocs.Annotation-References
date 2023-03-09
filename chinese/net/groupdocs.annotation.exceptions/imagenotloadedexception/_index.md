@@ -1,14 +1,14 @@
 ---
 title: ImageNotLoadedException
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 无法从远程或本地路径加载图像时引发的异常
+description: 无法从远程或本地路径加载图像时抛出的异常
 type: docs
 weight: 110
 url: /zh/net/groupdocs.annotation.exceptions/imagenotloadedexception/
 ---
 ## ImageNotLoadedException class
 
-无法从远程或本地路径加载图像时引发的异常。
+无法从远程或本地路径加载图像时抛出的异常。
 
 ```csharp
 public class ImageNotLoadedException : AnnotatorException

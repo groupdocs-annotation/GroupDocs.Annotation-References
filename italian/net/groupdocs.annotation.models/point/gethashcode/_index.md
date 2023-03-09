@@ -1,14 +1,14 @@
 ---
 title: GetHashCode
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Serve come funzione hash predefinita.
+description: Funge da funzione hash predefinita.
 type: docs
 weight: 50
 url: /it/net/groupdocs.annotation.models/point/gethashcode/
 ---
 ## Point.GetHashCode method
 
-Serve come funzione hash predefinita.
+Funge da funzione hash predefinita.
 
 ```csharp
 public override int GetHashCode()

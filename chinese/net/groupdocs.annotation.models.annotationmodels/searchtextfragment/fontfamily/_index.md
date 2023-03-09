@@ -1,14 +1,14 @@
 ---
 title: FontFamily
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 获取或设置文本字体family
+description: 获取或设置文本字体 family
 type: docs
 weight: 40
 url: /zh/net/groupdocs.annotation.models.annotationmodels/searchtextfragment/fontfamily/
 ---
 ## SearchTextFragment.FontFamily property
 
-获取或设置文本字体family
+获取或设置文本字体 family
 
 ```csharp
 public string FontFamily { get; set; }

@@ -51,7 +51,7 @@ public class DropdownComponent : AnnotationBase, IDropdownComponent
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее о типах аннотаций и аннотировании PDF: [Как аннотировать документы с помощью GroupDocs.Annotation для .NET](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
 * Подробнее о добавлении раскрывающихся компонентов в PDF: [Как добавить выпадающий компонент в C#](https://docs.groupdocs.com/display/annotationnet/Add+dropdown+component)

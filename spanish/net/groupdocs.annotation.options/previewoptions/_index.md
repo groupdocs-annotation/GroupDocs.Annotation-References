@@ -3,7 +3,7 @@ title: PreviewOptions
 second_title: GroupDocs.Annotation para la referencia de la API de .NET
 description: Representa las opciones de vista previa del documento.
 type: docs
-weight: 990
+weight: 1000
 url: /es/net/groupdocs.annotation.options/previewoptions/
 ---
 ## PreviewOptions class

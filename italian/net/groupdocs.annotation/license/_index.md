@@ -1,14 +1,14 @@
 ---
 title: License
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Fornisce i metodi per concedere in licenza il componente. Ulteriori informazioni sulle licenzequihttps//purchase.groupdocs.com/faqs/licensing .
+description: Fornisce i metodi per concedere in licenza il componente. Ulteriori informazioni sulle licenzeQuihttps//purchase.groupdocs.com/faqs/licensing .
 type: docs
 weight: 140
 url: /it/net/groupdocs.annotation/license/
 ---
 ## License class
 
-Fornisce i metodi per concedere in licenza il componente. Ulteriori informazioni sulle licenze[qui](https://purchase.groupdocs.com/faqs/licensing) .
+Fornisce i metodi per concedere in licenza il componente. Ulteriori informazioni sulle licenze[Qui](https://purchase.groupdocs.com/faqs/licensing) .
 
 ```csharp
 public class License
@@ -29,7 +29,7 @@ public class License
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni sulla licenza: [Domande frequenti sulle licenze di GroupDocs](https://purchase.groupdocs.com/faqs/licensing)
 * Ulteriori informazioni sulla licenza GroupDocs.Annotation: [Limiti di valutazione e licenza](https://docs.groupdocs.com/display/annotationnet/Evaluation+Limitations+and+Licensing+of+GroupDocs.Annotation)

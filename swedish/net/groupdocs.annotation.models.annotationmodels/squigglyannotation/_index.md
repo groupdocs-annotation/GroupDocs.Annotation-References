@@ -53,7 +53,7 @@ public class SquigglyAnnotation : AnnotationBase, IEquatable<SquigglyAnnotation>
 **Läs mer**
 
 * Mer om anteckningstyper och anteckning av PDF- och Microsoft Word-dokument, Excel-kalkylblad och PowerPoint-presentationer: [Hur man kommenterar dokument med GroupDocs.Annotation för .NET](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
-* Mer om att lägga till snirkliga kommentarer till dokument av olika typer: [Hur man lägger till snirkliga kommentarer i C#](https://docs.groupdocs.com/display/annotationnet/Add+squiggly+annotation)
+* Mer om att lägga till snirkliga kommentarer till dokument av olika typer: [Hur man lägger till snirkliga kommentarer i C#](https://docs.groupdocs.com/annotation/net/add-squiggly-annotation/)
 
 ### Se även
 

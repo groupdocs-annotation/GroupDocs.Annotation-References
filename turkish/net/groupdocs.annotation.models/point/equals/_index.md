@@ -20,7 +20,7 @@ public override bool Equals(object obj)
 
 ### Geri dönüş değeri
 
-`true` belirtilen nokta mevcut noktaya eşitse; aksi halde,`false`.
+`true` belirtilen nokta mevcut noktaya eşitse; aksi takdirde,`false`.
 
 ### Ayrıca bakınız
 

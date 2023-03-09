@@ -1,14 +1,14 @@
 ---
 title: PreviewOptions
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 初始化一个新的实例PreviewOptionsgroupdocs.annotation.options/previewoptions类.
+description: 初始化一个新实例PreviewOptionsgroupdocs.annotation.options/previewoptions类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.annotation.options/previewoptions/previewoptions/
 ---
 ## PreviewOptions(CreatePageStream) {#constructor}
 
-初始化一个新的实例[`PreviewOptions`](../../previewoptions)类.
+初始化一个新实例[`PreviewOptions`](../../previewoptions)类.
 
 ```csharp
 public PreviewOptions(CreatePageStream createPageStream)
@@ -29,7 +29,7 @@ public PreviewOptions(CreatePageStream createPageStream)
 
 ## PreviewOptions(CreatePageStream, ReleasePageStream) {#constructor_1}
 
-初始化一个新的实例[`PreviewOptions`](../../previewoptions)类.
+初始化一个新实例[`PreviewOptions`](../../previewoptions)类.
 
 ```csharp
 public PreviewOptions(CreatePageStream createPageStream, ReleasePageStream releasePageStream)
@@ -38,7 +38,7 @@ public PreviewOptions(CreatePageStream createPageStream, ReleasePageStream relea
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | createPageStream | CreatePageStream | 定义创建输出页面预览流的方法的委托。 |
-| releasePageStream | ReleasePageStream | 定义释放输出页面预览流的方法的委托。 |
+| releasePageStream | ReleasePageStream | 委托定义释放输出页面预览流的方法。 |
 
 ### 也可以看看
 

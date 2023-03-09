@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: GroupDocs.Annotation para la referencia de la API de .NET
-description: Compara anotaciones resaltadas utilizando el método IEquatable Equals
+description: Compara anotaciones resaltadas usando el método IEquatable Equals
 type: docs
 weight: 70
 url: /es/net/groupdocs.annotation.models.annotationmodels/highlightannotation/equals/
 ---
 ## Equals(HighlightAnnotation) {#equals_1}
 
-Compara anotaciones resaltadas utilizando el método IEquatable Equals
+Compara anotaciones resaltadas usando el método IEquatable Equals
 
 ```csharp
 public bool Equals(HighlightAnnotation other)

@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: Dosya türü denklik kontrolü.
+description: Dosya tipi denklik kontrolü.
 type: docs
 weight: 440
 url: /tr/net/groupdocs.annotation/filetype/equals/
 ---
 ## Equals(FileType) {#equals}
 
-Dosya türü denklik kontrolü.
+Dosya tipi denklik kontrolü.
 
 ```csharp
 public bool Equals(FileType other)
@@ -20,7 +20,7 @@ public bool Equals(FileType other)
 
 ### Geri dönüş değeri
 
-Dosya türleri eşdeğerse doğru, değilse yanlış.
+Dosya türleri eşdeğer ise true, değilse false.
 
 ### Ayrıca bakınız
 
@@ -32,7 +32,7 @@ Dosya türleri eşdeğerse doğru, değilse yanlış.
 
 ## Equals(object) {#equals_1}
 
-Nesne ile denklik kontrolü.
+object. ile denklik kontrolü
 
 ```csharp
 public override bool Equals(object obj)
@@ -44,7 +44,7 @@ public override bool Equals(object obj)
 
 ### Geri dönüş değeri
 
-Dosya türleri eşdeğerse doğru, değilse yanlış.
+Dosya türleri eşdeğer ise true, değilse false.
 
 ### Ayrıca bakınız
 

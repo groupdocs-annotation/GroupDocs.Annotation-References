@@ -18,7 +18,7 @@ public interface IAngle
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Angle](../../groupdocs.annotation.models.annotationmodels.interfaces.properties/iangle/angle) { get; set; } | 获取或设置注解旋转角度 |
+| [Angle](../../groupdocs.annotation.models.annotationmodels.interfaces.properties/iangle/angle) { get; set; } | 获取或设置注释旋转角度 |
 
 ### 也可以看看
 

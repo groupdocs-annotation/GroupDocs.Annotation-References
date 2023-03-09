@@ -1,14 +1,14 @@
 ---
 title: EllipseAnnotation
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 初始化的新实例EllipseAnnotationgroupdocs.annotation.models.annotationmodels/ellipseannotation类.
+description: 初始化新实例EllipseAnnotationgroupdocs.annotation.models.annotationmodels/ellipseannotation类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.annotation.models.annotationmodels/ellipseannotation/ellipseannotation/
 ---
 ## EllipseAnnotation constructor
 
-初始化的新实例[`EllipseAnnotation`](../../ellipseannotation)类.
+初始化新实例[`EllipseAnnotation`](../../ellipseannotation)类.
 
 ```csharp
 public EllipseAnnotation()

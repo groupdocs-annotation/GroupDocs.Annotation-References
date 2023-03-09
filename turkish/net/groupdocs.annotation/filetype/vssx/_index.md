@@ -1,14 +1,14 @@
 ---
 title: Vssx
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: Microsoft Visio Şablon Dosyası.
+description: Microsoft Visio Kalıp Dosyası.
 type: docs
 weight: 330
 url: /tr/net/groupdocs.annotation/filetype/vssx/
 ---
 ## FileType.Vssx property
 
-Microsoft Visio Şablon Dosyası.
+Microsoft Visio Kalıp Dosyası.
 
 ```csharp
 public static FileType Vssx { get; }

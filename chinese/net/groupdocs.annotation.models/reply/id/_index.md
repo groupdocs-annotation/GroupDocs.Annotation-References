@@ -1,14 +1,14 @@
 ---
 title: Id
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 回复 ID
+description: 回复 Id
 type: docs
 weight: 30
 url: /zh/net/groupdocs.annotation.models/reply/id/
 ---
 ## Reply.Id property
 
-回复 ID
+回复 Id
 
 ```csharp
 public int Id { get; set; }

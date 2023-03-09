@@ -20,9 +20,9 @@ public void ExportAnnotationsFromXMLFile(string filePath)
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 更多关于如何导出注释： [如何在 C# 中从 XML 文件中导出注释](https://docs.groupdocs.com/display/annotationnet/Export+annotations+from+document)
+* 有关如何导出注释的更多信息： [如何在 C# 中从 XML 文件中导出注释](https://docs.groupdocs.com/display/annotationnet/Export+annotations+from+document)
 
 ### 也可以看看
 

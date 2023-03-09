@@ -1,14 +1,14 @@
 ---
 title: IOpacity
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 定义注释不透明度
+description: 定义注释 opacity
 type: docs
 weight: 520
 url: /zh/net/groupdocs.annotation.models.annotationmodels.interfaces.properties/iopacity/
 ---
 ## IOpacity interface
 
-定义注释不透明度
+定义注释 opacity
 
 ```csharp
 public interface IOpacity
@@ -18,7 +18,7 @@ public interface IOpacity
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Opacity](../../groupdocs.annotation.models.annotationmodels.interfaces.properties/iopacity/opacity) { get; set; } | 获取或设置注解不透明度 |
+| [Opacity](../../groupdocs.annotation.models.annotationmodels.interfaces.properties/iopacity/opacity) { get; set; } | 获取或设置注释不透明度 |
 
 ### 也可以看看
 

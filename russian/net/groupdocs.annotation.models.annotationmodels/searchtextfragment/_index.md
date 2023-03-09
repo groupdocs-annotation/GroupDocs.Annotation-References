@@ -50,7 +50,7 @@ public class SearchTextFragment : AnnotationBase, IEquatable<SearchTextFragment>
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее о типах аннотаций и аннотировании PDF: [Как аннотировать документы с помощью GroupDocs.Annotation для .NET](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
 * Подробнее о добавлении аннотаций searchText к документам различных типов: [Как добавить аннотации searchText в C#](https://docs.groupdocs.com/display/annotationnet/Add+searchText+annotation)

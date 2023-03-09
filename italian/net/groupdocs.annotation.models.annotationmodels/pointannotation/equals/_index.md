@@ -28,7 +28,7 @@ public bool Equals(PointAnnotation other)
 
 ## Equals(object) {#equals_2}
 
-Confronta le annotazioni punto utilizzando l'oggetto standard Equals metodo
+Confronta le annotazioni dei punti utilizzando l'oggetto standard Equals method
 
 ```csharp
 public override bool Equals(object obj)

@@ -1,12 +1,12 @@
 ---
 title: GroupDocs.Annotation
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Lo spazio dei nomi fornisce classi per annotare i documenti per tutti i formati di documenti più diffusi.
+description: Lo spazio dei nomi fornisce classi per annotare documenti per tutti i formati di documenti più diffusi.
 type: docs
 weight: 10
 url: /it/net/groupdocs.annotation/
 ---
-Lo spazio dei nomi fornisce classi per annotare i documenti per tutti i formati di documenti più diffusi.
+Lo spazio dei nomi fornisce classi per annotare documenti per tutti i formati di documenti più diffusi.
 
 ## Classi
 
@@ -16,7 +16,7 @@ Lo spazio dei nomi fornisce classi per annotare i documenti per tutti i formati 
 | [AnnotatorSettings](./annotatorsettings) | Definisce le impostazioni per la personalizzazione[`Annotator`](../groupdocs.annotation/annotator) comportamento. |
 | [Document](./document) | Rappresenta le proprietà del documento |
 | [FileType](./filetype) | Informazioni sul file, come tipo, estensione, ecc. |
-| [License](./license) | Fornisce i metodi per concedere in licenza il componente. Ulteriori informazioni sulle licenze[qui](https://purchase.groupdocs.com/faqs/licensing) . |
+| [License](./license) | Fornisce i metodi per concedere in licenza il componente. Ulteriori informazioni sulle licenze[Qui](https://purchase.groupdocs.com/faqs/licensing) . |
 | [Metered](./metered) | Fornisce metodi per l'applicazione[Misurato](https://purchase.groupdocs.com/faqs/licensing/metered) licenza. |
 ## Interfacce
 

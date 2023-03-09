@@ -18,8 +18,8 @@ public class ImageNotLoadedException : AnnotatorException
 
 | Nom | La description |
 | --- | --- |
-| [ImageNotLoadedException](imagenotloadedexception#constructor)(string) | Initialise une nouvelle instance du[`ImageNotLoadedException`](../imagenotloadedexception) classer. |
-| [ImageNotLoadedException](imagenotloadedexception#constructor_1)(string, Exception) | Initialise une nouvelle instance du[`ImageNotLoadedException`](../imagenotloadedexception) classer. |
+| [ImageNotLoadedException](imagenotloadedexception#constructor)(string) | Initialise une nouvelle instance du[`ImageNotLoadedException`](../imagenotloadedexception) classe. |
+| [ImageNotLoadedException](imagenotloadedexception#constructor_1)(string, Exception) | Initialise une nouvelle instance du[`ImageNotLoadedException`](../imagenotloadedexception) classe. |
 
 ### Voir également
 

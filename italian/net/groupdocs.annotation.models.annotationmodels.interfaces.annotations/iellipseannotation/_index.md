@@ -1,14 +1,14 @@
 ---
 title: IEllipseAnnotation
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Definisce le proprietà di annotazione dellellisse
+description: Definisce le proprietà dellannotazione Ellisse
 type: docs
 weight: 290
 url: /it/net/groupdocs.annotation.models.annotationmodels.interfaces.annotations/iellipseannotation/
 ---
 ## IEllipseAnnotation interface
 
-Definisce le proprietà di annotazione dell'ellisse
+Definisce le proprietà dell'annotazione Ellisse
 
 ```csharp
 public interface IEllipseAnnotation : IBackgroundColor, IBox, IOpacity, IPenColor, IPenStyle, 

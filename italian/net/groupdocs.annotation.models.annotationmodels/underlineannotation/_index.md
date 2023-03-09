@@ -19,7 +19,7 @@ public class UnderlineAnnotation : AnnotationBase, IEquatable<UnderlineAnnotatio
 
 | Nome | Descrizione |
 | --- | --- |
-| [UnderlineAnnotation](underlineannotation)() | Inizializza la nuova istanza di[`UnderlineAnnotation`](../underlineannotation) classe. |
+| [UnderlineAnnotation](underlineannotation)() | Inizializza una nuova istanza di[`UnderlineAnnotation`](../underlineannotation) classe. |
 
 ## Proprietà
 
@@ -36,7 +36,7 @@ public class UnderlineAnnotation : AnnotationBase, IEquatable<UnderlineAnnotatio
 | [Replies](../../groupdocs.annotation.models.annotationmodels/annotationbase/replies) { get; set; } | Rappresenta la raccolta di risposte alle annotazioni |
 | [Type](../../groupdocs.annotation.models.annotationmodels/annotationbase/type) { get; set; } | Ottiene o imposta il tipo di annotazione |
 | [UnderlineColor](../../groupdocs.annotation.models.annotationmodels/underlineannotation/underlinecolor) { get; set; } | Ottiene o imposta l'annotazione color |
-| [User](../../groupdocs.annotation.models.annotationmodels/annotationbase/user) { get; set; } | Ottiene o imposta il creatore di annotazioni |
+| [User](../../groupdocs.annotation.models.annotationmodels/annotationbase/user) { get; set; } | Ottiene o imposta il creatore dell'annotazione |
 
 ## Metodi
 
@@ -44,13 +44,13 @@ public class UnderlineAnnotation : AnnotationBase, IEquatable<UnderlineAnnotatio
 | --- | --- |
 | override [Clone](../../groupdocs.annotation.models.annotationmodels/underlineannotation/clone)() | Restituisce una nuova istanza con gli stessi valori |
 | [Equals](../../groupdocs.annotation.models.annotationmodels/annotationbase/equals)(AnnotationBase) | Confronta le annotazioni di base utilizzando il metodo IEquatable Equals |
-| override [Equals](../../groupdocs.annotation.models.annotationmodels/underlineannotation/equals#equals_2)(object) | Confronta le annotazioni sottolineate utilizzando l'oggetto standard Equals metodo |
+| override [Equals](../../groupdocs.annotation.models.annotationmodels/underlineannotation/equals#equals_2)(object) | Confronta le annotazioni sottolineate utilizzando l'oggetto standard Equals method |
 | [Equals](../../groupdocs.annotation.models.annotationmodels/underlineannotation/equals#equals_1)(UnderlineAnnotation) | Confronta le annotazioni sottolineate utilizzando il metodo IEquatable Equals |
-| override [GetHashCode](../../groupdocs.annotation.models.annotationmodels/underlineannotation/gethashcode)() | Restituisce il codice hash dell'annotazione sottolineata |
+| override [GetHashCode](../../groupdocs.annotation.models.annotationmodels/underlineannotation/gethashcode)() | Restituisce HashCode dell'annotazione sottolineata |
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni sui tipi di annotazione e sull'annotazione di documenti PDF e Microsoft Word, fogli di calcolo Excel e presentazioni PowerPoint: [Come annotare i documenti utilizzando GroupDocs.Annotation per .NET](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
 * Ulteriori informazioni sull'aggiunta di annotazioni di sottolineatura a documenti di vario tipo: [Come aggiungere annotazioni sottolineate in C#](https://docs.groupdocs.com/display/annotationnet/Add+underline+annotation)

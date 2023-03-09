@@ -1,14 +1,14 @@
 ---
 title: TextFieldAnnotation
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Inizializza la nuova istanza diTextFieldAnnotationgroupdocs.annotation.models.annotationmodels/textfieldannotation classe.
+description: Inizializza una nuova istanza diTextFieldAnnotationgroupdocs.annotation.models.annotationmodels/textfieldannotation classe.
 type: docs
 weight: 10
 url: /it/net/groupdocs.annotation.models.annotationmodels/textfieldannotation/textfieldannotation/
 ---
 ## TextFieldAnnotation constructor
 
-Inizializza la nuova istanza di[`TextFieldAnnotation`](../../textfieldannotation) classe.
+Inizializza una nuova istanza di[`TextFieldAnnotation`](../../textfieldannotation) classe.
 
 ```csharp
 public TextFieldAnnotation()

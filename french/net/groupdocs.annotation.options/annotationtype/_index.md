@@ -3,7 +3,7 @@ title: AnnotationType
 second_title: Référence de l'API GroupDocs.Annotation pour .NET
 description: Énumération qui décrit les types dannotations pris en charge par GroupDocs.Annotation pour .NET
 type: docs
-weight: 950
+weight: 960
 url: /fr/net/groupdocs.annotation.options/annotationtype/
 ---
 ## AnnotationType enumeration
@@ -36,9 +36,9 @@ public enum AnnotationType
 | TextUnderline | `4000` | Le type d'annotation qui marque le texte avec un style souligné |
 | Watermark | `8000` | Le type d'annotation qui ajoute un filigrane textuel sur la page de document |
 | Image | `10000` | Le type d'annotation qui ajoute une superposition d'image sur le contenu de la page du document |
-| Dropdown | `20000` | Le type de composant qui ajoute un composant déroulant pour le document pdf**seulement** |
-| Checkbox | `21000` |  |
-| Button | `22000` |  |
+| Dropdown | `20000` | Le type de composant qui ajoute un composant déroulant pour le document pdf**seul** |
+| Checkbox | `21000` | Le type d'annotation qui ajoute une case à cocher pour le document pdf |
+| Button | `22000` | Le type d'annotation qui ajoute un bouton pour le document pdf |
 | TextSquiggly | `2500` | Le type d'annotation qui serpente et commente le texte sélectionné |
 | SearchText | `2700` | Le type d'annotation qui recherche le fragment de texte dans le document |
 | All | `7FFFFFFF` | Tous |
@@ -51,18 +51,18 @@ public enum AnnotationType
 * [Comment ajouter des annotations de zone en C#](https://docs.groupdocs.com/display/annotationnet/Add+area+annotation)
 * [Comment ajouter des annotations fléchées en C#](https://docs.groupdocs.com/display/annotationnet/Add+arrow+annotation)
 * [Comment ajouter des annotations de distance en C#](https://docs.groupdocs.com/display/annotationnet/Add+distance+annotation)
-* [Comment ajouter des annotations d'ellipse en C#](https://docs.groupdocs.com/display/annotationnet/Add+ellipse+annotation)
+* [Comment ajouter des annotations d'ellipse en C #](https://docs.groupdocs.com/display/annotationnet/Add+ellipse+annotation)
 * [Comment ajouter des annotations de lien en C#](https://docs.groupdocs.com/display/annotationnet/Add+link+annotation)
 * [Comment ajouter des annotations de points en C#](https://docs.groupdocs.com/display/annotationnet/Add+point+annotation)
 * [Comment ajouter des annotations polylignes en C#](https://docs.groupdocs.com/display/annotationnet/Add+polyline+annotation)
-* [Comment ajouter des annotations de rédaction de ressources en C#](https://docs.groupdocs.com/display/annotationnet/Add+resource+redaction+annotation)
-* [Comment ajouter des annotations de champ de texte en C #](https://docs.groupdocs.com/display/annotationnet/Add+text+field+annotation)
+* [Comment ajouter des annotations de rédaction de ressources en C #](https://docs.groupdocs.com/display/annotationnet/Add+resource+redaction+annotation)
+* [Comment ajouter des annotations de champ de texte en C#](https://docs.groupdocs.com/display/annotationnet/Add+text+field+annotation)
 * [Comment ajouter des annotations de surbrillance en C #](https://docs.groupdocs.com/display/annotationnet/Add+highlight+annotation)
 * [Comment ajouter des annotations de rédaction de texte en C#](https://docs.groupdocs.com/display/annotationnet/Add+text+redaction+annotation)
 * [Comment ajouter des annotations de remplacement en C#](https://docs.groupdocs.com/display/annotationnet/Add+replacement+annotation)
 * [Comment ajouter des annotations barrées en C #](https://docs.groupdocs.com/display/annotationnet/Add+strikeout+annotation)
 * [Comment ajouter des annotations de soulignement en C #](https://docs.groupdocs.com/display/annotationnet/Add+underline+annotation)
-* [Comment ajouter des annotations de filigrane en C #](https://docs.groupdocs.com/display/annotationnet/Add+watermark+annotation)
+* [Comment ajouter des annotations de filigrane en C#](https://docs.groupdocs.com/display/annotationnet/Add+watermark+annotation)
 * [Comment ajouter des annotations d'image en C#](https://docs.groupdocs.com/display/annotationnet/Add+image+annotation)
 
 ### Voir également

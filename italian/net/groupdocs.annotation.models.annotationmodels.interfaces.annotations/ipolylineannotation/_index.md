@@ -1,14 +1,14 @@
 ---
 title: IPolylineAnnotation
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Definisce le proprietà di annotazione della polilinea
+description: Definisce le proprietà di annotazione polilinea
 type: docs
 weight: 330
 url: /it/net/groupdocs.annotation.models.annotationmodels.interfaces.annotations/ipolylineannotation/
 ---
 ## IPolylineAnnotation interface
 
-Definisce le proprietà di annotazione della polilinea
+Definisce le proprietà di annotazione polilinea
 
 ```csharp
 public interface IPolylineAnnotation : IBox, IOpacity, IPenColor, IPenStyle, IPenWidth, ISvgPath

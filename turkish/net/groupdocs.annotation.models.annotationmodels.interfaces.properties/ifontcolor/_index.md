@@ -18,7 +18,7 @@ public interface IFontColor
 
 | İsim | Tanım |
 | --- | --- |
-| [FontColor](../../groupdocs.annotation.models.annotationmodels.interfaces.properties/ifontcolor/fontcolor) { get; set; } | Ek açıklama metni yazı tipi rengini alır veya ayarlar |
+| [FontColor](../../groupdocs.annotation.models.annotationmodels.interfaces.properties/ifontcolor/fontcolor) { get; set; } | Açıklama metni yazı tipi rengini alır veya ayarlar color |
 
 ### Ayrıca bakınız
 

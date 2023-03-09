@@ -3,7 +3,7 @@ title: VerticalAlignment
 second_title: GroupDocs.Annotation for .NET API Reference
 description: يمثل التعليقات التوضيحية حالة المحاذاة الرأسية
 type: docs
-weight: 940
+weight: 950
 url: /ar/net/groupdocs.annotation.models/verticalalignment/
 ---
 ## VerticalAlignment enumeration

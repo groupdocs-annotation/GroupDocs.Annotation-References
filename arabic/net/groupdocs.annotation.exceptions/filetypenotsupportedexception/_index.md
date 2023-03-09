@@ -18,8 +18,8 @@ public class FileTypeNotSupportedException : AnnotatorException
 
 | اسم | وصف |
 | --- | --- |
-| [FileTypeNotSupportedException](filetypenotsupportedexception#constructor)(string) | يقوم بتهيئة مثيل جديد لملف[`FileTypeNotSupportedException`](../filetypenotsupportedexception) صف دراسي. |
-| [FileTypeNotSupportedException](filetypenotsupportedexception#constructor_1)(string, Exception) | يقوم بتهيئة مثيل جديد لملف[`FileTypeNotSupportedException`](../filetypenotsupportedexception) صف دراسي. |
+| [FileTypeNotSupportedException](filetypenotsupportedexception#constructor)(string) | يقوم بتهيئة مثيل جديد لملف[`FileTypeNotSupportedException`](../filetypenotsupportedexception) فصل. |
+| [FileTypeNotSupportedException](filetypenotsupportedexception#constructor_1)(string, Exception) | يقوم بتهيئة مثيل جديد لملف[`FileTypeNotSupportedException`](../filetypenotsupportedexception) فصل. |
 
 ### أنظر أيضا
 

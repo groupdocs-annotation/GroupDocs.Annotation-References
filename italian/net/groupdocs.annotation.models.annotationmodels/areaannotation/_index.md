@@ -1,14 +1,14 @@
 ---
 title: AreaAnnotation
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Rappresenta le proprietà di annotazione dellarea
+description: Rappresenta le proprietà dellannotazione dellarea
 type: docs
 weight: 200
 url: /it/net/groupdocs.annotation.models.annotationmodels/areaannotation/
 ---
 ## AreaAnnotation class
 
-Rappresenta le proprietà di annotazione dell'area
+Rappresenta le proprietà dell'annotazione dell'area
 
 ```csharp
 public class AreaAnnotation : AnnotationBase, IAreaAnnotation, IEquatable<AreaAnnotation>
@@ -18,7 +18,7 @@ public class AreaAnnotation : AnnotationBase, IAreaAnnotation, IEquatable<AreaAn
 
 | Nome | Descrizione |
 | --- | --- |
-| [AreaAnnotation](areaannotation)() | Inizializza la nuova istanza di[`AreaAnnotation`](../areaannotation) classe. |
+| [AreaAnnotation](areaannotation)() | Inizializza una nuova istanza di[`AreaAnnotation`](../areaannotation) classe. |
 
 ## Proprietà
 
@@ -36,7 +36,7 @@ public class AreaAnnotation : AnnotationBase, IAreaAnnotation, IEquatable<AreaAn
 | [PenWidth](../../groupdocs.annotation.models.annotationmodels/areaannotation/penwidth) { get; set; } | Ottiene o imposta la larghezza della penna dell'annotazione |
 | [Replies](../../groupdocs.annotation.models.annotationmodels/annotationbase/replies) { get; set; } | Rappresenta la raccolta di risposte alle annotazioni |
 | [Type](../../groupdocs.annotation.models.annotationmodels/annotationbase/type) { get; set; } | Ottiene o imposta il tipo di annotazione |
-| [User](../../groupdocs.annotation.models.annotationmodels/annotationbase/user) { get; set; } | Ottiene o imposta il creatore di annotazioni |
+| [User](../../groupdocs.annotation.models.annotationmodels/annotationbase/user) { get; set; } | Ottiene o imposta il creatore dell'annotazione |
 
 ## Metodi
 
@@ -50,7 +50,7 @@ public class AreaAnnotation : AnnotationBase, IAreaAnnotation, IEquatable<AreaAn
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni sui tipi di annotazione e sull'annotazione di documenti PDF e Microsoft Word, fogli di calcolo Excel e presentazioni PowerPoint: [Come annotare i documenti utilizzando GroupDocs.Annotation per .NET](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
 * Ulteriori informazioni sull'aggiunta di annotazioni di area a documenti di vario tipo: [Come aggiungere annotazioni di area in C#](https://docs.groupdocs.com/display/annotationnet/Add+area+annotation)

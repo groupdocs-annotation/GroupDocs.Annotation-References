@@ -1,14 +1,14 @@
 ---
 title: ISvgPath
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 定义注解 svg 路径坐标 array
+description: 定义注解svg路径坐标array
 type: docs
 weight: 570
 url: /zh/net/groupdocs.annotation.models.annotationmodels.interfaces.properties/isvgpath/
 ---
 ## ISvgPath interface
 
-定义注解 svg 路径坐标 array
+定义注解svg路径坐标array
 
 ```csharp
 public interface ISvgPath
@@ -18,7 +18,7 @@ public interface ISvgPath
 
 | 姓名 | 描述 |
 | --- | --- |
-| [SvgPath](../../groupdocs.annotation.models.annotationmodels.interfaces.properties/isvgpath/svgpath) { get; set; } | 获取或设置注解 svg 路径坐标 array |
+| [SvgPath](../../groupdocs.annotation.models.annotationmodels.interfaces.properties/isvgpath/svgpath) { get; set; } | 获取或设置注解svg路径坐标array |
 
 ### 也可以看看
 

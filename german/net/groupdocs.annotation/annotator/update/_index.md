@@ -20,7 +20,7 @@ public void Update(AnnotationBase newAnnotation)
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Weitere Informationen zum Aktualisieren von Dokumentanmerkungen: [So aktualisieren Sie Dokumentanmerkungen in C#](https://docs.groupdocs.com/display/annotationnet/Update+annotations)
 
@@ -47,7 +47,7 @@ public void Update(List<AnnotationBase> annotations)
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Weitere Informationen zum Aktualisieren von Dokumentanmerkungen: [So aktualisieren Sie Dokumentanmerkungen in C#](https://docs.groupdocs.com/display/annotationnet/Update+annotations)
 

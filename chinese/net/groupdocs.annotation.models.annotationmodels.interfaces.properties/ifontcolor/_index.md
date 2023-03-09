@@ -1,14 +1,14 @@
 ---
 title: IFontColor
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 定义注释文本字体颜色
+description: 定义注释文字字体颜色
 type: docs
 weight: 480
 url: /zh/net/groupdocs.annotation.models.annotationmodels.interfaces.properties/ifontcolor/
 ---
 ## IFontColor interface
 
-定义注释文本字体颜色
+定义注释文字字体颜色
 
 ```csharp
 public interface IFontColor
@@ -18,7 +18,7 @@ public interface IFontColor
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FontColor](../../groupdocs.annotation.models.annotationmodels.interfaces.properties/ifontcolor/fontcolor) { get; set; } | 获取或设置注释文本字体颜色 |
+| [FontColor](../../groupdocs.annotation.models.annotationmodels.interfaces.properties/ifontcolor/fontcolor) { get; set; } | 获取或设置注释文字字体颜色 |
 
 ### 也可以看看
 

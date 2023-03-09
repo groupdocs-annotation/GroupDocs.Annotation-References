@@ -3,7 +3,7 @@ title: TextLineInfo
 second_title: GroupDocs.Annotation for .NET API Reference
 description: Representerar textradsinformation.
 type: docs
-weight: 920
+weight: 930
 url: /sv/net/groupdocs.annotation.models/textlineinfo/
 ---
 ## TextLineInfo structure

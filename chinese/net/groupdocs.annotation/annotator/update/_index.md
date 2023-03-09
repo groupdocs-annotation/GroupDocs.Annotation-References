@@ -16,13 +16,13 @@ public void Update(AnnotationBase newAnnotation)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| newAnnotation | AnnotationBase | 要更新的注释（应提供 ID）。 |
+| newAnnotation | AnnotationBase | 要更新的注释（应提供 Id）。 |
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 更多关于如何更新文档注释： [如何在 C# 中更新文档注释](https://docs.groupdocs.com/display/annotationnet/Update+annotations)
+* 有关如何更新文档注释的更多信息： [如何在 C# 中更新文档注释](https://docs.groupdocs.com/display/annotationnet/Update+annotations)
 
 ### 也可以看看
 
@@ -47,9 +47,9 @@ public void Update(List<AnnotationBase> annotations)
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 更多关于如何更新文档注释： [如何在 C# 中更新文档注释](https://docs.groupdocs.com/display/annotationnet/Update+annotations)
+* 有关如何更新文档注释的更多信息： [如何在 C# 中更新文档注释](https://docs.groupdocs.com/display/annotationnet/Update+annotations)
 
 ### 也可以看看
 

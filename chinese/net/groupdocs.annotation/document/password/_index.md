@@ -1,14 +1,14 @@
 ---
 title: Password
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 文档密码
+description: 文件密码
 type: docs
 weight: 30
 url: /zh/net/groupdocs.annotation/document/password/
 ---
 ## Document.Password property
 
-文档密码
+文件密码
 
 ```csharp
 public string Password { get; }

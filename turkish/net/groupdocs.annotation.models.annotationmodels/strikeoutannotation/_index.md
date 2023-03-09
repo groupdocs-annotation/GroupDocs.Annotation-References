@@ -27,12 +27,12 @@ public class StrikeoutAnnotation : AnnotationBase, IEquatable<StrikeoutAnnotatio
 | --- | --- |
 | [BackgroundColor](../../groupdocs.annotation.models.annotationmodels/strikeoutannotation/backgroundcolor) { get; set; } | Ek açıklama metni arka plan rengini alır veya ayarlar |
 | [CreatedOn](../../groupdocs.annotation.models.annotationmodels/annotationbase/createdon) { get; set; } | Ek açıklama oluşturma tarihini alır veya ayarlar |
-| [FontColor](../../groupdocs.annotation.models.annotationmodels/strikeoutannotation/fontcolor) { get; set; } | Ek açıklama metni yazı tipi rengini alır veya ayarlar |
+| [FontColor](../../groupdocs.annotation.models.annotationmodels/strikeoutannotation/fontcolor) { get; set; } | Açıklama metni yazı tipi rengini alır veya ayarlar color |
 | [Id](../../groupdocs.annotation.models.annotationmodels/annotationbase/id) { get; set; } | Ek açıklama benzersiz tanımlayıcısını alır veya ayarlar |
 | [Message](../../groupdocs.annotation.models.annotationmodels/annotationbase/message) { get; set; } | Açıklama mesajını alır veya ayarlar |
-| [Opacity](../../groupdocs.annotation.models.annotationmodels/strikeoutannotation/opacity) { get; set; } | Açıklama opacity değerini alır veya ayarlar |
+| [Opacity](../../groupdocs.annotation.models.annotationmodels/strikeoutannotation/opacity) { get; set; } | Ek açıklama opaklığını alır veya ayarlar |
 | [PageNumber](../../groupdocs.annotation.models.annotationmodels/annotationbase/pagenumber) { get; set; } | Ek açıklamalı sayfa numarasını alır veya ayarlar |
-| [Points](../../groupdocs.annotation.models.annotationmodels/strikeoutannotation/points) { get; set; } | Dikdörtgenleri text ile tanımlayan noktaların koleksiyonunu alır veya ayarlar |
+| [Points](../../groupdocs.annotation.models.annotationmodels/strikeoutannotation/points) { get; set; } | Metin ile dikdörtgenleri tanımlayan noktaların koleksiyonunu alır veya ayarlar |
 | [Replies](../../groupdocs.annotation.models.annotationmodels/annotationbase/replies) { get; set; } | Ek açıklama yanıtlarını temsil eder koleksiyon |
 | [Type](../../groupdocs.annotation.models.annotationmodels/annotationbase/type) { get; set; } | Açıklama tipini alır veya ayarlar |
 | [User](../../groupdocs.annotation.models.annotationmodels/annotationbase/user) { get; set; } | Ek açıklamayı alır veya ayarlar creator |
@@ -51,7 +51,7 @@ public class StrikeoutAnnotation : AnnotationBase, IEquatable<StrikeoutAnnotatio
 
 **Daha fazla bilgi edin**
 
-* Açıklama türleri ve PDF ve Microsoft Word belgelerine, Excel elektronik tablolarına ve PowerPoint Sunumlarına açıklama ekleme hakkında daha fazla bilgi: [.NET için GroupDocs.Annotation kullanarak belgelere açıklama ekleme](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
+* Ek açıklama türleri ve PDF ve Microsoft Word belgeleri, Excel elektronik tabloları ve PowerPoint Sunumları hakkında daha fazla bilgi: [.NET için GroupDocs.Annotation kullanarak belgelere açıklama ekleme](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
 * Çeşitli türdeki belgelere üstü çizili açıklamalar ekleme hakkında daha fazla bilgi: [C#'ta üstü çizili notlar nasıl eklenir?](https://docs.groupdocs.com/display/annotationnet/Add+strikeout+annotation)
 
 ### Ayrıca bakınız

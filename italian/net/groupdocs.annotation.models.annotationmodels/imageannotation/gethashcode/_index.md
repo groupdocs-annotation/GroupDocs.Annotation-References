@@ -1,14 +1,14 @@
 ---
 title: GetHashCode
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Restituisce il codice hash dellannotazione dellimmagine
+description: Restituisce lhashcode dellannotazione dellimmagine
 type: docs
 weight: 100
 url: /it/net/groupdocs.annotation.models.annotationmodels/imageannotation/gethashcode/
 ---
 ## ImageAnnotation.GetHashCode method
 
-Restituisce il codice hash dell'annotazione dell'immagine
+Restituisce l'hashcode dell'annotazione dell'immagine
 
 ```csharp
 public override int GetHashCode()

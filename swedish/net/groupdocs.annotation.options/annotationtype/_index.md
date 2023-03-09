@@ -3,7 +3,7 @@ title: AnnotationType
 second_title: GroupDocs.Annotation for .NET API Reference
 description: Uppräkning som beskriver anteckningstyper som stöds av GroupDocs.Annotation för .NET
 type: docs
-weight: 950
+weight: 960
 url: /sv/net/groupdocs.annotation.options/annotationtype/
 ---
 ## AnnotationType enumeration
@@ -37,8 +37,8 @@ public enum AnnotationType
 | Watermark | `8000` | Anteckningstypen som lägger till textvattenstämpel över dokumentsidan |
 | Image | `10000` | Annoteringstypen som lägger till bildöverlagring över dokumentsidans innehåll |
 | Dropdown | `20000` | Komponenttypen som lägger till en rullgardinskomponent för pdf-dokument**endast** |
-| Checkbox | `21000` |  |
-| Button | `22000` |  |
+| Checkbox | `21000` | Anteckningstypen som lägger till kryssruta för pdf document |
+| Button | `22000` | Anteckningstypen som lägger till knapp för pdf document |
 | TextSquiggly | `2500` | Anteckningstypen som snirkligt och kommenterar markerade text |
 | SearchText | `2700` | Anteckningstypen som söker fragmentera text i document |
 | All | `7FFFFFFF` | Alla |

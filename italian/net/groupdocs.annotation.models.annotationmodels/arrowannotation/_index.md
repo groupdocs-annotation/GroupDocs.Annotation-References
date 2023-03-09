@@ -18,7 +18,7 @@ public class ArrowAnnotation : AnnotationBase, IArrowAnnotation, IEquatable<Arro
 
 | Nome | Descrizione |
 | --- | --- |
-| [ArrowAnnotation](arrowannotation)() | Inizializza la nuova istanza di[`ArrowAnnotation`](../arrowannotation) classe. |
+| [ArrowAnnotation](arrowannotation)() | Inizializza una nuova istanza di[`ArrowAnnotation`](../arrowannotation) classe. |
 
 ## Proprietà
 
@@ -35,7 +35,7 @@ public class ArrowAnnotation : AnnotationBase, IArrowAnnotation, IEquatable<Arro
 | [PenWidth](../../groupdocs.annotation.models.annotationmodels/arrowannotation/penwidth) { get; set; } | Ottiene o imposta la larghezza della penna dell'annotazione |
 | [Replies](../../groupdocs.annotation.models.annotationmodels/annotationbase/replies) { get; set; } | Rappresenta la raccolta di risposte alle annotazioni |
 | [Type](../../groupdocs.annotation.models.annotationmodels/annotationbase/type) { get; set; } | Ottiene o imposta il tipo di annotazione |
-| [User](../../groupdocs.annotation.models.annotationmodels/annotationbase/user) { get; set; } | Ottiene o imposta il creatore di annotazioni |
+| [User](../../groupdocs.annotation.models.annotationmodels/annotationbase/user) { get; set; } | Ottiene o imposta il creatore dell'annotazione |
 
 ## Metodi
 
@@ -44,12 +44,12 @@ public class ArrowAnnotation : AnnotationBase, IArrowAnnotation, IEquatable<Arro
 | override [Clone](../../groupdocs.annotation.models.annotationmodels/arrowannotation/clone)() | Restituisce una nuova istanza con gli stessi valori |
 | [Equals](../../groupdocs.annotation.models.annotationmodels/annotationbase/equals)(AnnotationBase) | Confronta le annotazioni di base utilizzando il metodo IEquatable Equals |
 | [Equals](../../groupdocs.annotation.models.annotationmodels/arrowannotation/equals#equals_1)(ArrowAnnotation) | Confronta le annotazioni dell'area utilizzando il metodo IEquatable Equals |
-| override [Equals](../../groupdocs.annotation.models.annotationmodels/arrowannotation/equals#equals_2)(object) | Confronta le annotazioni con le frecce usando l'oggetto standard Equals method |
-| override [GetHashCode](../../groupdocs.annotation.models.annotationmodels/arrowannotation/gethashcode)() | Restituisce il codice hash dell'annotazione della freccia |
+| override [Equals](../../groupdocs.annotation.models.annotationmodels/arrowannotation/equals#equals_2)(object) | Confronta le annotazioni freccia utilizzando l'oggetto standard Equals method |
+| override [GetHashCode](../../groupdocs.annotation.models.annotationmodels/arrowannotation/gethashcode)() | Restituisce HashCode dell'annotazione freccia |
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni sui tipi di annotazione e sull'annotazione di documenti PDF e Microsoft Word, fogli di calcolo Excel e presentazioni PowerPoint: [Come annotare i documenti utilizzando GroupDocs.Annotation per .NET](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
 * Ulteriori informazioni sull'aggiunta di annotazioni freccia a documenti di vario tipo: [Come aggiungere annotazioni freccia in C#](https://docs.groupdocs.com/display/annotationnet/Add+arrow+annotation)

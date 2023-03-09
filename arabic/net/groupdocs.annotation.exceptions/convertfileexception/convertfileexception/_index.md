@@ -1,14 +1,14 @@
 ---
 title: ConvertFileException
 second_title: GroupDocs.Annotation for .NET API Reference
-description: يقوم بتهيئة مثيل جديد لملفConvertFileExceptiongroupdocs.annotation.exceptions/convertfileexception صف دراسي.
+description: يقوم بتهيئة مثيل جديد لملفConvertFileExceptiongroupdocs.annotation.exceptions/convertfileexception فصل.
 type: docs
 weight: 10
 url: /ar/net/groupdocs.annotation.exceptions/convertfileexception/convertfileexception/
 ---
 ## ConvertFileException(string) {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`ConvertFileException`](../../convertfileexception) صف دراسي.
+يقوم بتهيئة مثيل جديد لملف[`ConvertFileException`](../../convertfileexception) فصل.
 
 ```csharp
 public ConvertFileException(string message)
@@ -28,7 +28,7 @@ public ConvertFileException(string message)
 
 ## ConvertFileException(string, Exception) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`ConvertFileException`](../../convertfileexception) صف دراسي.
+يقوم بتهيئة مثيل جديد لملف[`ConvertFileException`](../../convertfileexception) فصل.
 
 ```csharp
 public ConvertFileException(string message, Exception innerException)

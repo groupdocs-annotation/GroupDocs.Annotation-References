@@ -1,14 +1,14 @@
 ---
 title: AutoScale
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Imposta la scalabilità automatica per la filigrana
+description: Imposta la scala automatica per la filigrana
 type: docs
 weight: 30
 url: /it/net/groupdocs.annotation.models.annotationmodels/watermarkannotation/autoscale/
 ---
 ## WatermarkAnnotation.AutoScale property
 
-Imposta la scalabilità automatica per la filigrana
+Imposta la scala automatica per la filigrana
 
 ```csharp
 public bool AutoScale { get; set; }

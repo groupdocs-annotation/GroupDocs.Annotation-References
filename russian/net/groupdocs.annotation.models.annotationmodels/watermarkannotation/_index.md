@@ -55,7 +55,7 @@ public class WatermarkAnnotation : AnnotationBase, IEquatable<WatermarkAnnotatio
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее о типах аннотаций и аннотировании документов PDF и Microsoft Word, электронных таблиц Excel и презентаций PowerPoint: [Как аннотировать документы с помощью GroupDocs.Annotation для .NET](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
 * Подробнее о добавлении водяных знаков к документам различных типов: [Как добавить аннотации водяных знаков в C#](https://docs.groupdocs.com/display/annotationnet/Add+watermark+annotation)

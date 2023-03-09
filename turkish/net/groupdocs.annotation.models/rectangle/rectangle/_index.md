@@ -1,14 +1,14 @@
 ---
 title: Rectangle
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: Yeni bir örneğini başlatırRectanglegroupdocs.annotation.models/rectangle yapı.
+description: Yeni bir örneğini başlatır.Rectanglegroupdocs.annotation.models/rectangle yapı.
 type: docs
 weight: 10
 url: /tr/net/groupdocs.annotation.models/rectangle/rectangle/
 ---
 ## Rectangle constructor
 
-Yeni bir örneğini başlatır[`Rectangle`](../../rectangle) yapı.
+Yeni bir örneğini başlatır.[`Rectangle`](../../rectangle) yapı.
 
 ```csharp
 public Rectangle(float x, float y, float width, float height)

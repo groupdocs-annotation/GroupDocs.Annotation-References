@@ -1,14 +1,14 @@
 ---
 title: PointAnnotation
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 表示点注释属性
+description: 表示点标注属性
 type: docs
 weight: 640
 url: /zh/net/groupdocs.annotation.models.annotationmodels/pointannotation/
 ---
 ## PointAnnotation class
 
-表示点注释属性
+表示点标注属性
 
 ```csharp
 public class PointAnnotation : AnnotationBase, IEquatable<PointAnnotation>, IPointAnnotation
@@ -18,18 +18,18 @@ public class PointAnnotation : AnnotationBase, IEquatable<PointAnnotation>, IPoi
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PointAnnotation](pointannotation)() | 初始化的新实例[`PointAnnotation`](../pointannotation)类. |
+| [PointAnnotation](pointannotation)() | 初始化新实例[`PointAnnotation`](../pointannotation)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [Box](../../groupdocs.annotation.models.annotationmodels/pointannotation/box) { get; set; } | 获取或设置注解位置 |
-| [CreatedOn](../../groupdocs.annotation.models.annotationmodels/annotationbase/createdon) { get; set; } | 获取或设置注解创建日期 |
+| [CreatedOn](../../groupdocs.annotation.models.annotationmodels/annotationbase/createdon) { get; set; } | 获取或设置注释创建日期 |
 | [Id](../../groupdocs.annotation.models.annotationmodels/annotationbase/id) { get; set; } | 获取或设置注解唯一标识符 |
-| [Message](../../groupdocs.annotation.models.annotationmodels/annotationbase/message) { get; set; } | 获取或设置注解消息 |
+| [Message](../../groupdocs.annotation.models.annotationmodels/annotationbase/message) { get; set; } | 获取或设置注释消息 |
 | [PageNumber](../../groupdocs.annotation.models.annotationmodels/annotationbase/pagenumber) { get; set; } | 获取或设置要标注的页码 |
-| [Replies](../../groupdocs.annotation.models.annotationmodels/annotationbase/replies) { get; set; } | 表示注释回复集合 |
+| [Replies](../../groupdocs.annotation.models.annotationmodels/annotationbase/replies) { get; set; } | 代表注解回复集合 |
 | [Type](../../groupdocs.annotation.models.annotationmodels/annotationbase/type) { get; set; } | 获取或设置注解类型 |
 | [User](../../groupdocs.annotation.models.annotationmodels/annotationbase/user) { get; set; } | 获取或设置注解创建者 |
 
@@ -39,16 +39,16 @@ public class PointAnnotation : AnnotationBase, IEquatable<PointAnnotation>, IPoi
 | --- | --- |
 | override [Clone](../../groupdocs.annotation.models.annotationmodels/pointannotation/clone)() | 返回具有相同值的新实例 |
 | [Equals](../../groupdocs.annotation.models.annotationmodels/annotationbase/equals)(AnnotationBase) | 使用 IEquatable Equals 方法比较基本注释 |
-| override [Equals](../../groupdocs.annotation.models.annotationmodels/pointannotation/equals#equals_2)(object) | 使用标准对象 Equals 方法比较点注释 |
+| override [Equals](../../groupdocs.annotation.models.annotationmodels/pointannotation/equals#equals_2)(object) | 使用标准对象等于方法比较点注释 |
 | [Equals](../../groupdocs.annotation.models.annotationmodels/pointannotation/equals#equals_1)(PointAnnotation) | 使用 IEquatable Equals 方法比较点注释 |
 | override [GetHashCode](../../groupdocs.annotation.models.annotationmodels/pointannotation/gethashcode)() | 返回点注解的HashCode |
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 更多关于注释类型和注释 PDF 和 Microsoft Word 文档、Excel 电子表格和 PowerPoint 演示文稿： [如何使用 GroupDocs.Annotation for .NET 注释文档](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
-* 更多关于为各种类型的文档添加点注释： [如何在 C# 中添加点注释](https://docs.groupdocs.com/display/annotationnet/Add+point+annotation)
+* 更多关于注释类型和注释 PDF 和 Microsoft Word 文档、Excel 电子表格和 PowerPoint 演示文稿的信息： [如何使用 GroupDocs.Annotation for .NET 注释文档](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
+* 更多关于向各种类型的文档添加点注释： [如何在C#中添加点注解](https://docs.groupdocs.com/display/annotationnet/Add+point+annotation)
 
 ### 也可以看看
 

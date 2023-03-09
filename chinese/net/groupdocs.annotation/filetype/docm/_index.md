@@ -1,14 +1,14 @@
 ---
 title: Docm
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: Microsoft Word 2007 宏文件
+description: Microsoft Word 2007 宏文件.
 type: docs
 weight: 30
 url: /zh/net/groupdocs.annotation/filetype/docm/
 ---
 ## FileType.Docm property
 
-Microsoft Word 2007 宏文件。
+Microsoft Word 2007 宏文件.
 
 ```csharp
 public static FileType Docm { get; }

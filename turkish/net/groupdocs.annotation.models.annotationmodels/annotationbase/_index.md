@@ -33,7 +33,7 @@ public abstract class AnnotationBase : ICloneable, IEquatable<AnnotationBase>
 | virtual [Clone](../../groupdocs.annotation.models.annotationmodels/annotationbase/clone)() | Aynı değerlere sahip yeni Örnek döndürür |
 | [Equals](../../groupdocs.annotation.models.annotationmodels/annotationbase/equals#equals)(AnnotationBase) | IEquatable Equals yöntemini kullanarak Temel Açıklamaları karşılaştırır |
 | override [Equals](../../groupdocs.annotation.models.annotationmodels/annotationbase/equals#equals_1)(object) | standart nesne Equals method kullanarak Temel Ek Açıklamaları karşılaştırır |
-| override [GetHashCode](../../groupdocs.annotation.models.annotationmodels/annotationbase/gethashcode)() | AnnotationBase İleti, Sayfa Numarası ve Tür Özelliklerinin HashCode'unu döndürür |
+| override [GetHashCode](../../groupdocs.annotation.models.annotationmodels/annotationbase/gethashcode)() | AnnotationBase Mesajının HashCode'unu döndürür, SayfaNumarası ve Tip Özellikleri |
 
 ### Ayrıca bakınız
 

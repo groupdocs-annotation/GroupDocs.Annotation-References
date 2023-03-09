@@ -1,14 +1,14 @@
 ---
 title: IAreaAnnotation
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Definisce le proprietà di annotazione dellarea
+description: Definisce le proprietà dellannotazione dellarea
 type: docs
 weight: 260
 url: /it/net/groupdocs.annotation.models.annotationmodels.interfaces.annotations/iareaannotation/
 ---
 ## IAreaAnnotation interface
 
-Definisce le proprietà di annotazione dell'area
+Definisce le proprietà dell'annotazione dell'area
 
 ```csharp
 public interface IAreaAnnotation : IBackgroundColor, IBox, IOpacity, IPenColor, IPenStyle, IPenWidth

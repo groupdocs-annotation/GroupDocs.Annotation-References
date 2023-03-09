@@ -1,14 +1,14 @@
 ---
 title: Ppt
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Presentazione di Microsoft PowerPoint.
+description: Presentazione Microsoft PowerPoint.
 type: docs
 weight: 230
 url: /it/net/groupdocs.annotation/filetype/ppt/
 ---
 ## FileType.Ppt property
 
-Presentazione di Microsoft PowerPoint.
+Presentazione Microsoft PowerPoint.
 
 ```csharp
 public static FileType Ppt { get; }

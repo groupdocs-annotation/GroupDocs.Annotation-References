@@ -28,7 +28,7 @@ public bool Equals(ButtonComponent other)
 
 ## Equals(object) {#equals_2}
 
-使用标准对象 Equals 方法比较按钮组件
+使用标准对象等于方法比较按钮组件
 
 ```csharp
 public override bool Equals(object obj)

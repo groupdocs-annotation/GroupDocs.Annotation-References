@@ -11,7 +11,7 @@ url: /sv/net/groupdocs.annotation.models.annotationmodels/replacementannotation/
 Hämtar eller ställer in annoteringstext font size
 
 ```csharp
-public int? FontSize { get; set; }
+public double? FontSize { get; set; }
 ```
 
 ### Se även

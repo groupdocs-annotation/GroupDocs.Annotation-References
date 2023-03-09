@@ -1,14 +1,14 @@
 ---
 title: GetHashCode
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 返回SearchText Annotation的HashCode
+description: 返回 SearchText Annotation 的 HashCode
 type: docs
 weight: 90
 url: /zh/net/groupdocs.annotation.models.annotationmodels/searchtextfragment/gethashcode/
 ---
 ## SearchTextFragment.GetHashCode method
 
-返回SearchText Annotation的HashCode
+返回 SearchText Annotation 的 HashCode
 
 ```csharp
 public override int GetHashCode()

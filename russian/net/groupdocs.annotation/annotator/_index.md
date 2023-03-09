@@ -43,7 +43,7 @@ public class Annotator : IDisposable
 | [Add](../../groupdocs.annotation/annotator/add#add_1)(List&lt;AnnotationBase&gt;) | Добавляет коллекцию аннотаций в документ. |
 | [Dispose](../../groupdocs.annotation/annotator/dispose)() | Утилизировать |
 | [ExportAnnotationsFromXMLFile](../../groupdocs.annotation/annotator/exportannotationsfromxmlfile)(string) | Экспорт аннотаций из файла XML. |
-| [Get](../../groupdocs.annotation/annotator/get#get)() | Получает коллекции аннотаций документа. |
+| [Get](../../groupdocs.annotation/annotator/get#get)() | Получает коллекции аннотаций документов. |
 | [Get](../../groupdocs.annotation/annotator/get#get_1)(AnnotationType) | Получает коллекцию аннотаций документа по типу аннотации. |
 | [GetVersion](../../groupdocs.annotation/annotator/getversion)(object) | Получить аннотации из версий. |
 | [GetVersionsList](../../groupdocs.annotation/annotator/getversionslist)() | Получить версии. |

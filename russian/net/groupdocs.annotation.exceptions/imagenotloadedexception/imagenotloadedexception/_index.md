@@ -1,14 +1,14 @@
 ---
 title: ImageNotLoadedException
 second_title: Справочник по API GroupDocs.Annotation для .NET
-description: Инициализирует новый экземплярImageNotLoadedExceptiongroupdocs.annotation.exceptions/imagenotloadedexception учебный класс.
+description: Инициализирует новый экземплярImageNotLoadedExceptiongroupdocs.annotation.exceptions/imagenotloadedexception сорт.
 type: docs
 weight: 10
 url: /ru/net/groupdocs.annotation.exceptions/imagenotloadedexception/imagenotloadedexception/
 ---
 ## ImageNotLoadedException(string) {#constructor}
 
-Инициализирует новый экземпляр[`ImageNotLoadedException`](../../imagenotloadedexception) учебный класс.
+Инициализирует новый экземпляр[`ImageNotLoadedException`](../../imagenotloadedexception) сорт.
 
 ```csharp
 public ImageNotLoadedException(string message)
@@ -28,7 +28,7 @@ public ImageNotLoadedException(string message)
 
 ## ImageNotLoadedException(string, Exception) {#constructor_1}
 
-Инициализирует новый экземпляр[`ImageNotLoadedException`](../../imagenotloadedexception) учебный класс.
+Инициализирует новый экземпляр[`ImageNotLoadedException`](../../imagenotloadedexception) сорт.
 
 ```csharp
 public ImageNotLoadedException(string message, Exception innerException)

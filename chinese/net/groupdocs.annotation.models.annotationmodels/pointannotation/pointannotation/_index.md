@@ -1,14 +1,14 @@
 ---
 title: PointAnnotation
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 初始化的新实例PointAnnotationgroupdocs.annotation.models.annotationmodels/pointannotation类.
+description: 初始化新实例PointAnnotationgroupdocs.annotation.models.annotationmodels/pointannotation类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.annotation.models.annotationmodels/pointannotation/pointannotation/
 ---
 ## PointAnnotation constructor
 
-初始化的新实例[`PointAnnotation`](../../pointannotation)类.
+初始化新实例[`PointAnnotation`](../../pointannotation)类.
 
 ```csharp
 public PointAnnotation()

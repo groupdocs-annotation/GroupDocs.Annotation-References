@@ -1,14 +1,14 @@
 ---
 title: Points
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: Konum açıklamasını alır veya ayarlar
+description: Ek açıklama pozisyonunu alır veya ayarlar
 type: docs
 weight: 10
 url: /tr/net/groupdocs.annotation.models.annotationmodels.interfaces.properties/ipoints/points/
 ---
 ## IPoints.Points property
 
-Konum açıklamasını alır veya ayarlar
+Ek açıklama pozisyonunu alır veya ayarlar
 
 ```csharp
 public List<Point> Points { get; set; }

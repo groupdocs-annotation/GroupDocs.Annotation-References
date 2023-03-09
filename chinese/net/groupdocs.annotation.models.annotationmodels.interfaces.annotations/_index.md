@@ -21,7 +21,7 @@ url: /zh/net/groupdocs.annotation.models.annotationmodels.interfaces.annotations
 | [IPointAnnotation](./ipointannotation) | 定义点注释属性 |
 | [IPolylineAnnotation](./ipolylineannotation) | 定义折线注释属性 |
 | [IReplacementAnnotation](./ireplacementannotation) | 定义替换注释属性 |
-| [IResourcesRedactionAnnotation](./iresourcesredactionannotation) | 定义资源编校注释属性 |
+| [IResourcesRedactionAnnotation](./iresourcesredactionannotation) | 定义资源编辑注释属性 |
 | [ISerachTextFragment](./iserachtextfragment) | 定义替换注释属性 |
 | [ISquigglyAnnotation](./isquigglyannotation) | 定义 Squiggly 注释属性 |
 | [IStrikeoutAnnotation](./istrikeoutannotation) | 定义删除线注释属性 |

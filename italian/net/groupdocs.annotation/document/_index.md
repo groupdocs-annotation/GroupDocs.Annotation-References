@@ -18,8 +18,8 @@ public class Document
 
 | Nome | Descrizione |
 | --- | --- |
-| [Document](document#constructor)(Stream) | Inizializza la nuova istanza di[`Document`](../document) classe. |
-| [Document](document#constructor_1)(Stream, string) | Inizializza la nuova istanza di[`Document`](../document) classe. |
+| [Document](document#constructor)(Stream) | Inizializza una nuova istanza di[`Document`](../document) classe. |
+| [Document](document#constructor_1)(Stream, string) | Inizializza una nuova istanza di[`Document`](../document) classe. |
 
 ## Proprietà
 
@@ -33,9 +33,9 @@ public class Document
 
 | Nome | Descrizione |
 | --- | --- |
-| [AddImageToDocument](../../groupdocs.annotation/document/addimagetodocument)(string, string, int, int) | Modifica la qualità dell'immagine e aggiungi l'immagine al documento |
+| [AddImageToDocument](../../groupdocs.annotation/document/addimagetodocument)(string, string, int, int) | Cambia la qualità dell'immagine e aggiungi l'immagine al documento |
 | [GeneratePreview](../../groupdocs.annotation/document/generatepreview)(PreviewOptions) | Genera l'anteprima delle pagine del documento. |
-| [GetDocumentInfo](../../groupdocs.annotation/document/getdocumentinfo)() | Ottiene informazioni sul documento: tipo e dimensione del documento, conteggio delle pagine ecc. |
+| [GetDocumentInfo](../../groupdocs.annotation/document/getdocumentinfo)() | Ottiene informazioni sul documento: tipo e dimensione del documento, numero di pagine ecc. |
 
 ### Guarda anche
 

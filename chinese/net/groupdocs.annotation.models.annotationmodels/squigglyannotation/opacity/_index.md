@@ -1,14 +1,14 @@
 ---
 title: Opacity
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 获取或设置注解不透明度
+description: 获取或设置注释不透明度
 type: docs
 weight: 40
 url: /zh/net/groupdocs.annotation.models.annotationmodels/squigglyannotation/opacity/
 ---
 ## SquigglyAnnotation.Opacity property
 
-获取或设置注解不透明度
+获取或设置注释不透明度
 
 ```csharp
 public double? Opacity { get; set; }

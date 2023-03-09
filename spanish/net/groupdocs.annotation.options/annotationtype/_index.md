@@ -3,7 +3,7 @@ title: AnnotationType
 second_title: GroupDocs.Annotation para la referencia de la API de .NET
 description: Enumeración que describe los tipos de anotaciones compatibles con GroupDocs.Annotation for .NET
 type: docs
-weight: 950
+weight: 960
 url: /es/net/groupdocs.annotation.options/annotationtype/
 ---
 ## AnnotationType enumeration
@@ -36,9 +36,9 @@ public enum AnnotationType
 | TextUnderline | `4000` | El tipo de anotación que marca el texto con un estilo de subrayado |
 | Watermark | `8000` | El tipo de anotación que agrega una marca de agua textual sobre la página del documento |
 | Image | `10000` | El tipo de anotación que agrega superposición de imágenes sobre el contenido de la página del documento |
-| Dropdown | `20000` | El tipo de componente que agrega el componente desplegable para el documento pdf**solamente** |
-| Checkbox | `21000` |  |
-| Button | `22000` |  |
+| Dropdown | `20000` | El tipo de componente que agrega el componente desplegable para el documento pdf**solo** |
+| Checkbox | `21000` | El tipo de anotación que agrega la casilla de verificación para el documento pdf |
+| Button | `22000` | El tipo de anotación que agrega el botón para el documento pdf |
 | TextSquiggly | `2500` | El tipo de anotación que seleccionó squiggly y comenta text |
 | SearchText | `2700` | El tipo de anotación que busca fragmento de texto en document |
 | All | `7FFFFFFF` | Todo |

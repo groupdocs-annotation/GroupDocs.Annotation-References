@@ -1,14 +1,14 @@
 ---
 title: IButtonComponent
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 定义按钮组件属性
+description: 定义 Button 组件属性
 type: docs
 weight: 810
 url: /zh/net/groupdocs.annotation.models.formatspecificcomponents.pdf.interfaces/ibuttoncomponent/
 ---
 ## IButtonComponent interface
 
-定义按钮组件属性
+定义 Button 组件属性
 
 ```csharp
 public interface IButtonComponent : IBorderStyle, IBox

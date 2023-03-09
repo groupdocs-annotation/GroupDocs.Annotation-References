@@ -18,7 +18,7 @@ public class DropdownComponent : AnnotationBase, IDropdownComponent
 
 | Nome | Descrizione |
 | --- | --- |
-| [DropdownComponent](dropdowncomponent)() | Inizializza la nuova istanza di[`DropdownComponent`](../dropdowncomponent) classe. |
+| [DropdownComponent](dropdowncomponent)() | Inizializza una nuova istanza di[`DropdownComponent`](../dropdowncomponent) classe. |
 
 ## Proprietà
 
@@ -28,16 +28,16 @@ public class DropdownComponent : AnnotationBase, IDropdownComponent
 | [CreatedOn](../../groupdocs.annotation.models.annotationmodels/annotationbase/createdon) { get; set; } | Ottiene o imposta la data di creazione dell'annotazione |
 | [Id](../../groupdocs.annotation.models.annotationmodels/annotationbase/id) { get; set; } | Ottiene o imposta l'identificatore univoco dell'annotazione |
 | [Message](../../groupdocs.annotation.models.annotationmodels/annotationbase/message) { get; set; } | Ottiene o imposta il messaggio di annotazione |
-| [Options](../../groupdocs.annotation.models.formatspecificcomponents.pdf/dropdowncomponent/options) { get; set; } | Elenco di opzioni (elementi a discesa) da mostrare quando si fa clic sul componente |
+| [Options](../../groupdocs.annotation.models.formatspecificcomponents.pdf/dropdowncomponent/options) { get; set; } | Elenco di opzioni (voci a discesa) da visualizzare quando si fa clic sul componente |
 | [PageNumber](../../groupdocs.annotation.models.annotationmodels/annotationbase/pagenumber) { get; set; } | Ottiene o imposta il numero di pagina da annotare |
 | [PenColor](../../groupdocs.annotation.models.formatspecificcomponents.pdf/dropdowncomponent/pencolor) { get; set; } | Ottiene o imposta il colore della penna del componente |
 | [PenStyle](../../groupdocs.annotation.models.formatspecificcomponents.pdf/dropdowncomponent/penstyle) { get; set; } | Ottiene o imposta lo stile della penna del componente |
 | [PenWidth](../../groupdocs.annotation.models.formatspecificcomponents.pdf/dropdowncomponent/penwidth) { get; set; } | Ottiene o imposta la larghezza della penna del componente |
-| [Placeholder](../../groupdocs.annotation.models.formatspecificcomponents.pdf/dropdowncomponent/placeholder) { get; set; } | Testo da visualizzare quando non è stata ancora selezionata alcuna opzione |
+| [Placeholder](../../groupdocs.annotation.models.formatspecificcomponents.pdf/dropdowncomponent/placeholder) { get; set; } | Testo da mostrare quando non è stata ancora selezionata alcuna opzione |
 | [Replies](../../groupdocs.annotation.models.annotationmodels/annotationbase/replies) { get; set; } | Rappresenta la raccolta di risposte alle annotazioni |
 | [SelectedOption](../../groupdocs.annotation.models.formatspecificcomponents.pdf/dropdowncomponent/selectedoption) { get; set; } | Numero di opzioni da selezionare per impostazione predefinita |
 | [Type](../../groupdocs.annotation.models.annotationmodels/annotationbase/type) { get; set; } | Ottiene o imposta il tipo di annotazione |
-| [User](../../groupdocs.annotation.models.annotationmodels/annotationbase/user) { get; set; } | Ottiene o imposta il creatore di annotazioni |
+| [User](../../groupdocs.annotation.models.annotationmodels/annotationbase/user) { get; set; } | Ottiene o imposta il creatore dell'annotazione |
 
 ## Metodi
 
@@ -45,13 +45,13 @@ public class DropdownComponent : AnnotationBase, IDropdownComponent
 | --- | --- |
 | override [Clone](../../groupdocs.annotation.models.formatspecificcomponents.pdf/dropdowncomponent/clone)() | Restituisce una nuova istanza con gli stessi valori |
 | [Equals](../../groupdocs.annotation.models.annotationmodels/annotationbase/equals)(AnnotationBase) | Confronta le annotazioni di base utilizzando il metodo IEquatable Equals |
-| [Equals](../../groupdocs.annotation.models.formatspecificcomponents.pdf/dropdowncomponent/equals#equals_1)(DropdownComponent) | Confronta il componente a discesa utilizzando il metodo IEquatable Equals |
+| [Equals](../../groupdocs.annotation.models.formatspecificcomponents.pdf/dropdowncomponent/equals#equals_1)(DropdownComponent) | Confronta il componente Dropdown utilizzando il metodo IEquatable Equals |
 | override [Equals](../../groupdocs.annotation.models.formatspecificcomponents.pdf/dropdowncomponent/equals#equals_2)(object) | Confronta i componenti a discesa utilizzando l'oggetto standard Equals method |
-| override [GetHashCode](../../groupdocs.annotation.models.formatspecificcomponents.pdf/dropdowncomponent/gethashcode)() | Restituisce il codice hash del componente a discesa |
+| override [GetHashCode](../../groupdocs.annotation.models.formatspecificcomponents.pdf/dropdowncomponent/gethashcode)() | Restituisce l'hashcode del componente a discesa |
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni sui tipi di annotazione e sull'annotazione del PDF: [Come annotare i documenti utilizzando GroupDocs.Annotation per .NET](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
 * Ulteriori informazioni sull'aggiunta di componenti a discesa al PDF: [Come aggiungere un componente a discesa in C#](https://docs.groupdocs.com/display/annotationnet/Add+dropdown+component)

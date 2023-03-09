@@ -3,7 +3,7 @@ title: ReleasePageStream
 second_title: .NET API Başvurusu için GroupDocs.Annotation
 description: Çıktı sayfası önizleme akışını yayınlama yöntemini tanımlayan temsilci.
 type: docs
-weight: 1000
+weight: 1010
 url: /tr/net/groupdocs.annotation.options/releasepagestream/
 ---
 ## ReleasePageStream delegate

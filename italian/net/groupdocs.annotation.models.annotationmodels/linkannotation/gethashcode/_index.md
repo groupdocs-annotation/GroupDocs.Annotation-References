@@ -1,14 +1,14 @@
 ---
 title: GetHashCode
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Restituisce il codice hash dellannotazione del collegamento
+description: Restituisce HashCode dellannotazione del collegamento
 type: docs
 weight: 90
 url: /it/net/groupdocs.annotation.models.annotationmodels/linkannotation/gethashcode/
 ---
 ## LinkAnnotation.GetHashCode method
 
-Restituisce il codice hash dell'annotazione del collegamento
+Restituisce HashCode dell'annotazione del collegamento
 
 ```csharp
 public override int GetHashCode()

@@ -3,7 +3,7 @@ title: SaveOptions
 second_title: GroupDocs.Annotation for .NET API Reference
 description: يسمح بتحديد خيارات إضافية مثل كلمة المرور عند حفظ الوثيقة المشروحة.
 type: docs
-weight: 1010
+weight: 1020
 url: /ar/net/groupdocs.annotation.options/saveoptions/
 ---
 ## SaveOptions class

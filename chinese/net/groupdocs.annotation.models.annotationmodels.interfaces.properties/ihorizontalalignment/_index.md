@@ -18,7 +18,7 @@ public interface IHorizontalAlignment
 
 | 姓名 | 描述 |
 | --- | --- |
-| [HorizontalAlignment](../../groupdocs.annotation.models.annotationmodels.interfaces.properties/ihorizontalalignment/horizontalalignment) { get; set; } | 获取或设置标注水平对齐方式 |
+| [HorizontalAlignment](../../groupdocs.annotation.models.annotationmodels.interfaces.properties/ihorizontalalignment/horizontalalignment) { get; set; } | 获取或设置注释水平对齐方式 |
 
 ### 也可以看看
 

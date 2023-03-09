@@ -1,14 +1,14 @@
 ---
 title: VerticalAlignment
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 表示注解垂直对齐状态
+description: 表示标注垂直对齐状态
 type: docs
-weight: 940
+weight: 950
 url: /zh/net/groupdocs.annotation.models/verticalalignment/
 ---
 ## VerticalAlignment enumeration
 
-表示注解垂直对齐状态
+表示标注垂直对齐状态
 
 ```csharp
 public enum VerticalAlignment
@@ -18,10 +18,10 @@ public enum VerticalAlignment
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| None | `0` | 默认值，不使用对齐 |
-| Top | `1` | 目标将与顶部对齐 |
+| None | `0` | 默认值，对齐不会被使用 |
+| Top | `1` | 目标将与顶边 对齐 |
 | Center | `2` | 目标将与 center 对齐 |
-| Bottom | `3` | 目标将与底部对齐 |
+| Bottom | `3` | 目标将与底部 side 对齐 |
 
 ### 也可以看看
 

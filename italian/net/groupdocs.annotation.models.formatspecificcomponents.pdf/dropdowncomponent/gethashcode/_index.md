@@ -1,14 +1,14 @@
 ---
 title: GetHashCode
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Restituisce il codice hash del componente a discesa
+description: Restituisce lhashcode del componente a discesa
 type: docs
 weight: 110
 url: /it/net/groupdocs.annotation.models.formatspecificcomponents.pdf/dropdowncomponent/gethashcode/
 ---
 ## DropdownComponent.GetHashCode method
 
-Restituisce il codice hash del componente a discesa
+Restituisce l'hashcode del componente a discesa
 
 ```csharp
 public override int GetHashCode()

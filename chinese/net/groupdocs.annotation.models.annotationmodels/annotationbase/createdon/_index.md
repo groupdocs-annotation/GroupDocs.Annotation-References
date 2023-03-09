@@ -1,14 +1,14 @@
 ---
 title: CreatedOn
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 获取或设置注解创建日期
+description: 获取或设置注释创建日期
 type: docs
 weight: 10
 url: /zh/net/groupdocs.annotation.models.annotationmodels/annotationbase/createdon/
 ---
 ## AnnotationBase.CreatedOn property
 
-获取或设置注解创建日期
+获取或设置注释创建日期
 
 ```csharp
 public DateTime CreatedOn { get; set; }

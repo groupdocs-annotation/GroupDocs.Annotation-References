@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 使用 IEquatable Equals 方法比较文本密文注释
+description: 使用 IEquatable Equals 方法比较文本编辑注释
 type: docs
 weight: 50
 url: /zh/net/groupdocs.annotation.models.annotationmodels/textredactionannotation/equals/
 ---
 ## Equals(TextRedactionAnnotation) {#equals_1}
 
-使用 IEquatable Equals 方法比较文本密文注释
+使用 IEquatable Equals 方法比较文本编辑注释
 
 ```csharp
 public bool Equals(TextRedactionAnnotation other)
@@ -16,7 +16,7 @@ public bool Equals(TextRedactionAnnotation other)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| other | TextRedactionAnnotation | 与当前对象比较的 TextRedactionAnnotation 对象 |
+| other | TextRedactionAnnotation | 要与当前对象进行比较的 TextRedactionAnnotation 对象 |
 
 ### 也可以看看
 
@@ -28,7 +28,7 @@ public bool Equals(TextRedactionAnnotation other)
 
 ## Equals(object) {#equals_2}
 
-使用标准对象 Equals 方法比较文本密文注释
+使用标准对象等于方法比较文本编辑注释
 
 ```csharp
 public override bool Equals(object obj)

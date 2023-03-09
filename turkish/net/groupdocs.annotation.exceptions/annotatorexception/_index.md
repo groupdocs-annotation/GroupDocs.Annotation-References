@@ -18,8 +18,8 @@ public class AnnotatorException : Exception
 
 | İsim | Tanım |
 | --- | --- |
-| [AnnotatorException](annotatorexception#constructor)(string) | Yeni bir örneğini başlatır[`AnnotatorException`](../annotatorexception) sınıf. |
-| [AnnotatorException](annotatorexception#constructor_1)(string, Exception) | Yeni bir örneğini başlatır[`AnnotatorException`](../annotatorexception) sınıf. |
+| [AnnotatorException](annotatorexception#constructor)(string) | Yeni bir örneğini başlatır.[`AnnotatorException`](../annotatorexception) sınıf. |
+| [AnnotatorException](annotatorexception#constructor_1)(string, Exception) | Yeni bir örneğini başlatır.[`AnnotatorException`](../annotatorexception) sınıf. |
 
 ### Ayrıca bakınız
 

@@ -1,14 +1,14 @@
 ---
 title: IsLocaleSupported
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 确定是否支持区域设置 指定的文化
+description: 确定是否是否支持语言环境 指定的文化.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.annotation.localization/supportedlocales/islocalesupported/
 ---
 ## IsLocaleSupported(string) {#islocalesupported_1}
 
-确定[是否支持区域设置] [指定的文化]。
+确定是否[是否支持语言环境] [指定的文化].
 
 ```csharp
 public static bool IsLocaleSupported(string culture)
@@ -28,7 +28,7 @@ public static bool IsLocaleSupported(string culture)
 
 ## IsLocaleSupported(CultureInfo) {#islocalesupported}
 
-确定[是否支持区域设置] [指定的文化]。
+确定是否[是否支持语言环境] [指定的文化].
 
 ```csharp
 public static bool IsLocaleSupported(CultureInfo culture)

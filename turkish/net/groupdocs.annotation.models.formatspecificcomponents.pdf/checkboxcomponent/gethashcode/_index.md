@@ -1,14 +1,14 @@
 ---
 title: GetHashCode
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: CheckBox Component HashCodeunu döndürür
+description: CheckBox Bileşeninin HashCodeunu döndürür
 type: docs
 weight: 80
 url: /tr/net/groupdocs.annotation.models.formatspecificcomponents.pdf/checkboxcomponent/gethashcode/
 ---
 ## CheckBoxComponent.GetHashCode method
 
-CheckBox Component HashCode'unu döndürür
+CheckBox Bileşeninin HashCode'unu döndürür
 
 ```csharp
 public override int GetHashCode()

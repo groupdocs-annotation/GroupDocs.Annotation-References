@@ -54,7 +54,7 @@ public class ButtonComponent : AnnotationBase, IButtonComponent, IEquatable<Butt
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Weitere Informationen zu Anmerkungstypen und zum Kommentieren von PDFs: [So kommentieren Sie Dokumente mit GroupDocs.Annotation für .NET](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
 * Weitere Informationen zum Hinzufügen von Schaltflächenkomponenten zu PDF: [So fügen Sie eine Schaltflächenkomponente in C# hinzu](https://docs.groupdocs.com/display/annotationnet/Add+button+component)

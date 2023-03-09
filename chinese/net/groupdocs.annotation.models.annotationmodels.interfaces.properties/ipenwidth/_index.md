@@ -1,14 +1,14 @@
 ---
 title: IPenWidth
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 定义注释笔宽度
+description: 定义批注笔宽度
 type: docs
 weight: 550
 url: /zh/net/groupdocs.annotation.models.annotationmodels.interfaces.properties/ipenwidth/
 ---
 ## IPenWidth interface
 
-定义注释笔宽度
+定义批注笔宽度
 
 ```csharp
 public interface IPenWidth
@@ -18,7 +18,7 @@ public interface IPenWidth
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PenWidth](../../groupdocs.annotation.models.annotationmodels.interfaces.properties/ipenwidth/penwidth) { get; set; } | 获取或设置注释笔宽度 |
+| [PenWidth](../../groupdocs.annotation.models.annotationmodels.interfaces.properties/ipenwidth/penwidth) { get; set; } | 获取或设置批注笔宽度 |
 
 ### 也可以看看
 

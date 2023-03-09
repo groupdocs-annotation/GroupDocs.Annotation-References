@@ -1,14 +1,14 @@
 ---
 title: UnderlineColor
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 获取或设置注解颜色
+description: 获取或设置标注颜色
 type: docs
 weight: 60
 url: /zh/net/groupdocs.annotation.models.annotationmodels/underlineannotation/underlinecolor/
 ---
 ## UnderlineAnnotation.UnderlineColor property
 
-获取或设置注解颜色
+获取或设置标注颜色
 
 ```csharp
 public int? UnderlineColor { get; set; }

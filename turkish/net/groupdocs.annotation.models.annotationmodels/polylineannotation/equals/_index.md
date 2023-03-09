@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: IEquatable Equals method kullanarak Çoklu Çizgi Ek Açıklamalarını karşılaştırır
+description: IEquatable Equals yöntemini kullanarak Çoklu Çizgi Ek Açıklamalarını karşılaştırır
 type: docs
 weight: 90
 url: /tr/net/groupdocs.annotation.models.annotationmodels/polylineannotation/equals/
 ---
 ## Equals(PolylineAnnotation) {#equals_1}
 
-IEquatable Equals method kullanarak Çoklu Çizgi Ek Açıklamalarını karşılaştırır
+IEquatable Equals yöntemini kullanarak Çoklu Çizgi Ek Açıklamalarını karşılaştırır
 
 ```csharp
 public bool Equals(PolylineAnnotation other)
@@ -28,7 +28,7 @@ public bool Equals(PolylineAnnotation other)
 
 ## Equals(object) {#equals_2}
 
-Standart nesne Equals yöntemini kullanarak Çoklu Çizgi Ek Açıklamalarını karşılaştırır method
+Standart nesne Equals method kullanarak Çoklu Çizgi Ek Açıklamalarını karşılaştırır
 
 ```csharp
 public override bool Equals(object obj)

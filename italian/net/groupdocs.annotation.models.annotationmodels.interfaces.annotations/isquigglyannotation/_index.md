@@ -1,14 +1,14 @@
 ---
 title: ISquigglyAnnotation
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Definisce le proprietà dellannotazione ondulata
+description: Definisce le proprietà delle annotazioni ondulate
 type: docs
 weight: 370
 url: /it/net/groupdocs.annotation.models.annotationmodels.interfaces.annotations/isquigglyannotation/
 ---
 ## ISquigglyAnnotation interface
 
-Definisce le proprietà dell'annotazione ondulata
+Definisce le proprietà delle annotazioni ondulate
 
 ```csharp
 public interface ISquigglyAnnotation : IFontColor, IOpacity, IPoints

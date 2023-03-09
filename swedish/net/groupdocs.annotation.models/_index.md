@@ -32,6 +32,7 @@ Namnutrymmet tillhandahåller anteckningsdataklasser.
 | [HorizontalAlignment](./horizontalalignment) | Representerar annoteringar horisontell justering state |
 | [PenStyle](./penstyle) | Pennstil |
 | [ResolutionQuality](./resolutionquality) | Upplösning Kvalitet |
+| [Role](./role) | Roll |
 | [RotationDocument](./rotationdocument) | Rotation |
 | [VerticalAlignment](./verticalalignment) | Representerar annoteringar vertikal justering state |
 

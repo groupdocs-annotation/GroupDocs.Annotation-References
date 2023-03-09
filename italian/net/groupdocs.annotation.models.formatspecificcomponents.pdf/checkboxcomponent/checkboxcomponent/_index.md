@@ -1,14 +1,14 @@
 ---
 title: CheckBoxComponent
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Inizializza la nuova istanza diCheckBoxComponentgroupdocs.annotation.models.formatspecificcomponents.pdf/checkboxcomponent classe.
+description: Inizializza una nuova istanza diCheckBoxComponentgroupdocs.annotation.models.formatspecificcomponents.pdf/checkboxcomponent classe.
 type: docs
 weight: 10
 url: /it/net/groupdocs.annotation.models.formatspecificcomponents.pdf/checkboxcomponent/checkboxcomponent/
 ---
 ## CheckBoxComponent constructor
 
-Inizializza la nuova istanza di[`CheckBoxComponent`](../../checkboxcomponent) classe.
+Inizializza una nuova istanza di[`CheckBoxComponent`](../../checkboxcomponent) classe.
 
 ```csharp
 public CheckBoxComponent()

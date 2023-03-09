@@ -1,14 +1,14 @@
 ---
 title: Docx
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Formato XML aperto di Microsoft Word.
+description: Formato Microsoft Word Open XML.
 type: docs
 weight: 40
 url: /it/net/groupdocs.annotation/filetype/docx/
 ---
 ## FileType.Docx property
 
-Formato XML aperto di Microsoft Word.
+Formato Microsoft Word Open XML.
 
 ```csharp
 public static FileType Docx { get; }

@@ -1,14 +1,14 @@
 ---
 title: Xlsm
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Formato macro per fogli di calcolo Microsoft Excel
+description: Formato macro foglio di calcolo Microsoft Excel
 type: docs
 weight: 390
 url: /it/net/groupdocs.annotation/filetype/xlsm/
 ---
 ## FileType.Xlsm property
 
-Formato macro per fogli di calcolo Microsoft Excel
+Formato macro foglio di calcolo Microsoft Excel
 
 ```csharp
 public static FileType Xlsm { get; }

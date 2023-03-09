@@ -1,14 +1,14 @@
 ---
 title: IResourcesRedactionAnnotation
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: Kaynak redaksiyonu ek açıklama özelliklerini tanımlar
+description: Kaynak düzeltme açıklama özelliklerini tanımlar
 type: docs
 weight: 350
 url: /tr/net/groupdocs.annotation.models.annotationmodels.interfaces.annotations/iresourcesredactionannotation/
 ---
 ## IResourcesRedactionAnnotation interface
 
-Kaynak redaksiyonu ek açıklama özelliklerini tanımlar
+Kaynak düzeltme açıklama özelliklerini tanımlar
 
 ```csharp
 public interface IResourcesRedactionAnnotation : IBox

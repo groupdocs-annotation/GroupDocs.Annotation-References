@@ -3,7 +3,7 @@ title: RotationDocument
 second_title: .NET API 参考的 GroupDocs.Annotation
 description: 旋转
 type: docs
-weight: 910
+weight: 920
 url: /zh/net/groupdocs.annotation.models/rotationdocument/
 ---
 ## RotationDocument enumeration

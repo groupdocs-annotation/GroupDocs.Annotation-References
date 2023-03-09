@@ -1,14 +1,14 @@
 ---
 title: GetHashCode
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 返回折线标注的HashCode
+description: 返回 Polyline Annotation 的 HashCode
 type: docs
 weight: 100
 url: /zh/net/groupdocs.annotation.models.annotationmodels/polylineannotation/gethashcode/
 ---
 ## PolylineAnnotation.GetHashCode method
 
-返回折线标注的HashCode
+返回 Polyline Annotation 的 HashCode
 
 ```csharp
 public override int GetHashCode()

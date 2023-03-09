@@ -19,7 +19,7 @@ public class TextFieldAnnotation : AnnotationBase, IEquatable<TextFieldAnnotatio
 
 | Nome | Descrizione |
 | --- | --- |
-| [TextFieldAnnotation](textfieldannotation)() | Inizializza la nuova istanza di[`TextFieldAnnotation`](../textfieldannotation) classe. |
+| [TextFieldAnnotation](textfieldannotation)() | Inizializza una nuova istanza di[`TextFieldAnnotation`](../textfieldannotation) classe. |
 
 ## Proprietà
 
@@ -42,7 +42,7 @@ public class TextFieldAnnotation : AnnotationBase, IEquatable<TextFieldAnnotatio
 | [Text](../../groupdocs.annotation.models.annotationmodels/textfieldannotation/text) { get; set; } | Ottiene o imposta text |
 | [TextHorizontalAlignment](../../groupdocs.annotation.models.annotationmodels/textfieldannotation/texthorizontalalignment) { get; set; } | Ottiene o imposta l'allineamento orizzontale del testo |
 | [Type](../../groupdocs.annotation.models.annotationmodels/annotationbase/type) { get; set; } | Ottiene o imposta il tipo di annotazione |
-| [User](../../groupdocs.annotation.models.annotationmodels/annotationbase/user) { get; set; } | Ottiene o imposta il creatore di annotazioni |
+| [User](../../groupdocs.annotation.models.annotationmodels/annotationbase/user) { get; set; } | Ottiene o imposta il creatore dell'annotazione |
 
 ## Metodi
 
@@ -56,7 +56,7 @@ public class TextFieldAnnotation : AnnotationBase, IEquatable<TextFieldAnnotatio
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni sui tipi di annotazione e sull'annotazione di documenti PDF e Microsoft Word, fogli di calcolo Excel e presentazioni PowerPoint: [Come annotare i documenti utilizzando GroupDocs.Annotation per .NET](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
 * Ulteriori informazioni sull'aggiunta di annotazioni nei campi di testo a documenti di vario tipo: [Come aggiungere annotazioni ai campi di testo in C#](https://docs.groupdocs.com/display/annotationnet/Add+text+field+annotation)

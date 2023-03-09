@@ -26,11 +26,11 @@ public class TextRedactionAnnotation : AnnotationBase, IEquatable<TextRedactionA
 | İsim | Tanım |
 | --- | --- |
 | [CreatedOn](../../groupdocs.annotation.models.annotationmodels/annotationbase/createdon) { get; set; } | Ek açıklama oluşturma tarihini alır veya ayarlar |
-| [FontColor](../../groupdocs.annotation.models.annotationmodels/textredactionannotation/fontcolor) { get; set; } | Ek açıklama metni yazı tipi rengini alır veya ayarlar |
+| [FontColor](../../groupdocs.annotation.models.annotationmodels/textredactionannotation/fontcolor) { get; set; } | Açıklama metni yazı tipi rengini alır veya ayarlar color |
 | [Id](../../groupdocs.annotation.models.annotationmodels/annotationbase/id) { get; set; } | Ek açıklama benzersiz tanımlayıcısını alır veya ayarlar |
 | [Message](../../groupdocs.annotation.models.annotationmodels/annotationbase/message) { get; set; } | Açıklama mesajını alır veya ayarlar |
 | [PageNumber](../../groupdocs.annotation.models.annotationmodels/annotationbase/pagenumber) { get; set; } | Ek açıklamalı sayfa numarasını alır veya ayarlar |
-| [Points](../../groupdocs.annotation.models.annotationmodels/textredactionannotation/points) { get; set; } | Dikdörtgenleri text ile tanımlayan noktaların koleksiyonunu alır veya ayarlar |
+| [Points](../../groupdocs.annotation.models.annotationmodels/textredactionannotation/points) { get; set; } | Metin ile dikdörtgenleri tanımlayan noktaların koleksiyonunu alır veya ayarlar |
 | [Replies](../../groupdocs.annotation.models.annotationmodels/annotationbase/replies) { get; set; } | Ek açıklama yanıtlarını temsil eder koleksiyon |
 | [Type](../../groupdocs.annotation.models.annotationmodels/annotationbase/type) { get; set; } | Açıklama tipini alır veya ayarlar |
 | [User](../../groupdocs.annotation.models.annotationmodels/annotationbase/user) { get; set; } | Ek açıklamayı alır veya ayarlar creator |
@@ -49,7 +49,7 @@ public class TextRedactionAnnotation : AnnotationBase, IEquatable<TextRedactionA
 
 **Daha fazla bilgi edin**
 
-* Açıklama türleri ve PDF ve Microsoft Word belgelerine, Excel elektronik tablolarına ve PowerPoint Sunumlarına açıklama ekleme hakkında daha fazla bilgi: [.NET için GroupDocs.Annotation kullanarak belgelere açıklama ekleme](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
+* Ek açıklama türleri ve PDF ve Microsoft Word belgeleri, Excel elektronik tabloları ve PowerPoint Sunumları hakkında daha fazla bilgi: [.NET için GroupDocs.Annotation kullanarak belgelere açıklama ekleme](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
 * Çeşitli türdeki belgelere metin redaksiyon açıklamaları ekleme hakkında daha fazla bilgi: [C# metin redaksiyon ek açıklamaları nasıl eklenir](https://docs.groupdocs.com/display/annotationnet/Add+text+redaction+annotation)
 
 ### Ayrıca bakınız

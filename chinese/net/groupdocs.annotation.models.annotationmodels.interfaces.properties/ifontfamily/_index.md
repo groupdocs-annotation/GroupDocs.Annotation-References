@@ -1,14 +1,14 @@
 ---
 title: IFontFamily
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 定义注释文本字体family
+description: 定义注释文字字体 family
 type: docs
 weight: 490
 url: /zh/net/groupdocs.annotation.models.annotationmodels.interfaces.properties/ifontfamily/
 ---
 ## IFontFamily interface
 
-定义注释文本字体family
+定义注释文字字体 family
 
 ```csharp
 public interface IFontFamily
@@ -18,7 +18,7 @@ public interface IFontFamily
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FontFamily](../../groupdocs.annotation.models.annotationmodels.interfaces.properties/ifontfamily/fontfamily) { get; set; } | 获取或设置注释文本字体family |
+| [FontFamily](../../groupdocs.annotation.models.annotationmodels.interfaces.properties/ifontfamily/fontfamily) { get; set; } | 获取或设置注释文字字体 family |
 
 ### 也可以看看
 

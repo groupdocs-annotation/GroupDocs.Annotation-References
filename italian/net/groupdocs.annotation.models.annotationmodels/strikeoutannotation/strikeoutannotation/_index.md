@@ -1,14 +1,14 @@
 ---
 title: StrikeoutAnnotation
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Inizializza la nuova istanza diStrikeoutAnnotationgroupdocs.annotation.models.annotationmodels/strikeoutannotation classe.
+description: Inizializza una nuova istanza diStrikeoutAnnotationgroupdocs.annotation.models.annotationmodels/strikeoutannotation classe.
 type: docs
 weight: 10
 url: /it/net/groupdocs.annotation.models.annotationmodels/strikeoutannotation/strikeoutannotation/
 ---
 ## StrikeoutAnnotation constructor
 
-Inizializza la nuova istanza di[`StrikeoutAnnotation`](../../strikeoutannotation) classe.
+Inizializza una nuova istanza di[`StrikeoutAnnotation`](../../strikeoutannotation) classe.
 
 ```csharp
 public StrikeoutAnnotation()

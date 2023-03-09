@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: Açılan bileşeni IEquatable Equals method kullanarak karşılaştırır
+description: Açılır Bileşeni IEquatable Equals yöntemini kullanarak karşılaştırır
 type: docs
 weight: 100
 url: /tr/net/groupdocs.annotation.models.formatspecificcomponents.pdf/dropdowncomponent/equals/
 ---
 ## Equals(DropdownComponent) {#equals_1}
 
-Açılan bileşeni IEquatable Equals method kullanarak karşılaştırır
+Açılır Bileşeni IEquatable Equals yöntemini kullanarak karşılaştırır
 
 ```csharp
 public bool Equals(DropdownComponent other)
@@ -28,7 +28,7 @@ public bool Equals(DropdownComponent other)
 
 ## Equals(object) {#equals_2}
 
-Standart nesne Eşittir yöntemini kullanarak Açılan Bileşenleri karşılaştırır method
+Açılır Bileşenleri standart nesne Equals method kullanarak karşılaştırır
 
 ```csharp
 public override bool Equals(object obj)

@@ -20,7 +20,7 @@ public void Remove(int annotationId)
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Weitere Informationen zum Entfernen von Dokumentanmerkungen: [So entfernen Sie Dokumentanmerkungen in C#](https://docs.groupdocs.com/display/annotationnet/Remove+annotation+from+document)
 
@@ -46,7 +46,7 @@ public void Remove(AnnotationBase annotation)
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Weitere Informationen zum Entfernen von Dokumentanmerkungen: [So entfernen Sie Dokumentanmerkungen in C#](https://docs.groupdocs.com/display/annotationnet/Remove+annotation+from+document)
 
@@ -73,7 +73,7 @@ public void Remove(List<int> annotationIds)
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Weitere Informationen zum Entfernen von Dokumentanmerkungen: [So entfernen Sie Dokumentanmerkungen in C#](https://docs.groupdocs.com/display/annotationnet/Remove+annotation+from+document)
 
@@ -99,7 +99,7 @@ public void Remove(List<AnnotationBase> annotationsToDelete)
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Weitere Informationen zum Entfernen von Dokumentanmerkungen: [So entfernen Sie Dokumentanmerkungen in C#](https://docs.groupdocs.com/display/annotationnet/Remove+annotation+from+document)
 

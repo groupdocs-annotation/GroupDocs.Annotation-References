@@ -1,14 +1,14 @@
 ---
 title: Set
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 将数据序列化到本地磁盘
+description: 序列化数据到本地磁盘
 type: docs
 weight: 30
 url: /zh/net/groupdocs.annotation.cache/filecache/set/
 ---
 ## FileCache.Set method
 
-将数据序列化到本地磁盘。
+序列化数据到本地磁盘。
 
 ```csharp
 public void Set(string key, object value)

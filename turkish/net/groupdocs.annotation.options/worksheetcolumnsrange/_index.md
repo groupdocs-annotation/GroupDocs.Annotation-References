@@ -3,7 +3,7 @@ title: WorksheetColumnsRange
 second_title: .NET API Başvurusu için GroupDocs.Annotation
 description: Belirli bir çalışma sayfası için bir sütun aralığını temsil eder
 type: docs
-weight: 1020
+weight: 1030
 url: /tr/net/groupdocs.annotation.options/worksheetcolumnsrange/
 ---
 ## WorksheetColumnsRange class

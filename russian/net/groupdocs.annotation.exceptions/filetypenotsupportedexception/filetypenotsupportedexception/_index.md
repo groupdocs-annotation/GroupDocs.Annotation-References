@@ -1,14 +1,14 @@
 ---
 title: FileTypeNotSupportedException
 second_title: Справочник по API GroupDocs.Annotation для .NET
-description: Инициализирует новый экземплярFileTypeNotSupportedExceptiongroupdocs.annotation.exceptions/filetypenotsupportedexception учебный класс.
+description: Инициализирует новый экземплярFileTypeNotSupportedExceptiongroupdocs.annotation.exceptions/filetypenotsupportedexception сорт.
 type: docs
 weight: 10
 url: /ru/net/groupdocs.annotation.exceptions/filetypenotsupportedexception/filetypenotsupportedexception/
 ---
 ## FileTypeNotSupportedException(string) {#constructor}
 
-Инициализирует новый экземпляр[`FileTypeNotSupportedException`](../../filetypenotsupportedexception) учебный класс.
+Инициализирует новый экземпляр[`FileTypeNotSupportedException`](../../filetypenotsupportedexception) сорт.
 
 ```csharp
 public FileTypeNotSupportedException(string message)
@@ -28,7 +28,7 @@ public FileTypeNotSupportedException(string message)
 
 ## FileTypeNotSupportedException(string, Exception) {#constructor_1}
 
-Инициализирует новый экземпляр[`FileTypeNotSupportedException`](../../filetypenotsupportedexception) учебный класс.
+Инициализирует новый экземпляр[`FileTypeNotSupportedException`](../../filetypenotsupportedexception) сорт.
 
 ```csharp
 public FileTypeNotSupportedException(string message, Exception innerException)

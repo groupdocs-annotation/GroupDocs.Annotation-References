@@ -56,7 +56,7 @@ public class TextFieldAnnotation : AnnotationBase, IEquatable<TextFieldAnnotatio
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Подробнее о типах аннотаций и аннотировании документов PDF и Microsoft Word, электронных таблиц Excel и презентаций PowerPoint: [Как аннотировать документы с помощью GroupDocs.Annotation для .NET](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
 * Подробнее о добавлении аннотаций текстовых полей к документам различных типов: [Как добавить аннотации к текстовым полям в C#](https://docs.groupdocs.com/display/annotationnet/Add+text+field+annotation)

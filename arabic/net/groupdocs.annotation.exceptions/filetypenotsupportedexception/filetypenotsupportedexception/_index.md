@@ -1,14 +1,14 @@
 ---
 title: FileTypeNotSupportedException
 second_title: GroupDocs.Annotation for .NET API Reference
-description: يقوم بتهيئة مثيل جديد لملفFileTypeNotSupportedExceptiongroupdocs.annotation.exceptions/filetypenotsupportedexception صف دراسي.
+description: يقوم بتهيئة مثيل جديد لملفFileTypeNotSupportedExceptiongroupdocs.annotation.exceptions/filetypenotsupportedexception فصل.
 type: docs
 weight: 10
 url: /ar/net/groupdocs.annotation.exceptions/filetypenotsupportedexception/filetypenotsupportedexception/
 ---
 ## FileTypeNotSupportedException(string) {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`FileTypeNotSupportedException`](../../filetypenotsupportedexception) صف دراسي.
+يقوم بتهيئة مثيل جديد لملف[`FileTypeNotSupportedException`](../../filetypenotsupportedexception) فصل.
 
 ```csharp
 public FileTypeNotSupportedException(string message)
@@ -28,7 +28,7 @@ public FileTypeNotSupportedException(string message)
 
 ## FileTypeNotSupportedException(string, Exception) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`FileTypeNotSupportedException`](../../filetypenotsupportedexception) صف دراسي.
+يقوم بتهيئة مثيل جديد لملف[`FileTypeNotSupportedException`](../../filetypenotsupportedexception) فصل.
 
 ```csharp
 public FileTypeNotSupportedException(string message, Exception innerException)

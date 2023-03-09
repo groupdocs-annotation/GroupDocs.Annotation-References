@@ -1,14 +1,14 @@
 ---
 title: Warning
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 警告信息
+description: 警告消息
 type: docs
 weight: 30
 url: /zh/net/groupdocs.annotation.logging/ilogger/warning/
 ---
 ## ILogger.Warning method
 
-警告信息。
+警告消息。
 
 ```csharp
 public void Warning(string message)

@@ -1,14 +1,14 @@
 ---
 title: WatermarkAnnotation
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Inizializza la nuova istanza diWatermarkAnnotationgroupdocs.annotation.models.annotationmodels/watermarkannotation classe.
+description: Inizializza una nuova istanza diWatermarkAnnotationgroupdocs.annotation.models.annotationmodels/watermarkannotation classe.
 type: docs
 weight: 10
 url: /it/net/groupdocs.annotation.models.annotationmodels/watermarkannotation/watermarkannotation/
 ---
 ## WatermarkAnnotation constructor
 
-Inizializza la nuova istanza di[`WatermarkAnnotation`](../../watermarkannotation) classe.
+Inizializza una nuova istanza di[`WatermarkAnnotation`](../../watermarkannotation) classe.
 
 ```csharp
 public WatermarkAnnotation()

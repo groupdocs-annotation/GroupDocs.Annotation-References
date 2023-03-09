@@ -1,14 +1,14 @@
 ---
 title: Bmp
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: Bitmap Görüntü Dosyası.
+description: Bit Eşlem Görüntü Dosyası.
 type: docs
 weight: 10
 url: /tr/net/groupdocs.annotation/filetype/bmp/
 ---
 ## FileType.Bmp property
 
-Bitmap Görüntü Dosyası.
+Bit Eşlem Görüntü Dosyası.
 
 ```csharp
 public static FileType Bmp { get; }

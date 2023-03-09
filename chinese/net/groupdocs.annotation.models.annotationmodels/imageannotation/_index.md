@@ -1,14 +1,14 @@
 ---
 title: ImageAnnotation
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 代表图像标注属性
+description: 表示图像标注属性
 type: docs
 weight: 250
 url: /zh/net/groupdocs.annotation.models.annotationmodels/imageannotation/
 ---
 ## ImageAnnotation class
 
-代表图像标注属性
+表示图像标注属性
 
 ```csharp
 public class ImageAnnotation : AnnotationBase, IAngle, IBox, IEquatable<ImageAnnotation>, IOpacity
@@ -18,22 +18,22 @@ public class ImageAnnotation : AnnotationBase, IAngle, IBox, IEquatable<ImageAnn
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ImageAnnotation](imageannotation)() | 初始化的新实例[`ImageAnnotation`](../imageannotation)类. |
+| [ImageAnnotation](imageannotation)() | 初始化新实例[`ImageAnnotation`](../imageannotation)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Angle](../../groupdocs.annotation.models.annotationmodels/imageannotation/angle) { get; set; } | 获取或设置注解旋转角度 |
+| [Angle](../../groupdocs.annotation.models.annotationmodels/imageannotation/angle) { get; set; } | 获取或设置注释旋转角度 |
 | [Box](../../groupdocs.annotation.models.annotationmodels/imageannotation/box) { get; set; } | 获取或设置注解位置 |
-| [CreatedOn](../../groupdocs.annotation.models.annotationmodels/annotationbase/createdon) { get; set; } | 获取或设置注解创建日期 |
+| [CreatedOn](../../groupdocs.annotation.models.annotationmodels/annotationbase/createdon) { get; set; } | 获取或设置注释创建日期 |
 | [Id](../../groupdocs.annotation.models.annotationmodels/annotationbase/id) { get; set; } | 获取或设置注解唯一标识符 |
 | [ImageExtension](../../groupdocs.annotation.models.annotationmodels/imageannotation/imageextension) { get; set; } | 获取或设置图像数据 |
 | [ImagePath](../../groupdocs.annotation.models.annotationmodels/imageannotation/imagepath) { get; set; } | 获取或设置图片路径 |
-| [Message](../../groupdocs.annotation.models.annotationmodels/annotationbase/message) { get; set; } | 获取或设置注解消息 |
+| [Message](../../groupdocs.annotation.models.annotationmodels/annotationbase/message) { get; set; } | 获取或设置注释消息 |
 | [Opacity](../../groupdocs.annotation.models.annotationmodels/imageannotation/opacity) { get; set; } | 获取或设置图像不透明度 |
 | [PageNumber](../../groupdocs.annotation.models.annotationmodels/annotationbase/pagenumber) { get; set; } | 获取或设置要标注的页码 |
-| [Replies](../../groupdocs.annotation.models.annotationmodels/annotationbase/replies) { get; set; } | 表示注释回复集合 |
+| [Replies](../../groupdocs.annotation.models.annotationmodels/annotationbase/replies) { get; set; } | 代表注解回复集合 |
 | [Type](../../groupdocs.annotation.models.annotationmodels/annotationbase/type) { get; set; } | 获取或设置注解类型 |
 | [User](../../groupdocs.annotation.models.annotationmodels/annotationbase/user) { get; set; } | 获取或设置注解创建者 |
 | [ZIndex](../../groupdocs.annotation.models.annotationmodels/imageannotation/zindex) { get; set; } | 获取或设置 z-index。默认值为 0 |
@@ -46,15 +46,15 @@ public class ImageAnnotation : AnnotationBase, IAngle, IBox, IEquatable<ImageAnn
 | [Equals](../../groupdocs.annotation.models.annotationmodels/annotationbase/equals)(AnnotationBase) | 使用 IEquatable Equals 方法比较基本注释 |
 | [Equals](../../groupdocs.annotation.models.annotationmodels/imageannotation/equals#equals_1)(ImageAnnotation) | 使用 IEquatable Equals 方法比较图像注释 |
 | override [Equals](../../groupdocs.annotation.models.annotationmodels/imageannotation/equals#equals_2)(object) | 使用标准对象 Equals 方法比较图像注释 |
-| override [GetHashCode](../../groupdocs.annotation.models.annotationmodels/imageannotation/gethashcode)() | 返回图像标注的HashCode |
+| override [GetHashCode](../../groupdocs.annotation.models.annotationmodels/imageannotation/gethashcode)() | 返回图片标注的HashCode |
 | [GetImage](../../groupdocs.annotation.models.annotationmodels/imageannotation/getimage)() | 获取图像对象 |
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 更多关于注释类型和注释 PDF 和 Microsoft Word 文档、Excel 电子表格和 PowerPoint 演示文稿： [如何使用 GroupDocs.Annotation for .NET 注释文档](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
-* 更多关于为各种类型的文档添加图像注释： [如何在 C# 中添加图像注释](https://docs.groupdocs.com/display/annotationnet/Add+image+annotation)
+* 更多关于注释类型和注释 PDF 和 Microsoft Word 文档、Excel 电子表格和 PowerPoint 演示文稿的信息： [如何使用 GroupDocs.Annotation for .NET 注释文档](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
+* 更多关于向各种类型的文档添加图像注释： [如何在C#中添加图片注释](https://docs.groupdocs.com/display/annotationnet/Add+image+annotation)
 
 ### 也可以看看
 

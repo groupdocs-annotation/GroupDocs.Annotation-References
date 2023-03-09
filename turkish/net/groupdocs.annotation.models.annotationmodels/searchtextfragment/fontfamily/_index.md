@@ -1,14 +1,14 @@
 ---
 title: FontFamily
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: Metin yazı tipini alır veya ayarlar family
+description: Metin yazı tipi ailesini alır veya ayarlar
 type: docs
 weight: 40
 url: /tr/net/groupdocs.annotation.models.annotationmodels/searchtextfragment/fontfamily/
 ---
 ## SearchTextFragment.FontFamily property
 
-Metin yazı tipini alır veya ayarlar family
+Metin yazı tipi ailesini alır veya ayarlar
 
 ```csharp
 public string FontFamily { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: ITextRedactionAnnotation
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Definisce le proprietà dellannotazione di redazione del testo
+description: Definisce le proprietà di annotazione della redazione del testo
 type: docs
 weight: 400
 url: /it/net/groupdocs.annotation.models.annotationmodels.interfaces.annotations/itextredactionannotation/
 ---
 ## ITextRedactionAnnotation interface
 
-Definisce le proprietà dell'annotazione di redazione del testo
+Definisce le proprietà di annotazione della redazione del testo
 
 ```csharp
 public interface ITextRedactionAnnotation : IFontColor, IPoints

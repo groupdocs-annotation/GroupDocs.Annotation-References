@@ -1,14 +1,14 @@
 ---
 title: PointAnnotation
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Inizializza la nuova istanza diPointAnnotationgroupdocs.annotation.models.annotationmodels/pointannotation classe.
+description: Inizializza una nuova istanza diPointAnnotationgroupdocs.annotation.models.annotationmodels/pointannotation classe.
 type: docs
 weight: 10
 url: /it/net/groupdocs.annotation.models.annotationmodels/pointannotation/pointannotation/
 ---
 ## PointAnnotation constructor
 
-Inizializza la nuova istanza di[`PointAnnotation`](../../pointannotation) classe.
+Inizializza una nuova istanza di[`PointAnnotation`](../../pointannotation) classe.
 
 ```csharp
 public PointAnnotation()

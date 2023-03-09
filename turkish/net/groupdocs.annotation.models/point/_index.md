@@ -18,7 +18,7 @@ public struct Point
 
 | İsim | Tanım |
 | --- | --- |
-| [Point](point)(float, float) | Yeni bir örneğini başlatır[`Point`](../point) yapı. |
+| [Point](point)(float, float) | Yeni bir örneğini başlatır.[`Point`](../point) yapı. |
 
 ## Özellikleri
 

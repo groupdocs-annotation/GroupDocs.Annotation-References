@@ -1,14 +1,14 @@
 ---
 title: GetDocumentInfo
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Ottiene informazioni sul documento tipo e dimensione del documento conteggio delle pagine ecc.
+description: Ottiene informazioni sul documento tipo e dimensione del documento numero di pagine ecc.
 type: docs
 weight: 70
 url: /it/net/groupdocs.annotation/document/getdocumentinfo/
 ---
 ## Document.GetDocumentInfo method
 
-Ottiene informazioni sul documento: tipo e dimensione del documento, conteggio delle pagine ecc.
+Ottiene informazioni sul documento: tipo e dimensione del documento, numero di pagine ecc.
 
 ```csharp
 public IDocumentInfo GetDocumentInfo()

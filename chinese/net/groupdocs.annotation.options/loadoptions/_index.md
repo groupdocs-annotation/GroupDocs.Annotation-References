@@ -1,14 +1,14 @@
 ---
 title: LoadOptions
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 允许在打开要注释的文档时指定其他选项例如密码
+description: 允许在打开文档进行注释时指定其他选项例如密码
 type: docs
-weight: 970
+weight: 980
 url: /zh/net/groupdocs.annotation.options/loadoptions/
 ---
 ## LoadOptions class
 
-允许在打开要注释的文档时指定其他选项（例如密码）。
+允许在打开文档进行注释时指定其他选项（例如密码）。
 
 ```csharp
 public class LoadOptions
@@ -25,8 +25,8 @@ public class LoadOptions
 | 姓名 | 描述 |
 | --- | --- |
 | [FontDirectories](../../groupdocs.annotation.options/loadoptions/fontdirectories) { get; set; } | 加载自定义字体的字体目录列表 |
-| [Password](../../groupdocs.annotation.options/loadoptions/password) { get; set; } | 文档密码 |
-| [Version](../../groupdocs.annotation.options/loadoptions/version) { get; set; } | 设置要加载的文档版本。默认状态 - last |
+| [Password](../../groupdocs.annotation.options/loadoptions/password) { get; set; } | 文件密码 |
+| [Version](../../groupdocs.annotation.options/loadoptions/version) { get; set; } | 设置将加载的文档版本。默认状态 - last |
 
 ### 也可以看看
 

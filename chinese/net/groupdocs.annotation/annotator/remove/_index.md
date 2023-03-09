@@ -1,14 +1,14 @@
 ---
 title: Remove
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 从文档中删除 Id. 的注释
+description: 按 Id 从文档中删除注释
 type: docs
 weight: 120
 url: /zh/net/groupdocs.annotation/annotator/remove/
 ---
 ## Remove(int) {#remove_1}
 
-从文档中删除 Id. 的注释
+按 Id 从文档中删除注释。
 
 ```csharp
 public void Remove(int annotationId)
@@ -16,11 +16,11 @@ public void Remove(int annotationId)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| annotationId | Int32 | 必须删除的注释 ID。 |
+| annotationId | Int32 | 必须删除的注解 ID。 |
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
 * 有关如何删除文档注释的更多信息： [如何在 C# 中删除文档注释](https://docs.groupdocs.com/display/annotationnet/Remove+annotation+from+document)
 
@@ -46,7 +46,7 @@ public void Remove(AnnotationBase annotation)
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
 * 有关如何删除文档注释的更多信息： [如何在 C# 中删除文档注释](https://docs.groupdocs.com/display/annotationnet/Remove+annotation+from+document)
 
@@ -69,11 +69,11 @@ public void Remove(List<int> annotationIds)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| annotationIds | List`1 | 必须删除的注释 ID。 |
+| annotationIds | List`1 | 必须删除的注解 ID。 |
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
 * 有关如何删除文档注释的更多信息： [如何在 C# 中删除文档注释](https://docs.groupdocs.com/display/annotationnet/Remove+annotation+from+document)
 
@@ -99,7 +99,7 @@ public void Remove(List<AnnotationBase> annotationsToDelete)
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
 * 有关如何删除文档注释的更多信息： [如何在 C# 中删除文档注释](https://docs.groupdocs.com/display/annotationnet/Remove+annotation+from+document)
 

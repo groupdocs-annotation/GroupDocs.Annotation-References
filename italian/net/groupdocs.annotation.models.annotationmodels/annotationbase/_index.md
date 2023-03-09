@@ -24,7 +24,7 @@ public abstract class AnnotationBase : ICloneable, IEquatable<AnnotationBase>
 | [PageNumber](../../groupdocs.annotation.models.annotationmodels/annotationbase/pagenumber) { get; set; } | Ottiene o imposta il numero di pagina da annotare |
 | [Replies](../../groupdocs.annotation.models.annotationmodels/annotationbase/replies) { get; set; } | Rappresenta la raccolta di risposte alle annotazioni |
 | [Type](../../groupdocs.annotation.models.annotationmodels/annotationbase/type) { get; set; } | Ottiene o imposta il tipo di annotazione |
-| [User](../../groupdocs.annotation.models.annotationmodels/annotationbase/user) { get; set; } | Ottiene o imposta il creatore di annotazioni |
+| [User](../../groupdocs.annotation.models.annotationmodels/annotationbase/user) { get; set; } | Ottiene o imposta il creatore dell'annotazione |
 
 ## Metodi
 
@@ -32,8 +32,8 @@ public abstract class AnnotationBase : ICloneable, IEquatable<AnnotationBase>
 | --- | --- |
 | virtual [Clone](../../groupdocs.annotation.models.annotationmodels/annotationbase/clone)() | Restituisce una nuova istanza con gli stessi valori |
 | [Equals](../../groupdocs.annotation.models.annotationmodels/annotationbase/equals#equals)(AnnotationBase) | Confronta le annotazioni di base utilizzando il metodo IEquatable Equals |
-| override [Equals](../../groupdocs.annotation.models.annotationmodels/annotationbase/equals#equals_1)(object) | Confronta le annotazioni di base utilizzando il metodo Equals dell'oggetto standard |
-| override [GetHashCode](../../groupdocs.annotation.models.annotationmodels/annotationbase/gethashcode)() | Restituisce HashCode di AnnotationBase Proprietà messaggio, numero pagina e tipo |
+| override [Equals](../../groupdocs.annotation.models.annotationmodels/annotationbase/equals#equals_1)(object) | Confronta le annotazioni di base utilizzando l'oggetto standard Equals method |
+| override [GetHashCode](../../groupdocs.annotation.models.annotationmodels/annotationbase/gethashcode)() | Restituisce HashCode di AnnotationBase Message, PageNumber e Type Properties |
 
 ### Guarda anche
 

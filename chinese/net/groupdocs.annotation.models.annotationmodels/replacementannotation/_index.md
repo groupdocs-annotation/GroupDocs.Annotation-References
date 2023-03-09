@@ -19,21 +19,21 @@ public class ReplacementAnnotation : AnnotationBase, IEquatable<ReplacementAnnot
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ReplacementAnnotation](replacementannotation)() | 初始化的新实例[`ReplacementAnnotation`](../replacementannotation)类. |
+| [ReplacementAnnotation](replacementannotation)() | 初始化新实例[`ReplacementAnnotation`](../replacementannotation)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CreatedOn](../../groupdocs.annotation.models.annotationmodels/annotationbase/createdon) { get; set; } | 获取或设置注解创建日期 |
-| [FontColor](../../groupdocs.annotation.models.annotationmodels/replacementannotation/fontcolor) { get; set; } | 获取或设置注释文本字体颜色 |
-| [FontSize](../../groupdocs.annotation.models.annotationmodels/replacementannotation/fontsize) { get; set; } | 获取或设置注释文本字体大小 |
+| [CreatedOn](../../groupdocs.annotation.models.annotationmodels/annotationbase/createdon) { get; set; } | 获取或设置注释创建日期 |
+| [FontColor](../../groupdocs.annotation.models.annotationmodels/replacementannotation/fontcolor) { get; set; } | 获取或设置注释文字字体颜色 |
+| [FontSize](../../groupdocs.annotation.models.annotationmodels/replacementannotation/fontsize) { get; set; } | 获取或设置注释文字字体大小 |
 | [Id](../../groupdocs.annotation.models.annotationmodels/annotationbase/id) { get; set; } | 获取或设置注解唯一标识符 |
-| [Message](../../groupdocs.annotation.models.annotationmodels/annotationbase/message) { get; set; } | 获取或设置注解消息 |
-| [Opacity](../../groupdocs.annotation.models.annotationmodels/replacementannotation/opacity) { get; set; } | 获取或设置注解不透明度 |
+| [Message](../../groupdocs.annotation.models.annotationmodels/annotationbase/message) { get; set; } | 获取或设置注释消息 |
+| [Opacity](../../groupdocs.annotation.models.annotationmodels/replacementannotation/opacity) { get; set; } | 获取或设置注释不透明度 |
 | [PageNumber](../../groupdocs.annotation.models.annotationmodels/annotationbase/pagenumber) { get; set; } | 获取或设置要标注的页码 |
-| [Points](../../groupdocs.annotation.models.annotationmodels/replacementannotation/points) { get; set; } | 获取或设置用文本描述矩形的点集合 |
-| [Replies](../../groupdocs.annotation.models.annotationmodels/annotationbase/replies) { get; set; } | 表示注释回复集合 |
+| [Points](../../groupdocs.annotation.models.annotationmodels/replacementannotation/points) { get; set; } | 获取或设置用 text 描述矩形的点集合 |
+| [Replies](../../groupdocs.annotation.models.annotationmodels/annotationbase/replies) { get; set; } | 代表注解回复集合 |
 | [TextToReplace](../../groupdocs.annotation.models.annotationmodels/replacementannotation/texttoreplace) { get; set; } | 获取或设置要替换的文本 |
 | [Type](../../groupdocs.annotation.models.annotationmodels/annotationbase/type) { get; set; } | 获取或设置注解类型 |
 | [User](../../groupdocs.annotation.models.annotationmodels/annotationbase/user) { get; set; } | 获取或设置注解创建者 |
@@ -44,16 +44,16 @@ public class ReplacementAnnotation : AnnotationBase, IEquatable<ReplacementAnnot
 | --- | --- |
 | override [Clone](../../groupdocs.annotation.models.annotationmodels/replacementannotation/clone)() | 返回具有相同值的新实例 |
 | [Equals](../../groupdocs.annotation.models.annotationmodels/annotationbase/equals)(AnnotationBase) | 使用 IEquatable Equals 方法比较基本注释 |
-| override [Equals](../../groupdocs.annotation.models.annotationmodels/replacementannotation/equals#equals_2)(object) | 使用标准对象 Equals 方法比较替换注释 |
-| [Equals](../../groupdocs.annotation.models.annotationmodels/replacementannotation/equals#equals_1)(ReplacementAnnotation) | 使用 IEquatable Equals 方法比较替换注释 |
-| override [GetHashCode](../../groupdocs.annotation.models.annotationmodels/replacementannotation/gethashcode)() | 返回替换注解的HashCode |
+| override [Equals](../../groupdocs.annotation.models.annotationmodels/replacementannotation/equals#equals_2)(object) | 使用标准对象 Equals 方法比较替换注解 |
+| [Equals](../../groupdocs.annotation.models.annotationmodels/replacementannotation/equals#equals_1)(ReplacementAnnotation) | 使用 IEquatable Equals 方法比较替换注解 |
+| override [GetHashCode](../../groupdocs.annotation.models.annotationmodels/replacementannotation/gethashcode)() | 返回替换注解的哈希码 |
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 更多关于注释类型和注释 PDF 和 Microsoft Word 文档、Excel 电子表格和 PowerPoint 演示文稿： [如何使用 GroupDocs.Annotation for .NET 注释文档](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
-* 更多关于为各种类型的文档添加替换注释： [如何在 C# 中添加替换注释](https://docs.groupdocs.com/display/annotationnet/Add+replacement+annotation)
+* 更多关于注释类型和注释 PDF 和 Microsoft Word 文档、Excel 电子表格和 PowerPoint 演示文稿的信息： [如何使用 GroupDocs.Annotation for .NET 注释文档](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
+* 有关向各种类型的文档添加替换注释的更多信息： [如何在 C# 中添加替换注解](https://docs.groupdocs.com/display/annotationnet/Add+replacement+annotation)
 
 ### 也可以看看
 

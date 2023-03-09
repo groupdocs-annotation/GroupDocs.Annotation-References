@@ -1,14 +1,14 @@
 ---
 title: Text
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 获取或设置文本
+description: 获取或设置 text
 type: docs
 weight: 110
 url: /zh/net/groupdocs.annotation.models.annotationmodels/textfieldannotation/text/
 ---
 ## TextFieldAnnotation.Text property
 
-获取或设置文本
+获取或设置 text
 
 ```csharp
 public string Text { get; set; }

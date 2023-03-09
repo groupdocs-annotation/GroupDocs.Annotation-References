@@ -1,14 +1,14 @@
 ---
 title: SquigglyAnnotation
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 初始化的新实例SquigglyAnnotationgroupdocs.annotation.models.annotationmodels/squigglyannotation类.
+description: 初始化新实例SquigglyAnnotationgroupdocs.annotation.models.annotationmodels/squigglyannotation类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.annotation.models.annotationmodels/squigglyannotation/squigglyannotation/
 ---
 ## SquigglyAnnotation constructor
 
-初始化的新实例[`SquigglyAnnotation`](../../squigglyannotation)类.
+初始化新实例[`SquigglyAnnotation`](../../squigglyannotation)类.
 
 ```csharp
 public SquigglyAnnotation()

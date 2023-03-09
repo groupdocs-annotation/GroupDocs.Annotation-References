@@ -1,14 +1,14 @@
 ---
 title: Points
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 获取或设置用文本描述矩形的点集合
+description: 获取或设置用 text 描述矩形的点集合
 type: docs
 weight: 50
 url: /zh/net/groupdocs.annotation.models.annotationmodels/underlineannotation/points/
 ---
 ## UnderlineAnnotation.Points property
 
-获取或设置用文本描述矩形的点集合
+获取或设置用 text 描述矩形的点集合
 
 ```csharp
 public List<Point> Points { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: LeftIndent
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 从左缩进
+description: 从左边缩进
 type: docs
 weight: 20
 url: /zh/net/groupdocs.annotation.models/textlineinfo/leftindent/
 ---
 ## TextLineInfo.LeftIndent property
 
-从左缩进
+从左边缩进
 
 ```csharp
 public double LeftIndent { get; set; }

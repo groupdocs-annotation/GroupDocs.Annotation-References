@@ -8,7 +8,7 @@ url: /tr/net/groupdocs.annotation.options/loadoptions/fontdirectories/
 ---
 ## LoadOptions.FontDirectories property
 
-den özel yazı tiplerini yüklemek için yazı tipi dizinlerinin listesi
+'den özel yazı tiplerini yüklemek için yazı tipi dizinlerinin listesi
 
 ```csharp
 public List<string> FontDirectories { get; set; }

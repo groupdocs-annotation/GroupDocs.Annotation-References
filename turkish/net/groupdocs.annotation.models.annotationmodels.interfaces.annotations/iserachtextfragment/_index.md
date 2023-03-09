@@ -1,14 +1,14 @@
 ---
 title: ISerachTextFragment
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: Değiştirme ek açıklama özelliklerini tanımlar
+description: Değiştirme açıklama özelliklerini tanımlar
 type: docs
 weight: 360
 url: /tr/net/groupdocs.annotation.models.annotationmodels.interfaces.annotations/iserachtextfragment/
 ---
 ## ISerachTextFragment interface
 
-Değiştirme ek açıklama özelliklerini tanımlar
+Değiştirme açıklama özelliklerini tanımlar
 
 ```csharp
 public interface ISerachTextFragment : IBackgroundColor, IFontColor, IFontFamily, IFontSize, IText

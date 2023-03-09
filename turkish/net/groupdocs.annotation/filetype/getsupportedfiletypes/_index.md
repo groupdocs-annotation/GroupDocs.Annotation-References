@@ -16,7 +16,7 @@ public static IEnumerable<FileType> GetSupportedFileTypes()
 
 ### Geri dönüş değeri
 
-FileType'ın Numaralandırılması.
+FileType'ın numaralandırılması.
 
 ### Ayrıca bakınız
 

@@ -3,7 +3,7 @@ title: AnnotationType
 second_title: GroupDocs.Annotation für .NET-API-Referenz
 description: Aufzählung die Anmerkungstypen beschreibt die von GroupDocs unterstützt werden.Annotation für .NET
 type: docs
-weight: 950
+weight: 960
 url: /de/net/groupdocs.annotation.options/annotationtype/
 ---
 ## AnnotationType enumeration
@@ -37,15 +37,15 @@ public enum AnnotationType
 | Watermark | `8000` | Der Anmerkungstyp, der Textwasserzeichen über der Dokumentseite hinzufügt |
 | Image | `10000` | Der Anmerkungstyp, der eine Bildüberlagerung über den Inhalt der Dokumentseite hinzufügt |
 | Dropdown | `20000` | Der Komponententyp, der eine Dropdown-Komponente für ein PDF-Dokument hinzufügt**nur** |
-| Checkbox | `21000` |  |
-| Button | `22000` |  |
+| Checkbox | `21000` | Der Anmerkungstyp, der ein Kontrollkästchen für das PDF-Dokument hinzufügt |
+| Button | `22000` | Der Anmerkungstyp, der eine Schaltfläche für das PDF-Dokument hinzufügt |
 | TextSquiggly | `2500` | Der Anmerkungstyp, der ausgewählten Text verschnörkelt und kommentiert |
 | SearchText | `2700` | Der Anmerkungstyp, der Textfragmente in document durchsucht |
 | All | `7FFFFFFF` | Alle |
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * [So kommentieren Sie Dokumente in C#](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
 * [So fügen Sie Bereichsanmerkungen in C# hinzu](https://docs.groupdocs.com/display/annotationnet/Add+area+annotation)

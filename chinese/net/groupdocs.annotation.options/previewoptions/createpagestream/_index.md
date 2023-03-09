@@ -1,14 +1,14 @@
 ---
 title: CreatePageStream
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 定义创建输出页面预览流的方法的委托
+description: 委托定义了创建输出页面预览流的方法
 type: docs
 weight: 20
 url: /zh/net/groupdocs.annotation.options/previewoptions/createpagestream/
 ---
 ## PreviewOptions.CreatePageStream property
 
-定义创建输出页面预览流的方法的委托。
+委托定义了创建输出页面预览流的方法。
 
 ```csharp
 public CreatePageStream CreatePageStream { get; set; }

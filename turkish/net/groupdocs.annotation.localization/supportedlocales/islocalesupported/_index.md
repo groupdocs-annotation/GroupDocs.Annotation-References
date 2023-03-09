@@ -1,14 +1,14 @@
 ---
 title: IsLocaleSupported
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: yerel ayarın desteklenip desteklenmediğini belirtilen kültür belirler.
+description: yerel ayarın desteklenip desteklenmediğini belirtilen kültür olup olmadığını belirler.
 type: docs
 weight: 10
 url: /tr/net/groupdocs.annotation.localization/supportedlocales/islocalesupported/
 ---
 ## IsLocaleSupported(string) {#islocalesupported_1}
 
-[yerel ayarın desteklenip desteklenmediğini] [belirtilen kültür] belirler.
+[yerel ayarın desteklenip desteklenmediğini] [belirtilen kültür] olup olmadığını belirler.
 
 ```csharp
 public static bool IsLocaleSupported(string culture)
@@ -28,7 +28,7 @@ public static bool IsLocaleSupported(string culture)
 
 ## IsLocaleSupported(CultureInfo) {#islocalesupported}
 
-[yerel ayarın desteklenip desteklenmediğini] [belirtilen kültür] belirler.
+[yerel ayarın desteklenip desteklenmediğini] [belirtilen kültür] olup olmadığını belirler.
 
 ```csharp
 public static bool IsLocaleSupported(CultureInfo culture)

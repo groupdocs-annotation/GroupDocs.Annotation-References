@@ -1,14 +1,14 @@
 ---
 title: ProcessPages
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 文档页
+description: 文件页数
 type: docs
 weight: 30
 url: /zh/net/groupdocs.annotation/annotator/processpages/
 ---
 ## Annotator.ProcessPages property
 
-文档页
+文件页数
 
 ```csharp
 public int ProcessPages { get; set; }

@@ -3,7 +3,7 @@ title: AnnotationType
 second_title: GroupDocs.Annotation for .NET API Reference
 description: التعداد الذي يصف أنواع التعليقات التوضيحية التي يدعمها GroupDoc. تعليق لـ .NET
 type: docs
-weight: 950
+weight: 960
 url: /ar/net/groupdocs.annotation.options/annotationtype/
 ---
 ## AnnotationType enumeration
@@ -37,8 +37,8 @@ public enum AnnotationType
 | Watermark | `8000` | نوع التعليق التوضيحي الذي يضيف علامة مائية نصية فوق صفحة المستند |
 | Image | `10000` | نوع التعليق التوضيحي الذي يضيف تراكب صورة فوق محتوى صفحة المستند |
 | Dropdown | `20000` | نوع المكون الذي يضيف مكون القائمة المنسدلة لمستند pdf**فقط** |
-| Checkbox | `21000` |  |
-| Button | `22000` |  |
+| Checkbox | `21000` | نوع التعليق التوضيحي الذي يضيف مربع اختيار لـ pdf document |
+| Button | `22000` | نوع التعليق التوضيحي الذي يضيف زرًا لملف pdf document |
 | TextSquiggly | `2500` | نوع التعليق التوضيحي المتعرج والتعليقات المحددة text |
 | SearchText | `2700` | نوع التعليق التوضيحي الذي يبحث عن جزء من النص في document |
 | All | `7FFFFFFF` | الكل |

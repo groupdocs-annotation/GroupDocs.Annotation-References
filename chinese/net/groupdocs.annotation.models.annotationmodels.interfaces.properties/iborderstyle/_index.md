@@ -18,7 +18,7 @@ public interface IBorderStyle
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Style](../../groupdocs.annotation.models.annotationmodels.interfaces.properties/iborderstyle/style) { get; set; } | 获取或设置注解边框样式 |
+| [Style](../../groupdocs.annotation.models.annotationmodels.interfaces.properties/iborderstyle/style) { get; set; } | 获取或设置注释边框样式 |
 
 ### 也可以看看
 

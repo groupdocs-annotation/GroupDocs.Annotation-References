@@ -3,7 +3,7 @@ title: WorksheetColumnsRange
 second_title: GroupDocs.Annotation for .NET API Reference
 description: يمثل نطاقًا من الأعمدة لورقة عمل محددة
 type: docs
-weight: 1020
+weight: 1030
 url: /ar/net/groupdocs.annotation.options/worksheetcolumnsrange/
 ---
 ## WorksheetColumnsRange class

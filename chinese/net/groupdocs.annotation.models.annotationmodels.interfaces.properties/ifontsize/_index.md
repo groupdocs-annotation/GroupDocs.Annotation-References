@@ -18,7 +18,7 @@ public interface IFontSize
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FontSize](../../groupdocs.annotation.models.annotationmodels.interfaces.properties/ifontsize/fontsize) { get; set; } | 获取或设置注释文本字体大小 |
+| [FontSize](../../groupdocs.annotation.models.annotationmodels.interfaces.properties/ifontsize/fontsize) { get; set; } | 获取或设置注释文字字体大小 |
 
 ### 也可以看看
 

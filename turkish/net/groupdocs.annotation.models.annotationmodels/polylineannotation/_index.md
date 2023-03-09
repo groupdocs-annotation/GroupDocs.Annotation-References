@@ -1,14 +1,14 @@
 ---
 title: PolylineAnnotation
 second_title: .NET API Başvurusu için GroupDocs.Annotation
-description: Çoklu çizgi ek açıklama özelliklerini temsil eder
+description: Çoklu çizgi açıklama özelliklerini temsil eder
 type: docs
 weight: 650
 url: /tr/net/groupdocs.annotation.models.annotationmodels/polylineannotation/
 ---
 ## PolylineAnnotation class
 
-Çoklu çizgi ek açıklama özelliklerini temsil eder
+Çoklu çizgi açıklama özelliklerini temsil eder
 
 ```csharp
 public class PolylineAnnotation : AnnotationBase, IEquatable<PolylineAnnotation>, 
@@ -25,17 +25,17 @@ public class PolylineAnnotation : AnnotationBase, IEquatable<PolylineAnnotation>
 
 | İsim | Tanım |
 | --- | --- |
-| [Box](../../groupdocs.annotation.models.annotationmodels/polylineannotation/box) { get; set; } | Konum açıklamasını alır veya ayarlar |
+| [Box](../../groupdocs.annotation.models.annotationmodels/polylineannotation/box) { get; set; } | Ek açıklama pozisyonunu alır veya ayarlar |
 | [CreatedOn](../../groupdocs.annotation.models.annotationmodels/annotationbase/createdon) { get; set; } | Ek açıklama oluşturma tarihini alır veya ayarlar |
 | [Id](../../groupdocs.annotation.models.annotationmodels/annotationbase/id) { get; set; } | Ek açıklama benzersiz tanımlayıcısını alır veya ayarlar |
 | [Message](../../groupdocs.annotation.models.annotationmodels/annotationbase/message) { get; set; } | Açıklama mesajını alır veya ayarlar |
-| [Opacity](../../groupdocs.annotation.models.annotationmodels/polylineannotation/opacity) { get; set; } | Açıklama opacity değerini alır veya ayarlar |
+| [Opacity](../../groupdocs.annotation.models.annotationmodels/polylineannotation/opacity) { get; set; } | Ek açıklama opaklığını alır veya ayarlar |
 | [PageNumber](../../groupdocs.annotation.models.annotationmodels/annotationbase/pagenumber) { get; set; } | Ek açıklamalı sayfa numarasını alır veya ayarlar |
 | [PenColor](../../groupdocs.annotation.models.annotationmodels/polylineannotation/pencolor) { get; set; } | Açıklama kalemi rengini alır veya ayarlar |
 | [PenStyle](../../groupdocs.annotation.models.annotationmodels/polylineannotation/penstyle) { get; set; } | Açıklama kalem stilini alır veya ayarlar |
 | [PenWidth](../../groupdocs.annotation.models.annotationmodels/polylineannotation/penwidth) { get; set; } | Ek açıklama kalemi genişliğini alır veya ayarlar |
 | [Replies](../../groupdocs.annotation.models.annotationmodels/annotationbase/replies) { get; set; } | Ek açıklama yanıtlarını temsil eder koleksiyon |
-| [SvgPath](../../groupdocs.annotation.models.annotationmodels/polylineannotation/svgpath) { get; set; } | SVG ek açıklamasını alır veya ayarlar path |
+| [SvgPath](../../groupdocs.annotation.models.annotationmodels/polylineannotation/svgpath) { get; set; } | Ek açıklamayı alır veya ayarlar SVG path |
 | [Type](../../groupdocs.annotation.models.annotationmodels/annotationbase/type) { get; set; } | Açıklama tipini alır veya ayarlar |
 | [User](../../groupdocs.annotation.models.annotationmodels/annotationbase/user) { get; set; } | Ek açıklamayı alır veya ayarlar creator |
 
@@ -45,16 +45,16 @@ public class PolylineAnnotation : AnnotationBase, IEquatable<PolylineAnnotation>
 | --- | --- |
 | override [Clone](../../groupdocs.annotation.models.annotationmodels/polylineannotation/clone)() | Aynı değerlere sahip yeni Örnek döndürür |
 | [Equals](../../groupdocs.annotation.models.annotationmodels/annotationbase/equals)(AnnotationBase) | IEquatable Equals yöntemini kullanarak Temel Açıklamaları karşılaştırır |
-| override [Equals](../../groupdocs.annotation.models.annotationmodels/polylineannotation/equals#equals_2)(object) | Standart nesne Equals yöntemini kullanarak Çoklu Çizgi Ek Açıklamalarını karşılaştırır method |
-| [Equals](../../groupdocs.annotation.models.annotationmodels/polylineannotation/equals#equals_1)(PolylineAnnotation) | IEquatable Equals method kullanarak Çoklu Çizgi Ek Açıklamalarını karşılaştırır |
-| override [GetHashCode](../../groupdocs.annotation.models.annotationmodels/polylineannotation/gethashcode)() | Çoklu Çizgi Açıklamasının HashCode'unu döndürür |
+| override [Equals](../../groupdocs.annotation.models.annotationmodels/polylineannotation/equals#equals_2)(object) | Standart nesne Equals method kullanarak Çoklu Çizgi Ek Açıklamalarını karşılaştırır |
+| [Equals](../../groupdocs.annotation.models.annotationmodels/polylineannotation/equals#equals_1)(PolylineAnnotation) | IEquatable Equals yöntemini kullanarak Çoklu Çizgi Ek Açıklamalarını karşılaştırır |
+| override [GetHashCode](../../groupdocs.annotation.models.annotationmodels/polylineannotation/gethashcode)() | Çoklu Çizgi Açıklamanın HashCode'unu döndürür |
 
 ### Notlar
 
 **Daha fazla bilgi edin**
 
-* Açıklama türleri ve PDF ve Microsoft Word belgelerine, Excel elektronik tablolarına ve PowerPoint Sunumlarına açıklama ekleme hakkında daha fazla bilgi: [.NET için GroupDocs.Annotation kullanarak belgelere açıklama ekleme](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
-* Çeşitli türlerdeki belgelere çoklu çizgi ek açıklamaları ekleme hakkında daha fazla bilgi: [C#'da çoklu çizgi ek açıklamaları nasıl eklenir](https://docs.groupdocs.com/display/annotationnet/Add+polyline+annotation)
+* Ek açıklama türleri ve PDF ve Microsoft Word belgeleri, Excel elektronik tabloları ve PowerPoint Sunumları hakkında daha fazla bilgi: [.NET için GroupDocs.Annotation kullanarak belgelere açıklama ekleme](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
+* Çeşitli türdeki belgelere çoklu çizgi açıklamaları ekleme hakkında daha fazla bilgi: [C#'ta çoklu çizgi ek açıklamaları nasıl eklenir?](https://docs.groupdocs.com/display/annotationnet/Add+polyline+annotation)
 
 ### Ayrıca bakınız
 

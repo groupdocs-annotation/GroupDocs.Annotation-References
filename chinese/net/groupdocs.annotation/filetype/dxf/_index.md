@@ -1,14 +1,14 @@
 ---
 title: Dxf
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 绘图交换格式文件.
+description: 图形交换格式文件.
 type: docs
 weight: 90
 url: /zh/net/groupdocs.annotation/filetype/dxf/
 ---
 ## FileType.Dxf property
 
-绘图交换格式文件.
+图形交换格式文件.
 
 ```csharp
 public static FileType Dxf { get; }

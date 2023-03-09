@@ -1,14 +1,14 @@
 ---
 title: GetHashCode
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 用作默认哈希函数
+description: 作为默认哈希函数
 type: docs
 weight: 50
 url: /zh/net/groupdocs.annotation.models/point/gethashcode/
 ---
 ## Point.GetHashCode method
 
-用作默认哈希函数。
+作为默认哈希函数。
 
 ```csharp
 public override int GetHashCode()

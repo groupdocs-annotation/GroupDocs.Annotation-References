@@ -28,7 +28,7 @@ public bool Equals(ArrowAnnotation other)
 
 ## Equals(object) {#equals_2}
 
-Confronta le annotazioni con le frecce usando l'oggetto standard Equals method
+Confronta le annotazioni freccia utilizzando l'oggetto standard Equals method
 
 ```csharp
 public override bool Equals(object obj)

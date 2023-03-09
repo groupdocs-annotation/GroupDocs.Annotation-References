@@ -3,7 +3,7 @@ title: User
 second_title: GroupDocs.Annotation for .NET API Reference
 description: يمثل خصائص المستخدم .
 type: docs
-weight: 930
+weight: 940
 url: /ar/net/groupdocs.annotation.models/user/
 ---
 ## User class
@@ -19,7 +19,7 @@ public class User
 | اسم | وصف |
 | --- | --- |
 | [User](user#constructor)() | تهيئة مثيل جديد لـ[`User`](../user) فئة . |
-| [User](user#constructor_1)(int, string) | تهيئة مثيل جديد لـ[`User`](../user) فئة . |
+| [User](user#constructor_1)(int, string, Role) | تهيئة مثيل جديد لـ[`User`](../user) فئة . |
 
 ## الخصائص
 
@@ -28,6 +28,7 @@ public class User
 | [Email](../../groupdocs.annotation.models/user/email) { get; set; } | البريد الإلكتروني |
 | [Id](../../groupdocs.annotation.models/user/id) { get; set; } | معرف المستخدم |
 | [Name](../../groupdocs.annotation.models/user/name) { get; set; } | اسم المستخدم |
+| [Role](../../groupdocs.annotation.models/user/role) { get; set; } | الدور |
 
 ### أنظر أيضا
 

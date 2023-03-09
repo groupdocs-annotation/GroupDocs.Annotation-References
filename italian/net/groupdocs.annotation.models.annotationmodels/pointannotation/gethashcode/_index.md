@@ -1,14 +1,14 @@
 ---
 title: GetHashCode
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Restituisce il codice hash dellannotazione punto
+description: Restituisce HashCode dellannotazione punto
 type: docs
 weight: 50
 url: /it/net/groupdocs.annotation.models.annotationmodels/pointannotation/gethashcode/
 ---
 ## PointAnnotation.GetHashCode method
 
-Restituisce il codice hash dell'annotazione punto
+Restituisce HashCode dell'annotazione punto
 
 ```csharp
 public override int GetHashCode()

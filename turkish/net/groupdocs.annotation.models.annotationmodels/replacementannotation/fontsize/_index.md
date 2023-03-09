@@ -11,7 +11,7 @@ url: /tr/net/groupdocs.annotation.models.annotationmodels/replacementannotation/
 Ek açıklama metni yazı tipi boyutunu alır veya ayarlar
 
 ```csharp
-public int? FontSize { get; set; }
+public double? FontSize { get; set; }
 ```
 
 ### Ayrıca bakınız

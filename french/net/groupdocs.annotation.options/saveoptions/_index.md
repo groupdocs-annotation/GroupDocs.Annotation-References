@@ -3,7 +3,7 @@ title: SaveOptions
 second_title: Référence de l'API GroupDocs.Annotation pour .NET
 description: Permet de spécifier des options supplémentaires telles que le mot de passe lors de lenregistrement du document annoté.
 type: docs
-weight: 1010
+weight: 1020
 url: /fr/net/groupdocs.annotation.options/saveoptions/
 ---
 ## SaveOptions class

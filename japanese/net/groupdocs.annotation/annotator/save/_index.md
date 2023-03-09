@@ -1,0 +1,176 @@
+---
+title: Save
+second_title: GroupDocs.Annotation for .NET API リファレンス
+description: 注釈の追加更新または削除後にドキュメントを保存します
+type: docs
+weight: 130
+url: /ja/net/groupdocs.annotation/annotator/save/
+---
+## Save() {#save}
+
+注釈の追加、更新、または削除後にドキュメントを保存します。
+
+```csharp
+public void Save()
+```
+
+### 備考
+
+**注釈付きドキュメントの保存の詳細**
+
+* 注釈付きドキュメント ページのみを保存する方法の詳細: [注釈付きのページのみを保存](https://docs.groupdocs.com/display/annotationnet/Save+only+annotated+pages)
+* 特定の注釈タイプのみを含むドキュメントを保存する方法の詳細: [保存時の注釈タイプのフィルタリング](https://docs.groupdocs.com/display/annotationnet/Filtering+annotation+types)
+* ドキュメント全体から特定のページを保存する方法の詳細: [特定のページ範囲を保存](https://docs.groupdocs.com/display/annotationnet/Save+specific+page+range)
+
+### 関連項目
+
+* class [Annotator](../../annotator)
+* 名前空間 [GroupDocs.Annotation](../../annotator)
+* 組み立て [GroupDocs.Annotation](../../../)
+
+---
+
+## Save(SaveOptions) {#save_1}
+
+注釈の追加、更新、または削除後にドキュメントを保存します。
+
+```csharp
+public void Save(SaveOptions saveOptions)
+```
+
+| パラメータ | タイプ | 説明 |
+| --- | --- | --- |
+| saveOptions | SaveOptions | 保存オプション。 |
+
+### 備考
+
+**注釈付きドキュメントの保存の詳細**
+
+* 注釈付きドキュメント ページのみを保存する方法の詳細: [注釈付きのページのみを保存](https://docs.groupdocs.com/display/annotationnet/Save+only+annotated+pages)
+* 特定の注釈タイプのみを含むドキュメントを保存する方法の詳細: [保存時の注釈タイプのフィルタリング](https://docs.groupdocs.com/display/annotationnet/Filtering+annotation+types)
+* ドキュメント全体から特定のページを保存する方法の詳細: [特定のページ範囲を保存](https://docs.groupdocs.com/display/annotationnet/Save+specific+page+range)
+
+### 関連項目
+
+* class [SaveOptions](../../../groupdocs.annotation.options/saveoptions)
+* class [Annotator](../../annotator)
+* 名前空間 [GroupDocs.Annotation](../../annotator)
+* 組み立て [GroupDocs.Annotation](../../../)
+
+---
+
+## Save(Stream) {#save_2}
+
+注釈の追加、更新、または削除後にドキュメントを保存します。
+
+```csharp
+public void Save(Stream document)
+```
+
+| パラメータ | タイプ | 説明 |
+| --- | --- | --- |
+| document | Stream | 出力ストリーム。 |
+
+### 備考
+
+**注釈付きドキュメントの保存の詳細**
+
+* 注釈付きドキュメント ページのみを保存する方法の詳細: [注釈付きのページのみを保存](https://docs.groupdocs.com/display/annotationnet/Save+only+annotated+pages)
+* 特定の注釈タイプのみを含むドキュメントを保存する方法の詳細: [保存時の注釈タイプのフィルタリング](https://docs.groupdocs.com/display/annotationnet/Filtering+annotation+types)
+* ドキュメント全体から特定のページを保存する方法の詳細: [特定のページ範囲を保存](https://docs.groupdocs.com/display/annotationnet/Save+specific+page+range)
+
+### 関連項目
+
+* class [Annotator](../../annotator)
+* 名前空間 [GroupDocs.Annotation](../../annotator)
+* 組み立て [GroupDocs.Annotation](../../../)
+
+---
+
+## Save(string) {#save_4}
+
+注釈の追加、更新、または削除後にドキュメントを保存します。
+
+```csharp
+public void Save(string filePath)
+```
+
+| パラメータ | タイプ | 説明 |
+| --- | --- | --- |
+| filePath | String | 出力ファイルのパス。 |
+
+### 備考
+
+**注釈付きドキュメントの保存の詳細**
+
+* 注釈付きドキュメント ページのみを保存する方法の詳細: [注釈付きのページのみを保存](https://docs.groupdocs.com/display/annotationnet/Save+only+annotated+pages)
+* 特定の注釈タイプのみを含むドキュメントを保存する方法の詳細: [保存時の注釈タイプのフィルタリング](https://docs.groupdocs.com/display/annotationnet/Filtering+annotation+types)
+* ドキュメント全体から特定のページを保存する方法の詳細: [特定のページ範囲を保存](https://docs.groupdocs.com/display/annotationnet/Save+specific+page+range)
+
+### 関連項目
+
+* class [Annotator](../../annotator)
+* 名前空間 [GroupDocs.Annotation](../../annotator)
+* 組み立て [GroupDocs.Annotation](../../../)
+
+---
+
+## Save(Stream, SaveOptions) {#save_3}
+
+注釈の追加、更新、または削除後にドキュメントを保存します。
+
+```csharp
+public void Save(Stream document, SaveOptions saveOptions)
+```
+
+| パラメータ | タイプ | 説明 |
+| --- | --- | --- |
+| document | Stream | 出力ストリーム。 |
+| saveOptions | SaveOptions | 保存オプション。 |
+
+### 備考
+
+**注釈付きドキュメントの保存の詳細**
+
+* 注釈付きドキュメント ページのみを保存する方法の詳細: [注釈付きのページのみを保存](https://docs.groupdocs.com/display/annotationnet/Save+only+annotated+pages)
+* 特定の注釈タイプのみを含むドキュメントを保存する方法の詳細: [保存時の注釈タイプのフィルタリング](https://docs.groupdocs.com/display/annotationnet/Filtering+annotation+types)
+* ドキュメント全体から特定のページを保存する方法の詳細: [特定のページ範囲を保存](https://docs.groupdocs.com/display/annotationnet/Save+specific+page+range)
+
+### 関連項目
+
+* class [SaveOptions](../../../groupdocs.annotation.options/saveoptions)
+* class [Annotator](../../annotator)
+* 名前空間 [GroupDocs.Annotation](../../annotator)
+* 組み立て [GroupDocs.Annotation](../../../)
+
+---
+
+## Save(string, SaveOptions) {#save_5}
+
+注釈の追加、更新、または削除後にドキュメントを保存します。
+
+```csharp
+public void Save(string filePath, SaveOptions saveOptions)
+```
+
+| パラメータ | タイプ | 説明 |
+| --- | --- | --- |
+| filePath | String | 出力ファイルのパス。 |
+| saveOptions | SaveOptions | 保存オプション。 |
+
+### 備考
+
+**注釈付きドキュメントの保存の詳細**
+
+* 注釈付きドキュメント ページのみを保存する方法の詳細: [注釈付きのページのみを保存](https://docs.groupdocs.com/display/annotationnet/Save+only+annotated+pages)
+* 特定の注釈タイプのみを含むドキュメントを保存する方法の詳細: [保存時の注釈タイプのフィルタリング](https://docs.groupdocs.com/display/annotationnet/Filtering+annotation+types)
+* ドキュメント全体から特定のページを保存する方法の詳細: [特定のページ範囲を保存](https://docs.groupdocs.com/display/annotationnet/Save+specific+page+range)
+
+### 関連項目
+
+* class [SaveOptions](../../../groupdocs.annotation.options/saveoptions)
+* class [Annotator](../../annotator)
+* 名前空間 [GroupDocs.Annotation](../../annotator)
+* 組み立て [GroupDocs.Annotation](../../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for GroupDocs.Annotation.dll -->

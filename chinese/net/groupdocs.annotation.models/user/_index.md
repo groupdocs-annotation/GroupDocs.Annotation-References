@@ -3,7 +3,7 @@ title: User
 second_title: .NET API 参考的 GroupDocs.Annotation
 description: 代表用户属性
 type: docs
-weight: 930
+weight: 940
 url: /zh/net/groupdocs.annotation.models/user/
 ---
 ## User class
@@ -18,8 +18,8 @@ public class User
 
 | 姓名 | 描述 |
 | --- | --- |
-| [User](user#constructor)() | 初始化的新实例[`User`](../user)类. |
-| [User](user#constructor_1)(int, string) | 初始化的新实例[`User`](../user)类. |
+| [User](user#constructor)() | 初始化新实例[`User`](../user)类. |
+| [User](user#constructor_1)(int, string, Role) | 初始化新实例[`User`](../user)类. |
 
 ## 特性
 
@@ -28,6 +28,7 @@ public class User
 | [Email](../../groupdocs.annotation.models/user/email) { get; set; } | 电子邮件 |
 | [Id](../../groupdocs.annotation.models/user/id) { get; set; } | 用户 ID |
 | [Name](../../groupdocs.annotation.models/user/name) { get; set; } | 用户名 |
+| [Role](../../groupdocs.annotation.models/user/role) { get; set; } | 角色 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: EllipseAnnotation
 second_title: .NET API 参考的 GroupDocs.Annotation
-description: 表示椭圆注解属性
+description: 表示椭圆标注属性
 type: docs
 weight: 230
 url: /zh/net/groupdocs.annotation.models.annotationmodels/ellipseannotation/
 ---
 ## EllipseAnnotation class
 
-表示椭圆注解属性
+表示椭圆标注属性
 
 ```csharp
 public class EllipseAnnotation : AnnotationBase, IEllipseAnnotation, IEquatable<EllipseAnnotation>
@@ -18,7 +18,7 @@ public class EllipseAnnotation : AnnotationBase, IEllipseAnnotation, IEquatable<
 
 | 姓名 | 描述 |
 | --- | --- |
-| [EllipseAnnotation](ellipseannotation)() | 初始化的新实例[`EllipseAnnotation`](../ellipseannotation)类. |
+| [EllipseAnnotation](ellipseannotation)() | 初始化新实例[`EllipseAnnotation`](../ellipseannotation)类. |
 
 ## 特性
 
@@ -26,15 +26,15 @@ public class EllipseAnnotation : AnnotationBase, IEllipseAnnotation, IEquatable<
 | --- | --- |
 | [BackgroundColor](../../groupdocs.annotation.models.annotationmodels/ellipseannotation/backgroundcolor) { get; set; } | 获取或设置注释背景颜色 |
 | [Box](../../groupdocs.annotation.models.annotationmodels/ellipseannotation/box) { get; set; } | 获取或设置注解位置 |
-| [CreatedOn](../../groupdocs.annotation.models.annotationmodels/annotationbase/createdon) { get; set; } | 获取或设置注解创建日期 |
+| [CreatedOn](../../groupdocs.annotation.models.annotationmodels/annotationbase/createdon) { get; set; } | 获取或设置注释创建日期 |
 | [Id](../../groupdocs.annotation.models.annotationmodels/annotationbase/id) { get; set; } | 获取或设置注解唯一标识符 |
-| [Message](../../groupdocs.annotation.models.annotationmodels/annotationbase/message) { get; set; } | 获取或设置注解消息 |
-| [Opacity](../../groupdocs.annotation.models.annotationmodels/ellipseannotation/opacity) { get; set; } | 获取或设置注解不透明度 |
+| [Message](../../groupdocs.annotation.models.annotationmodels/annotationbase/message) { get; set; } | 获取或设置注释消息 |
+| [Opacity](../../groupdocs.annotation.models.annotationmodels/ellipseannotation/opacity) { get; set; } | 获取或设置注释不透明度 |
 | [PageNumber](../../groupdocs.annotation.models.annotationmodels/annotationbase/pagenumber) { get; set; } | 获取或设置要标注的页码 |
 | [PenColor](../../groupdocs.annotation.models.annotationmodels/ellipseannotation/pencolor) { get; set; } | 获取或设置批注笔颜色 |
 | [PenStyle](../../groupdocs.annotation.models.annotationmodels/ellipseannotation/penstyle) { get; set; } | 获取或设置批注笔样式 |
-| [PenWidth](../../groupdocs.annotation.models.annotationmodels/ellipseannotation/penwidth) { get; set; } | 获取或设置注释笔宽度 |
-| [Replies](../../groupdocs.annotation.models.annotationmodels/annotationbase/replies) { get; set; } | 表示注释回复集合 |
+| [PenWidth](../../groupdocs.annotation.models.annotationmodels/ellipseannotation/penwidth) { get; set; } | 获取或设置批注笔宽度 |
+| [Replies](../../groupdocs.annotation.models.annotationmodels/annotationbase/replies) { get; set; } | 代表注解回复集合 |
 | [Type](../../groupdocs.annotation.models.annotationmodels/annotationbase/type) { get; set; } | 获取或设置注解类型 |
 | [User](../../groupdocs.annotation.models.annotationmodels/annotationbase/user) { get; set; } | 获取或设置注解创建者 |
 
@@ -50,10 +50,10 @@ public class EllipseAnnotation : AnnotationBase, IEllipseAnnotation, IEquatable<
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 更多关于注释类型和注释 PDF 和 Microsoft Word 文档、Excel 电子表格和 PowerPoint 演示文稿： [如何使用 GroupDocs.Annotation for .NET 注释文档](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
-* 更多关于为各种类型的文档添加椭圆注释： [如何在 C# 中添加椭圆注释](https://docs.groupdocs.com/display/annotationnet/Add+ellipse+annotation)
+* 更多关于注释类型和注释 PDF 和 Microsoft Word 文档、Excel 电子表格和 PowerPoint 演示文稿的信息： [如何使用 GroupDocs.Annotation for .NET 注释文档](https://docs.groupdocs.com/display/annotationnet/Add+annotation+to+the+document)
+* 更多关于为各种类型的文档添加椭圆注释： [如何在C#中添加椭圆注解](https://docs.groupdocs.com/display/annotationnet/Add+ellipse+annotation)
 
 ### 也可以看看
 

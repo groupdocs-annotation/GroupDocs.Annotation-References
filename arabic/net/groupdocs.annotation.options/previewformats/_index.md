@@ -3,7 +3,7 @@ title: PreviewFormats
 second_title: GroupDocs.Annotation for .NET API Reference
 description: التنسيقات المدعومة لمعاينة المستند.
 type: docs
-weight: 980
+weight: 990
 url: /ar/net/groupdocs.annotation.options/previewformats/
 ---
 ## PreviewFormats enumeration

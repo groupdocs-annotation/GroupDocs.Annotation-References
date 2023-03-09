@@ -18,8 +18,8 @@ public class CorruptedOrDamagedFileException : AnnotatorException
 
 | Nom | La description |
 | --- | --- |
-| [CorruptedOrDamagedFileException](corruptedordamagedfileexception#constructor)(string) | Initialise une nouvelle instance du[`CorruptedOrDamagedFileException`](../corruptedordamagedfileexception) classer. |
-| [CorruptedOrDamagedFileException](corruptedordamagedfileexception#constructor_1)(string, Exception) | Initialise une nouvelle instance du[`CorruptedOrDamagedFileException`](../corruptedordamagedfileexception) classer. |
+| [CorruptedOrDamagedFileException](corruptedordamagedfileexception#constructor)(string) | Initialise une nouvelle instance du[`CorruptedOrDamagedFileException`](../corruptedordamagedfileexception) classe. |
+| [CorruptedOrDamagedFileException](corruptedordamagedfileexception#constructor_1)(string, Exception) | Initialise une nouvelle instance du[`CorruptedOrDamagedFileException`](../corruptedordamagedfileexception) classe. |
 
 ### Voir également
 

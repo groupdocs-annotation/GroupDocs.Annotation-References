@@ -20,7 +20,7 @@ public Annotator(string filePath)
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni sui tipi di file supportati da GroupDocs.Annotazione: [Formati di documenti supportati da GroupDocs.Annotation](https://docs.groupdocs.com/display/annotationnet/Supported+Document+Formats)
 * Ulteriori informazioni su GroupDocs.Annotation per le funzionalità .NET: [Guida per sviluppatori](https://docs.groupdocs.com/display/annotationnet/Developer+Guide)
@@ -48,7 +48,7 @@ public Annotator(string filePath, LoadOptions loadOptions)
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni sui tipi di file supportati da GroupDocs.Annotazione: [Formati di documenti supportati da GroupDocs.Annotation](https://docs.groupdocs.com/display/annotationnet/Supported+Document+Formats)
 * Ulteriori informazioni su GroupDocs.Annotation per le funzionalità .NET: [Guida per sviluppatori](https://docs.groupdocs.com/display/annotationnet/Developer+Guide)
@@ -79,7 +79,7 @@ public Annotator(string filePath, AnnotatorSettings settings)
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni sui tipi di file supportati da GroupDocs.Annotazione: [Formati di documenti supportati da GroupDocs.Annotation](https://docs.groupdocs.com/display/annotationnet/Supported+Document+Formats)
 * Ulteriori informazioni su GroupDocs.Annotation per le funzionalità .NET: [Guida per sviluppatori](https://docs.groupdocs.com/display/annotationnet/Developer+Guide)
@@ -109,7 +109,7 @@ public Annotator(string filePath, LoadOptions loadOptions, AnnotatorSettings set
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni sui tipi di file supportati da GroupDocs.Annotazione: [Formati di documenti supportati da GroupDocs.Annotation](https://docs.groupdocs.com/display/annotationnet/Supported+Document+Formats)
 * Ulteriori informazioni su GroupDocs.Annotation per le funzionalità .NET: [Guida per sviluppatori](https://docs.groupdocs.com/display/annotationnet/Developer+Guide)
@@ -140,7 +140,7 @@ public Annotator(Stream document)
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni sui tipi di file supportati da GroupDocs.Annotazione: [Formati di documenti supportati da GroupDocs.Annotation](https://docs.groupdocs.com/display/annotationnet/Supported+Document+Formats)
 * Ulteriori informazioni su GroupDocs.Annotation per le funzionalità .NET: [Guida per sviluppatori](https://docs.groupdocs.com/display/annotationnet/Developer+Guide)
@@ -168,7 +168,7 @@ public Annotator(Stream document, LoadOptions loadOptions)
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni sui tipi di file supportati da GroupDocs.Annotazione: [Formati di documenti supportati da GroupDocs.Annotation](https://docs.groupdocs.com/display/annotationnet/Supported+Document+Formats)
 * Ulteriori informazioni su GroupDocs.Annotation per le funzionalità .NET: [Guida per sviluppatori](https://docs.groupdocs.com/display/annotationnet/Developer+Guide)
@@ -199,7 +199,7 @@ public Annotator(Stream document, AnnotatorSettings settings)
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni sui tipi di file supportati da GroupDocs.Annotazione: [Formati di documenti supportati da GroupDocs.Annotation](https://docs.groupdocs.com/display/annotationnet/Supported+Document+Formats)
 * Ulteriori informazioni su GroupDocs.Annotation per le funzionalità .NET: [Guida per sviluppatori](https://docs.groupdocs.com/display/annotationnet/Developer+Guide)
@@ -229,7 +229,7 @@ public Annotator(Stream document, LoadOptions loadOptions, AnnotatorSettings set
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Ulteriori informazioni sui tipi di file supportati da GroupDocs.Annotazione: [Formati di documenti supportati da GroupDocs.Annotation](https://docs.groupdocs.com/display/annotationnet/Supported+Document+Formats)
 * Ulteriori informazioni su GroupDocs.Annotation per le funzionalità .NET: [Guida per sviluppatori](https://docs.groupdocs.com/display/annotationnet/Developer+Guide)

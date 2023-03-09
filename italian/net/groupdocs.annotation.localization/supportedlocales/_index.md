@@ -1,14 +1,14 @@
 ---
 title: SupportedLocales
 second_title: GroupDocs.Annotation per riferimento all'API .NET
-description: Classe che fornisce metodi per il controllo delle localizzazioni supportate da GroupDocs.Annotation.
+description: Classe che fornisce metodi per il controllo delle impostazioni locali supportate da GroupDocs.Annotation.
 type: docs
 weight: 150
 url: /it/net/groupdocs.annotation.localization/supportedlocales/
 ---
 ## SupportedLocales class
 
-Classe che fornisce metodi per il controllo delle localizzazioni supportate da GroupDocs.Annotation.
+Classe che fornisce metodi per il controllo delle impostazioni locali supportate da GroupDocs.Annotation.
 
 ```csharp
 public static class SupportedLocales
@@ -18,8 +18,8 @@ public static class SupportedLocales
 
 | Nome | Descrizione |
 | --- | --- |
-| static [IsLocaleSupported](../../groupdocs.annotation.localization/supportedlocales/islocalesupported#islocalesupported)(CultureInfo) | Determina se [è supportata la locale] [le impostazioni cultura specificate]. |
-| static [IsLocaleSupported](../../groupdocs.annotation.localization/supportedlocales/islocalesupported#islocalesupported_1)(string) | Determina se [è supportata la locale] [le impostazioni cultura specificate]. |
+| static [IsLocaleSupported](../../groupdocs.annotation.localization/supportedlocales/islocalesupported#islocalesupported)(CultureInfo) | Determina se [è supportata la locale] [la cultura specificata]. |
+| static [IsLocaleSupported](../../groupdocs.annotation.localization/supportedlocales/islocalesupported#islocalesupported_1)(string) | Determina se [è supportata la locale] [la cultura specificata]. |
 
 ### Guarda anche
 
