@@ -7,9 +7,9 @@ weight: 12
 url: /java/com.groupdocs.annotation.models/point/
 ---
 **Inheritance:**
-java.lang.Object, com.aspose.ms.System.ValueType, com.aspose.ms.lang.Struct
+java.lang.Object
 ```
-public class Point extends Struct<Point>
+public class Point
 ```
 
 Represents point.
@@ -19,6 +19,7 @@ Represents point.
 | --- | --- |
 | [Point()](#Point--) |  |
 | [Point(float x, float y)](#Point-float-float-) | Initializes a new instance of the [Point](../../com.groupdocs.annotation.models/point) struct. |
+| [Point(Point point)](#Point-com.groupdocs.annotation.models.Point-) | Initializes a new instance of [Point](../../com.groupdocs.annotation.models/point) class. |
 ## Methods
 
 | Method | Description |
@@ -33,9 +34,6 @@ Represents point.
 | [setY(float value)](#setY-float-) | Gets or sets the y. |
 | [equals(Object obj)](#equals-java.lang.Object-) | Determines whether the specified point is equal to the current point. |
 | [hashCode()](#hashCode--) | Serves as the default hash function. |
-| [CloneTo(Point that)](#CloneTo-com.groupdocs.annotation.models.Point-) |  |
-| [Clone()](#Clone--) |  |
-| [clone()](#clone--) |  |
 | [toString()](#toString--) |  |
 ### Point() {#Point--}
 ```
@@ -56,6 +54,19 @@ Initializes a new instance of the [Point](../../com.groupdocs.annotation.models/
 | --- | --- | --- |
 | x | float | The x. |
 | y | float | The y. |
+
+### Point(Point point) {#Point-com.groupdocs.annotation.models.Point-}
+```
+public Point(Point point)
+```
+
+
+Initializes a new instance of [Point](../../com.groupdocs.annotation.models/point) class.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| point | [Point](../../com.groupdocs.annotation.models/point) | The point source. |
 
 ### isPointCollectionsEqual(List<Point> points1, List<Point> points2) {#isPointCollectionsEqual-java.util.List-com.groupdocs.annotation.models.Point--java.util.List-com.groupdocs.annotation.models.Point--}
 ```
@@ -200,39 +211,6 @@ Serves as the default hash function.
 
 **Returns:**
 int - A hash code for the current point.
-### CloneTo(Point that) {#CloneTo-com.groupdocs.annotation.models.Point-}
-```
-public void CloneTo(Point that)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| that | [Point](../../com.groupdocs.annotation.models/point) |  |
-
-### Clone() {#Clone--}
-```
-public Point Clone()
-```
-
-
-
-
-**Returns:**
-[Point](../../com.groupdocs.annotation.models/point)
-### clone() {#clone--}
-```
-public Object clone()
-```
-
-
-
-
-**Returns:**
-java.lang.Object
 ### toString() {#toString--}
 ```
 public String toString()

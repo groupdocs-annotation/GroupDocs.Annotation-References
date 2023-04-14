@@ -18,7 +18,7 @@ Represents user properties.
 | Constructor | Description |
 | --- | --- |
 | [User()](#User--) | Initializes new instance of [User](../../com.groupdocs.annotation.models/user) class. |
-| [User(int id, String name)](#User-int-java.lang.String-) | Initializes new instance of [User](../../com.groupdocs.annotation.models/user) class. |
+| [User(int id, String name, Role role)](#User-int-java.lang.String-com.groupdocs.annotation.models.Role-) | Initializes new instance of [User](../../com.groupdocs.annotation.models/user) class. |
 ## Methods
 
 | Method | Description |
@@ -29,6 +29,8 @@ Represents user properties.
 | [setName(String value)](#setName-java.lang.String-) | User name |
 | [getEmail()](#getEmail--) | Email |
 | [setEmail(String value)](#setEmail-java.lang.String-) | Email |
+| [getRole()](#getRole--) | Role |
+| [setRole(Role value)](#setRole-com.groupdocs.annotation.models.Role-) | Role |
 | [toString()](#toString--) |  |
 ### User() {#User--}
 ```
@@ -38,9 +40,9 @@ public User()
 
 Initializes new instance of [User](../../com.groupdocs.annotation.models/user) class.
 
-### User(int id, String name) {#User-int-java.lang.String-}
+### User(int id, String name, Role role) {#User-int-java.lang.String-com.groupdocs.annotation.models.Role-}
 ```
-public User(int id, String name)
+public User(int id, String name, Role role)
 ```
 
 
@@ -51,6 +53,7 @@ Initializes new instance of [User](../../com.groupdocs.annotation.models/user) c
 | --- | --- | --- |
 | id | int | The user id. |
 | name | java.lang.String | The user name. |
+| role | com.groupdocs.annotation.models.Role | The user role. |
 
 ### getId() {#getId--}
 ```
@@ -120,6 +123,29 @@ Email
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | java.lang.String |  |
+
+### getRole() {#getRole--}
+```
+public final Role getRole()
+```
+
+
+Role
+
+**Returns:**
+com.groupdocs.annotation.models.Role - 
+### setRole(Role value) {#setRole-com.groupdocs.annotation.models.Role-}
+```
+public final void setRole(Role value)
+```
+
+
+Role
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | com.groupdocs.annotation.models.Role |  |
 
 ### toString() {#toString--}
 ```

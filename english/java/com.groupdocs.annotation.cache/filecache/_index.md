@@ -28,7 +28,6 @@ Represents a local on-disk cache.
 | --- | --- |
 | [getKeys(String filter)](#getKeys-java.lang.String-) | Returns all file names that contains filter in filename. |
 | [set(String key, Object value)](#set-java.lang.String-java.lang.Object-) | Serializes data to the local disk. |
-| [tryGetValue(String key, Object value)](#tryGetValue-java.lang.String-java.lang.Object-) | Deserializes data associated with this key if present. |
 ### FileCache() {#FileCache--}
 ```
 public FileCache()
@@ -79,19 +78,3 @@ Serializes data to the local disk.
 | key | java.lang.String | An unique identifier for the cache entry. |
 | value | java.lang.Object | The object to serialize. |
 
-### tryGetValue(String key, Object value) {#tryGetValue-java.lang.String-java.lang.Object-}
-```
-public final boolean tryGetValue(String key, Object value)
-```
-
-
-Deserializes data associated with this key if present.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| key | java.lang.String | A key identifying the requested entry. |
-| value | java.lang.Object | The located value or null. |
-
-**Returns:**
-boolean - True if the key was found.

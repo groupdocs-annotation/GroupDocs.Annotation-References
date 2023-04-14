@@ -38,6 +38,7 @@ Annotation types
 | [CHECKBOX](#CHECKBOX) | The annotation type that adds checkbox for pdf document |
 | [BUTTON](#BUTTON) | The annotation type that adds button for pdf document |
 | [TEXT_SQUIGGLY](#TEXT-SQUIGGLY) | The annotation type that squiggly and comments selected text |
+| [SEARCH_TEXT](#SEARCH-TEXT) | The annotation type that search fragment text in document |
 | [ALL](#ALL) | All |
 ## Methods
 
@@ -212,6 +213,14 @@ public static final int TEXT_SQUIGGLY
 
 
 The annotation type that squiggly and comments selected text
+
+### SEARCH_TEXT {#SEARCH-TEXT}
+```
+public static final int SEARCH_TEXT
+```
+
+
+The annotation type that search fragment text in document
 
 ### ALL {#ALL}
 ```
