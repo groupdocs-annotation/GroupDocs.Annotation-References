@@ -15,7 +15,6 @@ Defines methods required for storing rendered document and document resources ca
 | Method | Description |
 | --- | --- |
 | [set(String key, Object value)](#set-java.lang.String-java.lang.Object-) | Inserts a cache entry into the cache. |
-| [tryGetValue(String key, Object value)](#tryGetValue-java.lang.String-java.lang.Object-) | Gets the entry associated with this key if present. |
 | [getKeys(String filter)](#getKeys-java.lang.String-) | Returns all keys matching filter. |
 ### set(String key, Object value) {#set-java.lang.String-java.lang.Object-}
 ```
@@ -31,22 +30,6 @@ Inserts a cache entry into the cache.
 | key | java.lang.String | A unique identifier for the cache entry. |
 | value | java.lang.Object | The object to insert. |
 
-### tryGetValue(String key, Object value) {#tryGetValue-java.lang.String-java.lang.Object-}
-```
-public abstract boolean tryGetValue(String key, Object value)
-```
-
-
-Gets the entry associated with this key if present.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| key | java.lang.String | A key identifying the requested entry. |
-| value | java.lang.Object | The located value or null. |
-
-**Returns:**
-boolean - True if the key was found.
 ### getKeys(String filter) {#getKeys-java.lang.String-}
 ```
 public abstract System.Collections.Generic.IGenericEnumerable<String> getKeys(String filter)

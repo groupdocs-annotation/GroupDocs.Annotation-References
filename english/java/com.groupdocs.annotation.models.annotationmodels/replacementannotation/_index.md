@@ -27,6 +27,8 @@ Represents Replacement annotation properties
 | --- | --- |
 | [getFontColor()](#getFontColor--) | Gets or sets annotation text font color |
 | [setFontColor(Integer value)](#setFontColor-java.lang.Integer-) | Gets or sets annotation text font color |
+| [getFontSize()](#getFontSize--) | Gets or sets annotation text font size |
+| [setFontSize(Double value)](#setFontSize-java.lang.Double-) | Gets or sets annotation text font size |
 | [getOpacity()](#getOpacity--) | Gets or sets annotation opacity |
 | [setOpacity(Double value)](#setOpacity-java.lang.Double-) | Gets or sets annotation opacity |
 | [getPoints()](#getPoints--) | Gets or sets collection of points that describe rectangles with text |
@@ -69,6 +71,29 @@ Gets or sets annotation text font color
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | java.lang.Integer |  |
+
+### getFontSize() {#getFontSize--}
+```
+public final Double getFontSize()
+```
+
+
+Gets or sets annotation text font size
+
+**Returns:**
+java.lang.Double - 
+### setFontSize(Double value) {#setFontSize-java.lang.Double-}
+```
+public final void setFontSize(Double value)
+```
+
+
+Gets or sets annotation text font size
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | java.lang.Double |  |
 
 ### getOpacity() {#getOpacity--}
 ```

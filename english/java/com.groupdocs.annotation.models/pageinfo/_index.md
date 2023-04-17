@@ -7,9 +7,9 @@ weight: 10
 url: /java/com.groupdocs.annotation.models/pageinfo/
 ---
 **Inheritance:**
-java.lang.Object, com.aspose.ms.System.ValueType, com.aspose.ms.lang.Struct
+java.lang.Object
 ```
-public class PageInfo extends Struct<PageInfo>
+public class PageInfo
 ```
 
 Represents Document Page Information.
@@ -19,6 +19,7 @@ Represents Document Page Information.
 | --- | --- |
 | [PageInfo()](#PageInfo--) |  |
 | [PageInfo(int width, int height)](#PageInfo-int-int-) | Initializes new instance of [PageInfo](../../com.groupdocs.annotation.models/pageinfo) class. |
+| [PageInfo(PageInfo pageInfo)](#PageInfo-com.groupdocs.annotation.models.PageInfo-) | Initializes new instance of [PageInfo](../../com.groupdocs.annotation.models/pageinfo) class. |
 ## Methods
 
 | Method | Description |
@@ -31,11 +32,9 @@ Represents Document Page Information.
 | [setPageNumber(int value)](#setPageNumber-int-) | Page number |
 | [getTextLines()](#getTextLines--) | Text lines information |
 | [setTextLines(List<TextLineInfo> value)](#setTextLines-java.util.List-com.groupdocs.annotation.models.TextLineInfo--) | Text lines information |
-| [CloneTo(PageInfo that)](#CloneTo-com.groupdocs.annotation.models.PageInfo-) |  |
-| [Clone()](#Clone--) |  |
-| [clone()](#clone--) |  |
 | [equals(Object obj)](#equals-java.lang.Object-) |  |
 | [equals(PageInfo obj1, PageInfo obj2)](#equals-com.groupdocs.annotation.models.PageInfo-com.groupdocs.annotation.models.PageInfo-) |  |
+| [hashCode()](#hashCode--) |  |
 ### PageInfo() {#PageInfo--}
 ```
 public PageInfo()
@@ -55,6 +54,19 @@ Initializes new instance of [PageInfo](../../com.groupdocs.annotation.models/pag
 | --- | --- | --- |
 | width | int | Page Width. |
 | height | int | Page Height. |
+
+### PageInfo(PageInfo pageInfo) {#PageInfo-com.groupdocs.annotation.models.PageInfo-}
+```
+public PageInfo(PageInfo pageInfo)
+```
+
+
+Initializes new instance of [PageInfo](../../com.groupdocs.annotation.models/pageinfo) class.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pageInfo | [PageInfo](../../com.groupdocs.annotation.models/pageinfo) | Page Info source. |
 
 ### getWidth() {#getWidth--}
 ```
@@ -148,39 +160,6 @@ Text lines information
 | --- | --- | --- |
 | value | java.util.List<com.groupdocs.annotation.models.TextLineInfo> |  |
 
-### CloneTo(PageInfo that) {#CloneTo-com.groupdocs.annotation.models.PageInfo-}
-```
-public void CloneTo(PageInfo that)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| that | [PageInfo](../../com.groupdocs.annotation.models/pageinfo) |  |
-
-### Clone() {#Clone--}
-```
-public PageInfo Clone()
-```
-
-
-
-
-**Returns:**
-[PageInfo](../../com.groupdocs.annotation.models/pageinfo)
-### clone() {#clone--}
-```
-public Object clone()
-```
-
-
-
-
-**Returns:**
-java.lang.Object
 ### equals(Object obj) {#equals-java.lang.Object-}
 ```
 public boolean equals(Object obj)
@@ -212,3 +191,13 @@ public static boolean equals(PageInfo obj1, PageInfo obj2)
 
 **Returns:**
 boolean
+### hashCode() {#hashCode--}
+```
+public int hashCode()
+```
+
+
+
+
+**Returns:**
+int

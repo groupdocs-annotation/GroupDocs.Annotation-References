@@ -40,6 +40,7 @@ Represents document properties
 | [generatePreview(PreviewOptions previewOptions)](#generatePreview-com.groupdocs.annotation.options.pagepreview.PreviewOptions-) | Generates document pages preview. |
 | [getDocumentInfo()](#getDocumentInfo--) | Gets information about document - document type and size, pages count etc. |
 | [close()](#close--) |  |
+| [addImageToDocument(String dataDir, String jpgFileName, int pageNumber, int imageQuality)](#addImageToDocument-java.lang.String-java.lang.String-int-int-) | Change image quality and add image to document |
 ### Document(InputStream stream) {#Document-java.io.InputStream-}
 ```
 public Document(InputStream stream)
@@ -222,4 +223,20 @@ public void close()
 
 
 
+
+### addImageToDocument(String dataDir, String jpgFileName, int pageNumber, int imageQuality) {#addImageToDocument-java.lang.String-java.lang.String-int-int-}
+```
+public void addImageToDocument(String dataDir, String jpgFileName, int pageNumber, int imageQuality)
+```
+
+
+Change image quality and add image to document
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| dataDir | java.lang.String | Specify the path to the input PDF file |
+| jpgFileName | java.lang.String | The path to the JPG file |
+| pageNumber | int | Page where the image will be inserted |
+| imageQuality | int | Set image quality from 1 to 100, "1" - is the smallest resolution "100" - is the largest |
 

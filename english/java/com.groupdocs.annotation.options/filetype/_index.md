@@ -71,7 +71,7 @@ Information about file, such as type, extension, etc.
 | [fromFoundationFileType(int foundationFileType)](#fromFoundationFileType-int-) |  |
 | [getFileFormat()](#getFileFormat--) | File format |
 | [getExtension()](#getExtension--) | File extention |
-| [equals(FileType other)](#equals-com.groupdocs.annotation.options.FileType-) | File type equivalence check. |
+| [typeEquals(FileType other)](#typeEquals-com.groupdocs.annotation.options.FileType-) | File type equivalence check. |
 | [op_Equality(FileType left, FileType right)](#op-Equality-com.groupdocs.annotation.options.FileType-com.groupdocs.annotation.options.FileType-) | Operator overload. |
 | [op_Inequality(FileType left, FileType right)](#op-Inequality-com.groupdocs.annotation.options.FileType-com.groupdocs.annotation.options.FileType-) | Operator overload. |
 | [toString()](#toString--) | Returns a string that represents the file type. |
@@ -480,9 +480,9 @@ File extention
 
 **Returns:**
 java.lang.String - 
-### equals(FileType other) {#equals-com.groupdocs.annotation.options.FileType-}
+### typeEquals(FileType other) {#typeEquals-com.groupdocs.annotation.options.FileType-}
 ```
-public final boolean equals(FileType other)
+public final boolean typeEquals(FileType other)
 ```
 
 

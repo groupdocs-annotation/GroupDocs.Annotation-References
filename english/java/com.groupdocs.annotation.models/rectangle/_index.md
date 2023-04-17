@@ -7,9 +7,9 @@ weight: 13
 url: /java/com.groupdocs.annotation.models/rectangle/
 ---
 **Inheritance:**
-java.lang.Object, com.aspose.ms.System.ValueType, com.aspose.ms.lang.Struct
+java.lang.Object
 ```
-public class Rectangle extends Struct<Rectangle>
+public class Rectangle
 ```
 
 Represents rectangle.
@@ -18,7 +18,8 @@ Represents rectangle.
 | Constructor | Description |
 | --- | --- |
 | [Rectangle()](#Rectangle--) |  |
-| [Rectangle(float x, float y, float width, float height)](#Rectangle-float-float-float-float-) | Initializes a new instance of the [Rectangle](../../com.groupdocs.annotation.models/rectangle) struct. |
+| [Rectangle(float x, float y, float width, float height)](#Rectangle-float-float-float-float-) | Initializes a new instance of the [Rectangle](../../com.groupdocs.annotation.models/rectangle) class. |
+| [Rectangle(Rectangle rectangle)](#Rectangle-com.groupdocs.annotation.models.Rectangle-) | Initializes a new instance of [Rectangle](../../com.groupdocs.annotation.models/rectangle) class. |
 ## Methods
 
 | Method | Description |
@@ -36,9 +37,6 @@ Represents rectangle.
 | [setHeight(float value)](#setHeight-float-) | Gets or sets the height. |
 | [equals(Object obj)](#equals-java.lang.Object-) | Determines whether the specified rectangle is equal to the current rectangle. |
 | [hashCode()](#hashCode--) | Serves as the default hash function. |
-| [CloneTo(Rectangle that)](#CloneTo-com.groupdocs.annotation.models.Rectangle-) |  |
-| [Clone()](#Clone--) |  |
-| [clone()](#clone--) |  |
 | [toString()](#toString--) |  |
 ### Rectangle() {#Rectangle--}
 ```
@@ -52,7 +50,7 @@ public Rectangle(float x, float y, float width, float height)
 ```
 
 
-Initializes a new instance of the [Rectangle](../../com.groupdocs.annotation.models/rectangle) struct.
+Initializes a new instance of the [Rectangle](../../com.groupdocs.annotation.models/rectangle) class.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -61,6 +59,19 @@ Initializes a new instance of the [Rectangle](../../com.groupdocs.annotation.mod
 | y | float | The y. |
 | width | float | The width. |
 | height | float | The height. |
+
+### Rectangle(Rectangle rectangle) {#Rectangle-com.groupdocs.annotation.models.Rectangle-}
+```
+public Rectangle(Rectangle rectangle)
+```
+
+
+Initializes a new instance of [Rectangle](../../com.groupdocs.annotation.models/rectangle) class.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| rectangle | [Rectangle](../../com.groupdocs.annotation.models/rectangle) | The rectangle. |
 
 ### opEquality(Rectangle left, Rectangle right) {#opEquality-com.groupdocs.annotation.models.Rectangle-com.groupdocs.annotation.models.Rectangle-}
 ```
@@ -243,39 +254,6 @@ Serves as the default hash function.
 
 **Returns:**
 int - A hash code for the current rectangle.
-### CloneTo(Rectangle that) {#CloneTo-com.groupdocs.annotation.models.Rectangle-}
-```
-public void CloneTo(Rectangle that)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| that | [Rectangle](../../com.groupdocs.annotation.models/rectangle) |  |
-
-### Clone() {#Clone--}
-```
-public Rectangle Clone()
-```
-
-
-
-
-**Returns:**
-[Rectangle](../../com.groupdocs.annotation.models/rectangle)
-### clone() {#clone--}
-```
-public Object clone()
-```
-
-
-
-
-**Returns:**
-java.lang.Object
 ### toString() {#toString--}
 ```
 public String toString()
