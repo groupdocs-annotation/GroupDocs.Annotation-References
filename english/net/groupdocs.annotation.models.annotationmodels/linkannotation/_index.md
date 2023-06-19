@@ -1,9 +1,9 @@
 ---
-title: LinkAnnotation
+title: Class LinkAnnotation
 second_title: GroupDocs.Annotation for .NET API Reference
-description: Represents link annotation properties
+description: GroupDocs.Annotation.Models.AnnotationModels.LinkAnnotation class. Represents link annotation properties
 type: docs
-weight: 630
+weight: 690
 url: /net/groupdocs.annotation.models.annotationmodels/linkannotation/
 ---
 ## LinkAnnotation class
@@ -18,36 +18,37 @@ public class LinkAnnotation : AnnotationBase, IEquatable<LinkAnnotation>, ILinkA
 
 | Name | Description |
 | --- | --- |
-| [LinkAnnotation](linkannotation)() | Initializes new instance of [`LinkAnnotation`](../linkannotation) class. |
+| [LinkAnnotation](linkannotation/)() | Initializes new instance of `LinkAnnotation` class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [BackgroundColor](../../groupdocs.annotation.models.annotationmodels/linkannotation/backgroundcolor) { get; set; } | Gets or sets annotation background color |
-| [CreatedOn](../../groupdocs.annotation.models.annotationmodels/annotationbase/createdon) { get; set; } | Gets or sets annotation creation date |
-| [FontColor](../../groupdocs.annotation.models.annotationmodels/linkannotation/fontcolor) { get; set; } | Gets or sets annotation text font color |
-| [Id](../../groupdocs.annotation.models.annotationmodels/annotationbase/id) { get; set; } | Gets or sets annotation unique identifier |
-| [Message](../../groupdocs.annotation.models.annotationmodels/annotationbase/message) { get; set; } | Gets or sets annotation message |
-| [Opacity](../../groupdocs.annotation.models.annotationmodels/linkannotation/opacity) { get; set; } | Gets or sets annotation opacity |
-| [PageNumber](../../groupdocs.annotation.models.annotationmodels/annotationbase/pagenumber) { get; set; } | Gets or sets page number to be annotated |
-| [Points](../../groupdocs.annotation.models.annotationmodels/linkannotation/points) { get; set; } | Coordinates |
-| [Replies](../../groupdocs.annotation.models.annotationmodels/annotationbase/replies) { get; set; } | Represents annotation replies collection |
-| [Type](../../groupdocs.annotation.models.annotationmodels/annotationbase/type) { get; set; } | Gets or sets annotation type |
-| [Url](../../groupdocs.annotation.models.annotationmodels/linkannotation/url) { get; set; } | Gets or sets annotation link url |
-| [User](../../groupdocs.annotation.models.annotationmodels/annotationbase/user) { get; set; } | Gets or sets annotation creator |
+| [BackgroundColor](../../groupdocs.annotation.models.annotationmodels/linkannotation/backgroundcolor/) { get; set; } | Gets or sets link annotation background color |
+| [CreatedOn](../../groupdocs.annotation.models.annotationmodels/annotationbase/createdon/) { get; set; } | Gets or sets annotation creation date |
+| [FontColor](../../groupdocs.annotation.models.annotationmodels/linkannotation/fontcolor/) { get; set; } | Gets or sets link annotation text color |
+| [Id](../../groupdocs.annotation.models.annotationmodels/annotationbase/id/) { get; set; } | Gets or sets annotation unique identifier. This field is auto-incremented. |
+| [Message](../../groupdocs.annotation.models.annotationmodels/annotationbase/message/) { get; set; } | Gets or sets annotation message |
+| [Opacity](../../groupdocs.annotation.models.annotationmodels/linkannotation/opacity/) { get; set; } | Gets or sets link annotation opacity |
+| [PageNumber](../../groupdocs.annotation.models.annotationmodels/annotationbase/pagenumber/) { get; set; } | Page number where the annotation should be located |
+| [Points](../../groupdocs.annotation.models.annotationmodels/linkannotation/points/) { get; set; } | Gets or sets link annotation coordinates as an array of points |
+| [Replies](../../groupdocs.annotation.models.annotationmodels/annotationbase/replies/) { get; set; } | The list of replies (comments) attached to the annotation |
+| [StateBeforeAnnotation](../../groupdocs.annotation.models.annotationmodels/annotationbase/statebeforeannotation/) { get; set; } |  |
+| [Type](../../groupdocs.annotation.models.annotationmodels/annotationbase/type/) { get; set; } | Gets or sets annotation type |
+| [Url](../../groupdocs.annotation.models.annotationmodels/linkannotation/url/) { get; set; } | Gets or sets annotation link url |
+| [User](../../groupdocs.annotation.models.annotationmodels/annotationbase/user/) { get; set; } | Gets or sets annotation author |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Clone](../../groupdocs.annotation.models.annotationmodels/linkannotation/clone)() | Returns new Instance with same values |
-| [Equals](../../groupdocs.annotation.models.annotationmodels/annotationbase/equals)(AnnotationBase) | Compares Base Annotations using IEquatable Equals method |
-| [Equals](../../groupdocs.annotation.models.annotationmodels/linkannotation/equals#equals_1)(LinkAnnotation) | Compares Link Annotations using IEquatable Equals method |
-| override [Equals](../../groupdocs.annotation.models.annotationmodels/linkannotation/equals#equals_2)(object) | Compares Link Annotations using standard object Equals method |
-| override [GetHashCode](../../groupdocs.annotation.models.annotationmodels/linkannotation/gethashcode)() | Returns HashCode of Link Annotation |
+| override [Clone](../../groupdocs.annotation.models.annotationmodels/linkannotation/clone/)() | Returns new instance with the same values |
+| [Equals](../../groupdocs.annotation.models.annotationmodels/annotationbase/equals/)(AnnotationBase) | Compares Base Annotations using IEquatable Equals method |
+| [Equals](../../groupdocs.annotation.models.annotationmodels/linkannotation/equals/#equals_1)(LinkAnnotation) | Compares link annotation using IEquatable Equals method |
+| override [Equals](../../groupdocs.annotation.models.annotationmodels/linkannotation/equals/#equals_2)(object) | Compares link annotation using standard object Equals method |
+| override [GetHashCode](../../groupdocs.annotation.models.annotationmodels/linkannotation/gethashcode/)() | Returns HashCode of link annotation |
 
-### Remarks
+## Remarks
 
 **Learn more**
 
@@ -56,9 +57,9 @@ public class LinkAnnotation : AnnotationBase, IEquatable<LinkAnnotation>, ILinkA
 
 ### See Also
 
-* class [AnnotationBase](../annotationbase)
-* interface [ILinkAnnotation](../../groupdocs.annotation.models.annotationmodels.interfaces.annotations/ilinkannotation)
-* namespace [GroupDocs.Annotation.Models.AnnotationModels](../../groupdocs.annotation.models.annotationmodels)
+* class [AnnotationBase](../annotationbase/)
+* interface [ILinkAnnotation](../../groupdocs.annotation.models.annotationmodels.interfaces.annotations/ilinkannotation/)
+* namespace [GroupDocs.Annotation.Models.AnnotationModels](../../groupdocs.annotation.models.annotationmodels/)
 * assembly [GroupDocs.Annotation](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for GroupDocs.Annotation.dll -->
+

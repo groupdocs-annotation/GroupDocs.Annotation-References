@@ -1,7 +1,7 @@
 ---
-title: Annotator
+title: Annotator.Annotator
 second_title: GroupDocs.Annotation for .NET API Reference
-description: Initialise annotator class which accept document path
+description: Annotator constructor. Initialise annotator class which accept document path
 type: docs
 weight: 10
 url: /net/groupdocs.annotation/annotator/annotator/
@@ -18,7 +18,7 @@ public Annotator(string filePath)
 | --- | --- | --- |
 | filePath | String | File path |
 
-### Remarks
+## Remarks
 
 **Learn more**
 
@@ -27,15 +27,15 @@ public Annotator(string filePath)
 
 ### See Also
 
-* class [Annotator](../../annotator)
-* namespace [GroupDocs.Annotation](../../annotator)
+* class [Annotator](../)
+* namespace [GroupDocs.Annotation](../../annotator/)
 * assembly [GroupDocs.Annotation](../../../)
 
 ---
 
 ## Annotator(string, LoadOptions) {#constructor_6}
 
-Initialise annotator class which accept document path
+Initialise annotator class which accept document path and options
 
 ```csharp
 public Annotator(string filePath, LoadOptions loadOptions)
@@ -46,7 +46,7 @@ public Annotator(string filePath, LoadOptions loadOptions)
 | filePath | String | File path |
 | loadOptions | LoadOptions | Load options |
 
-### Remarks
+## Remarks
 
 **Learn more**
 
@@ -57,16 +57,16 @@ public Annotator(string filePath, LoadOptions loadOptions)
 
 ### See Also
 
-* class [LoadOptions](../../../groupdocs.annotation.options/loadoptions)
-* class [Annotator](../../annotator)
-* namespace [GroupDocs.Annotation](../../annotator)
+* class [LoadOptions](../../../groupdocs.annotation.options/loadoptions/)
+* class [Annotator](../)
+* namespace [GroupDocs.Annotation](../../annotator/)
 * assembly [GroupDocs.Annotation](../../../)
 
 ---
 
 ## Annotator(string, AnnotatorSettings) {#constructor_5}
 
-Initialise annotator class which accept document path
+Initialise annotator class which accept document path and settings
 
 ```csharp
 public Annotator(string filePath, AnnotatorSettings settings)
@@ -77,7 +77,7 @@ public Annotator(string filePath, AnnotatorSettings settings)
 | filePath | String | File path |
 | settings | AnnotatorSettings | Annotator settings |
 
-### Remarks
+## Remarks
 
 **Learn more**
 
@@ -86,16 +86,16 @@ public Annotator(string filePath, AnnotatorSettings settings)
 
 ### See Also
 
-* class [AnnotatorSettings](../../annotatorsettings)
-* class [Annotator](../../annotator)
-* namespace [GroupDocs.Annotation](../../annotator)
+* class [AnnotatorSettings](../../annotatorsettings/)
+* class [Annotator](../)
+* namespace [GroupDocs.Annotation](../../annotator/)
 * assembly [GroupDocs.Annotation](../../../)
 
 ---
 
 ## Annotator(string, LoadOptions, AnnotatorSettings) {#constructor_7}
 
-Initialise annotator class which accept document path
+Initialise annotator class which accept document path, options and settings
 
 ```csharp
 public Annotator(string filePath, LoadOptions loadOptions, AnnotatorSettings settings)
@@ -107,7 +107,7 @@ public Annotator(string filePath, LoadOptions loadOptions, AnnotatorSettings set
 | loadOptions | LoadOptions | Load options |
 | settings | AnnotatorSettings | Annotator settings |
 
-### Remarks
+## Remarks
 
 **Learn more**
 
@@ -118,10 +118,10 @@ public Annotator(string filePath, LoadOptions loadOptions, AnnotatorSettings set
 
 ### See Also
 
-* class [LoadOptions](../../../groupdocs.annotation.options/loadoptions)
-* class [AnnotatorSettings](../../annotatorsettings)
-* class [Annotator](../../annotator)
-* namespace [GroupDocs.Annotation](../../annotator)
+* class [LoadOptions](../../../groupdocs.annotation.options/loadoptions/)
+* class [AnnotatorSettings](../../annotatorsettings/)
+* class [Annotator](../)
+* namespace [GroupDocs.Annotation](../../annotator/)
 * assembly [GroupDocs.Annotation](../../../)
 
 ---
@@ -138,7 +138,7 @@ public Annotator(Stream document)
 | --- | --- | --- |
 | document | Stream | Document stream |
 
-### Remarks
+## Remarks
 
 **Learn more**
 
@@ -147,15 +147,15 @@ public Annotator(Stream document)
 
 ### See Also
 
-* class [Annotator](../../annotator)
-* namespace [GroupDocs.Annotation](../../annotator)
+* class [Annotator](../)
+* namespace [GroupDocs.Annotation](../../annotator/)
 * assembly [GroupDocs.Annotation](../../../)
 
 ---
 
 ## Annotator(Stream, LoadOptions) {#constructor_2}
 
-Initialise annotator class which accept document stream
+Initialise annotator class which accept document stream and options
 
 ```csharp
 public Annotator(Stream document, LoadOptions loadOptions)
@@ -166,7 +166,7 @@ public Annotator(Stream document, LoadOptions loadOptions)
 | document | Stream | Document stream |
 | loadOptions | LoadOptions | Load options |
 
-### Remarks
+## Remarks
 
 **Learn more**
 
@@ -177,16 +177,16 @@ public Annotator(Stream document, LoadOptions loadOptions)
 
 ### See Also
 
-* class [LoadOptions](../../../groupdocs.annotation.options/loadoptions)
-* class [Annotator](../../annotator)
-* namespace [GroupDocs.Annotation](../../annotator)
+* class [LoadOptions](../../../groupdocs.annotation.options/loadoptions/)
+* class [Annotator](../)
+* namespace [GroupDocs.Annotation](../../annotator/)
 * assembly [GroupDocs.Annotation](../../../)
 
 ---
 
 ## Annotator(Stream, AnnotatorSettings) {#constructor_1}
 
-Initialise annotator class which accept document stream
+Initialise annotator class which accept document stream and settings
 
 ```csharp
 public Annotator(Stream document, AnnotatorSettings settings)
@@ -197,7 +197,7 @@ public Annotator(Stream document, AnnotatorSettings settings)
 | document | Stream | Document stream |
 | settings | AnnotatorSettings | Annotator settings |
 
-### Remarks
+## Remarks
 
 **Learn more**
 
@@ -206,16 +206,16 @@ public Annotator(Stream document, AnnotatorSettings settings)
 
 ### See Also
 
-* class [AnnotatorSettings](../../annotatorsettings)
-* class [Annotator](../../annotator)
-* namespace [GroupDocs.Annotation](../../annotator)
+* class [AnnotatorSettings](../../annotatorsettings/)
+* class [Annotator](../)
+* namespace [GroupDocs.Annotation](../../annotator/)
 * assembly [GroupDocs.Annotation](../../../)
 
 ---
 
 ## Annotator(Stream, LoadOptions, AnnotatorSettings) {#constructor_3}
 
-Initialise annotator class which accept document stream
+Initialise annotator class which accept document stream, options and settings
 
 ```csharp
 public Annotator(Stream document, LoadOptions loadOptions, AnnotatorSettings settings)
@@ -227,7 +227,7 @@ public Annotator(Stream document, LoadOptions loadOptions, AnnotatorSettings set
 | loadOptions | LoadOptions | Load options |
 | settings | AnnotatorSettings | Annotator settings |
 
-### Remarks
+## Remarks
 
 **Learn more**
 
@@ -238,10 +238,10 @@ public Annotator(Stream document, LoadOptions loadOptions, AnnotatorSettings set
 
 ### See Also
 
-* class [LoadOptions](../../../groupdocs.annotation.options/loadoptions)
-* class [AnnotatorSettings](../../annotatorsettings)
-* class [Annotator](../../annotator)
-* namespace [GroupDocs.Annotation](../../annotator)
+* class [LoadOptions](../../../groupdocs.annotation.options/loadoptions/)
+* class [AnnotatorSettings](../../annotatorsettings/)
+* class [Annotator](../)
+* namespace [GroupDocs.Annotation](../../annotator/)
 * assembly [GroupDocs.Annotation](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for GroupDocs.Annotation.dll -->
+
