@@ -1,9 +1,9 @@
 ---
-title: DropdownComponent
+title: Class DropdownComponent
 second_title: GroupDocs.Annotation for .NET API Reference
-description: Represents dropdown component properties
+description: GroupDocs.Annotation.Models.FormatSpecificComponents.Pdf.DropdownComponent class. Represents dropdown component properties
 type: docs
-weight: 800
+weight: 580
 url: /net/groupdocs.annotation.models.formatspecificcomponents.pdf/dropdowncomponent/
 ---
 ## DropdownComponent class
@@ -18,38 +18,39 @@ public class DropdownComponent : AnnotationBase, IDropdownComponent
 
 | Name | Description |
 | --- | --- |
-| [DropdownComponent](dropdowncomponent)() | Initializes new instance of [`DropdownComponent`](../dropdowncomponent) class. |
+| [DropdownComponent](dropdowncomponent/)() | Initializes new instance of `DropdownComponent` class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Box](../../groupdocs.annotation.models.formatspecificcomponents.pdf/dropdowncomponent/box) { get; set; } | Gets or sets component position |
-| [CreatedOn](../../groupdocs.annotation.models.annotationmodels/annotationbase/createdon) { get; set; } | Gets or sets annotation creation date |
-| [Id](../../groupdocs.annotation.models.annotationmodels/annotationbase/id) { get; set; } | Gets or sets annotation unique identifier |
-| [Message](../../groupdocs.annotation.models.annotationmodels/annotationbase/message) { get; set; } | Gets or sets annotation message |
-| [Options](../../groupdocs.annotation.models.formatspecificcomponents.pdf/dropdowncomponent/options) { get; set; } | List of options (drop down items) to be shown when component is clicked |
-| [PageNumber](../../groupdocs.annotation.models.annotationmodels/annotationbase/pagenumber) { get; set; } | Gets or sets page number to be annotated |
-| [PenColor](../../groupdocs.annotation.models.formatspecificcomponents.pdf/dropdowncomponent/pencolor) { get; set; } | Gets or sets component pen color |
-| [PenStyle](../../groupdocs.annotation.models.formatspecificcomponents.pdf/dropdowncomponent/penstyle) { get; set; } | Gets or sets component pen style |
-| [PenWidth](../../groupdocs.annotation.models.formatspecificcomponents.pdf/dropdowncomponent/penwidth) { get; set; } | Gets or sets component pen width |
-| [Placeholder](../../groupdocs.annotation.models.formatspecificcomponents.pdf/dropdowncomponent/placeholder) { get; set; } | Text to shown when no options has been selected yet |
-| [Replies](../../groupdocs.annotation.models.annotationmodels/annotationbase/replies) { get; set; } | Represents annotation replies collection |
-| [SelectedOption](../../groupdocs.annotation.models.formatspecificcomponents.pdf/dropdowncomponent/selectedoption) { get; set; } | Number of option to be selected by default |
-| [Type](../../groupdocs.annotation.models.annotationmodels/annotationbase/type) { get; set; } | Gets or sets annotation type |
-| [User](../../groupdocs.annotation.models.annotationmodels/annotationbase/user) { get; set; } | Gets or sets annotation creator |
+| [Box](../../groupdocs.annotation.models.formatspecificcomponents.pdf/dropdowncomponent/box/) { get; set; } | Gets or sets component position |
+| [CreatedOn](../../groupdocs.annotation.models.annotationmodels/annotationbase/createdon/) { get; set; } | Gets or sets annotation creation date |
+| [Id](../../groupdocs.annotation.models.annotationmodels/annotationbase/id/) { get; set; } | Gets or sets annotation unique identifier. This field is auto-incremented. |
+| [Message](../../groupdocs.annotation.models.annotationmodels/annotationbase/message/) { get; set; } | Gets or sets annotation message |
+| [Options](../../groupdocs.annotation.models.formatspecificcomponents.pdf/dropdowncomponent/options/) { get; set; } | List of options (drop down items) to be shown when component is clicked |
+| [PageNumber](../../groupdocs.annotation.models.annotationmodels/annotationbase/pagenumber/) { get; set; } | Page number where the annotation should be located |
+| [PenColor](../../groupdocs.annotation.models.formatspecificcomponents.pdf/dropdowncomponent/pencolor/) { get; set; } | Gets or sets component pen color |
+| [PenStyle](../../groupdocs.annotation.models.formatspecificcomponents.pdf/dropdowncomponent/penstyle/) { get; set; } | Gets or sets component pen style |
+| [PenWidth](../../groupdocs.annotation.models.formatspecificcomponents.pdf/dropdowncomponent/penwidth/) { get; set; } | Gets or sets component pen width |
+| [Placeholder](../../groupdocs.annotation.models.formatspecificcomponents.pdf/dropdowncomponent/placeholder/) { get; set; } | Text to shown when no options has been selected yet |
+| [Replies](../../groupdocs.annotation.models.annotationmodels/annotationbase/replies/) { get; set; } | The list of replies (comments) attached to the annotation |
+| [SelectedOption](../../groupdocs.annotation.models.formatspecificcomponents.pdf/dropdowncomponent/selectedoption/) { get; set; } | Number of option to be selected by default |
+| [StateBeforeAnnotation](../../groupdocs.annotation.models.annotationmodels/annotationbase/statebeforeannotation/) { get; set; } |  |
+| [Type](../../groupdocs.annotation.models.annotationmodels/annotationbase/type/) { get; set; } | Gets or sets annotation type |
+| [User](../../groupdocs.annotation.models.annotationmodels/annotationbase/user/) { get; set; } | Gets or sets annotation author |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Clone](../../groupdocs.annotation.models.formatspecificcomponents.pdf/dropdowncomponent/clone)() | Returns new Instance with same values |
-| [Equals](../../groupdocs.annotation.models.annotationmodels/annotationbase/equals)(AnnotationBase) | Compares Base Annotations using IEquatable Equals method |
-| [Equals](../../groupdocs.annotation.models.formatspecificcomponents.pdf/dropdowncomponent/equals#equals_1)(DropdownComponent) | Compares Dropdown component using IEquatable Equals method |
-| override [Equals](../../groupdocs.annotation.models.formatspecificcomponents.pdf/dropdowncomponent/equals#equals_2)(object) | Compares Dropdown Components using standard object Equals method |
-| override [GetHashCode](../../groupdocs.annotation.models.formatspecificcomponents.pdf/dropdowncomponent/gethashcode)() | Returns HashCode of Dropdown Component |
+| override [Clone](../../groupdocs.annotation.models.formatspecificcomponents.pdf/dropdowncomponent/clone/)() | Returns new Instance with same values |
+| [Equals](../../groupdocs.annotation.models.annotationmodels/annotationbase/equals/)(AnnotationBase) | Compares Base Annotations using IEquatable Equals method |
+| [Equals](../../groupdocs.annotation.models.formatspecificcomponents.pdf/dropdowncomponent/equals/#equals_1)(DropdownComponent) | Compares Dropdown component using IEquatable Equals method |
+| override [Equals](../../groupdocs.annotation.models.formatspecificcomponents.pdf/dropdowncomponent/equals/#equals_2)(object) | Compares Dropdown Components using standard object Equals method |
+| override [GetHashCode](../../groupdocs.annotation.models.formatspecificcomponents.pdf/dropdowncomponent/gethashcode/)() | Returns HashCode of Dropdown Component |
 
-### Remarks
+## Remarks
 
 **Learn more**
 
@@ -58,9 +59,9 @@ public class DropdownComponent : AnnotationBase, IDropdownComponent
 
 ### See Also
 
-* class [AnnotationBase](../../groupdocs.annotation.models.annotationmodels/annotationbase)
-* interface [IDropdownComponent](../../groupdocs.annotation.models.formatspecificcomponents.pdf.interfaces/idropdowncomponent)
-* namespace [GroupDocs.Annotation.Models.FormatSpecificComponents.Pdf](../../groupdocs.annotation.models.formatspecificcomponents.pdf)
+* class [AnnotationBase](../../groupdocs.annotation.models.annotationmodels/annotationbase/)
+* interface [IDropdownComponent](../../groupdocs.annotation.models.formatspecificcomponents.pdf.interfaces/idropdowncomponent/)
+* namespace [GroupDocs.Annotation.Models.FormatSpecificComponents.Pdf](../../groupdocs.annotation.models.formatspecificcomponents.pdf/)
 * assembly [GroupDocs.Annotation](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for GroupDocs.Annotation.dll -->
+
