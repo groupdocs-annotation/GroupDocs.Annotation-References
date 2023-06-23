@@ -21,15 +21,12 @@ Base class for all annotation types
 | Constructor | Description |
 | --- | --- |
 | [AnnotationBase()](#AnnotationBase--) |  |
-## Fields
-
-| Field | Description |
-| --- | --- |
-| [Counter](#Counter) |  |
 ## Methods
 
 | Method | Description |
 | --- | --- |
+| [getCounter()](#getCounter--) |  |
+| [setCounter(int counter)](#setCounter-int-) |  |
 | [getId()](#getId--) | Gets or sets annotation unique identifier |
 | [setId(int value)](#setId-int-) | Gets or sets annotation unique identifier |
 | [getCreatedOn()](#getCreatedOn--) | Gets or sets annotation creation date |
@@ -58,11 +55,28 @@ public AnnotationBase()
 ```
 
 
-### Counter {#Counter}
+### getCounter() {#getCounter--}
 ```
-public static int Counter
+public static int getCounter()
 ```
 
+
+
+
+**Returns:**
+int
+### setCounter(int counter) {#setCounter-int-}
+```
+public static void setCounter(int counter)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| counter | int |  |
 
 ### getId() {#getId--}
 ```

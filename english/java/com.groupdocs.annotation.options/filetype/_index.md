@@ -72,8 +72,8 @@ Information about file, such as type, extension, etc.
 | [getFileFormat()](#getFileFormat--) | File format |
 | [getExtension()](#getExtension--) | File extention |
 | [typeEquals(FileType other)](#typeEquals-com.groupdocs.annotation.options.FileType-) | File type equivalence check. |
-| [op_Equality(FileType left, FileType right)](#op-Equality-com.groupdocs.annotation.options.FileType-com.groupdocs.annotation.options.FileType-) | Operator overload. |
-| [op_Inequality(FileType left, FileType right)](#op-Inequality-com.groupdocs.annotation.options.FileType-com.groupdocs.annotation.options.FileType-) | Operator overload. |
+| [opEquality(FileType left, FileType right)](#opEquality-com.groupdocs.annotation.options.FileType-com.groupdocs.annotation.options.FileType-) | Operator overload. |
+| [opInequality(FileType left, FileType right)](#opInequality-com.groupdocs.annotation.options.FileType-com.groupdocs.annotation.options.FileType-) | Operator overload. |
 | [toString()](#toString--) | Returns a string that represents the file type. |
 ### UNKNOWN {#UNKNOWN}
 ```
@@ -495,9 +495,9 @@ File type equivalence check.
 
 **Returns:**
 boolean - True if file types are equivalent, false if not.
-### op_Equality(FileType left, FileType right) {#op-Equality-com.groupdocs.annotation.options.FileType-com.groupdocs.annotation.options.FileType-}
+### opEquality(FileType left, FileType right) {#opEquality-com.groupdocs.annotation.options.FileType-com.groupdocs.annotation.options.FileType-}
 ```
-public static boolean op_Equality(FileType left, FileType right)
+public static boolean opEquality(FileType left, FileType right)
 ```
 
 
@@ -511,9 +511,9 @@ Operator overload.
 
 **Returns:**
 boolean - True if file types are equivalent, false if not.
-### op_Inequality(FileType left, FileType right) {#op-Inequality-com.groupdocs.annotation.options.FileType-com.groupdocs.annotation.options.FileType-}
+### opInequality(FileType left, FileType right) {#opInequality-com.groupdocs.annotation.options.FileType-com.groupdocs.annotation.options.FileType-}
 ```
-public static boolean op_Inequality(FileType left, FileType right)
+public static boolean opInequality(FileType left, FileType right)
 ```
 
 
