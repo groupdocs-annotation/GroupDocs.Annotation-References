@@ -13,23 +13,12 @@ public class SupportedLocales
 ```
 
 Class that provides methods for checking GroupDocs.Annotation supported locales.
-## Constructors
-
-| Constructor | Description |
-| --- | --- |
-| [SupportedLocales()](#SupportedLocales--) |  |
 ## Methods
 
 | Method | Description |
 | --- | --- |
 | [isLocaleSupported(String culture)](#isLocaleSupported-java.lang.String-) | Determines whether [is locale supported] [the specified culture]. |
 | [isLocaleSupported(System.Globalization.CultureInfo culture)](#isLocaleSupported-com.aspose.ms.System.Globalization.CultureInfo-) | Determines whether [is locale supported] [the specified culture]. |
-### SupportedLocales() {#SupportedLocales--}
-```
-public SupportedLocales()
-```
-
-
 ### isLocaleSupported(String culture) {#isLocaleSupported-java.lang.String-}
 ```
 public static boolean isLocaleSupported(String culture)

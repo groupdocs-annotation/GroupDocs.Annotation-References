@@ -58,6 +58,7 @@ Represents main class that controls document annotating process.
 | [getVersion(Object version)](#getVersion-java.lang.Object-) | Get annotations from versions. |
 | [get(int type)](#get-int-) | Gets collection of document annotations by annotation type. |
 | [importAnnotationsFromDocument(String outputPath)](#importAnnotationsFromDocument-java.lang.String-) | Import annotations from document to XML file. |
+| [exportAnnotationsFromDocument(String filePath)](#exportAnnotationsFromDocument-java.lang.String-) | Export annotations from XML document. |
 | [close()](#close--) |  |
 ### Annotator(String filePath) {#Annotator-java.lang.String-}
 ```
@@ -667,6 +668,25 @@ Import annotations from document to XML file.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | outputPath | java.lang.String | The output file path.
+
+--------------------
+
+ **Learn more** 
+
+ *   |
+
+### exportAnnotationsFromDocument(String filePath) {#exportAnnotationsFromDocument-java.lang.String-}
+```
+public final void exportAnnotationsFromDocument(String filePath)
+```
+
+
+Export annotations from XML document.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| filePath | java.lang.String | The input file path.
 
 --------------------
 

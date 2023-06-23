@@ -25,8 +25,8 @@ Represents point.
 | Method | Description |
 | --- | --- |
 | [isPointCollectionsEqual(List<Point> points1, List<Point> points2)](#isPointCollectionsEqual-java.util.List-com.groupdocs.annotation.models.Point--java.util.List-com.groupdocs.annotation.models.Point--) |  |
-| [op_Equality(Point left, Point right)](#op-Equality-com.groupdocs.annotation.models.Point-com.groupdocs.annotation.models.Point-) | Compares two Point objects. |
-| [op_Inequality(Point left, Point right)](#op-Inequality-com.groupdocs.annotation.models.Point-com.groupdocs.annotation.models.Point-) | Compares two Point objects. |
+| [opEquality(Point left, Point right)](#opEquality-com.groupdocs.annotation.models.Point-com.groupdocs.annotation.models.Point-) | Compares two Point objects. |
+| [opInequality(Point left, Point right)](#opInequality-com.groupdocs.annotation.models.Point-com.groupdocs.annotation.models.Point-) | Compares two Point objects. |
 | [equals(Point obj1, Point obj2)](#equals-com.groupdocs.annotation.models.Point-com.groupdocs.annotation.models.Point-) |  |
 | [getX()](#getX--) | Gets or sets the x. |
 | [setX(float value)](#setX-float-) | Gets or sets the x. |
@@ -84,9 +84,9 @@ public static boolean isPointCollectionsEqual(List<Point> points1, List<Point> p
 
 **Returns:**
 boolean
-### op_Equality(Point left, Point right) {#op-Equality-com.groupdocs.annotation.models.Point-com.groupdocs.annotation.models.Point-}
+### opEquality(Point left, Point right) {#opEquality-com.groupdocs.annotation.models.Point-com.groupdocs.annotation.models.Point-}
 ```
-public static boolean op_Equality(Point left, Point right)
+public static boolean opEquality(Point left, Point right)
 ```
 
 
@@ -100,9 +100,9 @@ Compares two Point objects. The result specifies whether the values of the Point
 
 **Returns:**
 boolean - true if the Point.X and Point.Y values of left and right are equal; otherwise, false.
-### op_Inequality(Point left, Point right) {#op-Inequality-com.groupdocs.annotation.models.Point-com.groupdocs.annotation.models.Point-}
+### opInequality(Point left, Point right) {#opInequality-com.groupdocs.annotation.models.Point-com.groupdocs.annotation.models.Point-}
 ```
-public static boolean op_Inequality(Point left, Point right)
+public static boolean opInequality(Point left, Point right)
 ```
 
 
