@@ -3,7 +3,7 @@ title: com.groupdocs.annotation.models
 second_title: GroupDocs.Annotation for Java API Reference
 description: The namespace provides annotation data classes.
 type: docs
-weight: 14
+weight: 15
 url: /java/com.groupdocs.annotation.models/
 ---
 

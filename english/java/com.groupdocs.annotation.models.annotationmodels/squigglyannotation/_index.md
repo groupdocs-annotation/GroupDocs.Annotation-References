@@ -1,26 +1,33 @@
 ---
-title: UnderlineAnnotation
+title: SquigglyAnnotation
 second_title: GroupDocs.Annotation for Java API Reference
-description: Represents Underline annotation properties
+description: Represents squiggly annotation properties
 type: docs
-weight: 26
-url: /java/com.groupdocs.annotation.models.annotationmodels/underlineannotation/
+weight: 22
+url: /java/com.groupdocs.annotation.models.annotationmodels/squigglyannotation/
 ---
 **Inheritance:**
 java.lang.Object, [com.groupdocs.annotation.models.annotationmodels.AnnotationBase](../../com.groupdocs.annotation.models.annotationmodels/annotationbase)
 
 **All Implemented Interfaces:**
-[com.groupdocs.annotation.models.annotationmodels.interfaces.annotations.IUnderlineAnnotation](../../com.groupdocs.annotation.models.annotationmodels.interfaces.annotations/iunderlineannotation)
+com.groupdocs.annotation.models.annotationmodels.interfaces.annotations.ISquigglyAnnotation
 ```
-public class UnderlineAnnotation extends AnnotationBase implements IUnderlineAnnotation
+public class SquigglyAnnotation extends AnnotationBase implements ISquigglyAnnotation
 ```
 
-Represents Underline annotation properties
+Represents squiggly annotation properties
+
+--------------------
+
+ **Learn more** 
+
+ *  
+ *  
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [UnderlineAnnotation()](#UnderlineAnnotation--) | Initializes new instance of [UnderlineAnnotation](../../com.groupdocs.annotation.models.annotationmodels/underlineannotation) class. |
+| [SquigglyAnnotation()](#SquigglyAnnotation--) | Initializes new instance of [SquigglyAnnotation](../../com.groupdocs.annotation.models.annotationmodels/squigglyannotation) class. |
 ## Methods
 
 | Method | Description |
@@ -29,25 +36,25 @@ Represents Underline annotation properties
 | [setFontColor(Integer value)](#setFontColor-java.lang.Integer-) | Gets or sets annotation text font color |
 | [getBackgroundColor()](#getBackgroundColor--) | Gets or sets annotation text font color |
 | [setBackgroundColor(Integer value)](#setBackgroundColor-java.lang.Integer-) | Gets or sets annotation text font color |
-| [getUnderlineColor()](#getUnderlineColor--) | Gets or sets annotation text font color |
-| [setUnderlineColor(Integer value)](#setUnderlineColor-java.lang.Integer-) | Gets or sets annotation text font color |
+| [getSquigglyColor()](#getSquigglyColor--) | Gets or sets annotation text font color |
+| [setSquigglyColor(Integer value)](#setSquigglyColor-java.lang.Integer-) | Gets or sets annotation text font color |
 | [getOpacity()](#getOpacity--) | Gets or sets annotation opacity |
 | [setOpacity(Double value)](#setOpacity-java.lang.Double-) | Gets or sets annotation opacity |
-| [getPoints()](#getPoints--) | Gets or sets collection of points that describe rectangles with text |
-| [setPoints(List<Point> value)](#setPoints-java.util.List-com.groupdocs.annotation.models.Point--) | Gets or sets collection of points that describe rectangles with text |
-| [equals(UnderlineAnnotation other)](#equals-com.groupdocs.annotation.models.annotationmodels.UnderlineAnnotation-) | Compares Underline Annotations using IEquatable Equals method |
-| [equals(Object o)](#equals-java.lang.Object-) | Compares Underline Annotations using standard object Equals method |
-| [hashCode()](#hashCode--) | Returns HashCode of Underline Annotation |
+| [getPoints()](#getPoints--) | Coordinates |
+| [setPoints(List<Point> value)](#setPoints-java.util.List-com.groupdocs.annotation.models.Point--) | Coordinates |
+| [equals(SquigglyAnnotation other)](#equals-com.groupdocs.annotation.models.annotationmodels.SquigglyAnnotation-) | Compares squiggly Annotations using IEquatable Equals method |
+| [equals(Object obj)](#equals-java.lang.Object-) | Compares Squiggly Annotations using standard object Equals method |
+| [hashCode()](#hashCode--) | Returns HashCode of Squiggly Annotation |
 | [deepClone()](#deepClone--) | Returns new Instance with same values |
 | [toString()](#toString--) |  |
 | [toString(ToStringStyle toStringStyle)](#toString-org.apache.commons.lang3.builder.ToStringStyle-) |  |
-### UnderlineAnnotation() {#UnderlineAnnotation--}
+### SquigglyAnnotation() {#SquigglyAnnotation--}
 ```
-public UnderlineAnnotation()
+public SquigglyAnnotation()
 ```
 
 
-Initializes new instance of [UnderlineAnnotation](../../com.groupdocs.annotation.models.annotationmodels/underlineannotation) class.
+Initializes new instance of [SquigglyAnnotation](../../com.groupdocs.annotation.models.annotationmodels/squigglyannotation) class.
 
 ### getFontColor() {#getFontColor--}
 ```
@@ -95,9 +102,9 @@ Gets or sets annotation text font color
 | --- | --- | --- |
 | value | java.lang.Integer |  |
 
-### getUnderlineColor() {#getUnderlineColor--}
+### getSquigglyColor() {#getSquigglyColor--}
 ```
-public final Integer getUnderlineColor()
+public final Integer getSquigglyColor()
 ```
 
 
@@ -105,9 +112,9 @@ Gets or sets annotation text font color
 
 **Returns:**
 java.lang.Integer - 
-### setUnderlineColor(Integer value) {#setUnderlineColor-java.lang.Integer-}
+### setSquigglyColor(Integer value) {#setSquigglyColor-java.lang.Integer-}
 ```
-public final void setUnderlineColor(Integer value)
+public final void setSquigglyColor(Integer value)
 ```
 
 
@@ -147,7 +154,7 @@ public final List<Point> getPoints()
 ```
 
 
-Gets or sets collection of points that describe rectangles with text
+Coordinates
 
 **Returns:**
 java.util.List<com.groupdocs.annotation.models.Point> - 
@@ -157,40 +164,40 @@ public final void setPoints(List<Point> value)
 ```
 
 
-Gets or sets collection of points that describe rectangles with text
+Coordinates
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | java.util.List<com.groupdocs.annotation.models.Point> |  |
 
-### equals(UnderlineAnnotation other) {#equals-com.groupdocs.annotation.models.annotationmodels.UnderlineAnnotation-}
+### equals(SquigglyAnnotation other) {#equals-com.groupdocs.annotation.models.annotationmodels.SquigglyAnnotation-}
 ```
-public final boolean equals(UnderlineAnnotation other)
+public final boolean equals(SquigglyAnnotation other)
 ```
 
 
-Compares Underline Annotations using IEquatable Equals method
+Compares squiggly Annotations using IEquatable Equals method
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| other | [UnderlineAnnotation](../../com.groupdocs.annotation.models.annotationmodels/underlineannotation) | The UnderlineAnnotation object to compare with the current object |
+| other | [SquigglyAnnotation](../../com.groupdocs.annotation.models.annotationmodels/squigglyannotation) | The SquigglyAnnotation object to compare with the current object |
 
 **Returns:**
-boolean - 
-### equals(Object o) {#equals-java.lang.Object-}
+boolean
+### equals(Object obj) {#equals-java.lang.Object-}
 ```
-public boolean equals(Object o)
+public boolean equals(Object obj)
 ```
 
 
-Compares Underline Annotations using standard object Equals method
+Compares Squiggly Annotations using standard object Equals method
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| o | java.lang.Object | The object to compare with the current object |
+| obj | java.lang.Object | The object to compare with the current object |
 
 **Returns:**
 boolean
@@ -200,7 +207,7 @@ public int hashCode()
 ```
 
 
-Returns HashCode of Underline Annotation
+Returns HashCode of Squiggly Annotation
 
 **Returns:**
 int
@@ -213,7 +220,7 @@ public Object deepClone()
 Returns new Instance with same values
 
 **Returns:**
-java.lang.Object - 
+java.lang.Object
 ### toString() {#toString--}
 ```
 public String toString()

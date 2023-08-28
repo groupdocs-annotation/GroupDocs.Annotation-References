@@ -3,7 +3,7 @@ title: PageStreamFactory
 second_title: GroupDocs.Annotation for Java API Reference
 description: Interface that defines method to create / release output page preview stream.
 type: docs
-weight: 13
+weight: 14
 url: /java/com.groupdocs.annotation.options.pagepreview/pagestreamfactory/
 ---```
 public interface PageStreamFactory
