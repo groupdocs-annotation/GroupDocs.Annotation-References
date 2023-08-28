@@ -25,6 +25,8 @@ The namespace provides annotation models data classes.
 | [PolylineAnnotation](../com.groupdocs.annotation.models.annotationmodels/polylineannotation) | Represents Polyline annotation properties |
 | [ReplacementAnnotation](../com.groupdocs.annotation.models.annotationmodels/replacementannotation) | Represents Replacement annotation properties |
 | [ResourcesRedactionAnnotation](../com.groupdocs.annotation.models.annotationmodels/resourcesredactionannotation) | Represents Resources redaction annotation properties |
+| [SearchTextFragment](../com.groupdocs.annotation.models.annotationmodels/searchtextfragment) | Represents Search Text annotation properties |
+| [SquigglyAnnotation](../com.groupdocs.annotation.models.annotationmodels/squigglyannotation) | Represents squiggly annotation properties |
 | [StrikeoutAnnotation](../com.groupdocs.annotation.models.annotationmodels/strikeoutannotation) | Represents Strikeout annotation properties |
 | [TextFieldAnnotation](../com.groupdocs.annotation.models.annotationmodels/textfieldannotation) | Represents Text field annotation properties |
 | [TextRedactionAnnotation](../com.groupdocs.annotation.models.annotationmodels/textredactionannotation) | Represents Text redaction annotation properties |

@@ -3,7 +3,7 @@ title: WatermarkAnnotation
 second_title: GroupDocs.Annotation for Java API Reference
 description: Represents Watermark annotation properties
 type: docs
-weight: 25
+weight: 27
 url: /java/com.groupdocs.annotation.models.annotationmodels/watermarkannotation/
 ---
 **Inheritance:**
