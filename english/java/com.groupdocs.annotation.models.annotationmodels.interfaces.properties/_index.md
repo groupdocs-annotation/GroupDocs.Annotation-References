@@ -3,7 +3,7 @@ title: com.groupdocs.annotation.models.annotationmodels.interfaces.properties
 second_title: GroupDocs.Annotation for Java API Reference
 description: The namespace provides annotation properties interfaces.
 type: docs
-weight: 17
+weight: 18
 url: /java/com.groupdocs.annotation.models.annotationmodels.interfaces.properties/
 ---
 

@@ -53,7 +53,7 @@ Initializes new instance of [User](../../com.groupdocs.annotation.models/user) c
 | --- | --- | --- |
 | id | int | The user id. |
 | name | java.lang.String | The user name. |
-| role | com.groupdocs.annotation.models.Role | The user role. |
+| role | [Role](../../com.groupdocs.annotation.models/role) | The user role. |
 
 ### getId() {#getId--}
 ```
@@ -133,7 +133,7 @@ public final Role getRole()
 Role
 
 **Returns:**
-com.groupdocs.annotation.models.Role - 
+[Role](../../com.groupdocs.annotation.models/role) - 
 ### setRole(Role value) {#setRole-com.groupdocs.annotation.models.Role-}
 ```
 public final void setRole(Role value)
@@ -145,7 +145,7 @@ Role
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | com.groupdocs.annotation.models.Role |  |
+| value | [Role](../../com.groupdocs.annotation.models/role) |  |
 
 ### toString() {#toString--}
 ```
