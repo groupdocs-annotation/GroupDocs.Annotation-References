@@ -3,7 +3,7 @@ title: ResourcesRedactionAnnotation
 second_title: GroupDocs.Annotation for Java API Reference
 description: Represents Resources redaction annotation properties
 type: docs
-weight: 20
+weight: 21
 url: /java/com.groupdocs.annotation.models.annotationmodels/resourcesredactionannotation/
 ---
 **Inheritance:**

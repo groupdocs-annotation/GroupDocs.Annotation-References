@@ -3,7 +3,7 @@ title: IPolylineAnnotation
 second_title: GroupDocs.Annotation for Java API Reference
 description: Defines Polyline annotation properties
 type: docs
-weight: 17
+weight: 18
 url: /java/com.groupdocs.annotation.models.annotationmodels.interfaces.annotations/ipolylineannotation/
 ---
 **All Implemented Interfaces:**

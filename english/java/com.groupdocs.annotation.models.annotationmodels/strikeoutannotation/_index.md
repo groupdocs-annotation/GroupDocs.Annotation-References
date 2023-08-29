@@ -3,7 +3,7 @@ title: StrikeoutAnnotation
 second_title: GroupDocs.Annotation for Java API Reference
 description: Represents Strikeout annotation properties
 type: docs
-weight: 23
+weight: 24
 url: /java/com.groupdocs.annotation.models.annotationmodels/strikeoutannotation/
 ---
 **Inheritance:**

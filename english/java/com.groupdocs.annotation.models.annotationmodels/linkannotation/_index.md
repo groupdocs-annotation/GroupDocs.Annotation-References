@@ -3,7 +3,7 @@ title: LinkAnnotation
 second_title: GroupDocs.Annotation for Java API Reference
 description: Represents Link annotation properties
 type: docs
-weight: 16
+weight: 17
 url: /java/com.groupdocs.annotation.models.annotationmodels/linkannotation/
 ---
 **Inheritance:**

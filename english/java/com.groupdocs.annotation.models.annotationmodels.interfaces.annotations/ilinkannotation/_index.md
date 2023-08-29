@@ -3,7 +3,7 @@ title: ILinkAnnotation
 second_title: GroupDocs.Annotation for Java API Reference
 description: Defines Link annotation properties
 type: docs
-weight: 15
+weight: 16
 url: /java/com.groupdocs.annotation.models.annotationmodels.interfaces.annotations/ilinkannotation/
 ---
 **All Implemented Interfaces:**

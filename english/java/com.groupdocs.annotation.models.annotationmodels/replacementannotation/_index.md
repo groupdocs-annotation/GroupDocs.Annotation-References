@@ -3,7 +3,7 @@ title: ReplacementAnnotation
 second_title: GroupDocs.Annotation for Java API Reference
 description: Represents Replacement annotation properties
 type: docs
-weight: 19
+weight: 20
 url: /java/com.groupdocs.annotation.models.annotationmodels/replacementannotation/
 ---
 **Inheritance:**

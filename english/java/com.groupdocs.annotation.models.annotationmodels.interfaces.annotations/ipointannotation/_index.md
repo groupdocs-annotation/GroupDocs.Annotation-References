@@ -3,7 +3,7 @@ title: IPointAnnotation
 second_title: GroupDocs.Annotation for Java API Reference
 description: Defines Point annotation properties
 type: docs
-weight: 16
+weight: 17
 url: /java/com.groupdocs.annotation.models.annotationmodels.interfaces.annotations/ipointannotation/
 ---
 **All Implemented Interfaces:**

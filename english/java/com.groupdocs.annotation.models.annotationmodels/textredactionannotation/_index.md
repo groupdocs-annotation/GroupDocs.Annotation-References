@@ -3,7 +3,7 @@ title: TextRedactionAnnotation
 second_title: GroupDocs.Annotation for Java API Reference
 description: Represents Text redaction annotation properties
 type: docs
-weight: 25
+weight: 26
 url: /java/com.groupdocs.annotation.models.annotationmodels/textredactionannotation/
 ---
 **Inheritance:**

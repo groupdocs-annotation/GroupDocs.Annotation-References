@@ -3,7 +3,7 @@ title: PolylineAnnotation
 second_title: GroupDocs.Annotation for Java API Reference
 description: Represents Polyline annotation properties
 type: docs
-weight: 18
+weight: 19
 url: /java/com.groupdocs.annotation.models.annotationmodels/polylineannotation/
 ---
 **Inheritance:**
