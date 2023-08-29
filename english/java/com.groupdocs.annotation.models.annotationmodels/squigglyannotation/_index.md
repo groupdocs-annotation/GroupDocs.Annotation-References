@@ -3,14 +3,14 @@ title: SquigglyAnnotation
 second_title: GroupDocs.Annotation for Java API Reference
 description: Represents squiggly annotation properties
 type: docs
-weight: 22
+weight: 23
 url: /java/com.groupdocs.annotation.models.annotationmodels/squigglyannotation/
 ---
 **Inheritance:**
 java.lang.Object, [com.groupdocs.annotation.models.annotationmodels.AnnotationBase](../../com.groupdocs.annotation.models.annotationmodels/annotationbase)
 
 **All Implemented Interfaces:**
-com.groupdocs.annotation.models.annotationmodels.interfaces.annotations.ISquigglyAnnotation
+[com.groupdocs.annotation.models.annotationmodels.interfaces.annotations.ISquigglyAnnotation](../../com.groupdocs.annotation.models.annotationmodels.interfaces.annotations/isquigglyannotation)
 ```
 public class SquigglyAnnotation extends AnnotationBase implements ISquigglyAnnotation
 ```

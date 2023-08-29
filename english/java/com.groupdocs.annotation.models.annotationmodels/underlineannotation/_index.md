@@ -3,7 +3,7 @@ title: UnderlineAnnotation
 second_title: GroupDocs.Annotation for Java API Reference
 description: Represents Underline annotation properties
 type: docs
-weight: 26
+weight: 27
 url: /java/com.groupdocs.annotation.models.annotationmodels/underlineannotation/
 ---
 **Inheritance:**

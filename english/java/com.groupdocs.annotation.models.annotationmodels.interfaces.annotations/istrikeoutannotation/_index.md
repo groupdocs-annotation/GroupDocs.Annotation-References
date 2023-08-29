@@ -3,7 +3,7 @@ title: IStrikeoutAnnotation
 second_title: GroupDocs.Annotation for Java API Reference
 description: Defines Strikeout annotation properties
 type: docs
-weight: 20
+weight: 23
 url: /java/com.groupdocs.annotation.models.annotationmodels.interfaces.annotations/istrikeoutannotation/
 ---
 **All Implemented Interfaces:**

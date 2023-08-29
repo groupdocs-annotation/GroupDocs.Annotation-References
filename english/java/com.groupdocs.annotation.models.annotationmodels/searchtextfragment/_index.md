@@ -3,14 +3,14 @@ title: SearchTextFragment
 second_title: GroupDocs.Annotation for Java API Reference
 description: Represents Search Text annotation properties
 type: docs
-weight: 21
+weight: 22
 url: /java/com.groupdocs.annotation.models.annotationmodels/searchtextfragment/
 ---
 **Inheritance:**
 java.lang.Object, [com.groupdocs.annotation.models.annotationmodels.AnnotationBase](../../com.groupdocs.annotation.models.annotationmodels/annotationbase)
 
 **All Implemented Interfaces:**
-com.groupdocs.annotation.models.annotationmodels.interfaces.annotations.ISearchTextFragment
+[com.groupdocs.annotation.models.annotationmodels.interfaces.annotations.ISearchTextFragment](../../com.groupdocs.annotation.models.annotationmodels.interfaces.annotations/isearchtextfragment)
 ```
 public class SearchTextFragment extends AnnotationBase implements ISearchTextFragment
 ```

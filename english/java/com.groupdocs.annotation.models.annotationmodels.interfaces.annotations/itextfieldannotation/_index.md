@@ -3,7 +3,7 @@ title: ITextFieldAnnotation
 second_title: GroupDocs.Annotation for Java API Reference
 description: Defines Text field annotation properties
 type: docs
-weight: 21
+weight: 24
 url: /java/com.groupdocs.annotation.models.annotationmodels.interfaces.annotations/itextfieldannotation/
 ---
 **All Implemented Interfaces:**

@@ -3,7 +3,7 @@ title: ITextRedactionAnnotation
 second_title: GroupDocs.Annotation for Java API Reference
 description: Defines Text redaction annotation properties
 type: docs
-weight: 22
+weight: 25
 url: /java/com.groupdocs.annotation.models.annotationmodels.interfaces.annotations/itextredactionannotation/
 ---
 **All Implemented Interfaces:**

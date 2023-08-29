@@ -20,6 +20,7 @@ The namespace provides annotation models data classes.
 | [DistanceAnnotation](../com.groupdocs.annotation.models.annotationmodels/distanceannotation) | Represents Distance annotation properties |
 | [EllipseAnnotation](../com.groupdocs.annotation.models.annotationmodels/ellipseannotation) | Represents Ellipse annotation properties |
 | [HighlightAnnotation](../com.groupdocs.annotation.models.annotationmodels/highlightannotation) | Represents Highlight annotation properties |
+| [ImageAnnotation](../com.groupdocs.annotation.models.annotationmodels/imageannotation) | Represents image annotation properties |
 | [LinkAnnotation](../com.groupdocs.annotation.models.annotationmodels/linkannotation) | Represents Link annotation properties |
 | [PointAnnotation](../com.groupdocs.annotation.models.annotationmodels/pointannotation) | Represents Point annotation properties |
 | [PolylineAnnotation](../com.groupdocs.annotation.models.annotationmodels/polylineannotation) | Represents Polyline annotation properties |

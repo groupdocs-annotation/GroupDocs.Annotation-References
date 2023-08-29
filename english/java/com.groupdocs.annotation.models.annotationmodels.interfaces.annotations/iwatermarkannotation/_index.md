@@ -3,7 +3,7 @@ title: IWatermarkAnnotation
 second_title: GroupDocs.Annotation for Java API Reference
 description: Defines Watermark annotation properties
 type: docs
-weight: 24
+weight: 27
 url: /java/com.groupdocs.annotation.models.annotationmodels.interfaces.annotations/iwatermarkannotation/
 ---
 **All Implemented Interfaces:**
