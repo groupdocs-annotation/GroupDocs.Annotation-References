@@ -3,7 +3,7 @@ title: com.groupdocs.annotation.models.formatspecificcomponents.pdf
 second_title: GroupDocs.Annotation for Java API Reference
 description: The namespace provides format specific component models
 type: docs
-weight: 19
+weight: 20
 url: /java/com.groupdocs.annotation.models.formatspecificcomponents.pdf/
 ---
 

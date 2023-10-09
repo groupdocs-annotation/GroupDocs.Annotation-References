@@ -3,7 +3,7 @@ title: com.groupdocs.annotation.options
 second_title: GroupDocs.Annotation for Java API Reference
 description: The namespace provides classes to specify additional options when loading annotating and saving documents.
 type: docs
-weight: 20
+weight: 21
 url: /java/com.groupdocs.annotation.options/
 ---
 

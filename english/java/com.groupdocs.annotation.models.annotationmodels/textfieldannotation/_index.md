@@ -7,12 +7,12 @@ weight: 25
 url: /java/com.groupdocs.annotation.models.annotationmodels/textfieldannotation/
 ---
 **Inheritance:**
-java.lang.Object, [com.groupdocs.annotation.models.annotationmodels.AnnotationBase](../../com.groupdocs.annotation.models.annotationmodels/annotationbase)
+java.lang.Object, [com.groupdocs.annotation.models.annotationmodels.AnnotationBase](../../com.groupdocs.annotation.models.annotationmodels/annotationbase), com.groupdocs.annotation.models.annotationmodels.AnnotationBaseProps
 
 **All Implemented Interfaces:**
 [com.groupdocs.annotation.models.annotationmodels.interfaces.annotations.ITextFieldAnnotation](../../com.groupdocs.annotation.models.annotationmodels.interfaces.annotations/itextfieldannotation)
 ```
-public class TextFieldAnnotation extends AnnotationBase implements ITextFieldAnnotation
+public class TextFieldAnnotation extends AnnotationBaseProps implements ITextFieldAnnotation
 ```
 
 Represents Text field annotation properties
@@ -25,10 +25,6 @@ Represents Text field annotation properties
 
 | Method | Description |
 | --- | --- |
-| [getBackgroundColor()](#getBackgroundColor--) | Gets or sets annotation background color |
-| [setBackgroundColor(Integer value)](#setBackgroundColor-java.lang.Integer-) | Gets or sets annotation background color |
-| [getBox()](#getBox--) | Gets or sets annotation position |
-| [setBox(Rectangle value)](#setBox-com.groupdocs.annotation.models.Rectangle-) | Gets or sets annotation position |
 | [getText()](#getText--) | Gets or sets text |
 | [setText(String value)](#setText-java.lang.String-) | Gets or sets text |
 | [getTextHorizontalAlignment()](#getTextHorizontalAlignment--) | Gets or sets text horizontal alignment |
@@ -39,14 +35,8 @@ Represents Text field annotation properties
 | [setFontFamily(String value)](#setFontFamily-java.lang.String-) | Gets or sets annotation text font family |
 | [getFontSize()](#getFontSize--) | Gets or sets annotation text font size |
 | [setFontSize(Double value)](#setFontSize-java.lang.Double-) | Gets or sets annotation text font size |
-| [getOpacity()](#getOpacity--) | Gets or sets annotation opacity |
-| [setOpacity(Double value)](#setOpacity-java.lang.Double-) | Gets or sets annotation opacity |
-| [getPenColor()](#getPenColor--) | Gets or sets annotation pen color |
-| [setPenColor(Integer value)](#setPenColor-java.lang.Integer-) | Gets or sets annotation pen color |
 | [getPenStyle()](#getPenStyle--) | Gets or sets annotation pen style |
 | [setPenStyle(Byte value)](#setPenStyle-java.lang.Byte-) | Gets or sets annotation pen style |
-| [getPenWidth()](#getPenWidth--) | Gets or sets annotation pen width |
-| [setPenWidth(Byte value)](#setPenWidth-java.lang.Byte-) | Gets or sets annotation pen width |
 | [equals(TextFieldAnnotation other)](#equals-com.groupdocs.annotation.models.annotationmodels.TextFieldAnnotation-) | Compares Text Field Annotations using IEquatable Equals method |
 | [equals(Object o)](#equals-java.lang.Object-) | Compares Text Field Annotations using standard object Equals method |
 | [hashCode()](#hashCode--) | Returns HashCode of Text Field Annotation |
@@ -60,52 +50,6 @@ public TextFieldAnnotation()
 
 
 Initializes new instance of [TextFieldAnnotation](../../com.groupdocs.annotation.models.annotationmodels/textfieldannotation) class.
-
-### getBackgroundColor() {#getBackgroundColor--}
-```
-public final Integer getBackgroundColor()
-```
-
-
-Gets or sets annotation background color
-
-**Returns:**
-java.lang.Integer
-### setBackgroundColor(Integer value) {#setBackgroundColor-java.lang.Integer-}
-```
-public final void setBackgroundColor(Integer value)
-```
-
-
-Gets or sets annotation background color
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.lang.Integer |  |
-
-### getBox() {#getBox--}
-```
-public final Rectangle getBox()
-```
-
-
-Gets or sets annotation position
-
-**Returns:**
-[Rectangle](../../com.groupdocs.annotation.models/rectangle)
-### setBox(Rectangle value) {#setBox-com.groupdocs.annotation.models.Rectangle-}
-```
-public final void setBox(Rectangle value)
-```
-
-
-Gets or sets annotation position
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [Rectangle](../../com.groupdocs.annotation.models/rectangle) |  |
 
 ### getText() {#getText--}
 ```
@@ -222,52 +166,6 @@ Gets or sets annotation text font size
 | --- | --- | --- |
 | value | java.lang.Double |  |
 
-### getOpacity() {#getOpacity--}
-```
-public final Double getOpacity()
-```
-
-
-Gets or sets annotation opacity
-
-**Returns:**
-java.lang.Double - 
-### setOpacity(Double value) {#setOpacity-java.lang.Double-}
-```
-public final void setOpacity(Double value)
-```
-
-
-Gets or sets annotation opacity
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.lang.Double |  |
-
-### getPenColor() {#getPenColor--}
-```
-public final Integer getPenColor()
-```
-
-
-Gets or sets annotation pen color
-
-**Returns:**
-java.lang.Integer - 
-### setPenColor(Integer value) {#setPenColor-java.lang.Integer-}
-```
-public final void setPenColor(Integer value)
-```
-
-
-Gets or sets annotation pen color
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.lang.Integer |  |
-
 ### getPenStyle() {#getPenStyle--}
 ```
 public final Byte getPenStyle()
@@ -285,29 +183,6 @@ public final void setPenStyle(Byte value)
 
 
 Gets or sets annotation pen style
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.lang.Byte |  |
-
-### getPenWidth() {#getPenWidth--}
-```
-public final Byte getPenWidth()
-```
-
-
-Gets or sets annotation pen width
-
-**Returns:**
-java.lang.Byte - 
-### setPenWidth(Byte value) {#setPenWidth-java.lang.Byte-}
-```
-public final void setPenWidth(Byte value)
-```
-
-
-Gets or sets annotation pen width
 
 **Parameters:**
 | Parameter | Type | Description |
