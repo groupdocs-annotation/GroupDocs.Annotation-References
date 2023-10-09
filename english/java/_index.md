@@ -13,6 +13,7 @@ is_root: true
 | [com.groupdocs.annotation](./com.groupdocs.annotation) | The namespace provides classes to annotate documents for all popular document formats. |
 | [com.groupdocs.annotation.cache](./com.groupdocs.annotation.cache) | The namespace provides classes for customizing caching behaviour. |
 | [com.groupdocs.annotation.exceptions](./com.groupdocs.annotation.exceptions) | The namespace provides different exceptions classes. |
+| [com.groupdocs.annotation.licenses](./com.groupdocs.annotation.licenses) |  |
 | [com.groupdocs.annotation.localization](./com.groupdocs.annotation.localization) | The namespace provides classes checking supported locales. |
 | [com.groupdocs.annotation.logging](./com.groupdocs.annotation.logging) | The namespace provides classes for working with integrated or your own logger. |
 | [com.groupdocs.annotation.models](./com.groupdocs.annotation.models) | The namespace provides annotation data classes. |

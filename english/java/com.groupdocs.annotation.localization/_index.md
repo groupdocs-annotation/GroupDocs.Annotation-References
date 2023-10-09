@@ -3,7 +3,7 @@ title: com.groupdocs.annotation.localization
 second_title: GroupDocs.Annotation for Java API Reference
 description: The namespace provides classes checking supported locales.
 type: docs
-weight: 13
+weight: 14
 url: /java/com.groupdocs.annotation.localization/
 ---
 

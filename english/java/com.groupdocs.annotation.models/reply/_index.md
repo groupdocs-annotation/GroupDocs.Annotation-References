@@ -36,6 +36,7 @@ Represents annotation reply.
 | [getParentReply()](#getParentReply--) | Parent reply |
 | [setParentReply(Reply value)](#setParentReply-com.groupdocs.annotation.models.Reply-) | Parent reply |
 | [deepClone()](#deepClone--) | Returns new Instance with same values |
+| [clone()](#clone--) |  |
 | [toString()](#toString--) |  |
 ### Reply() {#Reply--}
 ```
@@ -168,6 +169,16 @@ Returns new Instance with same values
 
 **Returns:**
 java.lang.Object - 
+### clone() {#clone--}
+```
+public Object clone()
+```
+
+
+
+
+**Returns:**
+java.lang.Object
 ### toString() {#toString--}
 ```
 public String toString()
