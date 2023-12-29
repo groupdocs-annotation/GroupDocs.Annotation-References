@@ -3,7 +3,7 @@ title: Interface ISquigglyAnnotation
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.AnnotationModels.Interfaces.Annotations.ISquigglyAnnotation interface. Defines the squiggly annotation interface
 type: docs
-weight: 1130
+weight: 380
 url: /net/groupdocs.annotation.models.annotationmodels.interfaces.annotations/isquigglyannotation/
 ---
 ## ISquigglyAnnotation interface

@@ -1,15 +1,15 @@
 ---
 title: ExtendedPortion.ExtendedParagraph
 second_title: GroupDocs.Annotation for .NET API Reference
-description: ExtendedPortion field. 
+description: ExtendedPortion property. 
 type: docs
 weight: 10
 url: /net/groupdocs.annotation.projects.slides.models/extendedportion/extendedparagraph/
 ---
-## ExtendedPortion.ExtendedParagraph field
+## ExtendedPortion.ExtendedParagraph property
 
 ```csharp
-public ExtendedParagraph ExtendedParagraph;
+public ExtendedParagraph ExtendedParagraph { get; set; }
 ```
 
 ### See Also

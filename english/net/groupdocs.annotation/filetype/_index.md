@@ -3,7 +3,7 @@ title: Class FileType
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.FileType class. Information about file such as type extension etc
 type: docs
-weight: 70
+weight: 130
 url: /net/groupdocs.annotation/filetype/
 ---
 ## FileType class

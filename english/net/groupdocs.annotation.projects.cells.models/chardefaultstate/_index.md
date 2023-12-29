@@ -3,7 +3,7 @@ title: Class CharDefaultState
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Projects.Cells.Models.CharDefaultState class. class that stores information about the text
 type: docs
-weight: 310
+weight: 1080
 url: /net/groupdocs.annotation.projects.cells.models/chardefaultstate/
 ---
 ## CharDefaultState class

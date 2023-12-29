@@ -3,7 +3,7 @@ title: Class Document
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Document class. Represents various document properties
 type: docs
-weight: 30
+weight: 50
 url: /net/groupdocs.annotation/document/
 ---
 ## Document class

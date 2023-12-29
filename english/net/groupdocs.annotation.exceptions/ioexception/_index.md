@@ -3,7 +3,7 @@ title: Class IOException
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Exceptions.IOException class. The exception that is thrown when trying to apply formatspecific annotation to the wrong file type
 type: docs
-weight: 1270
+weight: 100
 url: /net/groupdocs.annotation.exceptions/ioexception/
 ---
 ## IOException class

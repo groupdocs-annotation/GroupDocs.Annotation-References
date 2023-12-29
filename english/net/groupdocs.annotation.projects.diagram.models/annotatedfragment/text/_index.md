@@ -1,17 +1,17 @@
 ---
 title: AnnotatedFragment.Text
 second_title: GroupDocs.Annotation for .NET API Reference
-description: AnnotatedFragment field. Text
+description: AnnotatedFragment property. Text
 type: docs
 weight: 30
 url: /net/groupdocs.annotation.projects.diagram.models/annotatedfragment/text/
 ---
-## AnnotatedFragment.Text field
+## AnnotatedFragment.Text property
 
 Text
 
 ```csharp
-public string Text;
+public string Text { get; set; }
 ```
 
 ### See Also

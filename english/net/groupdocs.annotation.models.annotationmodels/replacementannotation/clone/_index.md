@@ -3,7 +3,7 @@ title: ReplacementAnnotation.Clone
 second_title: GroupDocs.Annotation for .NET API Reference
 description: ReplacementAnnotation method. Returns new instance with the same values
 type: docs
-weight: 70
+weight: 80
 url: /net/groupdocs.annotation.models.annotationmodels/replacementannotation/clone/
 ---
 ## ReplacementAnnotation.Clone method

@@ -1,17 +1,17 @@
 ---
 title: Portion.Cp
 second_title: GroupDocs.Annotation for .NET API Reference
-description: Portion field. Cp
+description: Portion property. Cp
 type: docs
 weight: 20
 url: /net/groupdocs.annotation.projects.diagram.models/portion/cp/
 ---
-## Portion.Cp field
+## Portion.Cp property
 
 Cp
 
 ```csharp
-public readonly Char Cp;
+public Char Cp { get; }
 ```
 
 ### See Also

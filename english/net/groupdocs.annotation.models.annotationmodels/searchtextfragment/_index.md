@@ -3,7 +3,7 @@ title: Class SearchTextFragment
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.AnnotationModels.SearchTextFragment class. Represents searchText annotation properties
 type: docs
-weight: 740
+weight: 700
 url: /net/groupdocs.annotation.models.annotationmodels/searchtextfragment/
 ---
 ## SearchTextFragment class

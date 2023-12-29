@@ -3,7 +3,7 @@ title: Class SquigglyAnnotation
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.AnnotationModels.SquigglyAnnotation class. Represents squiggly annotation properties
 type: docs
-weight: 750
+weight: 710
 url: /net/groupdocs.annotation.models.annotationmodels/squigglyannotation/
 ---
 ## SquigglyAnnotation class

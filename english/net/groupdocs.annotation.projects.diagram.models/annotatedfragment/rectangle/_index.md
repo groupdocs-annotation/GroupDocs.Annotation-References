@@ -1,17 +1,17 @@
 ---
 title: AnnotatedFragment.Rectangle
 second_title: GroupDocs.Annotation for .NET API Reference
-description: AnnotatedFragment field. Rectangle
+description: AnnotatedFragment property. Rectangle
 type: docs
 weight: 20
 url: /net/groupdocs.annotation.projects.diagram.models/annotatedfragment/rectangle/
 ---
-## AnnotatedFragment.Rectangle field
+## AnnotatedFragment.Rectangle property
 
 Rectangle
 
 ```csharp
-public Rectangle Rectangle;
+public Rectangle Rectangle { get; set; }
 ```
 
 ### See Also

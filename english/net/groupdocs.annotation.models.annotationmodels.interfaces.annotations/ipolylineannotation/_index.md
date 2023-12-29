@@ -3,7 +3,7 @@ title: Interface IPolylineAnnotation
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.AnnotationModels.Interfaces.Annotations.IPolylineAnnotation interface. Defines the polyline annotation interface
 type: docs
-weight: 1090
+weight: 340
 url: /net/groupdocs.annotation.models.annotationmodels.interfaces.annotations/ipolylineannotation/
 ---
 ## IPolylineAnnotation interface

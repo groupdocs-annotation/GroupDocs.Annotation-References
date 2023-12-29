@@ -1,15 +1,17 @@
 ---
 title: ExtendedParagraph.Paragraph
 second_title: GroupDocs.Annotation for .NET API Reference
-description: ExtendedParagraph field. 
+description: ExtendedParagraph property. The original paragraph
 type: docs
 weight: 20
 url: /net/groupdocs.annotation.projects.slides.models/extendedparagraph/paragraph/
 ---
-## ExtendedParagraph.Paragraph field
+## ExtendedParagraph.Paragraph property
+
+The original paragraph.
 
 ```csharp
-public IParagraph Paragraph;
+public IParagraph Paragraph { get; }
 ```
 
 ### See Also

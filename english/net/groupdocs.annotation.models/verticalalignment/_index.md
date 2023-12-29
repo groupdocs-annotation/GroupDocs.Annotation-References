@@ -3,7 +3,7 @@ title: Enum VerticalAlignment
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.VerticalAlignment enum. Represents annotations vertical alignment enum
 type: docs
-weight: 410
+weight: 980
 url: /net/groupdocs.annotation.models/verticalalignment/
 ---
 ## VerticalAlignment enumeration

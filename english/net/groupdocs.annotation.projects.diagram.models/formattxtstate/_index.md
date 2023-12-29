@@ -3,7 +3,7 @@ title: Class FormatTxtState
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Projects.Diagram.Models.FormatTxtState class. Format text state
 type: docs
-weight: 290
+weight: 1140
 url: /net/groupdocs.annotation.projects.diagram.models/formattxtstate/
 ---
 ## FormatTxtState class

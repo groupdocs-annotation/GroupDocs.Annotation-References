@@ -3,7 +3,7 @@ title: Interface IFontFamily
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.AnnotationModels.Interfaces.Properties.IFontFamily interface. Interface that describes font family
 type: docs
-weight: 870
+weight: 500
 url: /net/groupdocs.annotation.models.annotationmodels.interfaces.properties/ifontfamily/
 ---
 ## IFontFamily interface

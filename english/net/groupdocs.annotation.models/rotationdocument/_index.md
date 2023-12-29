@@ -3,7 +3,7 @@ title: Enum RotationDocument
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.RotationDocument enum. Describes all possible document rotation angles
 type: docs
-weight: 520
+weight: 940
 url: /net/groupdocs.annotation.models/rotationdocument/
 ---
 ## RotationDocument enumeration

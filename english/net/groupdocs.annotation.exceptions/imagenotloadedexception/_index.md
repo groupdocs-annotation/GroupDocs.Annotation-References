@@ -3,7 +3,7 @@ title: Class ImageNotLoadedException
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Exceptions.ImageNotLoadedException class. The exception that is thrown when image cannot be loaded from remote or local path. Usually happens if the provided path is incorrect
 type: docs
-weight: 1260
+weight: 110
 url: /net/groupdocs.annotation.exceptions/imagenotloadedexception/
 ---
 ## ImageNotLoadedException class

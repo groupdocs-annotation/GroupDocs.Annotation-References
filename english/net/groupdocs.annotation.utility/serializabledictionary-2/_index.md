@@ -3,7 +3,7 @@ title: Class SerializableDictionaryTKeyTValue
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Utility.SerializableDictionary2TKeyTValue class. 
 type: docs
-weight: 80
+weight: 1300
 url: /net/groupdocs.annotation.utility/serializabledictionary-2/
 ---
 ## SerializableDictionary&lt;TKey,TValue&gt; class

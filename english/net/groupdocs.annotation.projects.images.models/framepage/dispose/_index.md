@@ -3,7 +3,7 @@ title: FramePage.Dispose
 second_title: GroupDocs.Annotation for .NET API Reference
 description: FramePage method. 
 type: docs
-weight: 50
+weight: 40
 url: /net/groupdocs.annotation.projects.images.models/framepage/dispose/
 ---
 ## FramePage.Dispose method

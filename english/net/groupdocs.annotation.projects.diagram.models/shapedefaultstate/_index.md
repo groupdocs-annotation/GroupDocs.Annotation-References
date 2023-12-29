@@ -3,7 +3,7 @@ title: Class ShapeDefaultState
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Projects.Diagram.Models.ShapeDefaultState class. Chronologizes information about the text before applying a text annotation to it
 type: docs
-weight: 280
+weight: 1180
 url: /net/groupdocs.annotation.projects.diagram.models/shapedefaultstate/
 ---
 ## ShapeDefaultState class

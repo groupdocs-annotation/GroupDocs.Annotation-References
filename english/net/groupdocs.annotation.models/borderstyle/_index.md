@@ -3,7 +3,7 @@ title: Enum BorderStyle
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.BorderStyle enum. Describes all possible border styles
 type: docs
-weight: 420
+weight: 770
 url: /net/groupdocs.annotation.models/borderstyle/
 ---
 ## BorderStyle enumeration

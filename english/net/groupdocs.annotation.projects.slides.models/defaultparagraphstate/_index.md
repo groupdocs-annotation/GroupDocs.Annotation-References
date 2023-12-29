@@ -3,7 +3,7 @@ title: Class DefaultParagraphState
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Projects.Slides.Models.DefaultParagraphState class. The default state representation for the paragraph in the presentation
 type: docs
-weight: 90
+weight: 1240
 url: /net/groupdocs.annotation.projects.slides.models/defaultparagraphstate/
 ---
 ## DefaultParagraphState class

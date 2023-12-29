@@ -3,7 +3,7 @@ title: Class DropdownComponent
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.FormatSpecificComponents.Pdf.DropdownComponent class. Represents dropdown component properties
 type: docs
-weight: 580
+weight: 820
 url: /net/groupdocs.annotation.models.formatspecificcomponents.pdf/dropdowncomponent/
 ---
 ## DropdownComponent class

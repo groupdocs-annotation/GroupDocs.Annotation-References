@@ -3,7 +3,7 @@ title: Class TextRedactionAnnotation
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.AnnotationModels.TextRedactionAnnotation class. Represents text redaction annotation properties
 type: docs
-weight: 780
+weight: 740
 url: /net/groupdocs.annotation.models.annotationmodels/textredactionannotation/
 ---
 ## TextRedactionAnnotation class

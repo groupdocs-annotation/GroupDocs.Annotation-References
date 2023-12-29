@@ -3,7 +3,7 @@ title: Interface IUrl
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.AnnotationModels.Interfaces.Properties.IUrl interface. Interface that describes link url
 type: docs
-weight: 1000
+weight: 630
 url: /net/groupdocs.annotation.models.annotationmodels.interfaces.properties/iurl/
 ---
 ## IUrl interface

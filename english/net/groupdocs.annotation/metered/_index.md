@@ -3,7 +3,7 @@ title: Class Metered
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Metered class. Provides methods for applying Metered license
 type: docs
-weight: 60
+weight: 190
 url: /net/groupdocs.annotation/metered/
 ---
 ## Metered class
@@ -18,7 +18,7 @@ public class Metered
 
 | Name | Description |
 | --- | --- |
-| [Metered](metered/)() | Initializes a new instance of this class. |
+| [Metered](metered/)() | The default constructor. |
 
 ## Methods
 

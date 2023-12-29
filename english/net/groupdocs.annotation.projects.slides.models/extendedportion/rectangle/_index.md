@@ -1,15 +1,15 @@
 ---
 title: ExtendedPortion.Rectangle
 second_title: GroupDocs.Annotation for .NET API Reference
-description: ExtendedPortion field. 
+description: ExtendedPortion property. 
 type: docs
 weight: 30
 url: /net/groupdocs.annotation.projects.slides.models/extendedportion/rectangle/
 ---
-## ExtendedPortion.Rectangle field
+## ExtendedPortion.Rectangle property
 
 ```csharp
-public RectangleF Rectangle;
+public RectangleF Rectangle { get; set; }
 ```
 
 ### See Also

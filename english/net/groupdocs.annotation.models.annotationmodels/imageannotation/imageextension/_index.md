@@ -1,17 +1,17 @@
 ---
 title: ImageAnnotation.ImageExtension
 second_title: GroupDocs.Annotation for .NET API Reference
-description: ImageAnnotation property. Gets or sets image annotation data
+description: ImageAnnotation property. Gets the image extensions png jpg svg etc
 type: docs
 weight: 50
 url: /net/groupdocs.annotation.models.annotationmodels/imageannotation/imageextension/
 ---
 ## ImageAnnotation.ImageExtension property
 
-Gets or sets image annotation data
+Gets the image extensions (png, jpg, svg etc)
 
 ```csharp
-public string ImageExtension { get; set; }
+public string ImageExtension { get; }
 ```
 
 ### See Also

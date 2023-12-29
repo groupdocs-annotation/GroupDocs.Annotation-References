@@ -3,7 +3,7 @@ title: Interface IBox
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.AnnotationModels.Interfaces.Properties.IBox interface. Interface that describes box coordinates
 type: docs
-weight: 840
+weight: 470
 url: /net/groupdocs.annotation.models.annotationmodels.interfaces.properties/ibox/
 ---
 ## IBox interface

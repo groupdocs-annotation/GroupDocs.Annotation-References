@@ -1,15 +1,15 @@
 ---
 title: ExtendedPortion.Original
 second_title: GroupDocs.Annotation for .NET API Reference
-description: ExtendedPortion field. 
+description: ExtendedPortion property. 
 type: docs
 weight: 20
 url: /net/groupdocs.annotation.projects.slides.models/extendedportion/original/
 ---
-## ExtendedPortion.Original field
+## ExtendedPortion.Original property
 
 ```csharp
-public IPortion Original;
+public IPortion Original { get; }
 ```
 
 ### See Also

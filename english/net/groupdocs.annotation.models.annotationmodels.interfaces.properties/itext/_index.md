@@ -3,7 +3,7 @@ title: Interface IText
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.AnnotationModels.Interfaces.Properties.IText interface. Interface that describes text content
 type: docs
-weight: 970
+weight: 600
 url: /net/groupdocs.annotation.models.annotationmodels.interfaces.properties/itext/
 ---
 ## IText interface

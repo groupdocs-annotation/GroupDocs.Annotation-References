@@ -3,7 +3,7 @@ title: Interface IPenColor
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.AnnotationModels.Interfaces.Properties.IPenColor interface. Interface that describes pen color
 type: docs
-weight: 910
+weight: 540
 url: /net/groupdocs.annotation.models.annotationmodels.interfaces.properties/ipencolor/
 ---
 ## IPenColor interface

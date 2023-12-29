@@ -3,7 +3,7 @@ title: Class BlockWithOffset
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Projects.Images.Models.BlockWithOffset class. This class is a block of bytes with a specific offset in the byte array
 type: docs
-weight: 170
+weight: 1200
 url: /net/groupdocs.annotation.projects.images.models/blockwithoffset/
 ---
 ## BlockWithOffset class

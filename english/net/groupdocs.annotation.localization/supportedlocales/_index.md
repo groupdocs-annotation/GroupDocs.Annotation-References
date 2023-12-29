@@ -3,7 +3,7 @@ title: Class SupportedLocales
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Localization.SupportedLocales class. Class that provides methods for checking GroupDocs.Annotation supported locales
 type: docs
-weight: 1210
+weight: 160
 url: /net/groupdocs.annotation.localization/supportedlocales/
 ---
 ## SupportedLocales class

@@ -3,7 +3,7 @@ title: Struct PageInfo
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.PageInfo struct. Class that defines Document Page Information
 type: docs
-weight: 450
+weight: 870
 url: /net/groupdocs.annotation.models/pageinfo/
 ---
 ## PageInfo structure

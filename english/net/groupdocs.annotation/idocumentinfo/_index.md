@@ -3,7 +3,7 @@ title: Interface IDocumentInfo
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.IDocumentInfo interface. Interface that defines list of available document information
 type: docs
-weight: 40
+weight: 140
 url: /net/groupdocs.annotation/idocumentinfo/
 ---
 ## IDocumentInfo interface

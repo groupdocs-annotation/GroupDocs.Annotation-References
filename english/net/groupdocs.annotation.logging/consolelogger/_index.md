@@ -3,7 +3,7 @@ title: Class ConsoleLogger
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Logging.ConsoleLogger class. Logger implementation which logs all information to the console
 type: docs
-weight: 1190
+weight: 170
 url: /net/groupdocs.annotation.logging/consolelogger/
 ---
 ## ConsoleLogger class

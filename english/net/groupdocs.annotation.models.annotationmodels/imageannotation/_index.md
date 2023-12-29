@@ -3,7 +3,7 @@ title: Class ImageAnnotation
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.AnnotationModels.ImageAnnotation class. Represents image annotation properties
 type: docs
-weight: 680
+weight: 260
 url: /net/groupdocs.annotation.models.annotationmodels/imageannotation/
 ---
 ## ImageAnnotation class
@@ -29,7 +29,7 @@ public class ImageAnnotation : AnnotationBase, IAngle, IBox, IEquatable<ImageAnn
 | [CreatedOn](../../groupdocs.annotation.models.annotationmodels/annotationbase/createdon/) { get; set; } | Gets or sets annotation creation date |
 | [Id](../../groupdocs.annotation.models.annotationmodels/annotationbase/id/) { get; set; } | Gets or sets annotation unique identifier. This field is auto-incremented. |
 | [ImageData](../../groupdocs.annotation.models.annotationmodels/imageannotation/imagedata/) { get; set; } | Gets or sets image annotation data |
-| [ImageExtension](../../groupdocs.annotation.models.annotationmodels/imageannotation/imageextension/) { get; set; } | Gets or sets image annotation data |
+| [ImageExtension](../../groupdocs.annotation.models.annotationmodels/imageannotation/imageextension/) { get; } | Gets the image extensions (png, jpg, svg etc) |
 | [ImagePath](../../groupdocs.annotation.models.annotationmodels/imageannotation/imagepath/) { get; set; } | Gets or sets image annotation path |
 | [Message](../../groupdocs.annotation.models.annotationmodels/annotationbase/message/) { get; set; } | Gets or sets annotation message |
 | [Opacity](../../groupdocs.annotation.models.annotationmodels/imageannotation/opacity/) { get; set; } | Gets or sets image annotation opacity |

@@ -3,7 +3,7 @@ title: Enum BoxStyle
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.BoxStyle enum. Describes all possible checkbox styles
 type: docs
-weight: 430
+weight: 780
 url: /net/groupdocs.annotation.models/boxstyle/
 ---
 ## BoxStyle enumeration

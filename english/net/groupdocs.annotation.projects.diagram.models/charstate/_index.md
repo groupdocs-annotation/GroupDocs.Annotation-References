@@ -3,7 +3,7 @@ title: Class CharState
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Projects.Diagram.Models.CharState class. Stores information about the state before the annotation
 type: docs
-weight: 240
+weight: 1130
 url: /net/groupdocs.annotation.projects.diagram.models/charstate/
 ---
 ## CharState class

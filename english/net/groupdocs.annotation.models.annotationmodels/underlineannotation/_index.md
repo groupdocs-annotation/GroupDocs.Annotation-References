@@ -3,7 +3,7 @@ title: Class UnderlineAnnotation
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.AnnotationModels.UnderlineAnnotation class. Represents underline annotation properties
 type: docs
-weight: 790
+weight: 750
 url: /net/groupdocs.annotation.models.annotationmodels/underlineannotation/
 ---
 ## UnderlineAnnotation class

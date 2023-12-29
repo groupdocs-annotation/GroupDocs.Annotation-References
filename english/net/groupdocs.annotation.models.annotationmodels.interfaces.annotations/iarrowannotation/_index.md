@@ -3,7 +3,7 @@ title: Interface IArrowAnnotation
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.AnnotationModels.Interfaces.Annotations.IArrowAnnotation interface. Defines the arrow annotation interface
 type: docs
-weight: 1030
+weight: 280
 url: /net/groupdocs.annotation.models.annotationmodels.interfaces.annotations/iarrowannotation/
 ---
 ## IArrowAnnotation interface

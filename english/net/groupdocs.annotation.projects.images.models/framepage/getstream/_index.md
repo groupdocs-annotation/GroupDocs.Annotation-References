@@ -3,7 +3,7 @@ title: FramePage.GetStream
 second_title: GroupDocs.Annotation for .NET API Reference
 description: FramePage method. Get image stream
 type: docs
-weight: 60
+weight: 50
 url: /net/groupdocs.annotation.projects.images.models/framepage/getstream/
 ---
 ## FramePage.GetStream method

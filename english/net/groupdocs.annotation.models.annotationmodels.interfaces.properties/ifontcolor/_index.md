@@ -3,7 +3,7 @@ title: Interface IFontColor
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.AnnotationModels.Interfaces.Properties.IFontColor interface. Interface that describes font color
 type: docs
-weight: 860
+weight: 490
 url: /net/groupdocs.annotation.models.annotationmodels.interfaces.properties/ifontcolor/
 ---
 ## IFontColor interface

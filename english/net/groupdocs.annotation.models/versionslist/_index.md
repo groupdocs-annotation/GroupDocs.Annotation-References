@@ -3,7 +3,7 @@ title: Class VersionsList
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.VersionsList class. 
 type: docs
-weight: 550
+weight: 970
 url: /net/groupdocs.annotation.models/versionslist/
 ---
 ## VersionsList class

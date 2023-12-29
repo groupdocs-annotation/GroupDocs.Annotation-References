@@ -3,7 +3,7 @@ title: Interface ISquigglyColor
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.AnnotationModels.Interfaces.Properties.ISquigglyColor interface. Interface that describes squiggly line color
 type: docs
-weight: 950
+weight: 580
 url: /net/groupdocs.annotation.models.annotationmodels.interfaces.properties/isquigglycolor/
 ---
 ## ISquigglyColor interface

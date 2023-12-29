@@ -3,7 +3,7 @@ title: Interface ISerachTextFragment
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.AnnotationModels.Interfaces.Annotations.ISerachTextFragment interface. Defines the search text fragment annotation interface
 type: docs
-weight: 1120
+weight: 370
 url: /net/groupdocs.annotation.models.annotationmodels.interfaces.annotations/iserachtextfragment/
 ---
 ## ISerachTextFragment interface

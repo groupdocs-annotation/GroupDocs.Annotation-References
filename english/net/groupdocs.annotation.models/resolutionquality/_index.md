@@ -3,7 +3,7 @@ title: Enum ResolutionQuality
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.ResolutionQuality enum. Describes all supported resolutions. They are used for generating document previews
 type: docs
-weight: 500
+weight: 920
 url: /net/groupdocs.annotation.models/resolutionquality/
 ---
 ## ResolutionQuality enumeration

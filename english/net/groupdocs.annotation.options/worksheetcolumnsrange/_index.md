@@ -3,7 +3,7 @@ title: Class WorksheetColumnsRange
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Options.WorksheetColumnsRange class. Represents a range of columns for a specified worksheet
 type: docs
-weight: 390
+weight: 1060
 url: /net/groupdocs.annotation.options/worksheetcolumnsrange/
 ---
 ## WorksheetColumnsRange class

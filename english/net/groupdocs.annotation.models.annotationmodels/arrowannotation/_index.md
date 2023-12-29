@@ -3,7 +3,7 @@ title: Class ArrowAnnotation
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.AnnotationModels.ArrowAnnotation class. Represents arrow annotation properties
 type: docs
-weight: 640
+weight: 220
 url: /net/groupdocs.annotation.models.annotationmodels/arrowannotation/
 ---
 ## ArrowAnnotation class

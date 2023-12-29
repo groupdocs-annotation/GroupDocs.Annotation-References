@@ -1,17 +1,17 @@
 ---
 title: AnnotationExtended.Annotation
 second_title: GroupDocs.Annotation for .NET API Reference
-description: AnnotationExtended field. Annotation
+description: AnnotationExtended property. Annotation
 type: docs
 weight: 30
 url: /net/groupdocs.annotation.projects.diagram.models/annotationextended/annotation/
 ---
-## AnnotationExtended.Annotation field
+## AnnotationExtended.Annotation property
 
 Annotation
 
 ```csharp
-public AnnotationBase Annotation;
+public AnnotationBase Annotation { get; }
 ```
 
 ### See Also

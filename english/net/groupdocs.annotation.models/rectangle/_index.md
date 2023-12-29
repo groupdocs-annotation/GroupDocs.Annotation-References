@@ -3,7 +3,7 @@ title: Struct Rectangle
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.Rectangle struct. Rectangle structure
 type: docs
-weight: 480
+weight: 900
 url: /net/groupdocs.annotation.models/rectangle/
 ---
 ## Rectangle structure

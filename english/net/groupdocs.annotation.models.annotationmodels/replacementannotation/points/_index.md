@@ -3,7 +3,7 @@ title: ReplacementAnnotation.Points
 second_title: GroupDocs.Annotation for .NET API Reference
 description: ReplacementAnnotation property. Gets or sets collection of points that describe rectangles with text
 type: docs
-weight: 50
+weight: 60
 url: /net/groupdocs.annotation.models.annotationmodels/replacementannotation/points/
 ---
 ## ReplacementAnnotation.Points property

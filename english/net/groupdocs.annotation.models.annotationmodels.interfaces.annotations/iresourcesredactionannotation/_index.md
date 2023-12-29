@@ -3,7 +3,7 @@ title: Interface IResourcesRedactionAnnotation
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.AnnotationModels.Interfaces.Annotations.IResourcesRedactionAnnotation interface. Defines the resource redaction annotation interface
 type: docs
-weight: 1110
+weight: 360
 url: /net/groupdocs.annotation.models.annotationmodels.interfaces.annotations/iresourcesredactionannotation/
 ---
 ## IResourcesRedactionAnnotation interface

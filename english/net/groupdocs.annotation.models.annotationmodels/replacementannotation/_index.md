@@ -3,7 +3,7 @@ title: Class ReplacementAnnotation
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.AnnotationModels.ReplacementAnnotation class. Represents replacement annotation properties
 type: docs
-weight: 720
+weight: 680
 url: /net/groupdocs.annotation.models.annotationmodels/replacementannotation/
 ---
 ## ReplacementAnnotation class
@@ -25,6 +25,7 @@ public class ReplacementAnnotation : AnnotationBase, IEquatable<ReplacementAnnot
 
 | Name | Description |
 | --- | --- |
+| [BackgroundColor](../../groupdocs.annotation.models.annotationmodels/replacementannotation/backgroundcolor/) { get; set; } | Gets or sets replacement annotation background color |
 | [CreatedOn](../../groupdocs.annotation.models.annotationmodels/annotationbase/createdon/) { get; set; } | Gets or sets annotation creation date |
 | [FontColor](../../groupdocs.annotation.models.annotationmodels/replacementannotation/fontcolor/) { get; set; } | Gets or sets replacement annotation text color |
 | [FontSize](../../groupdocs.annotation.models.annotationmodels/replacementannotation/fontsize/) { get; set; } | Gets or sets replacement annotation text size |

@@ -3,7 +3,7 @@ title: Class CellDefaultState
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Projects.Cells.Models.CellDefaultState class. The class stores information about the state of the text before annotation
 type: docs
-weight: 300
+weight: 1070
 url: /net/groupdocs.annotation.projects.cells.models/celldefaultstate/
 ---
 ## CellDefaultState class

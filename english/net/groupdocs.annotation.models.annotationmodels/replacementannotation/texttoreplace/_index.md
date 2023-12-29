@@ -3,7 +3,7 @@ title: ReplacementAnnotation.TextToReplace
 second_title: GroupDocs.Annotation for .NET API Reference
 description: ReplacementAnnotation property. Gets or sets text to be replaced with
 type: docs
-weight: 60
+weight: 70
 url: /net/groupdocs.annotation.models.annotationmodels/replacementannotation/texttoreplace/
 ---
 ## ReplacementAnnotation.TextToReplace property

@@ -3,7 +3,7 @@ title: Interface IOpacity
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.AnnotationModels.Interfaces.Properties.IOpacity interface. Interface that describes opacity
 type: docs
-weight: 900
+weight: 530
 url: /net/groupdocs.annotation.models.annotationmodels.interfaces.properties/iopacity/
 ---
 ## IOpacity interface

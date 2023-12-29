@@ -3,7 +3,7 @@ title: Class StrikeoutAnnotation
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.AnnotationModels.StrikeoutAnnotation class. Represents strikeout annotation properties
 type: docs
-weight: 760
+weight: 720
 url: /net/groupdocs.annotation.models.annotationmodels/strikeoutannotation/
 ---
 ## StrikeoutAnnotation class

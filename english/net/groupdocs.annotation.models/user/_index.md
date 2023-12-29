@@ -3,7 +3,7 @@ title: Class User
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.User class. Class that represents User
 type: docs
-weight: 540
+weight: 960
 url: /net/groupdocs.annotation.models/user/
 ---
 ## User class

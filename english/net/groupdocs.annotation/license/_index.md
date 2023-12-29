@@ -3,7 +3,7 @@ title: Class License
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.License class. Provides methods to license the component. Learn more about licensing here
 type: docs
-weight: 50
+weight: 150
 url: /net/groupdocs.annotation/license/
 ---
 ## License class

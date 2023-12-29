@@ -3,7 +3,7 @@ title: Class ResourcesRedactionAnnotation
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.AnnotationModels.ResourcesRedactionAnnotation class. Represents resources redaction annotation properties
 type: docs
-weight: 730
+weight: 690
 url: /net/groupdocs.annotation.models.annotationmodels/resourcesredactionannotation/
 ---
 ## ResourcesRedactionAnnotation class

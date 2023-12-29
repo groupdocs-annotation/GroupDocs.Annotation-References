@@ -3,7 +3,7 @@ title: Interface ILinkAnnotation
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.AnnotationModels.Interfaces.Annotations.ILinkAnnotation interface. Defines the link annotation interface
 type: docs
-weight: 1070
+weight: 320
 url: /net/groupdocs.annotation.models.annotationmodels.interfaces.annotations/ilinkannotation/
 ---
 ## ILinkAnnotation interface

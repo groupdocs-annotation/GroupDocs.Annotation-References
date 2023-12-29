@@ -3,7 +3,7 @@ title: Interface IWatermarkAnnotation
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.AnnotationModels.Interfaces.Annotations.IWatermarkAnnotation interface. Defines the watermark annotation interface
 type: docs
-weight: 1180
+weight: 430
 url: /net/groupdocs.annotation.models.annotationmodels.interfaces.annotations/iwatermarkannotation/
 ---
 ## IWatermarkAnnotation interface

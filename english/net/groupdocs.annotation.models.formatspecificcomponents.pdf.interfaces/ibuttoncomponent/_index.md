@@ -3,7 +3,7 @@ title: Interface IButtonComponent
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.FormatSpecificComponents.Pdf.Interfaces.IButtonComponent interface. Defines Button component properties
 type: docs
-weight: 590
+weight: 830
 url: /net/groupdocs.annotation.models.formatspecificcomponents.pdf.interfaces/ibuttoncomponent/
 ---
 ## IButtonComponent interface

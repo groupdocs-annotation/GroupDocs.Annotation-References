@@ -3,7 +3,7 @@ title: Class ParagraphState
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Projects.Diagram.Models.ParagraphState class. Stores information about the status of the paragraph
 type: docs
-weight: 250
+weight: 1150
 url: /net/groupdocs.annotation.projects.diagram.models/paragraphstate/
 ---
 ## ParagraphState class

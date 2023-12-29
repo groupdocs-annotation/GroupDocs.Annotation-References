@@ -3,7 +3,7 @@ title: Enum PreviewFormats
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Options.PreviewFormats enum. Document preview supported formats
 type: docs
-weight: 350
+weight: 1020
 url: /net/groupdocs.annotation.options/previewformats/
 ---
 ## PreviewFormats enumeration

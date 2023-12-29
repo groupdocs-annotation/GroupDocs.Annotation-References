@@ -3,7 +3,7 @@ title: Class EllipseAnnotation
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.AnnotationModels.EllipseAnnotation class. Represents ellipse annotation properties
 type: docs
-weight: 660
+weight: 240
 url: /net/groupdocs.annotation.models.annotationmodels/ellipseannotation/
 ---
 ## EllipseAnnotation class

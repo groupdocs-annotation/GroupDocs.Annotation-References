@@ -3,7 +3,7 @@ title: Class FileCache
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Cache.FileCache class. Class that allows to work with the local ondisk cache
 type: docs
-weight: 1280
+weight: 30
 url: /net/groupdocs.annotation.cache/filecache/
 ---
 ## FileCache class

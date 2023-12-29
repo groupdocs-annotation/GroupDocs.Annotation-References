@@ -3,7 +3,7 @@ title: Class FileTypeNotSupportedException
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Exceptions.FileTypeNotSupportedException class. The exception that is thrown when file type is not supported
 type: docs
-weight: 1250
+weight: 90
 url: /net/groupdocs.annotation.exceptions/filetypenotsupportedexception/
 ---
 ## FileTypeNotSupportedException class

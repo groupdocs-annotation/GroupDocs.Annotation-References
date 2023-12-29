@@ -3,7 +3,7 @@ title: Class ConvertFileException
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Exceptions.ConvertFileException class. The exception that is thrown if file conversion failed
 type: docs
-weight: 1230
+weight: 70
 url: /net/groupdocs.annotation.exceptions/convertfileexception/
 ---
 ## ConvertFileException class

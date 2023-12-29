@@ -3,7 +3,7 @@ title: Class AreaAnnotation
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.AnnotationModels.AreaAnnotation class. Represents area annotation properties
 type: docs
-weight: 630
+weight: 210
 url: /net/groupdocs.annotation.models.annotationmodels/areaannotation/
 ---
 ## AreaAnnotation class
