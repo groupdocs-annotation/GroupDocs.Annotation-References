@@ -3,7 +3,7 @@ title: Enum PenStyle
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.PenStyle enum. Describes all supported pen styles
 type: docs
-weight: 460
+weight: 880
 url: /net/groupdocs.annotation.models/penstyle/
 ---
 ## PenStyle enumeration

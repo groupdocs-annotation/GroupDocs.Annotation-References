@@ -18,5 +18,6 @@ The namespace contains all the exceptions used in GroupDocs.Annotation API.
 | [FileTypeNotSupportedException](./filetypenotsupportedexception/) | The exception that is thrown when file type is not supported. |
 | [ImageNotLoadedException](./imagenotloadedexception/) | The exception that is thrown when image cannot be loaded from remote or local path. Usually happens if the provided "path" is incorrect. |
 | [IOException](./ioexception/) | The exception that is thrown when trying to apply format-specific annotation to the wrong file type. |
+| [PasswordProtectedFileException](./passwordprotectedfileexception/) | The exception that is thrown when provided password is incorrect. |
 
 

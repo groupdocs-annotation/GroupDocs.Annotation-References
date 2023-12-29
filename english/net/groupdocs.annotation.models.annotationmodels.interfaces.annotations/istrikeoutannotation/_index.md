@@ -3,7 +3,7 @@ title: Interface IStrikeoutAnnotation
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.AnnotationModels.Interfaces.Annotations.IStrikeoutAnnotation interface. Defines the strikeout annotation interface
 type: docs
-weight: 1140
+weight: 390
 url: /net/groupdocs.annotation.models.annotationmodels.interfaces.annotations/istrikeoutannotation/
 ---
 ## IStrikeoutAnnotation interface

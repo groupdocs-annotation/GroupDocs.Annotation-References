@@ -3,7 +3,7 @@ title: Interface IBackgroundColor
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.AnnotationModels.Interfaces.Properties.IBackgroundColor interface. Interface that describes background color
 type: docs
-weight: 820
+weight: 450
 url: /net/groupdocs.annotation.models.annotationmodels.interfaces.properties/ibackgroundcolor/
 ---
 ## IBackgroundColor interface

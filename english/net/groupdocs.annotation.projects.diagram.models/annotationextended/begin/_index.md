@@ -1,17 +1,17 @@
 ---
 title: AnnotationExtended.Begin
 second_title: GroupDocs.Annotation for .NET API Reference
-description: AnnotationExtended field. beginning of annotated text
+description: AnnotationExtended property. beginning of annotated text
 type: docs
 weight: 40
 url: /net/groupdocs.annotation.projects.diagram.models/annotationextended/begin/
 ---
-## AnnotationExtended.Begin field
+## AnnotationExtended.Begin property
 
 beginning of annotated text
 
 ```csharp
-public int? Begin;
+public int? Begin { get; set; }
 ```
 
 ### See Also

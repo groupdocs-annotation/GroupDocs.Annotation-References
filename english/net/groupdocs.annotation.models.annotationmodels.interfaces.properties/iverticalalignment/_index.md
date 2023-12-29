@@ -3,7 +3,7 @@ title: Interface IVerticalAlignment
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.AnnotationModels.Interfaces.Properties.IVerticalAlignment interface. Interface that describes vertical alignment
 type: docs
-weight: 1010
+weight: 640
 url: /net/groupdocs.annotation.models.annotationmodels.interfaces.properties/iverticalalignment/
 ---
 ## IVerticalAlignment interface

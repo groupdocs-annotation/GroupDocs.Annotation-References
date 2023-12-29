@@ -3,7 +3,7 @@ title: Interface IDropdownComponent
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.FormatSpecificComponents.Pdf.Interfaces.IDropdownComponent interface. Defines Dropdown component properties
 type: docs
-weight: 610
+weight: 850
 url: /net/groupdocs.annotation.models.formatspecificcomponents.pdf.interfaces/idropdowncomponent/
 ---
 ## IDropdownComponent interface

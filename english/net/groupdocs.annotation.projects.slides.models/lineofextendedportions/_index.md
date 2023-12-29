@@ -3,7 +3,7 @@ title: Class LineOfExtendedPortions
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Projects.Slides.Models.LineOfExtendedPortions class. Serves as a container for a collection of extended fragments and provides line height as a property
 type: docs
-weight: 140
+weight: 1290
 url: /net/groupdocs.annotation.projects.slides.models/lineofextendedportions/
 ---
 ## LineOfExtendedPortions class

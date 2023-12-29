@@ -3,7 +3,7 @@ title: Class TextFieldAnnotation
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.AnnotationModels.TextFieldAnnotation class. Represents text field annotation properties
 type: docs
-weight: 770
+weight: 730
 url: /net/groupdocs.annotation.models.annotationmodels/textfieldannotation/
 ---
 ## TextFieldAnnotation class

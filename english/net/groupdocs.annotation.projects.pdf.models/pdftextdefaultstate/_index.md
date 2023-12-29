@@ -3,7 +3,7 @@ title: Class PdfTextDefaultState
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Projects.Pdf.Models.PdfTextDefaultState class. Represents the default state model for the text in the PDF document
 type: docs
-weight: 150
+weight: 1230
 url: /net/groupdocs.annotation.projects.pdf.models/pdftextdefaultstate/
 ---
 ## PdfTextDefaultState class

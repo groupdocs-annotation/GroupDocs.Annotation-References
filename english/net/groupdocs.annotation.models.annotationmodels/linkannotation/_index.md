@@ -3,7 +3,7 @@ title: Class LinkAnnotation
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.AnnotationModels.LinkAnnotation class. Represents link annotation properties
 type: docs
-weight: 690
+weight: 650
 url: /net/groupdocs.annotation.models.annotationmodels/linkannotation/
 ---
 ## LinkAnnotation class

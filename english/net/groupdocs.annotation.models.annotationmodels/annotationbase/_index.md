@@ -3,7 +3,7 @@ title: Class AnnotationBase
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.AnnotationModels.AnnotationBase class. Base class for all annotation types. Contains basic annotation information
 type: docs
-weight: 620
+weight: 200
 url: /net/groupdocs.annotation.models.annotationmodels/annotationbase/
 ---
 ## AnnotationBase class

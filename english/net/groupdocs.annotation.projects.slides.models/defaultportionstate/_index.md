@@ -3,7 +3,7 @@ title: Class DefaultPortionState
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Projects.Slides.Models.DefaultPortionState class. The default state representation for a single text fragment portion in the presentation slides
 type: docs
-weight: 100
+weight: 1250
 url: /net/groupdocs.annotation.projects.slides.models/defaultportionstate/
 ---
 ## DefaultPortionState class

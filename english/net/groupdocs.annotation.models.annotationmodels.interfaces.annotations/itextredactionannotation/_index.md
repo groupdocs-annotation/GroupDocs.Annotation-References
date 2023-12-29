@@ -3,7 +3,7 @@ title: Interface ITextRedactionAnnotation
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.AnnotationModels.Interfaces.Annotations.ITextRedactionAnnotation interface. Defines the text redaction annotation interface
 type: docs
-weight: 1160
+weight: 410
 url: /net/groupdocs.annotation.models.annotationmodels.interfaces.annotations/itextredactionannotation/
 ---
 ## ITextRedactionAnnotation interface

@@ -3,7 +3,7 @@ title: ReplacementAnnotation.FontColor
 second_title: GroupDocs.Annotation for .NET API Reference
 description: ReplacementAnnotation property. Gets or sets replacement annotation text color
 type: docs
-weight: 20
+weight: 30
 url: /net/groupdocs.annotation.models.annotationmodels/replacementannotation/fontcolor/
 ---
 ## ReplacementAnnotation.FontColor property

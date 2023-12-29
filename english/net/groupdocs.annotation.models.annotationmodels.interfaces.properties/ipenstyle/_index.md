@@ -3,7 +3,7 @@ title: Interface IPenStyle
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.AnnotationModels.Interfaces.Properties.IPenStyle interface. Interface that describes pen style
 type: docs
-weight: 920
+weight: 550
 url: /net/groupdocs.annotation.models.annotationmodels.interfaces.properties/ipenstyle/
 ---
 ## IPenStyle interface

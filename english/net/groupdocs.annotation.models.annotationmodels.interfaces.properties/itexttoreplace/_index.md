@@ -3,7 +3,7 @@ title: Interface ITextToReplace
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.AnnotationModels.Interfaces.Properties.ITextToReplace interface. Interface that describes text for replace
 type: docs
-weight: 990
+weight: 620
 url: /net/groupdocs.annotation.models.annotationmodels.interfaces.properties/itexttoreplace/
 ---
 ## ITextToReplace interface

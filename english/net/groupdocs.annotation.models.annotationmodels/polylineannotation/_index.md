@@ -3,7 +3,7 @@ title: Class PolylineAnnotation
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.AnnotationModels.PolylineAnnotation class. Represents polyline annotation properties
 type: docs
-weight: 710
+weight: 670
 url: /net/groupdocs.annotation.models.annotationmodels/polylineannotation/
 ---
 ## PolylineAnnotation class

@@ -3,7 +3,7 @@ title: Class CheckBoxComponent
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.FormatSpecificComponents.Pdf.CheckBoxComponent class. Represents CheckBox properties
 type: docs
-weight: 570
+weight: 810
 url: /net/groupdocs.annotation.models.formatspecificcomponents.pdf/checkboxcomponent/
 ---
 ## CheckBoxComponent class

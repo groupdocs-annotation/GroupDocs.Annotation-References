@@ -3,7 +3,7 @@ title: Interface IAreaAnnotation
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.AnnotationModels.Interfaces.Annotations.IAreaAnnotation interface. Defines the area annotation interface
 type: docs
-weight: 1020
+weight: 270
 url: /net/groupdocs.annotation.models.annotationmodels.interfaces.annotations/iareaannotation/
 ---
 ## IAreaAnnotation interface

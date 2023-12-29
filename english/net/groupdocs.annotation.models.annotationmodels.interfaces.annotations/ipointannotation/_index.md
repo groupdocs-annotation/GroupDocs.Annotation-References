@@ -3,7 +3,7 @@ title: Interface IPointAnnotation
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.AnnotationModels.Interfaces.Annotations.IPointAnnotation interface. Defines the point annotation interface
 type: docs
-weight: 1080
+weight: 330
 url: /net/groupdocs.annotation.models.annotationmodels.interfaces.annotations/ipointannotation/
 ---
 ## IPointAnnotation interface

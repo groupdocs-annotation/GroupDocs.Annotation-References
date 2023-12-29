@@ -3,7 +3,7 @@ title: Interface IHighlightAnnotation
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.AnnotationModels.Interfaces.Annotations.IHighlightAnnotation interface. Defines the highlight annotation interface
 type: docs
-weight: 1060
+weight: 310
 url: /net/groupdocs.annotation.models.annotationmodels.interfaces.annotations/ihighlightannotation/
 ---
 ## IHighlightAnnotation interface

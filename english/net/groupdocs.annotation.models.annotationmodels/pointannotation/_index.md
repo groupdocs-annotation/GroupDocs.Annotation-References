@@ -3,7 +3,7 @@ title: Class PointAnnotation
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.AnnotationModels.PointAnnotation class. Represents point annotation properties
 type: docs
-weight: 700
+weight: 660
 url: /net/groupdocs.annotation.models.annotationmodels/pointannotation/
 ---
 ## PointAnnotation class

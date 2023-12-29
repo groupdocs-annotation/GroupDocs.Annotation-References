@@ -3,7 +3,7 @@ title: Interface ICheckBoxComponent
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.FormatSpecificComponents.Pdf.Interfaces.ICheckBoxComponent interface. Defines CheckBox component properties
 type: docs
-weight: 600
+weight: 840
 url: /net/groupdocs.annotation.models.formatspecificcomponents.pdf.interfaces/icheckboxcomponent/
 ---
 ## ICheckBoxComponent interface

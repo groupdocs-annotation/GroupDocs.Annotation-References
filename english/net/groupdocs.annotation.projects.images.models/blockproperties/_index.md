@@ -3,7 +3,7 @@ title: Class BlockProperties
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Projects.Images.Models.BlockProperties class. The representation of the properties of a data block
 type: docs
-weight: 160
+weight: 1190
 url: /net/groupdocs.annotation.projects.images.models/blockproperties/
 ---
 ## BlockProperties class

@@ -3,7 +3,7 @@ title: ReplacementAnnotation.FontSize
 second_title: GroupDocs.Annotation for .NET API Reference
 description: ReplacementAnnotation property. Gets or sets replacement annotation text size
 type: docs
-weight: 30
+weight: 40
 url: /net/groupdocs.annotation.models.annotationmodels/replacementannotation/fontsize/
 ---
 ## ReplacementAnnotation.FontSize property

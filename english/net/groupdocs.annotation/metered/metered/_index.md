@@ -1,14 +1,14 @@
 ---
 title: Metered.Metered
 second_title: GroupDocs.Annotation for .NET API Reference
-description: Metered constructor. Initializes a new instance of this class
+description: Metered constructor. The default constructor
 type: docs
 weight: 10
 url: /net/groupdocs.annotation/metered/metered/
 ---
 ## Metered constructor
 
-Initializes a new instance of this class.
+The default constructor.
 
 ```csharp
 public Metered()

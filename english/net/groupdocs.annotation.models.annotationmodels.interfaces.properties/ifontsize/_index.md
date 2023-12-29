@@ -3,7 +3,7 @@ title: Interface IFontSize
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.AnnotationModels.Interfaces.Properties.IFontSize interface. Interface that describes font size
 type: docs
-weight: 880
+weight: 510
 url: /net/groupdocs.annotation.models.annotationmodels.interfaces.properties/ifontsize/
 ---
 ## IFontSize interface

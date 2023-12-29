@@ -3,7 +3,7 @@ title: Interface IPenWidth
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.AnnotationModels.Interfaces.Properties.IPenWidth interface. Interface that describes pen width
 type: docs
-weight: 930
+weight: 560
 url: /net/groupdocs.annotation.models.annotationmodels.interfaces.properties/ipenwidth/
 ---
 ## IPenWidth interface

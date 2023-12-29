@@ -1,15 +1,17 @@
 ---
 title: ExtendedParagraph.Shape
 second_title: GroupDocs.Annotation for .NET API Reference
-description: ExtendedParagraph field. 
+description: ExtendedParagraph property. The shape containing the paragraph
 type: docs
 weight: 40
 url: /net/groupdocs.annotation.projects.slides.models/extendedparagraph/shape/
 ---
-## ExtendedParagraph.Shape field
+## ExtendedParagraph.Shape property
+
+The shape containing the paragraph.
 
 ```csharp
-public IShape Shape;
+public IShape Shape { get; }
 ```
 
 ### See Also

@@ -3,7 +3,7 @@ title: Interface ITextFieldAnnotation
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.AnnotationModels.Interfaces.Annotations.ITextFieldAnnotation interface. Defines the text field annotation interface
 type: docs
-weight: 1150
+weight: 400
 url: /net/groupdocs.annotation.models.annotationmodels.interfaces.annotations/itextfieldannotation/
 ---
 ## ITextFieldAnnotation interface

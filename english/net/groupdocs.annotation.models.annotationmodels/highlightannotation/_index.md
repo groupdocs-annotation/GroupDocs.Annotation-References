@@ -3,7 +3,7 @@ title: Class HighlightAnnotation
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.AnnotationModels.HighlightAnnotation class. Represents highlight annotation properties
 type: docs
-weight: 670
+weight: 250
 url: /net/groupdocs.annotation.models.annotationmodels/highlightannotation/
 ---
 ## HighlightAnnotation class

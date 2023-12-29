@@ -3,7 +3,7 @@ title: ReplacementAnnotation.Opacity
 second_title: GroupDocs.Annotation for .NET API Reference
 description: ReplacementAnnotation property. Gets or sets replacement annotation opacity
 type: docs
-weight: 40
+weight: 50
 url: /net/groupdocs.annotation.models.annotationmodels/replacementannotation/opacity/
 ---
 ## ReplacementAnnotation.Opacity property

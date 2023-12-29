@@ -3,7 +3,7 @@ title: Interface ISvgPath
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.AnnotationModels.Interfaces.Properties.ISvgPath interface. Interface that describes svg path coordinates array
 type: docs
-weight: 960
+weight: 590
 url: /net/groupdocs.annotation.models.annotationmodels.interfaces.properties/isvgpath/
 ---
 ## ISvgPath interface

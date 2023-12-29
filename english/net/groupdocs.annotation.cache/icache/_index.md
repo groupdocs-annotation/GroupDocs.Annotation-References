@@ -3,7 +3,7 @@ title: Interface ICache
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Cache.ICache interface. Defines methods required for storing rendered document and document resources cache
 type: docs
-weight: 1290
+weight: 40
 url: /net/groupdocs.annotation.cache/icache/
 ---
 ## ICache interface

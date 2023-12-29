@@ -3,7 +3,7 @@ title: Class DefaultShapeState
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Projects.Slides.Models.DefaultShapeState class. Default state views for the form on the presentation slides
 type: docs
-weight: 110
+weight: 1260
 url: /net/groupdocs.annotation.projects.slides.models/defaultshapestate/
 ---
 ## DefaultShapeState class

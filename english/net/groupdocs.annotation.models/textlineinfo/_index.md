@@ -3,7 +3,7 @@ title: Struct TextLineInfo
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.TextLineInfo struct. Class that defines text line information
 type: docs
-weight: 530
+weight: 950
 url: /net/groupdocs.annotation.models/textlineinfo/
 ---
 ## TextLineInfo structure

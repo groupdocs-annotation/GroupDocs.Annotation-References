@@ -3,7 +3,7 @@ title: Interface IEllipseAnnotation
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.AnnotationModels.Interfaces.Annotations.IEllipseAnnotation interface. Defines the ellipse annotation interface
 type: docs
-weight: 1050
+weight: 300
 url: /net/groupdocs.annotation.models.annotationmodels.interfaces.annotations/iellipseannotation/
 ---
 ## IEllipseAnnotation interface

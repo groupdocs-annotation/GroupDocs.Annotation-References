@@ -3,7 +3,7 @@ title: Enum DocumentType
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.DocumentType enum. Describes all supported document types
 type: docs
-weight: 440
+weight: 790
 url: /net/groupdocs.annotation.models/documenttype/
 ---
 ## DocumentType enumeration

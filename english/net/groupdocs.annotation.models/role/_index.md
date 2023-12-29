@@ -3,7 +3,7 @@ title: Enum Role
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.Role enum. Describes all possible user roles
 type: docs
-weight: 510
+weight: 930
 url: /net/groupdocs.annotation.models/role/
 ---
 ## Role enumeration

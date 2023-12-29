@@ -3,7 +3,7 @@ title: ReplacementAnnotation.Equals
 second_title: GroupDocs.Annotation for .NET API Reference
 description: ReplacementAnnotation method. Compares replacement annotation using IEquatable Equals method
 type: docs
-weight: 80
+weight: 90
 url: /net/groupdocs.annotation.models.annotationmodels/replacementannotation/equals/
 ---
 ## Equals(ReplacementAnnotation) {#equals_1}

@@ -3,7 +3,7 @@ title: Class AnnotatorException
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Exceptions.AnnotatorException class. An error that occur during the document annotation process
 type: docs
-weight: 1220
+weight: 60
 url: /net/groupdocs.annotation.exceptions/annotatorexception/
 ---
 ## AnnotatorException class

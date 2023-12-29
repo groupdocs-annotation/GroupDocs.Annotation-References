@@ -3,7 +3,7 @@ title: Class DistanceAnnotation
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.AnnotationModels.DistanceAnnotation class. Represents distance annotation properties
 type: docs
-weight: 650
+weight: 230
 url: /net/groupdocs.annotation.models.annotationmodels/distanceannotation/
 ---
 ## DistanceAnnotation class

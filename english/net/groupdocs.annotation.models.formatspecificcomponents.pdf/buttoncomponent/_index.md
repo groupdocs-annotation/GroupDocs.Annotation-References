@@ -3,7 +3,7 @@ title: Class ButtonComponent
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.FormatSpecificComponents.Pdf.ButtonComponent class. Represents Button properties
 type: docs
-weight: 560
+weight: 800
 url: /net/groupdocs.annotation.models.formatspecificcomponents.pdf/buttoncomponent/
 ---
 ## ButtonComponent class

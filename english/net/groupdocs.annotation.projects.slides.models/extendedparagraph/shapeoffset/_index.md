@@ -1,15 +1,17 @@
 ---
 title: ExtendedParagraph.ShapeOffset
 second_title: GroupDocs.Annotation for .NET API Reference
-description: ExtendedParagraph field. 
+description: ExtendedParagraph property. The offset of the shape
 type: docs
 weight: 50
 url: /net/groupdocs.annotation.projects.slides.models/extendedparagraph/shapeoffset/
 ---
-## ExtendedParagraph.ShapeOffset field
+## ExtendedParagraph.ShapeOffset property
+
+The offset of the shape.
 
 ```csharp
-public PointF ShapeOffset;
+public PointF ShapeOffset { get; }
 ```
 
 ### See Also

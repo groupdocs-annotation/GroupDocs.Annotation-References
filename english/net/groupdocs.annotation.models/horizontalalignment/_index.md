@@ -3,7 +3,7 @@ title: Enum HorizontalAlignment
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.HorizontalAlignment enum. Represents annotations horizontal alignment enum
 type: docs
-weight: 400
+weight: 860
 url: /net/groupdocs.annotation.models/horizontalalignment/
 ---
 ## HorizontalAlignment enumeration

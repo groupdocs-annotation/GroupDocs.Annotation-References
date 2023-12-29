@@ -3,7 +3,7 @@ title: Class AnnotationPosition
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Projects.Diagram.Models.AnnotationPosition class. Annotation position
 type: docs
-weight: 230
+weight: 1120
 url: /net/groupdocs.annotation.projects.diagram.models/annotationposition/
 ---
 ## AnnotationPosition class

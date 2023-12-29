@@ -3,7 +3,7 @@ title: FramePage.StreamToImage
 second_title: GroupDocs.Annotation for .NET API Reference
 description: FramePage method. Convert
 type: docs
-weight: 70
+weight: 60
 url: /net/groupdocs.annotation.projects.images.models/framepage/streamtoimage/
 ---
 ## FramePage.StreamToImage method

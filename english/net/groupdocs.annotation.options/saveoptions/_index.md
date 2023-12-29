@@ -3,7 +3,7 @@ title: Class SaveOptions
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Options.SaveOptions class. Allows to specify additional options such as password when saving annotated document
 type: docs
-weight: 330
+weight: 1050
 url: /net/groupdocs.annotation.options/saveoptions/
 ---
 ## SaveOptions class

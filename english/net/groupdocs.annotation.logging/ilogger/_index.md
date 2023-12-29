@@ -3,7 +3,7 @@ title: Interface ILogger
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Logging.ILogger interface. ILogger interface that defines shared logger contract
 type: docs
-weight: 1200
+weight: 180
 url: /net/groupdocs.annotation.logging/ilogger/
 ---
 ## ILogger interface

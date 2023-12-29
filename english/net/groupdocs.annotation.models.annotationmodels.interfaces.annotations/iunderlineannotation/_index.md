@@ -3,7 +3,7 @@ title: Interface IUnderlineAnnotation
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.AnnotationModels.Interfaces.Annotations.IUnderlineAnnotation interface. Defines the underline annotation interface
 type: docs
-weight: 1170
+weight: 420
 url: /net/groupdocs.annotation.models.annotationmodels.interfaces.annotations/iunderlineannotation/
 ---
 ## IUnderlineAnnotation interface

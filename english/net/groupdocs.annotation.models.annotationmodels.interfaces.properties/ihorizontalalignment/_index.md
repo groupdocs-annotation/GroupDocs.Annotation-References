@@ -3,7 +3,7 @@ title: Interface IHorizontalAlignment
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.AnnotationModels.Interfaces.Properties.IHorizontalAlignment interface. Interface that describes horizontal alignment
 type: docs
-weight: 890
+weight: 520
 url: /net/groupdocs.annotation.models.annotationmodels.interfaces.properties/ihorizontalalignment/
 ---
 ## IHorizontalAlignment interface

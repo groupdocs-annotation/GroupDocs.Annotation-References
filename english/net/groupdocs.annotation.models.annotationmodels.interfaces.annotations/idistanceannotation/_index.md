@@ -3,7 +3,7 @@ title: Interface IDistanceAnnotation
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.AnnotationModels.Interfaces.Annotations.IDistanceAnnotation interface. Defines the distance annotation interface
 type: docs
-weight: 1040
+weight: 290
 url: /net/groupdocs.annotation.models.annotationmodels.interfaces.annotations/idistanceannotation/
 ---
 ## IDistanceAnnotation interface

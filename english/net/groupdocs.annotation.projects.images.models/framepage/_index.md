@@ -3,7 +3,7 @@ title: Class FramePage
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Projects.Images.Models.FramePage class. TIFF frame model
 type: docs
-weight: 180
+weight: 1210
 url: /net/groupdocs.annotation.projects.images.models/framepage/
 ---
 ## FramePage class
@@ -34,12 +34,6 @@ public class FramePage : IDisposable
 | [Dispose](../../groupdocs.annotation.projects.images.models/framepage/dispose/)() |  |
 | [GetStream](../../groupdocs.annotation.projects.images.models/framepage/getstream/)() | Get image stream |
 | [StreamToImage](../../groupdocs.annotation.projects.images.models/framepage/streamtoimage/)(Stream) | Convert |
-
-## Fields
-
-| Name | Description |
-| --- | --- |
-| [imageStream](../../groupdocs.annotation.projects.images.models/framepage/imagestream/) |  |
 
 ### See Also
 

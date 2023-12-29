@@ -1,17 +1,17 @@
 ---
 title: Portion.Ix
 second_title: GroupDocs.Annotation for .NET API Reference
-description: Portion field. Ix
+description: Portion property. Ix
 type: docs
 weight: 30
 url: /net/groupdocs.annotation.projects.diagram.models/portion/ix/
 ---
-## Portion.Ix field
+## Portion.Ix property
 
 Ix
 
 ```csharp
-public int Ix;
+public int Ix { get; set; }
 ```
 
 ### See Also

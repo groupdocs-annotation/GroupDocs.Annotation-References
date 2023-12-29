@@ -3,7 +3,7 @@ title: Class WatermarkAnnotation
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.AnnotationModels.WatermarkAnnotation class. Represents watermark annotation properties
 type: docs
-weight: 800
+weight: 760
 url: /net/groupdocs.annotation.models.annotationmodels/watermarkannotation/
 ---
 ## WatermarkAnnotation class

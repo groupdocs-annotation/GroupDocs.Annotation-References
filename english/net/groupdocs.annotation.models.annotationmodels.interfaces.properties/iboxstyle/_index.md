@@ -3,7 +3,7 @@ title: Interface IBoxStyle
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.AnnotationModels.Interfaces.Properties.IBoxStyle interface. Interface that describes box style
 type: docs
-weight: 850
+weight: 480
 url: /net/groupdocs.annotation.models.annotationmodels.interfaces.properties/iboxstyle/
 ---
 ## IBoxStyle interface

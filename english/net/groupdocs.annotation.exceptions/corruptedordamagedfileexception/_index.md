@@ -3,7 +3,7 @@ title: Class CorruptedOrDamagedFileException
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Exceptions.CorruptedOrDamagedFileException class. The exception that is thrown when file is corrupted or damaged
 type: docs
-weight: 1240
+weight: 80
 url: /net/groupdocs.annotation.exceptions/corruptedordamagedfileexception/
 ---
 ## CorruptedOrDamagedFileException class

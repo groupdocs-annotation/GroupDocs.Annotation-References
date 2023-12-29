@@ -3,7 +3,7 @@ title: Struct Point
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Models.Point struct. Point structure
 type: docs
-weight: 470
+weight: 890
 url: /net/groupdocs.annotation.models/point/
 ---
 ## Point structure

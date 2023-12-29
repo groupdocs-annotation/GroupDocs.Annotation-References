@@ -3,7 +3,7 @@ title: Class SaveLoadFormat
 second_title: GroupDocs.Annotation for .NET API Reference
 description: GroupDocs.Annotation.Projects.Diagram.Models.SaveLoadFormat class. Save load format
 type: docs
-weight: 270
+weight: 1170
 url: /net/groupdocs.annotation.projects.diagram.models/saveloadformat/
 ---
 ## SaveLoadFormat class
