@@ -1,14 +1,14 @@
 ---
 title: Class Annotator
 second_title: GroupDocs.Annotation for .NET API Reference
-description: GroupDocs.Annotation.Annotator class. The Annotator class represents the main class that controls the document annotating process. It serves as the central hub for managing and coordinating the various stages involved in annotating a document. This is the entry point to the GroupDocs.Annotation API
+description: GroupDocs.Annotation.Annotator class. The Annotator class is the central component of the GroupDocs.Annotation API designed to manage and facilitate the document annotation process across various formats. It offers a streamlined interface for applying diverse annotation types making it the primary tool for integrating annotation functionality
 type: docs
 weight: 10
 url: /net/groupdocs.annotation/annotator/
 ---
 ## Annotator class
 
-The 'Annotator' class represents the main class that controls the document annotating process. It serves as the central hub for managing and coordinating the various stages involved in annotating a document. This is the entry point to the GroupDocs.Annotation API.
+The 'Annotator' class is the central component of the GroupDocs.Annotation API, designed to manage and facilitate the document annotation process across various formats. It offers a streamlined interface for applying diverse annotation types, making it the primary tool for integrating annotation functionality.
 
 ```csharp
 public class Annotator : IDisposable
@@ -60,6 +60,12 @@ public class Annotator : IDisposable
 | [Save](../../groupdocs.annotation/annotator/save/#save_5)(string, SaveOptions) | Saves document after adding, updating or removing annotations. |
 | [Update](../../groupdocs.annotation/annotator/update/#update)(AnnotationBase) | Updates document annotation by id. |
 | [Update](../../groupdocs.annotation/annotator/update/#update_1)(List&lt;AnnotationBase&gt;) | Updates collection of document annotations by overriding the previous list with a new one |
+
+## Remarks
+
+**Learn more**
+
+* More about GroupDocs.Annotation features: [GroupDocs.Annotation Developer Guide](https://docs.groupdocs.com/display/annotationnet/Developer+Guide)
 
 ### See Also
 

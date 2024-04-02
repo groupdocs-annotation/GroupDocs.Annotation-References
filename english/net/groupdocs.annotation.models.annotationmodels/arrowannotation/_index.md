@@ -34,7 +34,7 @@ public class ArrowAnnotation : AnnotationBase, IArrowAnnotation, IEquatable<Arro
 | [PenStyle](../../groupdocs.annotation.models.annotationmodels/arrowannotation/penstyle/) { get; set; } | Gets or sets arrow annotation pen style |
 | [PenWidth](../../groupdocs.annotation.models.annotationmodels/arrowannotation/penwidth/) { get; set; } | Gets or sets arrow annotation pen width |
 | [Replies](../../groupdocs.annotation.models.annotationmodels/annotationbase/replies/) { get; set; } | The list of replies (comments) attached to the annotation |
-| [StateBeforeAnnotation](../../groupdocs.annotation.models.annotationmodels/annotationbase/statebeforeannotation/) { get; set; } |  |
+| [StateBeforeAnnotation](../../groupdocs.annotation.models.annotationmodels/annotationbase/statebeforeannotation/) { get; set; } | Stores the previous state of the text. State that was before annotating |
 | [Type](../../groupdocs.annotation.models.annotationmodels/annotationbase/type/) { get; set; } | Gets or sets annotation type |
 | [User](../../groupdocs.annotation.models.annotationmodels/annotationbase/user/) { get; set; } | Gets or sets annotation author |
 

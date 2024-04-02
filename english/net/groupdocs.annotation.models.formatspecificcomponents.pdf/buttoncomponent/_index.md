@@ -38,7 +38,7 @@ public class ButtonComponent : AnnotationBase, IButtonComponent, IEquatable<Butt
 | [PenColor](../../groupdocs.annotation.models.formatspecificcomponents.pdf/buttoncomponent/pencolor/) { get; set; } | Gets or sets component pen color |
 | [Replies](../../groupdocs.annotation.models.annotationmodels/annotationbase/replies/) { get; set; } | The list of replies (comments) attached to the annotation |
 | [RolloverCaption](../../groupdocs.annotation.models.formatspecificcomponents.pdf/buttoncomponent/rollovercaption/) { get; set; } | Gets or sets rollover caption of button which shall be displayed when the user rolls the cursor into its active area without pressing the mouse button. |
-| [StateBeforeAnnotation](../../groupdocs.annotation.models.annotationmodels/annotationbase/statebeforeannotation/) { get; set; } |  |
+| [StateBeforeAnnotation](../../groupdocs.annotation.models.annotationmodels/annotationbase/statebeforeannotation/) { get; set; } | Stores the previous state of the text. State that was before annotating |
 | [Style](../../groupdocs.annotation.models.formatspecificcomponents.pdf/buttoncomponent/style/) { get; set; } | Gets or sets annotation border |
 | [Type](../../groupdocs.annotation.models.annotationmodels/annotationbase/type/) { get; set; } | Gets or sets annotation type |
 | [User](../../groupdocs.annotation.models.annotationmodels/annotationbase/user/) { get; set; } | Gets or sets annotation author |

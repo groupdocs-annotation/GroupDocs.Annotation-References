@@ -32,7 +32,7 @@ public class CheckBoxComponent : AnnotationBase, ICheckBoxComponent, IEquatable<
 | [PageNumber](../../groupdocs.annotation.models.annotationmodels/annotationbase/pagenumber/) { get; set; } | Page number where the annotation should be located |
 | [PenColor](../../groupdocs.annotation.models.formatspecificcomponents.pdf/checkboxcomponent/pencolor/) { get; set; } | Gets or sets component color |
 | [Replies](../../groupdocs.annotation.models.annotationmodels/annotationbase/replies/) { get; set; } | The list of replies (comments) attached to the annotation |
-| [StateBeforeAnnotation](../../groupdocs.annotation.models.annotationmodels/annotationbase/statebeforeannotation/) { get; set; } |  |
+| [StateBeforeAnnotation](../../groupdocs.annotation.models.annotationmodels/annotationbase/statebeforeannotation/) { get; set; } | Stores the previous state of the text. State that was before annotating |
 | [Style](../../groupdocs.annotation.models.formatspecificcomponents.pdf/checkboxcomponent/style/) { get; set; } | Gets or sets style box |
 | [Type](../../groupdocs.annotation.models.annotationmodels/annotationbase/type/) { get; set; } | Gets or sets annotation type |
 | [User](../../groupdocs.annotation.models.annotationmodels/annotationbase/user/) { get; set; } | Gets or sets annotation author |

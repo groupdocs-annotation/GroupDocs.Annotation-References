@@ -14,7 +14,7 @@ The namespace contains various of annotation models
 | --- | --- |
 | [Reply](./reply/) | Represents annotation comment. |
 | [User](./user/) | Class that represents User |
-| [VersionsList](./versionslist/) |  |
+| [VersionsList](./versionslist/) | Class that defines serializable list of the document version information. |
 ## Structures
 
 | Structure | Description |
