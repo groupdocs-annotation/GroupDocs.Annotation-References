@@ -1,12 +1,14 @@
 ---
 title: DefaultParagraphState.MarginLeft
 second_title: GroupDocs.Annotation for .NET API Reference
-description: DefaultParagraphState property. 
+description: DefaultParagraphState property. Left margin value
 type: docs
 weight: 90
 url: /net/groupdocs.annotation.projects.slides.models/defaultparagraphstate/marginleft/
 ---
 ## DefaultParagraphState.MarginLeft property
+
+Left margin value
 
 ```csharp
 public float? MarginLeft { get; set; }

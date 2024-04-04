@@ -1,12 +1,14 @@
 ---
 title: DefaultParagraphState.HangingPunctuation
 second_title: GroupDocs.Annotation for .NET API Reference
-description: DefaultParagraphState property. 
+description: DefaultParagraphState property. Hanging punctuation option
 type: docs
 weight: 60
 url: /net/groupdocs.annotation.projects.slides.models/defaultparagraphstate/hangingpunctuation/
 ---
 ## DefaultParagraphState.HangingPunctuation property
+
+Hanging punctuation option
 
 ```csharp
 public bool HangingPunctuation { get; set; }

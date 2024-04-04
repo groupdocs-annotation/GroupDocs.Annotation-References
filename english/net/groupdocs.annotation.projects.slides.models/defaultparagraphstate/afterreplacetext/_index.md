@@ -1,12 +1,14 @@
 ---
 title: DefaultParagraphState.AfterReplaceText
 second_title: GroupDocs.Annotation for .NET API Reference
-description: DefaultParagraphState property. 
+description: DefaultParagraphState property. Text after replacement
 type: docs
 weight: 20
 url: /net/groupdocs.annotation.projects.slides.models/defaultparagraphstate/afterreplacetext/
 ---
 ## DefaultParagraphState.AfterReplaceText property
+
+Text after replacement
 
 ```csharp
 public string AfterReplaceText { get; set; }

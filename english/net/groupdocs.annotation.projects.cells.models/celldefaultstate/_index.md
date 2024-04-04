@@ -18,8 +18,8 @@ public class CellDefaultState
 
 | Name | Description |
 | --- | --- |
-| [CellDefaultState](celldefaultstate/#constructor)() | The default constructor. |
-| [CellDefaultState](celldefaultstate/#constructor_1)(Cell) |  |
+| [CellDefaultState](celldefaultstate/#constructor)() | Initialize instance of the CellDefaultState with default values. |
+| [CellDefaultState](celldefaultstate/#constructor_1)(Cell) | Initialize instance of the CellDefaultState with given Cell values. |
 
 ## Methods
 

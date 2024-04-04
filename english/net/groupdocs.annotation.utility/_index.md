@@ -12,6 +12,6 @@ url: /net/groupdocs.annotation.utility/
 
 | Class | Description |
 | --- | --- |
-| [SerializableDictionary&lt;TKey,TValue&gt;](./serializabledictionary-2/) |  |
+| [SerializableDictionary&lt;TKey,TValue&gt;](./serializabledictionary-2/) | Represents a serializable custom dictionary collection of keys and values. |
 
 
