@@ -24,23 +24,23 @@ public class DefaultParagraphState
 
 | Name | Description |
 | --- | --- |
-| [AfterReplaceText](../../groupdocs.annotation.projects.slides.models/defaultparagraphstate/afterreplacetext/) { get; set; } |  |
-| [Depth](../../groupdocs.annotation.projects.slides.models/defaultparagraphstate/depth/) { get; set; } |  |
-| [EastAsianLineBreak](../../groupdocs.annotation.projects.slides.models/defaultparagraphstate/eastasianlinebreak/) { get; set; } |  |
-| [FontAlignment](../../groupdocs.annotation.projects.slides.models/defaultparagraphstate/fontalignment/) { get; set; } |  |
-| [HangingPunctuation](../../groupdocs.annotation.projects.slides.models/defaultparagraphstate/hangingpunctuation/) { get; set; } |  |
-| [Indent](../../groupdocs.annotation.projects.slides.models/defaultparagraphstate/indent/) { get; set; } |  |
-| [LatinLineBreak](../../groupdocs.annotation.projects.slides.models/defaultparagraphstate/latinlinebreak/) { get; set; } |  |
-| [MarginLeft](../../groupdocs.annotation.projects.slides.models/defaultparagraphstate/marginleft/) { get; set; } |  |
-| [MarginRight](../../groupdocs.annotation.projects.slides.models/defaultparagraphstate/marginright/) { get; set; } |  |
-| [ParagraphText](../../groupdocs.annotation.projects.slides.models/defaultparagraphstate/paragraphtext/) { get; set; } |  |
-| [PortionState](../../groupdocs.annotation.projects.slides.models/defaultparagraphstate/portionstate/) { get; set; } |  |
-| [RightToLeft](../../groupdocs.annotation.projects.slides.models/defaultparagraphstate/righttoleft/) { get; set; } |  |
-| [SpaceAfter](../../groupdocs.annotation.projects.slides.models/defaultparagraphstate/spaceafter/) { get; set; } |  |
-| [SpaceBefore](../../groupdocs.annotation.projects.slides.models/defaultparagraphstate/spacebefore/) { get; set; } |  |
-| [SpaceWithin](../../groupdocs.annotation.projects.slides.models/defaultparagraphstate/spacewithin/) { get; set; } |  |
-| [TabSize](../../groupdocs.annotation.projects.slides.models/defaultparagraphstate/tabsize/) { get; set; } |  |
-| [TextAligment](../../groupdocs.annotation.projects.slides.models/defaultparagraphstate/textaligment/) { get; set; } |  |
+| [AfterReplaceText](../../groupdocs.annotation.projects.slides.models/defaultparagraphstate/afterreplacetext/) { get; set; } | Text after replacement |
+| [Depth](../../groupdocs.annotation.projects.slides.models/defaultparagraphstate/depth/) { get; set; } | Depth of the paragraph |
+| [EastAsianLineBreak](../../groupdocs.annotation.projects.slides.models/defaultparagraphstate/eastasianlinebreak/) { get; set; } | East Asian line break option |
+| [FontAlignment](../../groupdocs.annotation.projects.slides.models/defaultparagraphstate/fontalignment/) { get; set; } | Font alignment |
+| [HangingPunctuation](../../groupdocs.annotation.projects.slides.models/defaultparagraphstate/hangingpunctuation/) { get; set; } | Hanging punctuation option |
+| [Indent](../../groupdocs.annotation.projects.slides.models/defaultparagraphstate/indent/) { get; set; } | Indentation value |
+| [LatinLineBreak](../../groupdocs.annotation.projects.slides.models/defaultparagraphstate/latinlinebreak/) { get; set; } | Latin line break option |
+| [MarginLeft](../../groupdocs.annotation.projects.slides.models/defaultparagraphstate/marginleft/) { get; set; } | Left margin value |
+| [MarginRight](../../groupdocs.annotation.projects.slides.models/defaultparagraphstate/marginright/) { get; set; } | Right margin value |
+| [ParagraphText](../../groupdocs.annotation.projects.slides.models/defaultparagraphstate/paragraphtext/) { get; set; } | Paragraph text |
+| [PortionState](../../groupdocs.annotation.projects.slides.models/defaultparagraphstate/portionstate/) { get; set; } | Default state for text portions |
+| [RightToLeft](../../groupdocs.annotation.projects.slides.models/defaultparagraphstate/righttoleft/) { get; set; } | Right-to-left option |
+| [SpaceAfter](../../groupdocs.annotation.projects.slides.models/defaultparagraphstate/spaceafter/) { get; set; } | Space after the paragraph |
+| [SpaceBefore](../../groupdocs.annotation.projects.slides.models/defaultparagraphstate/spacebefore/) { get; set; } | Space before the paragraph |
+| [SpaceWithin](../../groupdocs.annotation.projects.slides.models/defaultparagraphstate/spacewithin/) { get; set; } | Space within the paragraph |
+| [TabSize](../../groupdocs.annotation.projects.slides.models/defaultparagraphstate/tabsize/) { get; set; } | Tab size |
+| [TextAligment](../../groupdocs.annotation.projects.slides.models/defaultparagraphstate/textaligment/) { get; set; } | Text alignment |
 
 ### See Also
 

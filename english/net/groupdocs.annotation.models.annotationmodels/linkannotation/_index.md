@@ -33,7 +33,7 @@ public class LinkAnnotation : AnnotationBase, IEquatable<LinkAnnotation>, ILinkA
 | [PageNumber](../../groupdocs.annotation.models.annotationmodels/annotationbase/pagenumber/) { get; set; } | Page number where the annotation should be located |
 | [Points](../../groupdocs.annotation.models.annotationmodels/linkannotation/points/) { get; set; } | Gets or sets link annotation coordinates as an array of points |
 | [Replies](../../groupdocs.annotation.models.annotationmodels/annotationbase/replies/) { get; set; } | The list of replies (comments) attached to the annotation |
-| [StateBeforeAnnotation](../../groupdocs.annotation.models.annotationmodels/annotationbase/statebeforeannotation/) { get; set; } |  |
+| [StateBeforeAnnotation](../../groupdocs.annotation.models.annotationmodels/annotationbase/statebeforeannotation/) { get; set; } | Stores the previous state of the text. State that was before annotating |
 | [Type](../../groupdocs.annotation.models.annotationmodels/annotationbase/type/) { get; set; } | Gets or sets annotation type |
 | [Url](../../groupdocs.annotation.models.annotationmodels/linkannotation/url/) { get; set; } | Gets or sets annotation link url |
 | [User](../../groupdocs.annotation.models.annotationmodels/annotationbase/user/) { get; set; } | Gets or sets annotation author |

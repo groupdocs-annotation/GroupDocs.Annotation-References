@@ -12,7 +12,7 @@ The namespace provides classes to annotate documents for all popular document fo
 
 | Class | Description |
 | --- | --- |
-| [Annotator](./annotator/) | The 'Annotator' class represents the main class that controls the document annotating process. It serves as the central hub for managing and coordinating the various stages involved in annotating a document. This is the entry point to the GroupDocs.Annotation API. |
+| [Annotator](./annotator/) | The 'Annotator' class is the central component of the GroupDocs.Annotation API, designed to manage and facilitate the document annotation process across various formats. It offers a streamlined interface for applying diverse annotation types, making it the primary tool for integrating annotation functionality. |
 | [AnnotatorSettings](./annotatorsettings/) | Defines settings for customizing [`Annotator`](../groupdocs.annotation/annotator/) behavior. |
 | [Document](./document/) | Represents various document properties |
 | [FileType](./filetype/) | Information about file, such as type, extension, etc. |

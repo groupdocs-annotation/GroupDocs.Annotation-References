@@ -1,12 +1,14 @@
 ---
 title: DefaultParagraphState.SpaceWithin
 second_title: GroupDocs.Annotation for .NET API Reference
-description: DefaultParagraphState property. 
+description: DefaultParagraphState property. Space within the paragraph
 type: docs
 weight: 160
 url: /net/groupdocs.annotation.projects.slides.models/defaultparagraphstate/spacewithin/
 ---
 ## DefaultParagraphState.SpaceWithin property
+
+Space within the paragraph
 
 ```csharp
 public float? SpaceWithin { get; set; }

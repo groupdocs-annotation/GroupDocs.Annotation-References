@@ -39,7 +39,7 @@ public class TextFieldAnnotation : AnnotationBase, IEquatable<TextFieldAnnotatio
 | [PenStyle](../../groupdocs.annotation.models.annotationmodels/textfieldannotation/penstyle/) { get; set; } | Gets or sets text field annotation pen style |
 | [PenWidth](../../groupdocs.annotation.models.annotationmodels/textfieldannotation/penwidth/) { get; set; } | Gets or sets text field annotation pen width |
 | [Replies](../../groupdocs.annotation.models.annotationmodels/annotationbase/replies/) { get; set; } | The list of replies (comments) attached to the annotation |
-| [StateBeforeAnnotation](../../groupdocs.annotation.models.annotationmodels/annotationbase/statebeforeannotation/) { get; set; } |  |
+| [StateBeforeAnnotation](../../groupdocs.annotation.models.annotationmodels/annotationbase/statebeforeannotation/) { get; set; } | Stores the previous state of the text. State that was before annotating |
 | [Text](../../groupdocs.annotation.models.annotationmodels/textfieldannotation/text/) { get; set; } | Gets or sets text field annotation text |
 | [TextHorizontalAlignment](../../groupdocs.annotation.models.annotationmodels/textfieldannotation/texthorizontalalignment/) { get; set; } | Gets or sets horizontal alignment of the text |
 | [Type](../../groupdocs.annotation.models.annotationmodels/annotationbase/type/) { get; set; } | Gets or sets annotation type |

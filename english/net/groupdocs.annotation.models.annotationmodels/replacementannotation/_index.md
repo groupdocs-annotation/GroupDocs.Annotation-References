@@ -35,7 +35,7 @@ public class ReplacementAnnotation : AnnotationBase, IEquatable<ReplacementAnnot
 | [PageNumber](../../groupdocs.annotation.models.annotationmodels/annotationbase/pagenumber/) { get; set; } | Page number where the annotation should be located |
 | [Points](../../groupdocs.annotation.models.annotationmodels/replacementannotation/points/) { get; set; } | Gets or sets collection of points that describe rectangles with text |
 | [Replies](../../groupdocs.annotation.models.annotationmodels/annotationbase/replies/) { get; set; } | The list of replies (comments) attached to the annotation |
-| [StateBeforeAnnotation](../../groupdocs.annotation.models.annotationmodels/annotationbase/statebeforeannotation/) { get; set; } |  |
+| [StateBeforeAnnotation](../../groupdocs.annotation.models.annotationmodels/annotationbase/statebeforeannotation/) { get; set; } | Stores the previous state of the text. State that was before annotating |
 | [TextToReplace](../../groupdocs.annotation.models.annotationmodels/replacementannotation/texttoreplace/) { get; set; } | Gets or sets text to be replaced with |
 | [Type](../../groupdocs.annotation.models.annotationmodels/annotationbase/type/) { get; set; } | Gets or sets annotation type |
 | [User](../../groupdocs.annotation.models.annotationmodels/annotationbase/user/) { get; set; } | Gets or sets annotation author |

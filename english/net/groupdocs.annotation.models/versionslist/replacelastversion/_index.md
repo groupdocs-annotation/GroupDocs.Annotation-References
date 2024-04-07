@@ -12,6 +12,10 @@ url: /net/groupdocs.annotation.models/versionslist/replacelastversion/
 public void ReplaceLastVersion(List<AnnotationBase> annotations)
 ```
 
+| Parameter | Type | Description |
+| --- | --- | --- |
+| annotations | List`1 |  |
+
 ### See Also
 
 * class [AnnotationBase](../../../groupdocs.annotation.models.annotationmodels/annotationbase/)

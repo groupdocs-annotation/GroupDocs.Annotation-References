@@ -1,14 +1,14 @@
 ---
 title: CellDefaultState.CellDefaultState
 second_title: GroupDocs.Annotation for .NET API Reference
-description: CellDefaultState constructor. The default constructor
+description: CellDefaultState constructor. Initialize instance of the CellDefaultState with default values
 type: docs
 weight: 10
 url: /net/groupdocs.annotation.projects.cells.models/celldefaultstate/celldefaultstate/
 ---
 ## CellDefaultState() {#constructor}
 
-The default constructor.
+Initialize instance of the CellDefaultState with default values.
 
 ```csharp
 public CellDefaultState()
@@ -24,9 +24,15 @@ public CellDefaultState()
 
 ## CellDefaultState(Cell) {#constructor_1}
 
+Initialize instance of the CellDefaultState with given Cell values.
+
 ```csharp
 public CellDefaultState(Cell cell)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| cell | Cell | The cell to copy data. See Cell |
 
 ### See Also
 

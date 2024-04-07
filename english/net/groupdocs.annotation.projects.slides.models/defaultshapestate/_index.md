@@ -24,9 +24,9 @@ public class DefaultShapeState
 
 | Name | Description |
 | --- | --- |
-| [GeneratedName](../../groupdocs.annotation.projects.slides.models/defaultshapestate/generatedname/) { get; set; } |  |
-| [ParagraphStates](../../groupdocs.annotation.projects.slides.models/defaultshapestate/paragraphstates/) { get; set; } |  |
-| [ShapeOldName](../../groupdocs.annotation.projects.slides.models/defaultshapestate/shapeoldname/) { get; set; } |  |
+| [GeneratedName](../../groupdocs.annotation.projects.slides.models/defaultshapestate/generatedname/) { get; set; } | The generated name of the shape |
+| [ParagraphStates](../../groupdocs.annotation.projects.slides.models/defaultshapestate/paragraphstates/) { get; set; } | The array of default paragraph states for the shape |
+| [ShapeOldName](../../groupdocs.annotation.projects.slides.models/defaultshapestate/shapeoldname/) { get; set; } | The old name of the shape |
 
 ### See Also
 
