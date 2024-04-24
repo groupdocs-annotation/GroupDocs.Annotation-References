@@ -20,6 +20,7 @@ url: /ja/
 これらは、いくつかの有用なリソースへのリンクです。
 
 - [GroupDocs.Annotation for .NET API リファレンス](/annotation/ja/net/)
+- [.NET API チュートリアル用の GroupDocs.Annotation](/tutorials/annotation/ja/net/)
 
 
 ## GroupDocs.Annotation for Java

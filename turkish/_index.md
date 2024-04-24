@@ -20,6 +20,7 @@ Belgelerden ve görüntülerden ek açıklamaları verimli bir şekilde eklemek,
 Bunlar, bazı yararlı kaynaklara bağlantılar:
 
 - [.NET API Başvurusu için GroupDocs.Annotation](/annotation/tr/net/)
+- [.NET API Eğitimleri için GroupDocs.Annotation](/tutorials/annotation/tr/net/)
 
 
 ## Java için GroupDocs.Annotation

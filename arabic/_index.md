@@ -20,6 +20,7 @@ Native .NET API لإضافة أو تعديل أو حذف التعليقات ال
 هذه روابط لبعض المصادر المفيدة:
 
 - [GroupDocs.Annotation for .NET API Reference](/annotation/ar/net/)
+- [GroupDocs.Annotation لبرامج .NET API التعليمية](/tutorials/annotation/ar/net/)
 
 
 ## GroupDocs.Annotation for Java

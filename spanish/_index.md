@@ -20,6 +20,7 @@ API nativa de .NET para agregar, editar o eliminar anotaciones de documentos e i
 Estos son enlaces a algunos recursos útiles:
 
 - [GroupDocs.Annotation para la referencia de la API de .NET](/annotation/es/net/)
+- [GroupDocs.Annotation para tutoriales de API .NET](/tutorials/annotation/es/net/)
 
 
 ## GroupDocs.Anotación para Java

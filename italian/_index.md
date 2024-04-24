@@ -20,6 +20,7 @@ API .NET nativa per aggiungere, modificare o eliminare in modo efficiente le ann
 Questi sono i link ad alcune risorse utili:
 
 - [GroupDocs.Annotation per riferimento all'API .NET](/annotation/it/net/)
+- [GroupDocs.Annotation per esercitazioni sull'API .NET](/tutorials/annotation/it/net/)
 
 
 ## GroupDocs.Annotation per Java

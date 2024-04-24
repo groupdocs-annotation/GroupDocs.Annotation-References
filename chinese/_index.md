@@ -20,6 +20,7 @@ url: /zh/
 这些是一些有用资源的链接：
 
 - [.NET API 参考的 GroupDocs.Annotation](/annotation/zh/net/)
+- [.NET API 教程的 GroupDocs.Annotation](/tutorials/annotation/zh/net/)
 
 
 ## GroupDocs.Annotation for Java

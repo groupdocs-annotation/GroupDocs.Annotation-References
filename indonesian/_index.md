@@ -20,6 +20,7 @@ Native .NET API untuk menambah, mengedit, atau menghapus anotasi dari dokumen da
 Ini adalah tautan ke beberapa sumber daya yang bermanfaat:
 
 - [GroupDocs.Annotation untuk Referensi .NET API](/annotation/id/net/)
+- [GroupDocs.Annotation untuk Tutorial .NET API](/tutorials/annotation/id/net/)
 
 
 ## GroupDocs.Anotasi untuk Java

@@ -20,6 +20,7 @@ Native .NET API om op efficiënte wijze annotaties uit documenten en afbeeldinge
 Dit zijn links naar enkele nuttige bronnen:
 
 - [GroupDocs.Annotation voor .NET API-referentie](/annotation/nl/net/)
+- [GroupDocs.Annotation voor .NET API-zelfstudies](/tutorials/annotation/nl/net/)
 
 
 ## GroupDocs.Annotatie voor Java

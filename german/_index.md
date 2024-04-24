@@ -20,6 +20,7 @@ Native .NET-API zum effizienten Hinzufügen, Bearbeiten oder Löschen von Anmerk
 Dies sind Links zu einigen nützlichen Ressourcen:
 
 - [GroupDocs.Annotation für .NET-API-Referenz](/annotation/de/net/)
+- [GroupDocs.Annotation für .NET API-Tutorials](/tutorials/annotation/de/net/)
 
 
 ## GroupDocs.Annotation für Java

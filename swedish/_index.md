@@ -20,6 +20,7 @@ Native .NET API för att effektivt lägga till, redigera eller ta bort kommentar
 Det här är länkar till några användbara resurser:
 
 - [GroupDocs.Annotation for .NET API Reference](/annotation/sv/net/)
+- [GroupDocs.Annotation för .NET API självstudier](/tutorials/annotation/sv/net/)
 
 
 ## GroupDocs.Annotation för Java

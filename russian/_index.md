@@ -20,6 +20,7 @@ url: /ru/
 Это ссылки на некоторые полезные ресурсы:
 
 - [Справочник по API GroupDocs.Annotation для .NET](/annotation/ru/net/)
+- [GroupDocs.Annotation для учебных пособий по .NET API](/tutorials/annotation/ru/net/)
 
 
 ## GroupDocs.Аннотация для Java

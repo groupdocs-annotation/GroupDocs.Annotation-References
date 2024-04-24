@@ -19,6 +19,7 @@ Native .NET API για αποτελεσματική προσθήκη, επεξε
 
 Αυτοί είναι σύνδεσμοι προς μερικούς χρήσιμους πόρους:
 - [GroupDocs.Σχολιασμός για Αναφορά API .NET](/annotation/el/net/)
+- [GroupDocs.Σχολιασμός για Εκμάθηση API .NET](/tutorials/annotation/el/net/)
 
 
 ## GroupDocs.Σχολιασμός για Java
