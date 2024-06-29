@@ -27,6 +27,8 @@ Represents Replacement annotation properties
 | --- | --- |
 | [getFontColor()](#getFontColor--) | Gets or sets annotation text font color |
 | [setFontColor(Integer value)](#setFontColor-java.lang.Integer-) | Gets or sets annotation text font color |
+| [getBackgroundColor()](#getBackgroundColor--) | Gets annotation background color |
+| [setBackgroundColor(Integer value)](#setBackgroundColor-java.lang.Integer-) | Sets annotation background color |
 | [getFontSize()](#getFontSize--) | Gets or sets annotation text font size |
 | [setFontSize(Double value)](#setFontSize-java.lang.Double-) | Gets or sets annotation text font size |
 | [getOpacity()](#getOpacity--) | Gets or sets annotation opacity |
@@ -66,6 +68,29 @@ public final void setFontColor(Integer value)
 
 
 Gets or sets annotation text font color
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | java.lang.Integer |  |
+
+### getBackgroundColor() {#getBackgroundColor--}
+```
+public final Integer getBackgroundColor()
+```
+
+
+Gets annotation background color
+
+**Returns:**
+java.lang.Integer - 
+### setBackgroundColor(Integer value) {#setBackgroundColor-java.lang.Integer-}
+```
+public final void setBackgroundColor(Integer value)
+```
+
+
+Sets annotation background color
 
 **Parameters:**
 | Parameter | Type | Description |
