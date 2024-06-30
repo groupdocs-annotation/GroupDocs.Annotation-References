@@ -7,7 +7,7 @@ weight: 12
 url: /java/com.groupdocs.annotation.exceptions/corruptedordamagedfileexception/
 ---
 **Inheritance:**
-java.lang.Object, java.lang.Throwable, java.lang.Exception, java.lang.RuntimeException, com.aspose.ms.System.Exception, com.groupdocs.foundation.exception.GroupDocsException, [com.groupdocs.annotation.exceptions.AnnotatorException](../../com.groupdocs.annotation.exceptions/annotatorexception)
+java.lang.Object, java.lang.Throwable, java.lang.Exception, java.lang.RuntimeException, com.groupdocs.foundation.exception.GroupDocsException, [com.groupdocs.annotation.exceptions.AnnotatorException](../../com.groupdocs.annotation.exceptions/annotatorexception)
 ```
 public class CorruptedOrDamagedFileException extends AnnotatorException
 ```

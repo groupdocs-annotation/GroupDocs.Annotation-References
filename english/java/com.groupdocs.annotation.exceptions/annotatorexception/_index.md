@@ -7,7 +7,7 @@ weight: 10
 url: /java/com.groupdocs.annotation.exceptions/annotatorexception/
 ---
 **Inheritance:**
-java.lang.Object, java.lang.Throwable, java.lang.Exception, java.lang.RuntimeException, com.aspose.ms.System.Exception, com.groupdocs.foundation.exception.GroupDocsException
+java.lang.Object, java.lang.Throwable, java.lang.Exception, java.lang.RuntimeException, com.groupdocs.foundation.exception.GroupDocsException
 ```
 public class AnnotatorException extends GroupDocsException
 ```
