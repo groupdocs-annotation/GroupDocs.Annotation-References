@@ -1,14 +1,14 @@
 ---
 title: CharState.Font
 second_title: GroupDocs.Annotation for .NET API Reference
-description: CharState field. font of char
+description: CharState field. Font of char
 type: docs
 weight: 130
 url: /net/groupdocs.annotation.projects.diagram.models/charstate/font/
 ---
 ## CharState.Font field
 
-font of char
+Font of char
 
 ```csharp
 public int Font;

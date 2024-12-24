@@ -18,15 +18,7 @@ public class ShapeDefaultState
 
 | Name | Description |
 | --- | --- |
-| [ShapeDefaultState](shapedefaultstate/#constructor)() | The default constructor. |
-| [ShapeDefaultState](shapedefaultstate/#constructor_1)(Shape) |  |
-
-## Methods
-
-| Name | Description |
-| --- | --- |
-| [GetShapeRecursive](../../groupdocs.annotation.projects.diagram.models/shapedefaultstate/getshaperecursive/)(ShapeCollection) |  |
-| [RestoreState](../../groupdocs.annotation.projects.diagram.models/shapedefaultstate/restorestate/)(Diagram) |  |
+| [ShapeDefaultState](shapedefaultstate/)() | Initialize instance of the ShapeDefaultState with default values. |
 
 ## Fields
 

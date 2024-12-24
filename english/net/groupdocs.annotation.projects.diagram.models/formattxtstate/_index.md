@@ -18,14 +18,8 @@ public class FormatTxtState
 
 | Name | Description |
 | --- | --- |
-| [FormatTxtState](formattxtstate/#constructor)() | The default constructor. |
-| [FormatTxtState](formattxtstate/#constructor_1)(FormatTxt, Shape) |  |
-
-## Methods
-
-| Name | Description |
-| --- | --- |
-| [GetFormatTxt](../../groupdocs.annotation.projects.diagram.models/formattxtstate/getformattxt/)() |  |
+| [FormatTxtState](formattxtstate/#constructor)() | Default constructor |
+| [FormatTxtState](formattxtstate/#constructor_1)(FormatTxt, Shape) | Creates an instance of the FormatTxtState with predefined values |
 
 ## Fields
 

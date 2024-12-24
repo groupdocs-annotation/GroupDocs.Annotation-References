@@ -12,6 +12,11 @@ url: /net/groupdocs.annotation.projects.diagram.models/annotatedfragment/annotat
 public AnnotatedFragment(string text, Rectangle rectangle)
 ```
 
+| Parameter | Type | Description |
+| --- | --- | --- |
+| text | String | The text of fragment |
+| rectangle | Rectangle | The rectangle area |
+
 ### See Also
 
 * class [AnnotatedFragment](../)

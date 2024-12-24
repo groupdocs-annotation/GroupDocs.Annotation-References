@@ -18,8 +18,8 @@ public enum AnnotationElement
 
 | Name | Value | Description |
 | --- | --- | --- |
-| PenColor | `0` |  |
-| BackgroundColor | `1` |  |
+| PenColor | `0` | Specifies pen color property |
+| BackgroundColor | `1` | Specifies background color property |
 
 ### See Also
 

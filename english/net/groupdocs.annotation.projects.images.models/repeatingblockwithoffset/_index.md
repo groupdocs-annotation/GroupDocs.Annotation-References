@@ -18,17 +18,15 @@ public class RepeatingBlockWithOffset : BlockWithOffset
 
 | Name | Description |
 | --- | --- |
-| [RepeatingBlockWithOffset](repeatingblockwithoffset/#constructor)() | The default constructor. |
-| [RepeatingBlockWithOffset](repeatingblockwithoffset/#constructor_1)(byte[], int, int, int) |  |
+| [RepeatingBlockWithOffset](repeatingblockwithoffset/#constructor)() | Creates default instance of the RepeatingBlockWithOffset |
+| [RepeatingBlockWithOffset](repeatingblockwithoffset/#constructor_1)(byte[], int, int, int) | Creates instance of the RepeatingBlockWithOffset with predefined values |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetBlock](../../groupdocs.annotation.projects.images.models/blockwithoffset/getblock/)() |  |
-| override [GetLength](../../groupdocs.annotation.projects.images.models/repeatingblockwithoffset/getlength/)() |  |
-| [GetOffset](../../groupdocs.annotation.projects.images.models/blockwithoffset/getoffset/)() |  |
-| override [RestoreBytes](../../groupdocs.annotation.projects.images.models/repeatingblockwithoffset/restorebytes/)(byte[]) |  |
+| override [GetLength](../../groupdocs.annotation.projects.images.models/repeatingblockwithoffset/getlength/)() | Returns size of block |
+| override [RestoreBytes](../../groupdocs.annotation.projects.images.models/repeatingblockwithoffset/restorebytes/)(byte[]) | Copies block bytes to given array. |
 
 ## Fields
 
