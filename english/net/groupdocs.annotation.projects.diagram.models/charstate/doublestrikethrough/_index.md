@@ -1,14 +1,14 @@
 ---
 title: CharState.DoubleStrikethrough
 second_title: GroupDocs.Annotation for .NET API Reference
-description: CharState field. double strikethrough
+description: CharState field. Double strikethrough
 type: docs
 weight: 120
 url: /net/groupdocs.annotation.projects.diagram.models/charstate/doublestrikethrough/
 ---
 ## CharState.DoubleStrikethrough field
 
-double strikethrough
+Double strikethrough
 
 ```csharp
 public int DoubleStrikethrough;

@@ -24,7 +24,7 @@ public class AnnotatedFragment
 
 | Name | Description |
 | --- | --- |
-| [Rectangle](../../groupdocs.annotation.projects.diagram.models/annotatedfragment/rectangle/) { get; set; } | Rectangle |
+| [Rectangle](../../groupdocs.annotation.projects.diagram.models/annotatedfragment/rectangle/) { get; set; } | Rectangle area |
 | [Text](../../groupdocs.annotation.projects.diagram.models/annotatedfragment/text/) { get; set; } | Text |
 
 ### See Also

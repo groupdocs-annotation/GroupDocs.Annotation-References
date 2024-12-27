@@ -18,14 +18,7 @@ public class CellDefaultState
 
 | Name | Description |
 | --- | --- |
-| [CellDefaultState](celldefaultstate/#constructor)() | Initialize instance of the CellDefaultState with default values. |
-| [CellDefaultState](celldefaultstate/#constructor_1)(Cell) | Initialize instance of the CellDefaultState with given Cell values. |
-
-## Methods
-
-| Name | Description |
-| --- | --- |
-| [RestoreCell](../../groupdocs.annotation.projects.cells.models/celldefaultstate/restorecell/)(Worksheet) |  |
+| [CellDefaultState](celldefaultstate/)() | Initialize instance of the CellDefaultState with default values. |
 
 ## Fields
 

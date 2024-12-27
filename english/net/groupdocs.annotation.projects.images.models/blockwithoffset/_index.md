@@ -18,17 +18,15 @@ public class BlockWithOffset
 
 | Name | Description |
 | --- | --- |
-| [BlockWithOffset](blockwithoffset/#constructor)() | The default constructor. |
-| [BlockWithOffset](blockwithoffset/#constructor_1)(byte[], int, int) |  |
+| [BlockWithOffset](blockwithoffset/#constructor)() | Create default instance of the BlockWithOffset |
+| [BlockWithOffset](blockwithoffset/#constructor_1)(byte[], int, int) | Create instance of the BlockWithOffset with predefined values |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetBlock](../../groupdocs.annotation.projects.images.models/blockwithoffset/getblock/)() |  |
-| virtual [GetLength](../../groupdocs.annotation.projects.images.models/blockwithoffset/getlength/)() |  |
-| [GetOffset](../../groupdocs.annotation.projects.images.models/blockwithoffset/getoffset/)() |  |
-| virtual [RestoreBytes](../../groupdocs.annotation.projects.images.models/blockwithoffset/restorebytes/)(byte[]) |  |
+| virtual [GetLength](../../groupdocs.annotation.projects.images.models/blockwithoffset/getlength/)() | Returns size of block |
+| virtual [RestoreBytes](../../groupdocs.annotation.projects.images.models/blockwithoffset/restorebytes/)(byte[]) | Copies block bytes to given array. |
 
 ## Fields
 

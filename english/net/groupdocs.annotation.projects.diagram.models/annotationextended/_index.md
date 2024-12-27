@@ -18,7 +18,7 @@ public class AnnotationExtended
 
 | Name | Description |
 | --- | --- |
-| [AnnotationExtended](annotationextended/)(AnnotationBase) |  |
+| [AnnotationExtended](annotationextended/)(AnnotationBase) | Creates instance with predefined annotation [`AnnotationBase`](../../groupdocs.annotation.models.annotationmodels/annotationbase/) |
 
 ## Properties
 

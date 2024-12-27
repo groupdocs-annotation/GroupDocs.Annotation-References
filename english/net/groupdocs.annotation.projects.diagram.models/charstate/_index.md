@@ -18,14 +18,7 @@ public class CharState
 
 | Name | Description |
 | --- | --- |
-| [CharState](charstate/#constructor)() | The default constructor. |
-| [CharState](charstate/#constructor_1)(Char) |  |
-
-## Methods
-
-| Name | Description |
-| --- | --- |
-| [GetChar](../../groupdocs.annotation.projects.diagram.models/charstate/getchar/)() |  |
+| [CharState](charstate/)() | Initialize default instance of the CharState |
 
 ## Fields
 
@@ -41,9 +34,9 @@ public class CharState
 | [ComplexScriptSize](../../groupdocs.annotation.projects.diagram.models/charstate/complexscriptsize/) | Complex Script Size |
 | [DblUnderline](../../groupdocs.annotation.projects.diagram.models/charstate/dblunderline/) | Double underline |
 | [Del](../../groupdocs.annotation.projects.diagram.models/charstate/del/) | Del |
-| [DoubleStrikethrough](../../groupdocs.annotation.projects.diagram.models/charstate/doublestrikethrough/) | double strikethrough |
-| [Font](../../groupdocs.annotation.projects.diagram.models/charstate/font/) | font of char |
-| [FontName](../../groupdocs.annotation.projects.diagram.models/charstate/fontname/) | font name |
+| [DoubleStrikethrough](../../groupdocs.annotation.projects.diagram.models/charstate/doublestrikethrough/) | Double strikethrough |
+| [Font](../../groupdocs.annotation.projects.diagram.models/charstate/font/) | Font of char |
+| [FontName](../../groupdocs.annotation.projects.diagram.models/charstate/fontname/) | Font name |
 | [FontScale](../../groupdocs.annotation.projects.diagram.models/charstate/fontscale/) | font scale |
 | [Highlight](../../groupdocs.annotation.projects.diagram.models/charstate/highlight/) | highlight |
 | [IX](../../groupdocs.annotation.projects.diagram.models/charstate/ix/) | IX |

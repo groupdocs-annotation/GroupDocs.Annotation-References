@@ -24,18 +24,18 @@ public class DefaultPortionState
 
 | Name | Description |
 | --- | --- |
-| [FillType](../../groupdocs.annotation.projects.slides.models/defaultportionstate/filltype/) { get; set; } |  |
-| [FontBold](../../groupdocs.annotation.projects.slides.models/defaultportionstate/fontbold/) { get; set; } |  |
-| [FontColor](../../groupdocs.annotation.projects.slides.models/defaultportionstate/fontcolor/) { get; set; } |  |
-| [FontFamily](../../groupdocs.annotation.projects.slides.models/defaultportionstate/fontfamily/) { get; set; } |  |
-| [FontHeight](../../groupdocs.annotation.projects.slides.models/defaultportionstate/fontheight/) { get; set; } |  |
-| [FontItalic](../../groupdocs.annotation.projects.slides.models/defaultportionstate/fontitalic/) { get; set; } |  |
-| [HighlightColor](../../groupdocs.annotation.projects.slides.models/defaultportionstate/highlightcolor/) { get; set; } |  |
-| [PortionText](../../groupdocs.annotation.projects.slides.models/defaultportionstate/portiontext/) { get; set; } |  |
-| [Spacing](../../groupdocs.annotation.projects.slides.models/defaultportionstate/spacing/) { get; set; } |  |
-| [StrikeoutType](../../groupdocs.annotation.projects.slides.models/defaultportionstate/strikeouttype/) { get; set; } |  |
-| [UnderlineType](../../groupdocs.annotation.projects.slides.models/defaultportionstate/underlinetype/) { get; set; } |  |
-| [Url](../../groupdocs.annotation.projects.slides.models/defaultportionstate/url/) { get; set; } |  |
+| [FillType](../../groupdocs.annotation.projects.slides.models/defaultportionstate/filltype/) { get; set; } | The fill type |
+| [FontBold](../../groupdocs.annotation.projects.slides.models/defaultportionstate/fontbold/) { get; set; } | Indicates if the font is bold |
+| [FontColor](../../groupdocs.annotation.projects.slides.models/defaultportionstate/fontcolor/) { get; set; } | The font color |
+| [FontFamily](../../groupdocs.annotation.projects.slides.models/defaultportionstate/fontfamily/) { get; set; } | The font family |
+| [FontHeight](../../groupdocs.annotation.projects.slides.models/defaultportionstate/fontheight/) { get; set; } | The font height |
+| [FontItalic](../../groupdocs.annotation.projects.slides.models/defaultportionstate/fontitalic/) { get; set; } | Indicates if the font is italic |
+| [HighlightColor](../../groupdocs.annotation.projects.slides.models/defaultportionstate/highlightcolor/) { get; set; } | The highlight color |
+| [PortionText](../../groupdocs.annotation.projects.slides.models/defaultportionstate/portiontext/) { get; set; } | The text of the portion |
+| [Spacing](../../groupdocs.annotation.projects.slides.models/defaultportionstate/spacing/) { get; set; } | The spacing |
+| [StrikeoutType](../../groupdocs.annotation.projects.slides.models/defaultportionstate/strikeouttype/) { get; set; } | The strikeout type |
+| [UnderlineType](../../groupdocs.annotation.projects.slides.models/defaultportionstate/underlinetype/) { get; set; } | The underline type |
+| [Url](../../groupdocs.annotation.projects.slides.models/defaultportionstate/url/) { get; set; } | The URL associated with the portion |
 
 ### See Also
 
